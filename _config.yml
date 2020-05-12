@@ -19,12 +19,16 @@
 # in the templates via {{ site.myvariable }}.  
   
 title: David Ralph Lewis  
-email: david@davidralphlewis.co.uk  
 description: >- # this means to ignore newlines until "baseurl:"  
   Blog site for David Ralph Lewis, poet and writer based in Bristol, UK. Testing, don't mind me.   
-baseurl: "" # the subpath of your site, e.g. /blog  
-url: "" # the base hostname & protocol for your site, e.g. http://example.com  
-twitter_username: davidralphlewis  
+baseurl: ""
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+minima:
+ social_links:  
+    twitter: davidralphlewis  
+    facebook: davidralphlewis
+    instagram: davidralphlewis
+    pintrest: davidralphlewis
 github_username:  davidralphlewis  
   
 # Build settings  
@@ -32,8 +36,13 @@ theme: minima
 plugins:  
   - jekyll-feed  
   - jekyll-paginate
-paginate: 5
-paginate_path: "/blog/page:num/"   
+
+paginate: 10
+paginate_path: "/post/:num/" 
+    
+show_excerpts: true
+excerpt_separator: <!--end_excerpt-->
+  
       
 # Exclude from processing.  
 # The following items will not be processed, by default.  

@@ -8,7 +8,7 @@ categories: Poetry
 ---
 
 I joined a virtual poetry workshop yesterday run by the wonderful [Tonic](www.facebook.com/bristoltonic) and wrote this:
-
+<!--end_excerpt-->
 ## Fading
 
 Singing soft chimes under her breath, she  
