@@ -17,7 +17,7 @@ permalink: /Publications
 
 <a href="https://davidralphlewis.co.uk/napowrimo-day-27/">Dance</a>,<a href="https://davidralphlewis.co.uk/napowrimo-2019-day-28/"> An invitation</a>- BBC Upload on BBC Radio Bristol
 
-BOOK: <a href="https://davidralphlewis.co.uk/portfolio/our-voices-in-the-chaos/"><em>Our Voices in the Chaos</em></a>, Selcouth Station
+**BOOK: <a href="https://davidralphlewis.co.uk/portfolio/our-voices-in-the-chaos/"><em>Our Voices in the Chaos</em></a>, Selcouth Station**
 
 <em>Fluvial Dreams-</em> Highland Park Poetry
 
@@ -34,11 +34,11 @@ BOOK: <a href="https://davidralphlewis.co.uk/portfolio/our-voices-in-the-chaos/"
 <a href="https://iamnotasilentpoet.wordpress.com/2018/04/14/bang-by-david-ralph-lewis/"><em>Bang</em></a>- I am not a silent poet-<em>
 </em>
 
-BOOK: - <a href="https://davidralphlewis.co.uk/portfolio/spare-parts/"><em>Spare Parts</em> </a>(in collaboration with M. Amelia Eikli)- Thought Library Media
+**BOOK: - <a href="https://davidralphlewis.co.uk/portfolio/spare-parts/"><em>Spare Parts</em> </a>(in collaboration with M. Amelia Eikli)- Thought Library Media**
 
 <h2>2017</h2>
 
-BOOK: <em>Remain Vigilant- </em>Self Published
+**BOOK: <em>Remain Vigilant- </em>Self Published**
 
 <em>Collaborators</em>- Dog Ear Magazine
 
@@ -54,4 +54,4 @@ BOOK: <em>Remain Vigilant- </em>Self Published
 
 <a href="https://poetryasfuck.wordpress.com/2016/11/30/lies-dreaming-7-the-language-of-business/"><em>Loyal Employee</em>-</a> Lies, dreaming podcast
 
-BOOK: <em>Amber Stars: One Night of Stories - </em>Self Published
+**BOOK: <em>Amber Stars: One Night of Stories - </em>Self Published**
