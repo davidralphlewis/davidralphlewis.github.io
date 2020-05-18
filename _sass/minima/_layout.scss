@@ -17,11 +17,11 @@
   letter-spacing: -1px;
   margin-bottom: 0;
   float: left;
-  color: $site-title-color
 
   &,
   &:visited {
-    color: $site-title-color;
+    color: $brand-color;
+
   }
 }
 
