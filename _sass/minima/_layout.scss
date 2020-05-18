@@ -17,10 +17,11 @@
   letter-spacing: -1px;
   margin-bottom: 0;
   float: left;
+  color: $site-title-color
 
   &,
   &:visited {
-    color: $grey-color-dark;
+    color: $site-title-color;
   }
 }
 
@@ -37,7 +38,7 @@
   }
 
   .page-link {
-    color: $text-color;
+    color: $site-title-color;
     line-height: $base-line-height;
 
     // Gaps between nav items, but not on the last one

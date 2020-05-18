@@ -10,18 +10,18 @@ $base-line-height: 1.5 !default;
 
 $spacing-unit:     30px !default;
 
-$brand-color:           #999999 !default;
+$brand-color:           #ff1303 !default;
 $brand-color-light:     lighten($brand-color, 5%) !default;
 $brand-color-dark:      darken($brand-color, 35%) !default;
 
 $site-title-color:      $brand-color-light !default;
 
 $text-color:            #bbbbbb !default;
-$background-color:      #181818 !default;
+$background-color:      #000000 !default;
 $code-background-color: #212121 !default;
 
 $link-base-color:       #79b8ff !default;
-$link-visited-color:    $link-base-color !default;
+$link-visited-color:    #9003fc !default;
 $link-hover-color:      $text-color !default;
 
 $border-color-01:       $brand-color-dark !default;
