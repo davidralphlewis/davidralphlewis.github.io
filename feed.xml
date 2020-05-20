@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-05-19T17:12:07+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">David Ralph Lewis</title><subtitle>Blog site for David Ralph Lewis, poet and writer based in Bristol, UK. Testing, don't mind me.</subtitle><entry><title type="html">Some News</title><link href="http://localhost:4000/my/writing/2020/05/14/some-news.html" rel="alternate" type="text/html" title="Some News" /><published>2020-05-14T12:52:00+01:00</published><updated>2020-05-14T12:52:00+01:00</updated><id>http://localhost:4000/my/writing/2020/05/14/some-news</id><content type="html" xml:base="http://localhost:4000/my/writing/2020/05/14/some-news.html">&lt;ul&gt;
+  &lt;li&gt;I’m very grateful to have a poem up on &lt;em&gt;Nine Muses Poetry&lt;/em&gt; called &lt;em&gt;Imposter&lt;/em&gt;. It’s a strange little piece and I’m glad it’s found a good home. Check it out &lt;a href=&quot;https://ninemusespoetry.com/2020/05/14/one-poem-by-david-ralph-lewis/&quot;&gt;here&lt;/a&gt;
+&lt;!--more--&gt;&lt;/li&gt;
+  &lt;li&gt;One of my poems &lt;em&gt;Hollow Passengers&lt;/em&gt; was also set to an awesome improvised soundtrack by Charlie and Jake as part of their Echoes and Edges live stream. It’s such a cool collaborative project and one of the best uses of technology I’ve seen. Check it out below or click through for timings. I recommend watching it all as the whole project is very inventive.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;iframe src=&quot;https://www.youtube.com/embed/vyHRtbjwlFY?autoplay=0&amp;amp;fs=0&amp;amp;iv_load_policy=3&amp;amp;showinfo=0&amp;amp;rel=0&amp;amp;cc_load_policy=0&amp;amp;start=0&amp;amp;end=0&amp;amp;origin=https://youtubeembedcode.com&quot; width=&quot;788.54&quot; height=&quot;443&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot;&gt;
+&lt;/iframe&gt;
+&lt;ul&gt;
+  &lt;li&gt;I’m going to be (virtually) on their live stream again this Saturday 16th. Go to &lt;a href=&quot;www.echoesandedges.co.uk&quot;&gt;their site&lt;/a&gt; for more details and links on how to watch.&lt;/li&gt;
+  &lt;li&gt;Stay safe everyone.&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>DavidRL</name></author><summary type="html">I’m very grateful to have a poem up on Nine Muses Poetry called Imposter. It’s a strange little piece and I’m glad it’s found a good home. Check it out here</summary></entry><entry><title type="html">Virtual workshop and a poem</title><link href="http://localhost:4000/poetry/2020/05/11/Virtual-Workshops-Fading.html" rel="alternate" type="text/html" title="Virtual workshop and a poem" /><published>2020-05-11T19:42:00+01:00</published><updated>2020-05-11T19:42:00+01:00</updated><id>http://localhost:4000/poetry/2020/05/11/Virtual-Workshops-Fading</id><content type="html" xml:base="http://localhost:4000/poetry/2020/05/11/Virtual-Workshops-Fading.html">&lt;p&gt;I joined a virtual poetry workshop yesterday run by the wonderful &lt;a href=&quot;https://www.facebook.com/bristoltonic&quot;&gt;Tonic&lt;/a&gt; and wrote this:
+&lt;!--more--&gt;&lt;/p&gt;
+&lt;h2 id=&quot;fading&quot;&gt;Fading&lt;/h2&gt;
+
+&lt;p&gt;Singing soft chimes under her breath, she&lt;br /&gt;
+kisses each ear of wheat, borrows &lt;br /&gt;
+yellow from sunflower petals before&lt;/p&gt;
+
+&lt;p&gt;smearing each cloud with evening, takes &lt;br /&gt;
+indigo from the blackberries, then stops, &lt;br /&gt;
+not satisfied with her canvas. Sighing, she&lt;br /&gt;
+grabs a cherry blossom and erases the day &lt;br /&gt;
+showing the countless stars behind, waiting.&lt;/p&gt;
+
+&lt;p&gt;It was an acrostic and pastoral workshop. Working within those constraints was really challenging but really useful. By limiting myself, it challenged the language and patterns I usually fall into when making poetry.&lt;/p&gt;
+
+&lt;p&gt;One of the very few advantages of lockdown has been the proliferation of live streamed poetry events. It means I’ve been able to attend a few more than I would do normally and from a wider area. I took part in an online slam the other day with the hosts based in Swindon, which would be too far for me to go for a night in oridnary life.&lt;/p&gt;
+
+&lt;p&gt;It’s a bitter blessing. Nothing beats being in a room with other people but this is the next best thing.&lt;/p&gt;</content><author><name>DavidRL</name></author><summary type="html">I joined a virtual poetry workshop yesterday run by the wonderful Tonic and wrote this:</summary></entry><entry><title type="html">I’m testing a few things!</title><link href="http://localhost:4000/testing/coding/2020/05/09/testing.html" rel="alternate" type="text/html" title="I'm testing a few things!" /><published>2020-05-09T11:50:51+01:00</published><updated>2020-05-09T11:50:51+01:00</updated><id>http://localhost:4000/testing/coding/2020/05/09/testing</id><content type="html" xml:base="http://localhost:4000/testing/coding/2020/05/09/testing.html">&lt;h1 id=&quot;everything-is-broken&quot;&gt;Everything is broken&lt;/h1&gt;
+
+&lt;p&gt;Hello, this is me &lt;del&gt;pissing about&lt;/del&gt; testing Jekyll&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; and seeing if I remember any markdown.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Is this in italics?&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Is this bold?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;My normal website is &lt;a href=&quot;http://www.davidralphlewis.co.uk&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;This is a blockquote.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;hopefully-this-works&quot;&gt;Hopefully this works&lt;/h2&gt;
+
+&lt;hr /&gt;
+
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;blah blah blah &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name></name></author><summary type="html">Everything is broken Hello, this is me pissing about testing Jekyll1 and seeing if I remember any markdown. Is this in italics? Is this bold? My normal website is here This is a blockquote. Hopefully this works blah blah blah &amp;#8617;</summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2020/05/09/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2020-05-09T11:50:51+01:00</published><updated>2020-05-09T11:50:51+01:00</updated><id>http://localhost:4000/jekyll/update/2020/05/09/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2020/05/09/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;Jekyll requires blog post files to be named according to the following format:&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;YEAR-MONTH-DAY-title.MARKUP&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Where &lt;code class=&quot;highlighter-rouge&quot;&gt;YEAR&lt;/code&gt; is a four-digit number, &lt;code class=&quot;highlighter-rouge&quot;&gt;MONTH&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;DAY&lt;/code&gt; are both two-digit numbers, and &lt;code class=&quot;highlighter-rouge&quot;&gt;MARKUP&lt;/code&gt; is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+&lt;!--end_excerpt--&gt; 
+Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated. Jekyll requires blog post files to be named according to the following format: YEAR-MONTH-DAY-title.MARKUP Where YEAR is a four-digit number, MONTH and DAY are both two-digit numbers, and MARKUP is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works. Jekyll also offers powerful support for code snippets: def print_hi(name) puts &quot;Hi, #{name}&quot; end print_hi('Tom') #=&amp;gt; prints 'Hi, Tom' to STDOUT. Check out the Jekyll docs for more info on how to get the most out of Jekyll. File all bugs/feature requests at Jekyll’s GitHub repo. If you have questions, you can ask them on Jekyll Talk.</summary></entry><entry><title type="html">Napowrimo 2020 Day 30- Burn</title><link href="http://localhost:4000/article/erasure%20poetry/my%20writing/napowrimo%202020/plague%20notes/poetry/2020/04/30/napowrimo-2020-day-30-burn.html" rel="alternate" type="text/html" title="Napowrimo 2020 Day 30- Burn" /><published>2020-04-30T16:02:00+01:00</published><updated>2020-04-30T16:02:00+01:00</updated><id>http://localhost:4000/article/erasure%20poetry/my%20writing/napowrimo%202020/plague%20notes/poetry/2020/04/30/napowrimo-2020-day-30-burn</id><content type="html" xml:base="http://localhost:4000/article/erasure%20poetry/my%20writing/napowrimo%202020/plague%20notes/poetry/2020/04/30/napowrimo-2020-day-30-burn.html">&lt;p&gt;I expect these days to fade like  &lt;br /&gt;
+photographs left on a windowsill.  &lt;br /&gt;
+That’s the hope. The numbers will  &lt;br /&gt;
+blur, the weeks will drain of detail   &lt;br /&gt;
+and colour and I will be left with  &lt;br /&gt;
+outlines and vague shapes, glimpses  &lt;br /&gt;
+of faces in the washed-out clouds,  &lt;br /&gt;
+voices speaking through the hiss.&lt;/p&gt;
+
+&lt;p&gt;But I’ll remember the constant dread  &lt;br /&gt;
+every time the radio cut to a bulletin,  &lt;br /&gt;
+how the cruelty of those in charge was  &lt;br /&gt;
+too obvious to ignore. I’ll remember  &lt;br /&gt;
+watching the trees bloom with wonder,  &lt;br /&gt;
+asking myself how beauty could still  &lt;br /&gt;
+emerge around us. I’ll remember the sun  &lt;br /&gt;
+stroking our faces despite everything,  &lt;br /&gt;
+warming us before starting on the slow  &lt;br /&gt;
+obliteration, over-exposing our thoughts.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Final prompt was “What Will you Remember?” from &lt;a href=&quot;https://www.instagram.com/amykaypoetry/&quot;&gt;AmyKayPoetry&lt;/a&gt;. I’ve tried to avoid writing directly about the crisis as thousands have said many wise and helpful things. With this prompt, it felt appropriate to address it.&lt;/p&gt;
+
+&lt;p&gt;I’m done! Thanks for all your support in this&lt;/p&gt;</content><author><name>DavidRL</name></author><summary type="html">I expect these days to fade like photographs left on a windowsill. That’s the hope. The numbers will blur, the weeks will drain of detail and colour and I will be left with outlines and vague shapes, glimpses of faces in the washed-out clouds, voices speaking through the hiss. But I’ll remember the constant dread every time the radio cut to a bulletin, how the cruelty of those in charge was too obvious to ignore. I’ll remember watching the trees bloom with wonder, asking myself how beauty could still emerge around us. I’ll remember the sun stroking our faces despite everything, warming us before starting on the slow obliteration, over-exposing our thoughts. Final prompt was “What Will you Remember?” from AmyKayPoetry. I’ve tried to avoid writing directly about the crisis as thousands have said many wise and helpful things. With this prompt, it felt appropriate to address it. I’m done! Thanks for all your support in this</summary></entry><entry><title type="html">Napwriomo 2020 Day 29- Fragment</title><link href="http://localhost:4000/article/erasure%20poetry/my%20writing/napowrimo%202020/poetry/2020/04/29/napwriomo-2020-day-29-fragment.html" rel="alternate" type="text/html" title="Napwriomo 2020 Day 29- Fragment" /><published>2020-04-29T16:08:00+01:00</published><updated>2020-04-29T16:08:00+01:00</updated><id>http://localhost:4000/article/erasure%20poetry/my%20writing/napowrimo%202020/poetry/2020/04/29/napwriomo-2020-day-29-fragment</id><content type="html" xml:base="http://localhost:4000/article/erasure%20poetry/my%20writing/napowrimo%202020/poetry/2020/04/29/napwriomo-2020-day-29-fragment.html">&lt;p&gt;Today my mind is like confetti thrown&lt;br /&gt;
+to the wind, like a website with every&lt;br /&gt;
+space filled with adverts, all flashing&lt;br /&gt;
+for my attention, like a river delta&lt;br /&gt;
+as hundreds of tributaries race towards&lt;br /&gt;
+the ocean. Do you understand? It’s like&lt;br /&gt;
+I’ve drunk ten espressos and all I can hear&lt;br /&gt;
+is the thumping house beat of my heart or&lt;br /&gt;
+like I am dust in the depths of the galaxy&lt;br /&gt;
+not yet ready to coalesce into planets.&lt;br /&gt;
+You must know what I mean. It’s like I’m&lt;br /&gt;
+a beam of light shot through a prism,&lt;br /&gt;
+or my thoughts are cryptic crossword clues&lt;br /&gt;
+or I’m a CRT television stuck between&lt;br /&gt;
+channels, half images looping back over&lt;br /&gt;
+themselves. What I’m trying to say is&lt;br /&gt;
+I’m like a lizard darting across hot&lt;br /&gt;
+sands, it’s like I’m caught in a washing&lt;br /&gt;
+machine near the end of the cycle, like&lt;br /&gt;
+I’ve become a comet entering the atmosphere&lt;br /&gt;
+before inevitably burning, disintegrating,&lt;br /&gt;
+becoming nothing more than fine ash rain.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Prompt was “Gimme Simile- really pack those similies in” from &lt;a href=&quot;https://www.instagram.com/amykaypoetry/&quot;&gt;AmyKay Poetry&lt;/a&gt;. One day left!&lt;/p&gt;</content><author><name>DavidRL</name></author><summary type="html">Today my mind is like confetti thrown to the wind, like a website with every space filled with adverts, all flashing for my attention, like a river delta as hundreds of tributaries race towards the ocean. Do you understand? It’s like I’ve drunk ten espressos and all I can hear is the thumping house beat of my heart or like I am dust in the depths of the galaxy not yet ready to coalesce into planets. You must know what I mean. It’s like I’m a beam of light shot through a prism, or my thoughts are cryptic crossword clues or I’m a CRT television stuck between channels, half images looping back over themselves. What I’m trying to say is I’m like a lizard darting across hot sands, it’s like I’m caught in a washing machine near the end of the cycle, like I’ve become a comet entering the atmosphere before inevitably burning, disintegrating, becoming nothing more than fine ash rain. Prompt was “Gimme Simile- really pack those similies in” from AmyKay Poetry. One day left!</summary></entry><entry><title type="html">Napowrimo Day 28 - Guilt</title><link href="http://localhost:4000/article/my%20writing/napowtimo%202020/poems/poetry/2020/04/28/napowrimo-day-28-guilt.html" rel="alternate" type="text/html" title="Napowrimo Day 28 - Guilt" /><published>2020-04-28T16:08:00+01:00</published><updated>2020-04-28T16:08:00+01:00</updated><id>http://localhost:4000/article/my%20writing/napowtimo%202020/poems/poetry/2020/04/28/napowrimo-day-28-guilt</id><content type="html" xml:base="http://localhost:4000/article/my%20writing/napowtimo%202020/poems/poetry/2020/04/28/napowrimo-day-28-guilt.html">&lt;p&gt;The sky is a confusion of clouds&lt;br /&gt;
+whereas just yesterday you could&lt;br /&gt;
+see the galaxy spin. We are out&lt;br /&gt;
+of coffee once again, the internet&lt;br /&gt;
+is often on the blink and helicopters&lt;br /&gt;
+are swarming day and night in hives.&lt;br /&gt;
+The oceans are swelling, drowning&lt;br /&gt;
+small coastal towns. The years are&lt;br /&gt;
+now dandelion seeds in a gale.&lt;br /&gt;
+I blink. Ten more have flown away.&lt;/p&gt;
+
+&lt;p&gt;All of this feels like my fault&lt;br /&gt;
+somehow. I offer my hands as&lt;br /&gt;
+an apology. You close my fingers,&lt;br /&gt;
+pass them back to me, a gift.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Prompt was “Apologise or don’t” from &lt;a href=&quot;https://www.instagram.com/amykaypoetry/&quot;&gt;AmyKayPoetry&lt;/a&gt;&lt;/p&gt;</content><author><name>DavidRL</name></author><summary type="html">The sky is a confusion of clouds whereas just yesterday you could see the galaxy spin. We are out of coffee once again, the internet is often on the blink and helicopters are swarming day and night in hives. The oceans are swelling, drowning small coastal towns. The years are now dandelion seeds in a gale. I blink. Ten more have flown away. All of this feels like my fault somehow. I offer my hands as an apology. You close my fingers, pass them back to me, a gift. Prompt was “Apologise or don’t” from AmyKayPoetry</summary></entry><entry><title type="html">Napowrimo 2020 Day 27- Serenity Study</title><link href="http://localhost:4000/article/uncategorized/2020/04/27/napowrimo-2020-day-27-serenity-study.html" rel="alternate" type="text/html" title="Napowrimo 2020 Day 27- Serenity Study" /><published>2020-04-27T16:01:00+01:00</published><updated>2020-04-27T16:01:00+01:00</updated><id>http://localhost:4000/article/uncategorized/2020/04/27/napowrimo-2020-day-27-serenity-study</id><content type="html" xml:base="http://localhost:4000/article/uncategorized/2020/04/27/napowrimo-2020-day-27-serenity-study.html">&lt;p&gt;&lt;em&gt;After Solmaz Sharif&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Bare toes curling over grass before&lt;br /&gt;
+the dew is done&lt;/p&gt;
+
+&lt;p&gt;Satellites describing ellipses&lt;br /&gt;
+falling around Earth&lt;/p&gt;
+
+&lt;p&gt;Pain au chocolat, black coffee,&lt;br /&gt;
+a notebook&lt;/p&gt;
+
+&lt;p&gt;Bristol harbour with no wind&lt;br /&gt;
+a perfect mirror&lt;/p&gt;
+
+&lt;p&gt;Ohmmmmmmm the fridge chants&lt;br /&gt;
+ohmmmmmmm&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Prompt was from AmyKayPoetry to make concrete images out of abstract concepts, following on from &lt;em&gt;Vulnerability Study&lt;/em&gt; by Solmaz Sharif&lt;/p&gt;</content><author><name>DavidRL</name></author><summary type="html">After Solmaz Sharif Bare toes curling over grass before the dew is done Satellites describing ellipses falling around Earth Pain au chocolat, black coffee, a notebook Bristol harbour with no wind a perfect mirror Ohmmmmmmm the fridge chants ohmmmmmmm Prompt was from AmyKayPoetry to make concrete images out of abstract concepts, following on from Vulnerability Study by Solmaz Sharif</summary></entry><entry><title type="html">Napowrimo 2020 Day 26- We Are Mostly Empty</title><link href="http://localhost:4000/article/my%20writing/napowrimo%202020/plague%20notes/poems/poetry/2020/04/26/napowrimo-2020-day-26-we-are-mostly-empty.html" rel="alternate" type="text/html" title="Napowrimo 2020 Day 26- We Are Mostly Empty" /><published>2020-04-26T14:53:00+01:00</published><updated>2020-04-26T14:53:00+01:00</updated><id>http://localhost:4000/article/my%20writing/napowrimo%202020/plague%20notes/poems/poetry/2020/04/26/napowrimo-2020-day-26-we-are-mostly-empty</id><content type="html" xml:base="http://localhost:4000/article/my%20writing/napowrimo%202020/plague%20notes/poems/poetry/2020/04/26/napowrimo-2020-day-26-we-are-mostly-empty.html">&lt;p&gt;As we tumbled through the void,&lt;br /&gt;
+everything was calm and peaceful&lt;br /&gt;
+if you ignored the constant drone&lt;br /&gt;
+of spycraft. The air was pink&lt;br /&gt;
+electric and crackled with potential&lt;/p&gt;
+
+&lt;p&gt;There was something struggling&lt;br /&gt;
+within it, something hidden, unseen.&lt;/p&gt;
+
+&lt;p&gt;It shimmered in the air, made of&lt;br /&gt;
+nothing at all, blinking on and off,&lt;br /&gt;
+a broken sunbeam. It had walked for years,&lt;br /&gt;
+over burning deserts, stumbling over&lt;br /&gt;
+broken glass and sharp shingle beaches.&lt;br /&gt;
+Whispers and noises from other dimensions&lt;br /&gt;
+combined, a palimpsest of imagined voices.&lt;/p&gt;
+
+&lt;p&gt;As I surrendered, my head filled with static.&lt;br /&gt;
+I forget the boundaries between us. We&lt;br /&gt;
+became one living pulsing mass that screamed&lt;br /&gt;
+and stamped and roared as one. Our teeth sparked.&lt;br /&gt;
+We tasted foil. We heard a great tearing of metal,&lt;br /&gt;
+groaning and wrenching, the stars screaming&lt;br /&gt;
+at each other. We saw the strings of the universe&lt;br /&gt;
+clear and shimmering, draped in golden silk.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Prompt was to “Look back through your old writing notebooks and make a collage poem from discarded lines and free writes.” from &lt;a href=&quot;https://www.instagram.com/applesandsnakes/&quot;&gt;Apples and Snakes&lt;/a&gt;. I adjusted some for tenses and added in a few connectives, but mostly this is from my notebook. Wish I knew what this was about or what the lines meant when I wrote them down.&lt;/p&gt;</content><author><name>DavidRL</name></author><summary type="html">As we tumbled through the void, everything was calm and peaceful if you ignored the constant drone of spycraft. The air was pink electric and crackled with potential There was something struggling within it, something hidden, unseen. It shimmered in the air, made of nothing at all, blinking on and off, a broken sunbeam. It had walked for years, over burning deserts, stumbling over broken glass and sharp shingle beaches. Whispers and noises from other dimensions combined, a palimpsest of imagined voices. As I surrendered, my head filled with static. I forget the boundaries between us. We became one living pulsing mass that screamed and stamped and roared as one. Our teeth sparked. We tasted foil. We heard a great tearing of metal, groaning and wrenching, the stars screaming at each other. We saw the strings of the universe clear and shimmering, draped in golden silk. Prompt was to “Look back through your old writing notebooks and make a collage poem from discarded lines and free writes.” from Apples and Snakes. I adjusted some for tenses and added in a few connectives, but mostly this is from my notebook. Wish I knew what this was about or what the lines meant when I wrote them down.</summary></entry><entry><title type="html">Napowrimo 2020 Day 25- Some Advice</title><link href="http://localhost:4000/article/my%20writing/napowrimo%202020/plague%20notes/poems/poetry/2020/04/25/napowrimo-2020-day-25-some-advice.html" rel="alternate" type="text/html" title="Napowrimo 2020 Day 25- Some Advice" /><published>2020-04-25T10:22:00+01:00</published><updated>2020-04-25T10:22:00+01:00</updated><id>http://localhost:4000/article/my%20writing/napowrimo%202020/plague%20notes/poems/poetry/2020/04/25/napowrimo-2020-day-25-some-advice</id><content type="html" xml:base="http://localhost:4000/article/my%20writing/napowrimo%202020/plague%20notes/poems/poetry/2020/04/25/napowrimo-2020-day-25-some-advice.html">&lt;p&gt;I wouldn’t open that door if I were you.&lt;br /&gt;
+Last year I stored the Atlantic ocean&lt;br /&gt;
+behind it, stuffed it into every corner.&lt;br /&gt;
+I only just managed to close the latch.&lt;br /&gt;
+If opened, the room will fill with brine,&lt;br /&gt;
+the house as well, the streets of this&lt;br /&gt;
+sea-level town all submerged and we will&lt;br /&gt;
+sink down to rest on the carpet below.&lt;/p&gt;
+
+&lt;p&gt;I probably wouldn’t open that door either.&lt;br /&gt;
+for you will see a short corridor, leading&lt;br /&gt;
+to another door, which leads to a short&lt;br /&gt;
+corridor, leading to yet another door-&lt;br /&gt;
+you get my point. After weeks you may&lt;br /&gt;
+turn back, to be faced with the same&lt;br /&gt;
+endless recursion of impossible doors.&lt;/p&gt;
+
+&lt;p&gt;That’s where I store my collection of&lt;br /&gt;
+nebulae and black holes, that one there&lt;br /&gt;
+leads straight to the hurricane hangar.&lt;/p&gt;
+
+&lt;p&gt;Only the last one is out of bounds,&lt;br /&gt;
+the wooden door a foot high, there&lt;br /&gt;
+above the skirting board in the corner.&lt;br /&gt;
+I keep the key around my neck on a chain.&lt;br /&gt;
+It’s alarmed, but you wouldn’t know it.&lt;br /&gt;
+That’s where I keep my worries. Inside,&lt;br /&gt;
+a cupboard of ink-stained shadows,&lt;br /&gt;
+paper torn into confetti, a whistling,&lt;br /&gt;
+quiet and high, with no visible origin.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Prompt became the opening line- “I wouldn’t open that door if I were you” from Apples and Snakes&lt;/p&gt;</content><author><name>DavidRL</name></author><summary type="html">I wouldn’t open that door if I were you. Last year I stored the Atlantic ocean behind it, stuffed it into every corner. I only just managed to close the latch. If opened, the room will fill with brine, the house as well, the streets of this sea-level town all submerged and we will sink down to rest on the carpet below. I probably wouldn’t open that door either. for you will see a short corridor, leading to another door, which leads to a short corridor, leading to yet another door- you get my point. After weeks you may turn back, to be faced with the same endless recursion of impossible doors. That’s where I store my collection of nebulae and black holes, that one there leads straight to the hurricane hangar. Only the last one is out of bounds, the wooden door a foot high, there above the skirting board in the corner. I keep the key around my neck on a chain. It’s alarmed, but you wouldn’t know it. That’s where I keep my worries. Inside, a cupboard of ink-stained shadows, paper torn into confetti, a whistling, quiet and high, with no visible origin. Prompt became the opening line- “I wouldn’t open that door if I were you” from Apples and Snakes</summary></entry></feed>
