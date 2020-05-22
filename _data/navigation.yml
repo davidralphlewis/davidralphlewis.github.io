@@ -1,0 +1,21 @@
+main_menu:
+  - title: About
+    url: /about
+  - title: Blog
+    url: /articles
+  - title: "Dropdown Example"
+    dropdown: # enables dropdown menu
+      - title: GitHub - Jekyll Bootstrap
+        url: https://github.com/dpstrange/jekyll-boostrap
+        target: blank
+footer_menu:
+  - title: Sitemap
+    url: /sitemap
+    icon: "fas fa-map"
+  - title: RSS
+    url: /feed.xml
+    icon: "fa fa-rss"
+  - title: GitHub
+    url: https://github.com/dpstrange/jekyll-bootstrap
+    target: new
+    icon: "fab fa-github"

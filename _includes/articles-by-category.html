@@ -1,0 +1,11 @@
+{% include logic.html %}
+
+{% for category in categories %}
+    {% assign sorted_posts = category[1] | reversed %}
+    <h1 id="{{ category[0] | downcase | replace: ' ','-' }}" class="text-capitalize">{{ category[0] | replace: '-',' ' }}</h1>
+    <div class="list-group">
+        {% for post in sorted_posts %}
+            <a href="{{ site.url }}{{ site.baseurl }}{{  post.url }}">{{  post.title }}</a>
+        {% endfor %}
+    </div>
+{% endfor %}

@@ -1,0 +1,7 @@
+{% include logic.html %}
+
+{% if page.alert %}
+    <div class="mb-5 alert alert-{%if page.alert_style %}{{ page.alert_style }}{% else %}primary{% endif %}" role="alert">
+      <span>{{ page.alert }}</span>
+    </div>
+{% endif %}

@@ -1,0 +1,83 @@
+{% include logic.html %}
+
+{% if site.alert %}
+    <div class="alert alert-{{ site.alert_style | default: primary }} mb-0" role="alert">
+        <div class="container">
+            <span>{{ site.alert }}</span>
+        </div>
+    </div>
+{% endif %}
+
+<header>
+    <nav class="navbar navbar-expand-md position-absolute w-100 pt-5 {% if masthead == 'plain' %}navbar-light text-dark{% elsif masthead == 'banner' %}navbar-dark text-light{% endif %} bg-transparent">
+        <div class="container">
+            <a class="navbar-brand" href="{{ site.url }}"><img src="{{ site.logo | absolute_url }}" width="30" height="30" class="align-top mr-3" alt="">{{ site.title }}</a>
+            <div class="collapse navbar-collapse">
+                <ul class="navbar-nav ml-auto">
+                    {% assign menu = site.data.navigation %}
+                    {% assign links = menu.main_menu %}
+                    {% for link in links %}
+                        {% assign class = "inactive" %}
+                        {% if page.url contains link.url %}
+                            {% assign class = "active" %}
+                        {% endif %}
+                        {% unless link.dropdown %}
+                            <li class="nav-item {{ class | normalize_whitespace }}">
+                                <a class="nav-link" href="{{ link.url | absolute_url }}"{% if link.target %} target="_{{ link.target }}"{% endif %}>{% if link.icon %}<i class="{{ link.icon }}"></i>{% endif %} </i> {{ link.title }}</a>
+                            </li>
+                        {% else %}
+                            {% assign dropdown = link.dropdown %}
+                            <li class="nav-item dropdown">
+                                <a class="nav-link dropdown-toggle" href="#" id="navbar-dropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">{{ link.title }}</a>
+                                <div class="dropdown-menu bg-transparent" aria-labelledby="navbarDropdown">
+                                    {% for dropdown_link in dropdown %}
+                                        {% if dropdown_link.title == "divider" %}
+                                            <div class="dropdown-divider"></div>
+                                        {% else %}
+                                            <a class="dropdown-item bg-transparent {{ class | normalize_whitespace }}" href="{{ dropdown_link.url | absolute_url }}"{% if dropdown_link.target %} target="_{{ dropdown_link.target }}"{% endif %}>{% if dropdown_link.icon %}<i class="{{ dropdown_link.icon }}"></i>{% endif %} </i> {{ dropdown_link.title }}</a>
+                                        {% endif %}
+                                    {% endfor %}
+                                </div>
+                            </li>
+                        {% endunless %}
+                    {% endfor %}
+                    <div class="custom-control custom-switch align-self-center">
+                        <input type="checkbox" class="custom-control-input" id="lightSwitch" />
+                        <label class="custom-control-label" for="lightSwitch"><i class="fas fa-sun"></i></label>
+                    </div>
+                </ul>
+            </div>
+            <button type="button" class="navbar-toggler" data-toggle="modal" data-target="#mobile-menu">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="modal fade" id="mobile-menu" tabindex="-1" role="dialog" aria-labelledby="mobile-menu-label" aria-hidden="true">
+                <div class="modal-dialog" role="document">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <h5 class="modal-title"><img src="{{ site.logo | absolute_url }}" width="30" height="30" class="align-top mr-3" alt="">{{ site.title }}</h5>
+                            <button type="button" class="close" aria-label="Close" data-dismiss="modal">
+                                <span aria-hidden="true"><i class="fas fa-times"></i></span>
+                            </button>
+                        </div>
+                        <div class="modal-body text-center">
+                            <div class="list-group">
+                                {% for link in links %}
+                                    {% unless link.dropdown %}
+                                        <h4><a href="{{ link.url | absolute_url }}">{{ link.title }}</a></h4>
+                                    {% else %}
+                                        {% assign dropdown = link.dropdown %}
+                                        {% for dropdown_link in dropdown %}
+                                            {% unless dropdown_link.title == "divider" %}
+                                                <h4><a href="{{ dropdown_link.url | absolute_url }}">{{ dropdown_link.title }}</a></h4>
+                                            {% endunless %}
+                                        {% endfor %}
+                                    {% endunless %}
+                                {% endfor %}
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </nav>
+</header>

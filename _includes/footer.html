@@ -1,35 +1,21 @@
-<footer class="site-footer h-card">
-  <data class="u-url" href="{{ "/" | relative_url }}"></data>
+{% include logic.html %}
 
-  <div class="wrapper">
-
-    <h2 class="footer-heading">{{ site.title | escape }}</h2>
-
-    <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
-        <ul class="contact-list">
-          <li class="p-name">
-            {%- if site.author -%}
-              {{ site.author | escape }}
-            {%- else -%}
-              {{ site.title | escape }}
-            {%- endif -%}
-            </li>
-            {%- if site.email -%}
-            <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-            {%- endif -%}
-        </ul>
-      </div>
-
-      <div class="footer-col footer-col-2">
-        {%- include social.html -%}
-      </div>
-
-      <div class="footer-col footer-col-3">
-        <p>{{- site.description | escape -}}</p>
-      </div>
+<footer>
+    <div class="container">
+        <div class="mt-5 py-5 content">
+            <div class="d-flex justify-content-center justify-content-md-start">
+                <div class="flex-md-fill">&copy; {% if published_year %}{{ published_year }}{% if published_year != current_year %} - {{ current_year }}{% endif %}{% endif %} {{ site.title }}</div>
+                {% assign menu = site.data.navigation %}
+                {% assign links = menu.footer_menu %}
+                {% for link in links %}
+                    <div class="pl-3 d-none d-md-block"><a href="{{ link.url }}" {% if link.target %}target="_{{ link.target }}"{% endif %}>{% if link.icon %}<i class="{{ link.icon }}"></i>{% endif %} </i>{{ link.title }}</a></div>
+                {% endfor %}
+            </div>
+        </div>
     </div>
-
-  </div>
-
 </footer>
+
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.2.0/anchor.min.js" integrity="sha256-m1eTvwEHwmsw4+XKF7BshClVJEPwTVycveNl0CS0Mkk=" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+<script src="{{ '/assets/js/main.js' | absolute_url }}"></script>

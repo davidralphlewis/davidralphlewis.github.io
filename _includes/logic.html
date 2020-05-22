@@ -1,0 +1,54 @@
+{% if page.masthead_style %}
+    {% assign masthead = page.masthead_style %}
+{% elsif site.masthead_style %}
+    {% assign masthead = site.masthead_style %}
+{% else %}
+    {% assign masthead = "banner" %}
+{% endif %}
+
+{% if page.layout == "archive" %}
+    {% assign archive = true %}
+{% endif %}
+
+{% if site.featured_image %}
+    {% if page.masthead_style == "plain" or archive %}
+        {% unless page.featured_image == false %}
+            {% assign display_featured_image = true %}
+            {% if page.featured_image %}
+                {% assign featured_image = page.featured_image %}
+            {% elsif site.featured_image %}
+                {% assign featured_image = site.featured_image %}
+            {% endif %}
+        {% endunless %}
+    {% endif %}
+{% endif %}
+
+{% assign categories = site.categories | sort %}
+
+{% unless page.social == false %}
+  {% if page.social == true %}
+    {% assign social = true %}
+  {% elsif page.type == "page" and site.page_social %}
+    {% assign social = true %}
+  {% elsif page.type == "post" and site.post_social %}
+    {% assign social = true %}
+  {% endif %}
+{% endunless %}
+
+{% if site.data.humans.authors[page.author] %}
+  {% assign author = site.data.humans.authors[page.author] %}
+{% elsif site.data.humans.authors[site.author] %}
+  {% assign author = site.data.humans.authors[site.author] %}
+{% elsif page.type == "post" and site.post_author %}
+  {% assign author = true %}
+{% elsif page.type == "page" and site.page_author %}
+  {% assign author = true %}
+{% endif %}
+
+{% if site.date %}
+    {% assign published_year = site.date | date: "%Y" %}
+{% else %}
+    {% assign published_year = null %}
+{% endif %}
+
+{% assign current_year = site.time | date: "%Y" %}

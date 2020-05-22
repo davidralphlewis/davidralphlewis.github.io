@@ -1,0 +1,39 @@
+---
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    {% assign pages = site.pages | sort: "url" %}
+    {% for page in pages %}
+        {% unless page.url contains '.xml' or page.url contains '.txt' or page.url contains '.css' %}
+            <url>
+                <loc>{{ page.url | absolute_url }}</loc>
+                {% if page.last_modified %}
+                    {% assign last_modified = page.last_modified %}
+                {% elsif page.date %}
+                    {% assign last_modified = page.date %}
+                {% else %}
+                    {% assign last_modified = site.date %}
+                {% endif %}
+                {% if last_modified %}
+                    <lastmod>{{ last_modified | date_to_xmlschema }}</lastmod>
+                {% endif %}
+            </url>
+        {% endunless %}
+    {% endfor %}
+    {% assign posts = site.posts %}
+    {% for post in posts %}
+        <url>
+            <loc>{{ post.url | absolute_url }}</loc>
+            {% if post.last_modified %}
+                {% assign last_modified = post.last_modified %}
+            {% elsif post.date %}
+                {% assign last_modified = post.date %}
+            {% else %}
+                {% assign last_modified = site.date %}
+            {% endif %}
+            {% if last_modified %}
+                <lastmod>{{ last_modified | date_to_xmlschema }}</lastmod>
+            {% endif %}
+        </url>
+    {% endfor %}
+</urlset>

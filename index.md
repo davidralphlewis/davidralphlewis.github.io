@@ -1,4 +1,28 @@
-# jekyll-boostrap
+---
+# Page Settings
+layout: page # page layout, e.g. default, page
+title: "Jekyll Bootstrap" # page title (seo, navigation, masthead), e.g. "string"
+description: "The Bootstrap Theme for Jekyll" # page description (seo, masthead), e.g. "string"
+excerpt: "The Bootstrap Theme for Jekyll" # post excerpt (seo, articles, archive excerpt), e.g. "string"
+date: 2019-09-24 00:00:00 -0500 # page publish date (seo, metadata), e.g. YYYY-MM-DD hh:mm:ss TZD
+last_modified: # page last modified date (metadata, rss), e.g. YYYY-MM-DD hh:mm:ss TZD
+
+# Page Metadata
+keywords: # appends keywords to seo meta tag, e.g. "comma, delimited, string"
+author: # author defined in _data/humans.yml, e.g. "string", false
+author: # defined guest author
+  name: # guest author name, e.g. "Guest Author"
+  avatar: # guest author picture, e.g. /path/to/image.jpg
+  homepage: # guest author homepage, e.g. https://guestauthor.com/
+  twitter: # guest author twitter username, e.g. GuestAuthor
+
+# Page Style
+alert: # enable page level alert bar above content, e.g. "string", false
+alert_style: # alert style, e.g. primary, secondary, success, danger, warning, info, light, dark; default: primary
+masthead_style: # default masthead style, e.g. banner, plain; default: banner
+featured_image: # custom featured image path (masthead, social, etc.), e.g. '/path/to/image.jpg', false (hide default featured image)
+social: # display social sharing links on pages, e.g. true, false
+---
 
 A slim, fast, and responsive <a href="https://getbootstrap.com/" target="_blank">Bootstrap 4</a> template for <a href="https://jekyllrb.com" target="_blank">Jekyll</a> websites on <a href="https://pages.github.com/" target="_blank">Github</a>.
 
