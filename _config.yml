@@ -3,18 +3,18 @@ title: "David Ralph Lewis" # Site title (seo, feed, navigation, masthead)
 description: "Poet and Writer from Bristol, UK" # Site description (seo, feed, masthead)
 lang: en # locale settings (seo); default: en
 keywords: "poet, writer, UK, David Ralph Lewis" # Default keywords (seo)
-logo: /assets/images/site/logo.png # site logo (navigation, seo)
+logo: # site logo (navigation, seo)
 date: 2019-09-24 00:00:00 -0500 # site publish date (seo, metadata, footer), e.g. YYYY-MM-DD hh:mm:ss TZD
 
 # Navigation
-url: "https://dpstrange.github.io/jekyll-bootstrap" # the base hostname & protocol for your site, e.g. http://example.com
+url: "davidralphlewis.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the sub-path of your site, e.g. /blog
 permalink: /articles/:title/ # permalink style
 
 # Default Site Settings
 alert: # display site wide alert bar above navigation, e.g. "String", false
 alert_style: # alert style, e.g. primary, secondary, success, danger, warning, info, light, dark; default: primary
-masthead_style: # default masthead style, e.g. banner, plain; default: banner
+masthead_style: plain # default masthead style, e.g. banner, plain; default: banner
 featured_image: false  # default featured image path (seo, masthead, social, rss), e.g 'path/to/image.jpg', false (hide default featured image)
 author: DavidRL # default author defined in _data/humans.yml (seo, metadata)
 
