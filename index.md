@@ -29,3 +29,9 @@ David Ralph Lewis is a poet and short story writer based in Bristol, UK, whose w
 On this website, David maintains a blog about writing, art and politics as well as any other random topic.
 
 You can follow him on [Twitter](www.twitter.com/davidralphlewis), [Instagram](www.instagram.com/davidralphlewis), [Facebook](www.facebook.com/davidralphlewis) and & Goodreads if you want.
+
+### Recent Posts
+
+{% for post in site.posts limit:3 %}
+{% include components/post-card.html %}
+{% endfor %}

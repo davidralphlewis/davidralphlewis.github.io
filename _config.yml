@@ -7,7 +7,7 @@ logo: # site logo (navigation, seo)
 date: 2019-09-24 00:00:00 -0500 # site publish date (seo, metadata, footer), e.g. YYYY-MM-DD hh:mm:ss TZD
 
 # Navigation
-url: "davidralphlewis.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the sub-path of your site, e.g. /blog
 permalink: /articles/:title/ # permalink style
 
