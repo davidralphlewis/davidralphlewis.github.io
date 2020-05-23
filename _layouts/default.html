@@ -16,4 +16,7 @@
     {% include content.html %}
     {% include footer.html %}
   </body>
+  {% if site.disqus.shortname %}
+  {% include disqus_comments.html %}
+{% endif %}
 </html>

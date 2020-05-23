@@ -4,7 +4,7 @@ title: Napwriomo 2020 Day 29- Fragment
 date: 2020-04-29 16:08  
 author: DavidRL  
 comments: true  
-categories: [Article, Erasure poetry, My Writing, napowrimo 2020, Poetry]  
+categories: [Poetry]  
 ---  
 Today my mind is like confetti thrown  
 to the wind, like a website with every  
@@ -28,8 +28,7 @@ machine near the end of the cycle, like
 I've become a comet entering the atmosphere  
 before inevitably burning, disintegrating,  
 becoming nothing more than fine ash rain.  
-  
+
 ***  
-  
+
 Prompt was "Gimme Simile- really pack those similies in" from <a href="https://www.instagram.com/amykaypoetry/">AmyKay Poetry</a>. One day left!  
-  

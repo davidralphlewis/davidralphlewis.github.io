@@ -1,6 +1,6 @@
 ---
 # Page Settings
-layout: page
+layout: default # page layout, e.g. default, page
 title: "About" # page title (seo, navigation, masthead), e.g. "string"
 description: "A bit about me" # page description (seo, masthead), e.g. "string"
 excerpt:  # post excerpt (seo, articles, archive excerpt), e.g. "string"

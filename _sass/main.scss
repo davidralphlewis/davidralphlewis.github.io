@@ -1,8 +1,8 @@
 :root {
     --background-color: #161716;
-    --font-color: #ffffff;
-    --navbar-dark-link-color: #ffffff;
-    --navbar-light-link-color: #ff0303;
+    --font-color: #fafafa;
+    --navbar-dark-link-color: #fafafa;
+    --navbar-light-link-color: #fafafa;
     --divider-color: #2e302e;
     --code-background-color: #0f140f;
 }
@@ -21,8 +21,18 @@ body {
     color: var(--font-color);
 }
 
-a, a:active, a:hover, a:focus, a:visited {
-    text-decoration: none;
+a:link {
+  color: red;
+}
+
+/* visited link */
+a:visited {
+  color: purple;
+}
+
+a:hover {
+color: orange;
+
 }
 
 .custom-switch .custom-control-label::before {
@@ -99,15 +109,25 @@ footer {
 
 .navbar-dark {
     .navbar-brand, .navbar-brand:hover {
-        color: var(--navbar-dark-link-color);
+        color: red
     }
 
     .custom-control-label {
-        color: var(--navbar-dark-link-color);
+        color: red
     }
 
-    a, a:active a:hover, a:visited {
-        color: var(--navbar-dark-link-color);
+    a:link {
+      color: red;
+    }
+
+    /* visited link */
+    a:visited {
+      color: purple;
+    }
+
+    a:hover {
+    color: red;
+    text-decoration: underline;
     }
 
     .navbar-toggler {

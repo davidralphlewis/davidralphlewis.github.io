@@ -2,6 +2,9 @@
 layout: page
 title: Publications
 permalink: /publications/
+author: false
+masthead_style: plain
+social: false
 ---
 ## 2020
 
