@@ -63,7 +63,10 @@ main {
     }
 
     blockquote {
-        margin: 2rem 0 2rem 0;
+      border-left:  4px solid;
+      letter-spacing: -1px;
+      padding-left: 10px;
+      font-style: italic;
     }
 
     blockquote p {
