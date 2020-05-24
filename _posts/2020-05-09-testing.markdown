@@ -2,7 +2,7 @@
 layout: default
 title:  "I'm testing a few things!"
 date:   2020-05-09 11:50:51 +0100
-categories: testing coding	
+categories: testing	
 ---
 # Everything is broken
 
@@ -13,7 +13,7 @@ Hello, this is me ~~pissing about~~ testing Jekyll[^1] and seeing if I remember 
 **Is this bold?**
 
 My normal website is [here](http://www.davidralphlewis.co.uk)
- 
+
 > This is a blockquote.
 
 ## Hopefully this works

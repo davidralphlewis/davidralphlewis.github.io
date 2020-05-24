@@ -4,10 +4,10 @@ title: Napowrimo 2020 day 15 - Late fees
 date: 2020-04-15 16:01  
 author: DavidRL  
 comments: true  
-categories: [Article, My Writing, napowrimo 2020, Plague notes, Poems]  
+categories: [Poetry]  
 ---  
 <em>CW: death</em>  
-  
+
 Your library is now scattered.  
 Yellowing paperbacks you found  
 by chance in second-hand markets,  
@@ -27,8 +27,7 @@ into atoms and thrown back into
 the wild universe, to be reused or  
 discarded or recombined into new  
 words, new combinations, new life.  
-  
+
 ***  
-  
+
 Prompt was "object permanence" in the <em>Poetry in the time of being alone</em> group. Halfway through!  
-  

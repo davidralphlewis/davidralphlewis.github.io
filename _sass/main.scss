@@ -1,17 +1,17 @@
 :root {
     --background-color: #161716;
-    --font-color: #fafafa;
-    --navbar-dark-link-color: #fafafa;
-    --navbar-light-link-color: #fafafa;
-    --divider-color: #2e302e;
+    --font-color: white;
+    --navbar-dark-link-color: white;
+    --navbar-light-link-color: white;
+    --divider-color: #red;
     --code-background-color: #0f140f;
 }
 
 [data-theme="light"] {
     --background-color: #f8f8f8;
     --font-color: #000000;
-    --navbar-dark-link-color: #ffffff;
-    --navbar-light-link-color: #000000;
+    --navbar-dark-link-color: red;
+    --navbar-light-link-color: red;
     --divider-color: #dee2e6;
     --code-background-color: #0f140f;
 }
@@ -27,11 +27,12 @@ a:link {
 
 /* visited link */
 a:visited {
-  color: purple;
+  color: orange;
 }
 
 a:hover {
 color: orange;
+
 
 }
 
@@ -108,8 +109,8 @@ footer {
 /* Menu */
 
 .navbar-dark {
-    .navbar-brand, .navbar-brand:hover {
-        color: red
+    .navbar-brand, .navbar-brand:hover, .navbar-nav, .nav-link {
+    color: red !important;
     }
 
     .custom-control-label {
@@ -122,7 +123,7 @@ footer {
 
     /* visited link */
     a:visited {
-      color: purple;
+      color: orange;
     }
 
     a:hover {
@@ -131,15 +132,15 @@ footer {
     }
 
     .navbar-toggler {
-        color: var(--navbar-dark-link-color);
-        border-color: var(--navbar-dark-link-color);
+        color: red;
+        border-color: black;
     }
 }
 
 .navbar-light {
-    .navbar-brand, .navbar-brand:hover {
-        color: var(--navbar-light-link-color);
-    }
+  .navbar-brand, .navbar-brand:hover, .navbar-nav, .nav-link {
+  color: red !important;
+  }
 
     .custom-control-label {
         color: var(--navbar-light-link-color);
@@ -150,8 +151,8 @@ footer {
     }
 
     .navbar-toggler {
-        color: var(--navbar-light-link-color);
-        border-color: var(--navbar-light-link-color);
+        color: red;
+        border-color: black;
 
         .navbar-toggler-icon {
             color: var(--navbar-light-link-color);
