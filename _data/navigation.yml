@@ -3,7 +3,7 @@ main_menu:
     url: /publications/
   - title: Blog
     url: /articles/
-  - title: "Dropdown Example"
+  - title: "Books"
     dropdown: # enables dropdown menu
       - title: GitHub - Jekyll Bootstrap
         url: https://github.com/dpstrange/jekyll-boostrap
