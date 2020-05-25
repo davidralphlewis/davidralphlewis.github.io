@@ -7,15 +7,6 @@
     --code-background-color: #0f140f;
 }
 
-[data-theme="light"] {
-    --background-color: #f8f8f8;
-    --font-color: #000000;
-    --navbar-dark-link-color: red;
-    --navbar-light-link-color: red;
-    --divider-color: #dee2e6;
-    --code-background-color: #0f140f;
-}
-
 body {
     background-color: var(--background-color);
     color: var(--font-color);
@@ -36,13 +27,6 @@ color: orange;
 
 }
 
-.custom-switch .custom-control-label::before {
-
-}
-
-.custom-control-input:checked ~ .custom-control-label::before {
-
-}
 
 main {
     h1 {
