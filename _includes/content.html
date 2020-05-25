@@ -3,5 +3,8 @@
 <main class="container">
     <div class="pt-5">
     {{ content }}
+    <h6 class="card-subtitle mb-3 text-secondary">
+        {{ post.date | date_to_string }}
+    </h6>
     </div>
 </main>

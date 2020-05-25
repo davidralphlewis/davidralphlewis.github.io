@@ -13,6 +13,8 @@
   <body>
     {% include navigation.html %}
     {% include masthead.html %}
+    <h6 class="card-subtitle mb-3 text-secondary">
+        {{ post.date | date_to_string }} </h6>
     {% include content.html %}
     {% include footer.html %}
   </body>
