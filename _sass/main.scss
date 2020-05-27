@@ -29,18 +29,22 @@ color: orange;
 
 
 main {
+   p {
+    margin: 10px 75px 10px 75px;
+    }
+
     h1 {
         border-bottom: 1px solid var(--divider-color);
     }
 
     h1, h2, h3, h4, h5, h6 {
         padding-bottom: .5rem;
-        margin: 2rem 0 2rem 0;
+        margin: 10px 75px 10px 75px;
     }
 
     hr {
         margin: 75px 0 75px 0;
-        max-width: 5%;
+        max-width: 20%;
         margin-left: auto;
         margin-right: auto;
         border: 2px solid var(--divider-color);
@@ -50,6 +54,7 @@ main {
       border-left:  4px solid;
       letter-spacing: -1px;
       padding-left: 10px;
+      margin: 10px 75px 10px 75px;
       font-style: italic;
     }
 
@@ -68,8 +73,10 @@ main {
         }
     }
 
+
     img {
         max-width: 100%;
+        margin: 10px 75px 10px 75px;
     }
 
     .featured-image {

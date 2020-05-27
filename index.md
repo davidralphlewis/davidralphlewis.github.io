@@ -18,11 +18,11 @@ author: false # defined guest author
 # Page Style
 alert: # enable page level alert bar above content, e.g. "string", false
 alert_style: # alert style, e.g. primary, secondary, success, danger, warning, info, light, dark; default: primary
-masthead_style: plain # default masthead style, e.g. banner, plain; default: banner
+masthead_style: home # default masthead style, e.g. banner, plain; default: banner
 featured_image: # custom featured image path (masthead, social, etc.), e.g. '/path/to/image.jpg', false (hide default featured image)
 social: false # display social sharing links on pages, e.g. true, false
 ---
- <img src="/assets/images/site/me.jpg" alt="Photo taken by Sam Cavender @samsnapsalot" class="center"> 
+ <img src="/assets/images/site/me.jpg" alt="Photo taken by Sam Cavender @samsnapsalot" class="center">
 
 David Ralph Lewis is a poet and short story writer based in Bristol, UK, whose work has appeared in Neon and DogEar magazines as well as the Lies, Dreaming podcast. He blogs regularly about politics and art and often scrawls over newspapers to create blackout poetry. When not writing, he enjoys dancing badly at gigs, attempting to grow vegetables and taking photos. He understands a very, very small amount of what is going on in the world.
 
