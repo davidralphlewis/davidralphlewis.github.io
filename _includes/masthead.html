@@ -9,6 +9,8 @@
         <div class="container my-5 py-5">
 {% endif %}
             <h1 class="display-3">{{ page.title }}</h1>
+            <h6 class="card-subtitle text-secondary">
+                {{ post.date | date_to_string }} </h6>
             <p class="lead">{{ page.description }}</p>
         </div>
     </div>

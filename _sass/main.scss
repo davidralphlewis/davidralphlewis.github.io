@@ -3,7 +3,7 @@
     --font-color: white;
     --navbar-dark-link-color: white;
     --navbar-light-link-color: white;
-    --divider-color: #red;
+    --divider-color: white;
     --code-background-color: #0f140f;
 }
 
@@ -75,6 +75,12 @@ main {
     .featured-image {
         height: 10rem;
     }
+    .center {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 75%;
+}
 
     video {
   /* override other styles to make responsive */

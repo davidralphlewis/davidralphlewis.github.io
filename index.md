@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: "About" # page title (seo, navigation, masthead), e.g. "string"
 description: "A bit about me" # page description (seo, masthead), e.g. "string"
 excerpt:  # post excerpt (seo, articles, archive excerpt), e.g. "string"
@@ -22,7 +22,7 @@ masthead_style: plain # default masthead style, e.g. banner, plain; default: ban
 featured_image: # custom featured image path (masthead, social, etc.), e.g. '/path/to/image.jpg', false (hide default featured image)
 social: false # display social sharing links on pages, e.g. true, false
 ---
-![image](/assets/images/site/me.jpg)
+ <img src="/assets/images/site/me.jpg" alt="Photo taken by Sam Cavender @samsnapsalot" class="center"> 
 
 David Ralph Lewis is a poet and short story writer based in Bristol, UK, whose work has appeared in Neon and DogEar magazines as well as the Lies, Dreaming podcast. He blogs regularly about politics and art and often scrawls over newspapers to create blackout poetry. When not writing, he enjoys dancing badly at gigs, attempting to grow vegetables and taking photos. He understands a very, very small amount of what is going on in the world.
 
