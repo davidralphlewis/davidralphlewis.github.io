@@ -30,7 +30,7 @@ color: orange;
 
 main {
    p {
-    margin: 2em 6em;
+    margin: 1.5em;
     }
 
     h1 {
@@ -39,7 +39,6 @@ main {
 
     h1, h2, h3, h4, h5, h6 {
         padding-bottom: .5rem;
-        margin: 1em
     }
 
     hr {
@@ -207,7 +206,7 @@ footer {
     }
 }
 
-@media (max-width: 768px) {
+@media (max-width: 600px) {
     #navigation.collapse {
       position: fixed;
       z-index: 2000;
@@ -219,7 +218,15 @@ footer {
       height: 100% !important;
       display: block;
     }
+    .content{
+           margin-left: 20px;
+        }
 
+    @media (max-width: 320px) {
+        .content{
+           margin-left: 10px;
+        }
+    }
     #navigation.collapsing {
         transition: all .18s ease-in;
         position: fixed;
