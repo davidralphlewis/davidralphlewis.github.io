@@ -19,3 +19,12 @@ footer_menu:
     url: https://github.com/dpstrange/jekyll-bootstrap
     target: new
     icon: "fab fa-github"
+  - url: https://www.facebook.com/davidralphlewis
+    target: new
+    icon: "fab fa-facebook-square"
+  - url: https://www.twitter.com/davidralphlewis
+    target: new
+    icon: "fab fa-twitter-square"
+  - url: https://www.instagram.com/davidralphlewis
+    target: new
+    icon: "fab fa-instagram"

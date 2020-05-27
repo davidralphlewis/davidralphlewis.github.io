@@ -55,5 +55,5 @@ include: [.well-known] # include humans.txt
 
 plugins: [jekyll-paginate]
 
-paginate: 7
+paginate: 15
 paginate_path: "/articles/page/:num/"

@@ -22,8 +22,8 @@ a:visited {
 }
 
 a:hover {
-color: orange;
-
+ color: orange;
+  text-decoration: underline;
 
 }
 
@@ -35,6 +35,7 @@ main {
 
     h1 {
         border-bottom: 1px solid var(--divider-color);
+        padding-top: 1rem;
     }
 
     h1, h2, h3, h4, h5, h6 {
@@ -51,7 +52,7 @@ main {
 
     blockquote {
       border-left:  4px solid;
-      letter-spacing: -1px;
+      letter-spacing: 0.5px;
       padding-left: 10px;
       margin: 2em;
       font-style: italic;
@@ -146,9 +147,7 @@ footer {
   .navbar-brand, .navbar-brand:hover, .navbar-nav, .nav-link {
   color: red !important;
   }
-
 }
-
 /* Dropdown Menu */
 
 .dropdown-menu {
@@ -173,7 +172,6 @@ footer {
         min-width: 100vw;
         min-height: 100%;
         min-height: 100vh;
-        color: red;
     }
 
     .modal-content {
@@ -217,16 +215,9 @@ footer {
       width: 0;
       height: 100% !important;
       display: block;
+      color: red
     }
-    .content{
-           margin-left: 20px;
-        }
 
-    @media (max-width: 320px) {
-        .content{
-           margin-left: 10px;
-        }
-    }
     #navigation.collapsing {
         transition: all .18s ease-in;
         position: fixed;
@@ -244,6 +235,24 @@ footer {
     }
  }
 
+ @media (max-width: 480px) {
+     .content{
+        margin-left: 20px;
+     }
+ }
+
+ @media (max-width: 320px) {
+     .content{
+        margin-left: 10px;
+     }
+ }
+
+ @media (min-width:320px)  { /* smartphones, portrait iPhone, portrait 480x320 phones (Android) */ }
+ @media (min-width:480px)  { /* smartphones, Android phones, landscape iPhone */ }
+ @media (min-width:600px)  { /* portrait tablets, portrait iPad, e-readers (Nook/Kindle), landscape 800x480 phones (Android) */ }
+ @media (min-width:801px)  { /* tablet, landscape iPad, lo-res laptops ands desktops */ }
+ @media (min-width:1025px) { /* big landscape tablets, laptops, and desktops */ }
+ @media (min-width:1281px) { /* hi-res laptops and desktops */ }
 /* Anchor JS */
 
 .anchorjs-link {
