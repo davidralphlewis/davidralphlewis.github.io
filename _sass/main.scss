@@ -1,9 +1,9 @@
 :root {
     --background-color: #161716;
-    --font-color: white;
+    --font-color: #f2f0f0;
     --navbar-dark-link-color: white;
     --navbar-light-link-color: white;
-    --divider-color: white;
+    --divider-color: #f2f0f0;
     --code-background-color: #0f140f;
 }
 
@@ -35,7 +35,7 @@ main {
 
     h1 {
         border-bottom: 1px solid var(--divider-color);
-        padding-top: 1rem;
+        padding-top: 1.5rem;
     }
 
     h1, h2, h3, h4, h5, h6 {
