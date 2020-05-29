@@ -35,7 +35,7 @@ main {
 
     h1 {
         border-bottom: 1px solid var(--divider-color);
-        padding-top: 1.5rem;
+        padding-top: 50px;
     }
 
     h1, h2, h3, h4, h5, h6 {
@@ -100,6 +100,7 @@ main {
 
 .masthead-plain {
     border-bottom: 1px solid var(--divider-color);
+    padding-top: 2rem
 }
 
 /* Footer */
@@ -166,8 +167,8 @@ footer {
 
 #mobile-menu {
     .modal-dialog {
-        margin: 0;
-        padding: 0;
+        margin: 0.5rem;
+        padding: 0.5rem;
         min-width: 100%;
         min-width: 100vw;
         min-height: 100%;
@@ -245,7 +246,7 @@ footer {
  @media (max-width: 320px) {
      .content{
         margin-left: 10px;
-        margin-top: 5px
+        margin-top: 10px
      }
  }
 
