@@ -5,9 +5,8 @@ main_menu:
     url: /articles/
   - title: "Books"
     dropdown: # enables dropdown menu
-      - title: GitHub - Jekyll Bootstrap
-        url: https://github.com/dpstrange/jekyll-boostrap
-        target: blank
+      - title: Our Voices in the Chaos
+        url: /ourvoicesinthechaos/
 footer_menu:
   - url: https://www.facebook.com/davidralphlewis
     target: new
