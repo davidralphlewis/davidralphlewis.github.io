@@ -6,4 +6,19 @@ author: DavidRL
 comments: true  
 categories: [napowrimo, Poetry]
 ---  
-Today's poem is called Control and comes in the form of a to do list.<img class="alignright size-large wp-image-1552" src="http://davidralphlewis.co.uk/wp-content/uploads/2018/04/Screenshot_20180409-154314-01-700x701.jpeg" alt="" width="584" height="585" /><img class="alignright size-large wp-image-1551" src="http://davidralphlewis.co.uk/wp-content/uploads/2018/04/Screenshot_20180409-154232-02-700x700.jpeg" alt="" width="584" height="584" /><img class="alignright size-large wp-image-1550" src="http://davidralphlewis.co.uk/wp-content/uploads/2018/04/Screenshot_20180409-161804-01-700x700.jpeg" alt="" width="584" height="584" />
+## Control
+
+* ~Start a brand new to-do list~
+* Buy some healthy food  
+* Look for a course, enlist
+* Try to improve my mood
+
+* Reply back to my landlord  
+* Exercise- maybe jog?  
+* Buy replacement chalkboard  
+* Ignore the constant smog  
+
+* Attempt to be clean and floss
+* Try not to sleep all day
+* Pretend the world isn't chaos
+* Try to order it anyway
