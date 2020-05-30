@@ -3,6 +3,9 @@ main_menu:
     url: /publications/
   - title: Blog
     url: /articles/
+  - title: Shop
+    url: https://davidralphlewis.bigcartel.com/
+    target: new
   - title: "Books"
     dropdown: # enables dropdown menu
       - title: Our Voices in the Chaos
