@@ -10,6 +10,8 @@ main_menu:
     dropdown: # enables dropdown menu
       - title: Our Voices in the Chaos
         url: /ourvoicesinthechaos/
+      - title: Amber Stars
+        url: /amberstars/
 footer_menu:
   - url: https://www.facebook.com/davidralphlewis
     target: new

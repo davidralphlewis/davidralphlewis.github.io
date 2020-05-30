@@ -6,6 +6,9 @@ author: DavidRL
 comments: false
 categories: [Books]
 permalink: /ourvoicesinthechaos/
+masthead_style: banner
+featured_image: /assets/images/site/ourvoicescrop.jpg
+author: false
 ---
 <img src="/assets/images/site/ourvoices.jpg"  class="center">
 

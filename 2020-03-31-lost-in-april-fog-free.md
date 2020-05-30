@@ -1,5 +1,5 @@
 ---
-layout: jetpack-portfolio
+layout: page
 title: Lost in April Fog- Free!
 date: 2020-03-31 15:24
 author: DavidRL
