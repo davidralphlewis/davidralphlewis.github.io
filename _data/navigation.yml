@@ -2,23 +2,13 @@ main_menu:
   - title: Publications
     url: /publications/
   - title: Blog
-    url: /blog/
+    url: /articles/
   - title: "Books"
     dropdown: # enables dropdown menu
       - title: GitHub - Jekyll Bootstrap
         url: https://github.com/dpstrange/jekyll-boostrap
         target: blank
 footer_menu:
-  - title: Sitemap
-    url: /sitemap
-    icon: "fas fa-map"
-  - title: RSS
-    url: /feed.xml
-    icon: "fa fa-rss"
-  - title: GitHub
-    url: https://github.com/dpstrange/jekyll-bootstrap
-    target: new
-    icon: "fab fa-github"
   - url: https://www.facebook.com/davidralphlewis
     target: new
     icon: "fab fa-facebook-square"
@@ -28,3 +18,9 @@ footer_menu:
   - url: https://www.instagram.com/davidralphlewis
     target: new
     icon: "fab fa-instagram"
+  - title: Sitemap
+    url: /sitemap
+    icon: "fas fa-map"
+  - title: RSS
+    url: /feed.xml
+    icon: "fa fa-rss"
