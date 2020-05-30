@@ -2,7 +2,6 @@
 layout: archive
 title: Categories
 description: "Articles by Category"
-permalink: /blog/categories/
 ---
 <div class="anchors">
     <div class="mb-5">

@@ -9,14 +9,20 @@
 <html lang="{{ site.lang | default: 'en' }}">
   <head>
     {% include head.html %}
+    {% if jekyll.environment == 'production' %}
+    {% include analytics.html %}
+    {% endif %}
   </head>
   <body>
     {% include navigation.html %}
     {% include masthead.html %}
     {% include content.html %}
     {% include footer.html %}
+    <br>
+    <hr>
+    {% if site.disqus.shortname %}
+    {% include disqus_comments.html %}
+    {% endif %}
   </body>
-  {% if site.disqus.shortname %}
-  {% include disqus_comments.html %}
-{% endif %}
+
 </html>
