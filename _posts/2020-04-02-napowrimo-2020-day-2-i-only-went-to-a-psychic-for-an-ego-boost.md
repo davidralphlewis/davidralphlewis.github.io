@@ -1,6 +1,6 @@
 ---  
 layout: default  
-title: NaPowriMo 2020 Day 2 - "I only went to a psychic for an ego boost"  
+title: "NaPowriMo 2020 Day 2 - 'I only went to a psychic for an ego boost'"
 date: 2020-04-02 16:03  
 author: DavidRL  
 comments: true  
