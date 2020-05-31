@@ -4,7 +4,9 @@ title: New serial book announcement- This Was Meant to be the Future
 date: 2020-01-16 09:17  
 author: DavidRL  
 comments: true  
-categories: [This Was Meant To Be the Future, books]  
+categories: [This Was Meant To Be the Future, Books]
+masthead_style: banner
+featured_image: /assets/images/site/twmtbtf.jpeg  
 ---  
 <p style="text-align: left;">Blimey, it's the year Twenty Twenty, a year that sounds incredibly futuristic. We're past the setting of <em>Blade Runner. </em>The world is different and weirder in ways we couldn't imagine before.</p>  
 
@@ -19,11 +21,11 @@ I'm going to be releasing them monthly on this blog for free, then as a physical
 Here's the titles of the stories and when they will be out. I'll link to them all when they go up.  
 
 <ol>  
-    <li><a href="https://davidralphlewis.co.uk/sirens/">January- Sirens</a></li>  
-    <li><a href="https://davidralphlewis.co.uk/squeamish/">February- Squeamish</a></li>  
-    <li><a href="https://davidralphlewis.co.uk/truth-bombs/">March- Truth Bombs</a></li>  
-    <li><a href="https://davidralphlewis.co.uk/a-response-from-the-black-box/">April- A Response from the Black Box</a></li>  
-    <li>May- #FCIC10</li>  
+    <li><a href="/sirens/">January- Sirens</a></li>  
+    <li><a href="/squeamish/">February- Squeamish</a></li>  
+    <li><a href="/truth-bombs/">March- Truth Bombs</a></li>  
+    <li><a href="/a-response-from-the-black-box/">April- A Response from the Black Box</a></li>  
+    li><a href="/#FCIC10/">April- A Response from the Black Box</a></li><li>May- #FCIC10</li>  
     <li>June- The Sky is Damaged</li>  
     <li>July- Blackout</li>  
     <li>August- Advert Break</li>  

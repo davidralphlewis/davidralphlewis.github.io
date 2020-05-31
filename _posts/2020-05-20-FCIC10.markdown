@@ -4,9 +4,9 @@ title: "FCIC10"
 date: 2020-05-20 12:52
 author: DavidRL
 comments: true
-categories: [This Was Meant to be the Future]  
+categories: [This Was Meant To Be the Future]
 masthead_style: banner
-featured_image: /assets/images/site/twmtbtf.jpeg
+featured_image: /assets/images/site/twmtbtf.jpeg  
 ---
 
 **PhaethonOfficial:** We are here at the tenth Future of Computational Intelligence conference (#FCIC10). We sponsor a number of PhD students, excited to see their findings!
