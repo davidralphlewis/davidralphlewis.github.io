@@ -1,8 +1,8 @@
 main_menu:
-  - title: Publications
-    url: /publications/
   - title: Blog
     url: /articles/
+  - title: Publications
+    url: /publications/
   - title: Shop
     url: https://davidralphlewis.bigcartel.com/
     target: new
@@ -10,8 +10,15 @@ main_menu:
     dropdown: # enables dropdown menu
       - title: Our Voices in the Chaos
         url: /ourvoicesinthechaos/
-      - title: Amber Stars
+      - title: Spare Parts
+        url: /spareparts/
+      - title: "April Fog-FREE"
+        url: /aprilfog/
+      - title: "Remain Vigilant-FREE"
+        url: /remainvigilant/
+      - title: "Amber Stars-FREE"
         url: /amberstars/
+
 footer_menu:
   - url: https://www.facebook.com/davidralphlewis
     target: new
