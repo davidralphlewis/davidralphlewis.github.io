@@ -1,16 +1,16 @@
 ---  
 layout: default  
-title: #NaPoWriMo Day 29  
+title: NaPoWriMo 2018 Day 29  
 date: 2018-04-29 17:00  
 author: DavidRL  
 comments: true  
-categories: [My Writing, napowrimo, poem, Poems, Poetry]  
+categories: [napowrimo, Poetry]
 ---  
-Astonishing  
-  
+## Astonishing  
+
 Waking up first, listening to  
 your breaths like small waves  
-  
+
 before the day floods in  
 before we are swept along  
 by waves of work, cleaning  
@@ -19,7 +19,7 @@ our library books, exploring and
 recycling, there is this one  
 still moment where nothing  
 moves, not even the clock.  
-  
+
 I lie in bed, surrounded by  
 soft sheets, watching your  
 eyes gently flicker as you travel  
@@ -31,7 +31,6 @@ A serenade to the waking world.
 "Look! How wonderful it is!  
 to be on this planet!  
 breathing this air! Look!"  
-  
+
 Eventually, you and me and  
 the day all rise up, and begin.  
-  

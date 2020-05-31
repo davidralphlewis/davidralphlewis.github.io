@@ -6,7 +6,7 @@ author: DavidRL
 comments: true  
 categories: [napowrimo, Poetry]
 ---  
-Scattered  
+## Scattered  
 
 I throw scrawled notebook pages  
 into the welcoming hands of the wind.  

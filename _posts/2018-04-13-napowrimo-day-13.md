@@ -1,13 +1,13 @@
 ---  
 layout: default  
-title: #NaPoWriMo Day 13  
+title: NaPoWriMo 2018 Day 13  
 date: 2018-04-13 16:33  
 author: DavidRL  
 comments: true  
-categories: [My Writing, napowrimp, Poems]  
+categories: [napowrimo, Poetry]  
 ---  
-Bang  
-  
+## Bang  
+
 10- A diplomatic communication is mistranslated.  
 9- A chemical plant triples its production.  
 8- Grass continues to grow, stubbornly ignorant.  
@@ -19,4 +19,3 @@ Bang
 2- A hawk hovers above the motorway, waiting to strike.  
 1- Without speaking, we agree to stay in bed. We wait.  
 0-  
-  
