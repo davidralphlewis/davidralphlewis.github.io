@@ -17,4 +17,3 @@ It was only really after the first draft that I decided to go all in and publis
 After all this work, it was strange to finally release the book into the wild. Actually producing the ebook was a lot easier than I imagined and it has been really gratifying to receive feedback from friends and family who have purchased it. I'm glad I've done it.
 
 Now to start work on the next one.
-
