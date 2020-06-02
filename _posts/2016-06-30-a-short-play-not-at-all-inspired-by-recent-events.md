@@ -4,7 +4,7 @@ title: A short play not at all inspired by recent events
 date: 2016-06-30 11:37  
 author: DavidRL  
 comments: true  
-categories: [Uncategorized]  
+categories: [politics]  
 ---  
 <em>I wrote this for <a href="http://moreincommon.tumblr.com/">More in Common</a> from the Royal Court, which is well worth checking out. It was written fairly quickly so it's not perfect.</em>  
 

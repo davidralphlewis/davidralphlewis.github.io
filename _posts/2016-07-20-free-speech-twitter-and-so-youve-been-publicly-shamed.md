@@ -4,7 +4,7 @@ title: Free speech, Twitter and 'So You've Been Publicly Shamed'
 date: 2016-07-20 15:30  
 author: DavidRL  
 comments: true  
-categories: [book reviews, Politics]  
+categories: [book review]  
 ---  
 Free speech is hard, especially on the internet. You should have the ability to say almost anything without fear of legal repercussion. Other than words that actively harm people, like shouting fire in a crowded room, or death threats, you should be able to say any stupid stuff you like. The beauty of free speech is that if you say something objectionable or offensive, people can argue with you and say you were out of line.  
 <!--more-->  

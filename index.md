@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About" # page title (seo, navigation, masthead), e.g. "string"
-description: "A bit about me" # page description (seo, masthead), e.g. "string"
+description: # page description (seo, masthead), e.g. "string"
 excerpt:  # post excerpt (seo, articles, archive excerpt), e.g. "string"
 date: 2019-09-24 00:00:00 -0500 # page publish date (seo, metadata), e.g. YYYY-MM-DD hh:mm:ss TZD
 last_modified: # page last modified date (metadata, rss), e.g. YYYY-MM-DD hh:mm:ss TZD

@@ -1,10 +1,10 @@
 ---  
 layout: default
-title: "'Birdman', Superhero Films and Spectacle" 
+title: "'Birdman', Superhero Films and Spectacle"
 date: 2016-04-27 11:57  
 author: DavidRL  
 comments: true  
-categories: [Film]  
+categories: [Films]  
 ---  
 <blockquote>   
   Riggan: How about Jeremy Renner?<br />  

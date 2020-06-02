@@ -4,7 +4,7 @@ title: "Always more to learn: Thoughts on 'Wonderbook'"
 date: 2016-07-04 08:30  
 author: DavidRL  
 comments: true  
-categories: [Art from Others, book review, books, craft, creativity, fiction, imagination, rules, wonderbook, writing]  
+categories: [book review]  
 ---  
 I've finished reading <em>Wonderbook: The Illustrated Guide to Creating Imaginative Fiction</em> by Jeff Vandermeer. It's a great read, full of useful information and exercises. Mostly, it is a nuts and bolts guide to stories and their various elements, characters, plotting, but the way it presented and the advice it gives about the imagination make it truly unique.  
 <!--more-->   

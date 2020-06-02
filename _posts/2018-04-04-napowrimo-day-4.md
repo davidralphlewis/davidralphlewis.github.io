@@ -4,7 +4,7 @@ title: NaPoWriMo 2018 Day 4
 date: 2018-04-04 15:34  
 author: DavidRL  
 comments: true  
-categories: [napowrimo, Poetry]
+categories: [Poetry]
 ---  
 ## Discovery  
 

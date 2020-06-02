@@ -4,7 +4,7 @@ title: Thoughts on 'High Rise'
 date: 2016-04-04 09:40  
 author: DavidRL  
 comments: true  
-categories: [film]  
+categories: [films]  
 ---  
 Last Saturday, somewhat spontaneously, I went to see <em>High Rise,</em> the newest film by Ben Wheatley. I'd previously seen <em>Sightseers</em> and <em>A Field in England</em> and enjoyed them both. The later wasn't wholly successful, but it felt very different to any other film I'd seen before.  
 

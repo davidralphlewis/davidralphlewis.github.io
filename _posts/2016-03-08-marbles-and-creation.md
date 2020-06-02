@@ -4,7 +4,7 @@ title: Marbles and Creation
 date: 2016-03-08 09:18
 author: DavidRL
 comments: true
-categories: [Art from Others]
+categories: [Creativity]
 ---
 Why not take five minutes out of your day to [watch this:](https://www.youtube.com/watch?v=IvUU8joBb1Q])
 

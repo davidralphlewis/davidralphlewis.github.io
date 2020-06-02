@@ -4,7 +4,7 @@ title: Writing Fast and Sloppy
 date: 2016-08-17 16:08  
 author: DavidRL  
 comments: true  
-categories: [creativity, writing]  
+categories: [writing]  
 ---  
 <em>So this is a post on freewriting and i am carrying on writing without stopping and i can't stop i just have to keep writing writing got to keep writing and-</em>  
 
@@ -22,9 +22,10 @@ However, I have found beyond the artistic uses, the technique is extremely usefu
 Julia Cameron cites this sort of free writing as a cornerstone of artistic and personal development in her series The Artist's Way, calling them morning pages:  
 
 <blockquote>  
-  They are not even “writing.” They are about anything and everything that crosses your mind– and they are for your eyes only. Morning Pages provoke, clarify, comfort, cajole, prioritize and synchronize the day at hand.   
-  -{Julia Cameron}(http://juliacameronlive.com/basic-tools/morning-pages/)  
-</blockquote>  
+  They are not even “writing.” They are about anything and everything that crosses your mind– and they are for your eyes only. Morning Pages provoke, clarify, comfort, cajole, prioritize and synchronize the day at hand.
+</blockquote>    
+  * *[Julia Cameron](http://juliacameronlive.com/basic-tools/morning-pages/)*  
+
 
 It's useful because as well as getting rid of circling thoughts, you can also be surprised by what exactly you write down. Strange new ideas and things to do appear almost without notice. Afterwards, you feel refreshed. It clears your mind and gives a voice to the subconscious. Like Julia Cameron says, it has a way of synchronizing the day, refreshing the mind and starting again.  
 
