@@ -4,7 +4,7 @@ title: Ponyo and Adaptation
 date: 2016-07-12 15:33  
 author: DavidRL  
 comments: true  
-categories: [Films]  
+categories: [films]  
 ---  
 <em>Ponyo</em> is a joyous film, a celebration of childhood and youth with beautiful visuals. It's pure joy from start to finish, with inventive twists and a unique style. Generally, Studio Ghibli films are among some of my favourites because of the rambling yet emotional stories that feel very different to any other film. This film is no exception, with a wide ranging plot involving prehistoric fish and mysterious spirits of the sea.  
 

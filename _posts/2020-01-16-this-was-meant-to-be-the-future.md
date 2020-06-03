@@ -4,7 +4,7 @@ title: New serial book announcement- This Was Meant to be the Future
 date: 2020-01-16 09:17  
 author: DavidRL  
 comments: true  
-categories: [This Was Meant To Be the Future, publications]
+categories: [this was meant to be the future]
 masthead_style: banner
 featured_image: /assets/images/site/twmtbtf.jpeg  
 ---  

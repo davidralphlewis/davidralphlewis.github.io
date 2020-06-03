@@ -4,7 +4,7 @@ title: NaPoWriMo 2018 Day 6
 date: 2018-04-06 16:14  
 author: DavidRL  
 comments: true  
-categories: [napowrimo, Poetry]
+categories: [poetry]
 ---  
 ## Fog  
 

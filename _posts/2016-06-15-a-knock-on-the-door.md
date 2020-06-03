@@ -4,7 +4,7 @@ title: A Knock on the door
 date: 2016-06-15 11:11  
 author: DavidRL  
 comments: true  
-categories: [Stories]  
+categories: [stories]  
 ---  
 <em>I wrote this in response to a prompt over at <a href="http://terribleminds.com/ramble/2016/06/10/flash-fiction-challenge-knock-knock-whos-there/">Terribleminds.com</a>. It's a bit rough, but I hope you enjoy</em>  
 <!--more-->

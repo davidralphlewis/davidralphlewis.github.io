@@ -4,7 +4,7 @@ title: September Link Round up
 date: 2016-10-06 15:34  
 author: DavidRL  
 comments: true  
-categories: [Link round up]  
+categories: [link round up]  
 ---  
 Summer has flown away, the trees are turning and autumn has hit with a punch overnight. All of a sudden it's a bit grim outside and we hunker down, gather straw around us and hibernate until winter. Ah well, here's some things that I enjoyed in September, and you might too:  
 

@@ -4,7 +4,7 @@ title: Napowrimo 2020 Day 27- Serenity Study
 date: 2020-04-27 16:01  
 author: DavidRL  
 comments: true  
-categories: [Poetry]  
+categories: [poetry]  
 ---  
 <em>After Solmaz Sharif</em>  
 

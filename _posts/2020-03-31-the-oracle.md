@@ -4,7 +4,7 @@ title: The Oracle
 date: 2020-03-31 11:22  
 author: DavidRL  
 comments: true  
-categories: [Poetry]  
+categories: [poetry]  
 ---  
 Forgive me, I have lost my lexicon  
 of the future. Now I search the tangled  

@@ -4,7 +4,7 @@ title: May Link Round-up
 date: 2016-06-02 11:45  
 author: DavidRL  
 comments: true  
-categories: [Link round up]  
+categories: [link round up]  
 ---  
 
 Another month gone already. It feels like no time at all since I wrote my last link roundup, but here we are again. This month I've mostly been reading <em>The Bone Clocks</em> &amp; <em>Wonderbook</em>, but in between there's been a number of good articles.  

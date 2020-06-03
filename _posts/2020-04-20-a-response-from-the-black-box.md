@@ -4,7 +4,7 @@ title: A Response From the Black Box
 date: 2020-04-20 09:02  
 author: DavidRL  
 comments: true  
-categories: [This Was Meant To Be the Future]
+categories: [this was meant to be the future]
 masthead_style: banner
 featured_image: /assets/images/site/twmtbtf.jpeg  
 ---  

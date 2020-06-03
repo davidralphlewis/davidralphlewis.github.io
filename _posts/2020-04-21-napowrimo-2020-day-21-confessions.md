@@ -4,7 +4,7 @@ title: Napowrimo 2020 Day 21- Confessions
 date: 2020-04-21 16:01  
 author: DavidRL  
 comments: true  
-categories: [Poetry]  
+categories: [poetry]  
 ---  
 I know they have secrets to spill,  
 given everything they've witnessed.  

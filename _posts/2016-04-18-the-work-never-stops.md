@@ -4,7 +4,7 @@ title: The Work Never Stops
 date: 2016-04-18 11:12  
 author: DavidRL  
 comments: true  
-categories: [Creativity]  
+categories: [creativity] 
 ---  
 After I published my first book of short stories, <em><a href="/amberstars/">Amber Stars</a></em>, I took a week off writing. I enjoyed the achievement of actually finishing a project and publishing a book. So I kicked back, read some books, browsed the web a lot and created absolutely nothing.  
 

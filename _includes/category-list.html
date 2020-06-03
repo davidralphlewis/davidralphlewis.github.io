@@ -1,6 +1,11 @@
 {% include logic.html %}
 <div class="category-list">
+  <h2> Categories </h2?><br>
     {% for category in categories %}
         <a href="{{ site.permalink | replace: ':title/','articles/categories/' | absolute_url }}#{{ category[0] | replace: ' ', '-' }}" class="category-item btn btn-outline-light text-capitalize">{{ category[0] | replace: '-',' ' }} <span class="badge badge-dark ml-2">{{ category[1].size }}</span></a>
     {% endfor %}
+    <a href="/sitemap">
+  <h2>
+    Posts by year
+  </h2>
 </div>

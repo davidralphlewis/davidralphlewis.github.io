@@ -4,7 +4,7 @@ title: June Links - No Politics, I Promise
 date: 2016-07-06 11:50  
 author: DavidRL  
 comments: true  
-categories: [Link round up]  
+categories: [link round up]  
 ---  
 <div class="videoWrapper" style="--aspect-ratio: 3 / 4;>
   <iframe src="https://www.youtube.com/embed/nKF_0dEY2Oc"; frameborder="0" allowfullscreen></iframe>  

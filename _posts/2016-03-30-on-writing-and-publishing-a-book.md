@@ -4,7 +4,7 @@ title: On Writing and Publishing a Book
 date: 2016-03-30 12:52
 author: DavidRL
 comments: true
-categories: [My Writing]
+categories: [writing]
 ---
 Last Good Friday, I found myself hunched over the computer, fiddling with styles and formatting while outside was bright sunshine. It was all in aid of getting my first collection of short stories published, *Amber Stars*.
 

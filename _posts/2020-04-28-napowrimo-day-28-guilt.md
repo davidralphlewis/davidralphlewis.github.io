@@ -4,7 +4,7 @@ title: Napowrimo Day 28 - Guilt
 date: 2020-04-28 16:08  
 author: DavidRL  
 comments: true  
-categories: [Poetry]  
+categories: [poetry]  
 ---  
 The sky is a confusion of clouds  
 whereas just yesterday you could  

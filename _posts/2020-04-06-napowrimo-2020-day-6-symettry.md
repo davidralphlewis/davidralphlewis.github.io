@@ -4,7 +4,7 @@ title: Napowrimo 2020 day 6- Symmetry
 date: 2020-04-06 12:34  
 author: DavidRL  
 comments: true  
-categories: [Poetry]  
+categories: [poetry]  
 ---  
 Marigolds bloom geometrically,  
 thriving under this square sun.  

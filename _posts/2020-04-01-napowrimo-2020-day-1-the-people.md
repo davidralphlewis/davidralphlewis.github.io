@@ -4,7 +4,7 @@ title: NaPoWriMo 2020 Day 1- The People
 date: 2020-04-01 17:00  
 author: DavidRL  
 comments: true  
-categories: [Poetry]  
+categories: [poetry]  
 ---  
 We the spin, the shimmer.  
 We the sway, the light,  

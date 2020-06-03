@@ -4,7 +4,7 @@ title: Theatre and the Art of the Possible
 date: 2016-09-01 16:16  
 author: DavidRL  
 comments: true  
-categories: [Theatre]  
+categories: [theatre]  
 ---  
 I'm just back from a week in Scotland. I spent a couple of days at the Edinburgh Fringe, then onto the incredibly beautiful Isle of Skye.Then back to Edinburgh for a night. It was an excellent trip, filled with delight.  
 

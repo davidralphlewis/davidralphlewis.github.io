@@ -4,7 +4,7 @@ title: Links and Things I liked in April
 date: 2016-05-06 12:54  
 author: DavidRL  
 comments: true  
-categories: [Link round up]  
+categories: [link round up]  
 ---  
 Here, in no particular order, are some things I enjoyed over the last month:  
 

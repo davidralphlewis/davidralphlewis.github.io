@@ -4,7 +4,7 @@ title: Feeding my writing through a digital shredder
 date: 2016-06-07 12:55  
 author: DavidRL  
 comments: true  
-categories: [Poetry]  
+categories: [poetry]  
 ---  
 About a year ago, I got frustrated with my writing and decided to mess around with my first drafts and discarded attempts at stories. They had been languishing on my hard drive for years. I wasn't publishing them and they weren't being seen by anyone. To be honest, most of the stories just weren't very good.  
 <!--more-->

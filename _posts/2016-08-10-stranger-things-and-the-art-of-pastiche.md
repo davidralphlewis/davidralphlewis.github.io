@@ -4,7 +4,7 @@ title: Stranger Things and the art of Pastiche
 date: 2016-08-10 09:58  
 author: DavidRL  
 comments: true  
-categories: [Television]  
+categories: [television]  
 ---  
 **There be spoilers ahead**  
 

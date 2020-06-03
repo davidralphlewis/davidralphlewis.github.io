@@ -4,7 +4,7 @@ title: Napowrimo 2020 Day 30- Burn
 date: 2020-04-30 16:02  
 author: DavidRL  
 comments: true  
-categories: [Poetry]  
+categories: [poetry]  
 ---  
 I expect these days to fade like    
 photographs left on a windowsill.    

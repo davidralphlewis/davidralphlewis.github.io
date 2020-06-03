@@ -4,7 +4,7 @@ title: Napowrimo 2020 Day 23- Erasing
 date: 2020-04-23 15:13  
 author: DavidRL  
 comments: true  
-categories: [Poetry]  
+categories: [poetry]  
 ---  
 "I know how this goes!" I say to no-one  
 as light starts to intensify, obliterating  

@@ -4,7 +4,7 @@ title: NaPoWriMo 2018 Day 27
 date: 2018-04-27 17:17  
 author: DavidRL  
 comments: true  
-categories: [napowrimo, Poetry]  
+categories: [poetry] 
 ---  
 ## Dance  
 

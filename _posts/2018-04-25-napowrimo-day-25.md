@@ -4,7 +4,7 @@ title: NaPoWriMo 2018 Day 25
 date: 2018-04-25 16:50  
 author: DavidRL  
 comments: true  
-categories: [napowrimo, Poetry]
+categories: [poetry]
 ---  
 ## Neon  
 

@@ -4,7 +4,7 @@ title: NaPoWriMo 2018 Day 17
 date: 2018-04-17 15:37  
 author: DavidRL  
 comments: true  
-categories: [napowrimo, Poetry]
+categories: [poetry]
 ---  
 ## Escape  
 

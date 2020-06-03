@@ -4,7 +4,7 @@ title: Napowrimo 2020 Day 17- Waiting
 date: 2020-04-17 16:01  
 author: DavidRL  
 comments: true  
-categories: [Poetry]  
+categories: [poetry]  
 ---  
 My former body is discarded over  
 a plastic chair, abandoned to  

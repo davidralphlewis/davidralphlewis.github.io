@@ -4,7 +4,7 @@ title: Serenity Study zine
 date: 2020-04-30 11:28
 author: DavidRL
 comments: true
-categories: [poetry, zines]
+categories: [zines]
 ---
 
 I turned my poem from <a href="https://davidralphlewis.co.uk/napowrimo-2020-day-27-serenity-study/">NaPoWriMo Day 27 </a>into a little zine.

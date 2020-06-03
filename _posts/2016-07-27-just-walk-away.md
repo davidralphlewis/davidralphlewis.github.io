@@ -4,7 +4,7 @@ title: "Just Walk Away: On Cynicism and Subjectivity"
 date: 2016-07-27 10:26  
 author: DavidRL  
 comments: true  
-categories: [Music]  
+categories: [music]  
 ---  
 I was at Tramlines music festival in Sheffield at the weekend. There was sunshine, there was music, there was booze. Lots of good times were had. One of the bands I was most looking forward to seeing was Public Service Broadcasting, who did not disappoint.  
 

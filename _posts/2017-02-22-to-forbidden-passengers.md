@@ -1,0 +1,43 @@
+---  
+layout: default  
+title: "To Forbidden Passengers: Flash Fiction"  
+date: 2017-02-22 11:47  
+author: DavidRL  
+comments: true  
+categories: [stories]  
+---  
+* I wrote this from a Story prompt given by <a href="http://terribleminds.com/ramble/2017/02/17/flash-fiction-challenge-ten-more-titles-round-two/">Chuck Wendig</a>, over at <a href="http://terribleminds.com">Terrible Minds </a> I hope you enjoy!*  
+
+If you are reading this, congratulations. You have successfully made your way into the belly of the *Penumbra*. The journey to this point has been difficult. I know, because I did it myself.  
+
+Unless things have changed drastically since my time, it was a difficult path with many obstacles. I was almost discovered multiple times. I cannot believe I find myself in the hold of *Penumbra*, on my way to a new destination across the void. I write this to you, Forbidden passengers like me and you, stowaways walking the path to the future, in the hope that you will hear my story and sympathise. You will need something to keep you occupied in the long weeks ahead. I think it is worth reflecting on how far you have come.  
+
+<!--more-->  
+
+Firstly, you paid someone to transport you to the docking station. There are many unreliable guides. Most would have taken you to a random location, nowhere near the actual docking station. They would have taken you to an empty warehouse they claimed was the station, then left you to fend for yourself. Some would have taken you to the correct place, but tipped off the authorities at the same time. It is a double payday, getting our life savings as well as a bounty for hauling in the Forbidden. Our mere existence is a threat to them. Simply by breathing, we become the Forbidden. The penalties for smuggling us are high. The bounties are irresistible for many cowards.  
+
+A few disreputable guides are adverse to the risk but enjoy getting paid. They would have taken you outside the city, taken you beyond where the drones roam, waited for a quiet moment and shot you in the head. They would have left your bones to be picked clean by the wolves and vultures, your body rotting in a howling, empty field. These are the bad guides.  
+
+I chose a good one. Clearly, so did you. I was lucky. I was well hidden and had the luxury of time to research my potential guides. I vetted them. I met with the man I chose twice and asked my questions carefully. I knew of the risks. There were friends that never reappeared. Many were blindly ignorant and put their trust in the first person who offered. As a rule of thumb, I am naturally suspicious. This world has honed that trait by scorning me and then casting me as Forbidden. It was a good survival trait. You will have similar traits. You have made it this far.  
+
+At the docking station, you somehow got past the full body scanners that cover the entrance. There are numerous tricks to confuse the sensors. Anti-heat pads, static jammers. I wonder which one you chose? It must have been ingenious because the authorities are continually updating the software to counter known threats. As you know, they will evaporate any of the Forbidden on sight. It is a painless way to go, I am told. Although there can never really be any empirical proof of that. How would they know? It could be the most painful moment of your short life. You have done well to avoid the scanners. I simply went over the top, crawling within the ceiling. It was dusty and the air was limited, but it was necessary. I imagine it has now been jammed up.  
+
+After the scanners, you would have been lost in the maze of tunnels and corridors that make up the docking station. You would have kept your head down, avoiding the roaming cameras. You would have pressed yourself into the wall when necessary, blended in with the crowd at other times. You wouldn't have been able to ask anyone for help. If they had seen you, they might have realised you were Forbidden. Their faces would have fallen and they would have called the authorities. The authorities would have dragged you away for execution. So close but so far.  
+
+So you probably had the route memorised, or else you would have stumbled around the docking station until you attracted attention, then got dragged off. Or else you would have lost yourself in the warrens of the corridors, maybe wandering lost for days. I knew the route off by heart, practised it for weeks until it was a part of my being. When it came to the port, I did not hesitate. I simply walked the route I knew so well, not deviating in the slightest. Nobody stopped me because I looked like I knew where I was going. My head was covered so no one knew I was Forbidden. I imagine you did something similar.  
+
+Once you got to the destination, the gate that held the *Penumbra*, it would have been the most nerve-wracking part of the journey. One false move here and that would have been it. You needed to find a single member of the crew who met a specific description. You needed to make contact with them and pay then to smuggle you onto the ship, like some sort of contraband cargo. If you spoke to the wrong person, that was the end of it. I was told he had a brown beard and was called Sam. Of course, there were many people with brown beards milling around, but one specific person caught my eye. He was not moving around like the others, but staring straight at me, stood completely still. I took a deep breath and went up to him. It paid off. Clearly, it did for you too. It was the single most risky part for me because it was out of my hands. I trusted in fate or whatever you want to call it.  
+
+Sam agreed to transport me, and presumably you. He packed me into a crate and took me abroad. Now here I am, in the belly of the *Penumbra*, waiting for the weeks to tick by. He has brought me food when I can, but the gaps in between have been long and the rations meagre. I am writing this by the small hold light, which as you will know is barely adequate.  
+
+Despite all our present trials, dear Forbidden passenger, despite the pain and suffering we have undergone in getting to this dungeon, I wanted to give you heart. It was necessary to endure these difficulties because the alternative is too much to bear. They call us Forbidden. They deem we are not worthy of life. If they tell us that enough, we start to believe that our existence is not necessary. We start to believe we are inferior. That is not the case. We have been shunned for too long in this society. They remove our dignity and hunt us like scared animals. To be Forbidden is to exiled from the society you have lived in since you were born. To be Forbidden is to be denied the basic rights of humanity as everyone else. We cannot endure this. This is what you are leaving behind, dear fellow passenger. You may mourn your home, but it has not been yours for some time. They have taken that away from us.  
+
+But you and I have taken the risk. We have decided that the treatment of the Forbidden is cruel and unusual. We were not prepared to lie down and have our lives taken away from us. We have strived to escape our circumstances, to get to a place millions of miles away across the void where we can have the same rights as everyone else. We have resisted the categorisation as Forbidden and simply seen ourselves as living. We strive for freedom, like everyone else. It is a huge, brave journey we are on but it is the only way.  
+
+I am telling you this story because it is important to remember why we strive towards the stars. The journey is not yet over. There are weeks ahead in this small, cramped cargo bay. There will be limited food. You will have to pass security checks once you reach our destination. These will be unpleasant. There are several obstacles ahead. But it is better to die trying to escape than to lie down inert and useless. The journey is difficult but it is an essential one.  
+
+Take heart, Forbidden passenger. Many have done the journey before and many will follow. Once you reach our destination, you can hold your head high, breath in the air freely and shake off the label of Forbidden. For the first time, you can just be yourself.  
+
+I hope these words give you comfort. Good luck  
+
+-A fellow traveller.  

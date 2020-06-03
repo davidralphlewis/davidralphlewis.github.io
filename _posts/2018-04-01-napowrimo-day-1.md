@@ -4,7 +4,7 @@ title: napowrimo 2018 Day 1
 date: 2018-04-01 14:15  
 author: DavidRL  
 comments: true  
-categories: [Poetry]  
+categories: [poetry]  
 ---  
 I'm doing this again. Last year I quite enjoyed the process of creating a brand new poem every day in April so have decided to do it again.  
 

@@ -4,7 +4,7 @@ title: Truth Bombs
 date: 2020-03-20 12:23  
 author: DavidRL  
 comments: true  
-categories: [This Was Meant To Be the Future]
+categories: [this was meant to be the future]
 masthead_style: banner
 featured_image: /assets/images/site/twmtbtf.jpeg  
 ---  

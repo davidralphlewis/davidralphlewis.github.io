@@ -4,7 +4,7 @@ title: Napowrimo 2020 Day 25- Some Advice
 date: 2020-04-25 10:22  
 author: DavidRL  
 comments: true  
-categories: [Poetry]  
+categories: [poetry]  
 ---  
 I wouldn't open that door if I were you.  
 Last year I stored the Atlantic ocean  

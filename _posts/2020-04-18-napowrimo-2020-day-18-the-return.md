@@ -4,7 +4,7 @@ title: Napowrimo 2020 Day 18 - The Return
 date: 2020-04-18 10:10  
 author: DavidRL  
 comments: true  
-categories: [Poetry]  
+categories: [poetry]  
 ---  
 When I landed I felt the weight  
 of myself rush back into my body  

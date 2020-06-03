@@ -4,7 +4,7 @@ title: Napowrimo 2020 Day 19- The Movement of Boulders
 date: 2020-04-19 10:16  
 author: DavidRL  
 comments: true  
-categories: [Poetry]  
+categories: [poetry]  
 ---  
 Given the kindness and cruelty of time,  
 a majority forgot those years where  

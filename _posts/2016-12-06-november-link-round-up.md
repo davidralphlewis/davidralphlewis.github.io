@@ -4,7 +4,7 @@ title: November Link Round up
 date: 2016-12-06 13:57  
 author: DavidRL  
 comments: true  
-categories: [Link round up]  
+categories: [link round up]  
 ---  
 Now the nights are drawing in and daylight is a distant memory. We surrender ourselves to the dark and cold, waiting and hibernating until spring.  
 

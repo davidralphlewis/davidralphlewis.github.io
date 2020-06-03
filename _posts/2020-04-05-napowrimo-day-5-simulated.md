@@ -4,7 +4,7 @@ title: Napowrimo 2020 day 5 - Simulated
 date: 2020-04-05 11:33  
 author: DavidRL  
 comments: true  
-categories: [napowrimo, Poetry]  
+categories: [poetry] 
 ---  
 Seemingly infinite, the night sky  
 is the most consistent falsehood.  

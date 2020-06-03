@@ -4,7 +4,7 @@ title: Napowrimo 2020 Day 16 - Surface Tension
 date: 2020-04-16 12:37  
 author: DavidRL  
 comments: true  
-categories: [Poetry]  
+categories: [poetry]  
 ---  
 Between worlds the shine of the sea,  
 the light that marks the dividing line  

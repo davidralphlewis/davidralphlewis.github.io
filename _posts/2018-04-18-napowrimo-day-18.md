@@ -4,7 +4,7 @@ title: NaPoWriMo 2018 Day 18
 date: 2018-04-18 16:57  
 author: DavidRL  
 comments: true  
-categories: [napowrimo, Poetry]
+categories: [poetry]
 ---  
 ## Found  
 

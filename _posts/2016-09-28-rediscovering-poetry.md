@@ -4,7 +4,7 @@ title: Rediscovering poetry
 date: 2016-09-28 13:05  
 author: DavidRL  
 comments: true  
-categories: [Poetry]  
+categories: [poetry]  
 ---  
 When I was a teenager, I wrote poetry. Well, maybe that's the wrong word. It was half-baked doggerel chopped up into lines that showed how really angsty I was, man, and how no one understood me. You know. Teenage stuff. I scrawled in notebooks, filling endless pages with such nonsense.  
 

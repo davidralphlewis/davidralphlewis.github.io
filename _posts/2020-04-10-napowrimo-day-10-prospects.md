@@ -4,7 +4,7 @@ title: Napowrimo day 10- Prospects
 date: 2020-04-10 13:26  
 author: DavidRL  
 comments: true  
-categories: [Poetry]  
+categories: [poetry]  
 ---  
 Pious parsons pass pyres,  
 proclaim pretty prayers,  

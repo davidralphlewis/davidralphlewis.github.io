@@ -4,7 +4,7 @@ title: Napowrimo 2020 Day 8 - Stagecraft
 date: 2020-04-08 16:02  
 author: DavidRL  
 comments: true  
-categories: [Poetry]  
+categories: [poetry]  
 ---  
 What is going on? I ask the  
 walls every sixteen minutes.  

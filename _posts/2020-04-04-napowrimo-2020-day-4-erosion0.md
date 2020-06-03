@@ -4,7 +4,7 @@ title: Napowrimo 2020 Day 4- Erosion
 date: 2020-04-04 10:35  
 author: DavidRL  
 comments: true  
-categories: [napowrimo, Poetry]  
+categories: [poetry] 
 ---  
 On this day, a room darkened by a flash,  
 unfamiliar faces are made abstract by  

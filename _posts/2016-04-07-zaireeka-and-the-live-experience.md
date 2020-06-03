@@ -4,7 +4,7 @@ title: Zaireeka and the live experience
 date: 2016-04-07 10:13  
 author: DavidRL  
 comments: true  
-categories: [Music]  
+categories: [music]  
 ---  
 The live music experience is still thriving, even as CD sales fall. For many bands, it is the primary way of making a living. It seems odd that even as we devalue recorded music, live music has stayed important. I believe it comes down to the experience.  
 

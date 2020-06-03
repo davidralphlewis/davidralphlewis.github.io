@@ -4,7 +4,7 @@ title: Nick Cave and music that is too difficult to listen to
 date: 2016-10-28 12:43  
 author: DavidRL  
 comments: true  
-categories: [Music]  
+categories: [music]  
 ---
 I finally got round to listening to the new Nick Cave &amp; The Bad Seeds album *Skeleton Tree*. It is an incredible listen, but also quite harrowing. After twenty-three years as a band and sixteen studio releases, the music still manages to sound fresh and different. Warren Ellis' sparse but haunting instrumentation adds a strange melancholy air to the proceedings. I've listened a few times now and I think it might be one of my favourite albums by the band. But also, I don't plan on listening to it too much.  
 <!--more-->  

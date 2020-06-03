@@ -4,7 +4,7 @@ title: October Link Round Up
 date: 2016-11-08 16:55  
 author: DavidRL  
 comments: true  
-categories: [Link round up]  
+categories: [link round up]  
 ---  
 Summer is a distant memory now. We huddle around the fire for warmth and watch the leaves slowly drift to the ground. It's chilly outside. Best to draw up the blankets around you, grab a hot drink and hibernate for the winter. Here are a few links to keep you going  
 

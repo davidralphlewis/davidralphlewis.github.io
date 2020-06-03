@@ -4,7 +4,7 @@ title: The Ambiguity of Captain Fantastic
 date: 2016-09-14 16:03  
 author: DavidRL  
 comments: true  
-categories: [Films]  
+categories: [films]  
 ---  
 *Captain Fantastic* is a brilliant film. Sensitive and compassionate, it tells the story of a family isolated from society, who are forced to go cross country to attend their mother's funeral. In doing so, they have to enter mainstream society for the first time. It is remarkably beautiful, with an excellent script and nuanced performances, especially from the children and Viggo Mortensen as Ben.  
 

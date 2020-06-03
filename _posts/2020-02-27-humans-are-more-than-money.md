@@ -4,7 +4,7 @@ title: Humans are more than money
 date: 2020-02-27 20:48  
 author: DavidRL  
 comments: true  
-categories: [Politics]  
+categories: [politics]  
 ---  
 Humans are worth more than the contents of their bank accounts.  That should not be the only criteria we judge them on. Humans are part of society. Humans are activists, speakers, community members, idea incubators, balls of potential that given the right prompting can transform into something new.  
 

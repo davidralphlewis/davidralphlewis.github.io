@@ -4,7 +4,7 @@ title: Napowrimo 2020 Day 14 - Modified
 date: 2020-04-14 12:16  
 author: DavidRL  
 comments: true  
-categories: [Poetry]  
+categories: [poetry]  
 ---  
 Purple clouds transform and jitter  
 over the emerald sky. My limbs  

@@ -4,7 +4,7 @@ title: Napowrimo 2020 Day 3 - Peas
 date: 2020-04-03 16:01  
 author: DavidRL  
 comments: true  
-categories: [Poetry]  
+categories: [poetry]  
 ---  
 It's still magic.  
 The emergence  

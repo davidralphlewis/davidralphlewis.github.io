@@ -4,9 +4,9 @@ title: NaPoWriMo 2019 Day 5
 date: 2019-04-05 11:18  
 author: DavidRL  
 comments: true  
-categories: [napowrimo, Poetry]  
+categories: [poetry] 
 ---  
-<!-- wp:heading -->  
+  
 <h2>Dissonance</h2>  
 <!-- /wp:heading -->  
 

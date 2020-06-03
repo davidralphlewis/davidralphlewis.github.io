@@ -4,7 +4,7 @@ title: Napowrimo 2020 Day 26- We Are Mostly Empty
 date: 2020-04-26 14:53  
 author: DavidRL  
 comments: true  
-categories: [Poetry]  
+categories: [poetry]  
 ---  
 As we tumbled through the void,  
 everything was calm and peaceful  

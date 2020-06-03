@@ -4,7 +4,7 @@ title: Napwriomo 2020 Day 29- Fragment
 date: 2020-04-29 16:08  
 author: DavidRL  
 comments: true  
-categories: [Poetry]  
+categories: [poetry]  
 ---  
 Today my mind is like confetti thrown  
 to the wind, like a website with every  

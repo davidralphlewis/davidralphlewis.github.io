@@ -1,0 +1,29 @@
+---  
+layout: default  
+title: George Saunders and Normalisation  
+date: 2017-02-08 13:06  
+author: DavidRL  
+comments: true  
+categories: [book review]  
+---  
+In these days of increasing insanity in the world of politics, I find myself thinking more and more about the fiction of George Saunders. He understands that humans will adapt to any situation, however bizarre and will build their identities around it, even if that situation is horrifying. Many of his characters rebel against the situations, or come to the realisation that, like Brexit or Trump, this is not normal. Since I read *Tenth of December* last year, the beautifully crafted short stories have become more and more relevant to the modern age. We seem to be living the surreal sci-fi world that Saunders created.  
+
+Spoilers ahead  
+<!--more-->  
+
+The main skill of Saunders is being able to get into his characters heads. The reader is forced to keep up with the stream of slang and situations which are normal to the characters but are strange to us. In *Escape from Spiderhead*, we see things from Jeff's view as he is injected with multiple drugs. The opening disorientated us with its unusual slang and weird situations:  
+
+> Absenti used his remote. My Mobipak™ whirred. Soon, the Interior Garden looked real nice. Everything seemed super clear. >  
+
+Saunders manages to create a whole world from Jeff's perspective. Each sentence gives us new information about the character and the bizarre laboratory he finds himself it. By not providing direct exposition about the situation, Saunders forces us to learn about the world ourselves, seeing thing from Jeff's perspective. Jeff considers his reality, with its mindbending drugs that drastically affect his mood, to be completely normal. We don't know how he ended up in this position but we know he has been in it long enough to not think it unusual. The unthinkable has become reality and he has adapted directly to it. We see this again and again in Saunders fiction, where characters consider the most bizarre situations to be perfectly fine. They have adapted to the surreal nature of the world around them, even as the system has been bent rapidly out of shape. Humans are tenacious and able to normalise anything that comes their way.  
+
+Even more extreme is *The Semplica Girl Diaries*, a horrific look at a society obsessed with class and status, to the detriment of other cultures. It starts so close to reality, with the protagonist writing in a diary about his struggles at work and at home. It's a character that many would sympathise with as he struggles to make ends meet. Later, the idea of the Semplica Girls is introduced, women from poorer countries who are hung with a wire through their brains in the garden. The wire goes through a special pathway and they swing, quite alive, as an ultimate status symbol for and affluent middle class. Saunder ramps up the uncomfortableness to the audience by making the main character completely alright with the situation. He is too concerned with status and providing for his kids. His young child, Eva, does have a problem with it though, seeing it as harmful and dangerous. He tries to explain it to her:  
+
+>   
+Point is, I said, everything relative. SGs have lived very different lives from us. Their lives brutal, harsh, uncompromising. What looks scary/Unpleasant to us may not be so scary/ unpleasant to them i.e., they have seen worse.>  
+
+With that justification, he can allow a whole host of horrors, displaying women as if they were trophies because their life might be worse elsewhere. Eva accepts this as an explanation for a time, but he has adapted completely to treating other human beings like objects. Society has justified the horrific treatment and the main character is simply trying to go along with it, trying to keep his place in the pecking order. He is too tired and too used to the system to question anything about it.  
+
+In his stories though, Saunders shows basic humanity winning through. The characters reject what is normal in the society and rebel against it. In *Escape from Spiderhead*, Jeff chooses to inject himself with a deadly drug, rather than harm another patient. In *The Semplica Girl Diaries*, Eva cuts the Semplica girls down from the line and lets the women go free. Neither of these choices are easy and both have unintended consequences which Saunders does not shy away from. But the characters reject the normality of the society they live in and focus on the humanity and decency of their actions. Instead of causing harm to others as society expects, they try to cause the least harm. An inner morality wins out instead of the norms of society.  
+
+I think that's why the stories have resonated with me over the past months. Our leaders are trying to change society and divide us further. They want to change what is normal, encouraging people to hate their neighbours based on some arbitrary distinction such as race, gender or sexuality. But like the characters in Saunders stories, we reject that. We know that humanity unites us, rather than divides us. That's why we need to be constantly reminded that this is not normal, so we don't get used to casual cruelty against others.  

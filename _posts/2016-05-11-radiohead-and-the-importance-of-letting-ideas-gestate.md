@@ -4,7 +4,7 @@ title: Radiohead and the importance of letting ideas gestate
 date: 2016-05-11 12:48  
 author: DavidRL  
 comments: true  
-categories: [Music]  
+categories: [music]  
 ---  
 I've been hugely excited to listen to the new Radiohead album <em>A Moon Shaped Pool</em>. It's really good, thankfully. There's lush, layered sounds and a strange type of orchestration, with genuine emotion in a number of the songs.  
 

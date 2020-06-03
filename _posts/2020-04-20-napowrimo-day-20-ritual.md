@@ -4,7 +4,7 @@ title: Napowrimo day 20- Ritual
 date: 2020-04-20 11:40  
 author: DavidRL  
 comments: true  
-categories: [Poetry]  
+categories: [poetry]  
 ---  
 Thick mists and darkness linger. Crows try  
 listlessly to call the day into being, to  

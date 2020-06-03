@@ -4,7 +4,7 @@ title: Napowrimo 2020 Day 11 - Lies the television told me
 date: 2020-04-11 11:39  
 author: DavidRL  
 comments: true  
-categories: [Poetry]  
+categories: [poetry]  
 ---  
 Potential pervades-  
 the message of every saturated  

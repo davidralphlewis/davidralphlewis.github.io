@@ -4,7 +4,7 @@ title: NaPoWriMo 2018 Day 28
 date: 2018-04-28 18:33  
 author: DavidRL  
 comments: true  
-categories: [napowrimo, Poetry]
+categories: [poetry]
 ---  
 ## Mountain  
 

@@ -4,10 +4,10 @@ title: Time's gone weird
 date: 2020-03-22 09:26  
 author: DavidRL  
 comments: true  
-categories: [Plague notes]  
+categories: [plague notes]  
 ---  
 I have a fancy new profile picture thanks to <a href="https://instagram.com/samsnapsalot">Sam Cavender</a> and his restored Mayima. Oooh medium format expired film. It makes me want to dig out my film cameras again  
-<!--more-->
+
 <img class="size-large alignnone wp-image-3734" src="https://davidralphlewis.co.uk/wp-content/uploads/2020/03/000001040008b-12251536499644372930.-scaled.jpg" width="1024" height="740" />  
 
 It was taken after the<a href="https://www.lyrafest.com/"> Lyra Festival</a> slam last Saturday. So only a week ago but it feels like forever. A lot has happened since then. There's been so much rapid change to our way of life that time has expanded, so a day feels like a week and a week feels like a year.  

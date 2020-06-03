@@ -4,7 +4,7 @@ title: NaPoWriMo 2018 Day 22
 date: 2018-04-22 18:30  
 author: DavidRL  
 comments: true  
-categories: [napowrimo, Poetry]
+categories: [poetry]
 ---  
 ## Gratitude  
 

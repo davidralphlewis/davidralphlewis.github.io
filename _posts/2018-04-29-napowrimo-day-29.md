@@ -4,7 +4,7 @@ title: NaPoWriMo 2018 Day 29
 date: 2018-04-29 17:00  
 author: DavidRL  
 comments: true  
-categories: [napowrimo, Poetry]
+categories: [poetry]
 ---  
 ## Astonishing  
 

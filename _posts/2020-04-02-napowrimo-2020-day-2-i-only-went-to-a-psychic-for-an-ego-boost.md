@@ -4,7 +4,7 @@ title: "NaPowriMo 2020 Day 2 - 'I only went to a psychic for an ego boost'"
 date: 2020-04-02 16:03  
 author: DavidRL  
 comments: true  
-categories: [Poetry]  
+categories: [poetry]  
 ---  
 Lost to the comfort of burnt sage  
 and bergamot, I do not remember  

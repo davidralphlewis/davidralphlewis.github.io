@@ -4,7 +4,7 @@ title: Napowrimo 2020 Day 12- How to hear the hills
 date: 2020-04-12 11:43  
 author: DavidRL  
 comments: true  
-categories: [Poetry]  
+categories: [poetry]  
 ---  
 You will need a clear night, far  
 from the city's illuminated fears,  

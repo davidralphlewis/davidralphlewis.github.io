@@ -4,7 +4,7 @@ title: Squeamish
 date: 2020-02-20 11:14  
 author: DavidRL  
 comments: true  
-categories: [This Was Meant To Be the Future]
+categories: [this was meant to be the future]
 masthead_style: banner
 featured_image: /assets/images/site/twmtbtf.jpeg 
 ---  
