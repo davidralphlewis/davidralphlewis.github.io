@@ -6,5 +6,5 @@ author: DavidRL
 comments: true  
 categories: [erasure poetry]  
 ---  
-![the end of an era](/assets/images/articles/endofanera.jpeg)
+![the end of an era](/assets/images/articles/endofanera.jpeg)<br>
 Taken from the review pages of Crack magazine, March 2020

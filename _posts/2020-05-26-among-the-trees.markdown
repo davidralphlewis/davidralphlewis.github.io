@@ -7,5 +7,5 @@ comments: true
 categories: [erasure poetry]  
 ---
 
-![among the trees](/assets/images/articles/amongthetrees.jpeg)
+![among the trees](/assets/images/articles/amongthetrees.jpeg)<br>
 Taken from the review pages of Crack magazine, March 2020
