@@ -1,5 +1,5 @@
 ---  
-layout: default  
+layout: post  
 title: The Cement Garden by Ian McEwan- Book Review  
 date: 2016-04-21 10:44  
 author: DavidRL  

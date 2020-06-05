@@ -1,5 +1,5 @@
 ---  
-layout: default  
+layout: post  
 title: Making the familiar strange  
 date: 2019-03-04 12:16  
 author: DavidRL  

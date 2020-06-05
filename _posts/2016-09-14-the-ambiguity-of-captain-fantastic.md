@@ -1,5 +1,5 @@
 ---  
-layout: default  
+layout: post  
 title: The Ambiguity of Captain Fantastic  
 date: 2016-09-14 16:03  
 author: DavidRL  

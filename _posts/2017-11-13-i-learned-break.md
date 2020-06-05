@@ -1,5 +1,5 @@
 ---  
-layout: default  
+layout: post  
 title: What I learned on my break  
 date: 2017-11-13 08:46  
 author: DavidRL  

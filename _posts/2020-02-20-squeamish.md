@@ -1,5 +1,5 @@
 ---  
-layout: default  
+layout: post  
 title: Squeamish  
 date: 2020-02-20 11:14  
 author: DavidRL  

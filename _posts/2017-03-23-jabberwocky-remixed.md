@@ -1,5 +1,5 @@
 ---  
-layout: default  
+layout: post  
 title: Jabberwocky Remixed  
 date: 2017-03-23 16:00  
 author: DavidRL  

@@ -1,5 +1,5 @@
 ---  
-layout: default  
+layout: post  
 title: Remain Vigilant  
 date: 2016-11-23 16:03  
 author: DavidRL  

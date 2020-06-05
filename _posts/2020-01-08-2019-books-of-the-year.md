@@ -1,5 +1,5 @@
 ---  
-layout: default  
+layout: post  
 title: "2019: books of the year"  
 date: 2020-01-08 19:48  
 author: DavidRL  

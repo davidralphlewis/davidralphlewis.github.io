@@ -1,5 +1,5 @@
 ---  
-layout: default  
+layout: post  
 title: White Noise  
 date: 2017-05-25 13:09  
 author: DavidRL  

@@ -1,5 +1,5 @@
 ---  
-layout: default  
+layout: post  
 title: Be quiet and listen  
 date: 2019-06-15 14:32  
 author: DavidRL  

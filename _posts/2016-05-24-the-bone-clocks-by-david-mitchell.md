@@ -1,5 +1,5 @@
 ---  
-layout: default  
+layout: post  
 title: The Bone Clocks by David Mitchell  
 date: 2016-05-24 12:13  
 author: DavidRL  

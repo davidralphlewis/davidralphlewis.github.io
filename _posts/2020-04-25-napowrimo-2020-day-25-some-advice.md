@@ -1,5 +1,5 @@
 ---  
-layout: default  
+layout: post  
 title: Napowrimo 2020 Day 25- Some Advice  
 date: 2020-04-25 10:22  
 author: DavidRL  

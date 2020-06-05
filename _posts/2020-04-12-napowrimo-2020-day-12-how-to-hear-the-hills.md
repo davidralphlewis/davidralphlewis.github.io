@@ -1,5 +1,5 @@
 ---  
-layout: default  
+layout: post  
 title: Napowrimo 2020 Day 12- How to hear the hills  
 date: 2020-04-12 11:43  
 author: DavidRL  

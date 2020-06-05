@@ -1,5 +1,5 @@
 ---  
-layout: default  
+layout: post  
 title: Whiplash and the Dangerous Myth of the Suffering Artist  
 date: 2018-05-23 20:48  
 author: DavidRL  

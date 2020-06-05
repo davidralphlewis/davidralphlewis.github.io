@@ -1,5 +1,5 @@
 ---  
-layout: default  
+layout: post  
 title: "2018 in Review: A Poem"
 date: 2018-12-15 11:24  
 author: DavidRL  

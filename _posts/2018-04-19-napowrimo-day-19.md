@@ -1,5 +1,5 @@
 ---  
-layout: default  
+layout: post  
 title: NaPoWriMo 2018 Day 19  
 date: 2018-04-19 17:01  
 author: DavidRL  

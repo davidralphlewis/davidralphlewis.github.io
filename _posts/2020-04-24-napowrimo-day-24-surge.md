@@ -1,5 +1,5 @@
 ---  
-layout: default  
+layout: post  
 title: Napowrimo Day 24 - Ripples  
 date: 2020-04-24 12:40  
 author: DavidRL  

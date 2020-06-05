@@ -1,5 +1,5 @@
 ---  
-layout: default
+layout: post
 title: "'The Shock Doctrine' and the Modern World."
 date: 2016-10-19 15:48  
 author: DavidRL  

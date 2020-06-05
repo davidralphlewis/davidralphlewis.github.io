@@ -1,5 +1,5 @@
 ---  
-layout: default  
+layout: post  
 title: Napowrimo 2018 Day 9  
 date: 2018-04-09 17:13  
 author: DavidRL  

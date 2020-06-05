@@ -1,0 +1,29 @@
+<!--
+
+{% include ascii.html %}
+
+{{ site.url }}
+
+-->
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: 'en' }}">
+  <head>
+    {% include head.html %}
+    <link rel="shortcut icon" type="image/x-icon" href="/assets/images/site/logo.png">
+    {% if jekyll.environment == 'production' %}
+    {% include analytics.html %}
+    {% endif %}
+  </head>
+  <body>
+    {% include navigation.html %}
+    {% include masthead2.html %}
+    {% include content2.html %}
+    {% include footer.html %}
+    <hr>
+    {% if site.disqus.shortname %}
+    {% include disqus_comments.html %}
+    {% endif %}
+
+  </body>
+
+</html>

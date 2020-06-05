@@ -1,5 +1,5 @@
 ---  
-layout: default  
+layout: post  
 title: Napowrimo 2018 Day 2  
 date: 2018-04-02 12:33  
 author: DavidRL  

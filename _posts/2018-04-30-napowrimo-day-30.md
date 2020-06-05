@@ -1,5 +1,5 @@
 ---  
-layout: default  
+layout: post  
 title: NaPoWriMo 2018 Day 30  
 date: 2018-04-30 17:02  
 author: DavidRL  

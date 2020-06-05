@@ -1,5 +1,5 @@
 ---  
-layout: default  
+layout: post  
 title: Napowrimo 2020 Day 21- Confessions  
 date: 2020-04-21 16:01  
 author: DavidRL  

@@ -1,5 +1,5 @@
 ---  
-layout: default  
+layout: post  
 title: Tis the Season  
 date: 2019-12-20 21:11  
 author: DavidRL  

@@ -1,5 +1,5 @@
 ---  
-layout: default  
+layout: post  
 title: How to Be Free  
 date: 2019-08-16 11:33  
 author: DavidRL  

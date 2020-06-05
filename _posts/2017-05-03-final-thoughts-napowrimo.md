@@ -1,5 +1,5 @@
 ---  
-layout: default  
+layout: post  
 title: At the End of NaPoWriMo  
 date: 2017-05-03 15:52  
 author: DavidRL  

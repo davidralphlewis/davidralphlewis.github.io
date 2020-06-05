@@ -1,5 +1,5 @@
 ---  
-layout: default  
+layout: post  
 title: Surveillance, the Investigatory Powers Bill and Remain Vigilant  
 date: 2016-11-29 17:08  
 author: DavidRL  

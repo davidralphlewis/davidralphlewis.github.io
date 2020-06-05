@@ -1,5 +1,5 @@
 ---  
-layout: default  
+layout: post  
 title: George Saunders and Normalisation  
 date: 2017-02-08 13:06  
 author: DavidRL  

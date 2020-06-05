@@ -1,5 +1,5 @@
 ---  
-layout: default  
+layout: post  
 title: Brexit and the story we have been told  
 date: 2016-06-25 12:52  
 author: DavidRL  

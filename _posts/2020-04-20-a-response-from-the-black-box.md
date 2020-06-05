@@ -1,5 +1,5 @@
 ---  
-layout: default  
+layout: post  
 title: A Response From the Black Box  
 date: 2020-04-20 09:02  
 author: DavidRL  

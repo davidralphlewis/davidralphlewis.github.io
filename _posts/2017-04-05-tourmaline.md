@@ -1,5 +1,5 @@
 ---  
-layout: default  
+layout: post  
 title: "Tourmaline: Flash Fiction"
 date: 2017-04-05 16:20  
 author: DavidRL  

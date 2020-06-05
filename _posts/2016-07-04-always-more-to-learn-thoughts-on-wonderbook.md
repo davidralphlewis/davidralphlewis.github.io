@@ -1,5 +1,5 @@
 ---  
-layout: default  
+layout: post  
 title: "Always more to learn: Thoughts on 'Wonderbook'"  
 date: 2016-07-04 08:30  
 author: DavidRL  

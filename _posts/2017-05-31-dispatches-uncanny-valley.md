@@ -1,5 +1,5 @@
 ---  
-layout: default  
+layout: post  
 title: Dispatches from the Uncanny Valley  
 date: 2017-05-31 12:48  
 author: DavidRL  

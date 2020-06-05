@@ -1,5 +1,5 @@
 ---  
-layout: default  
+layout: post  
 title: "Subject: My Demise"  
 date: 2019-06-25 12:19  
 author: DavidRL  

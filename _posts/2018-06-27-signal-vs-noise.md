@@ -1,5 +1,5 @@
 ---  
-layout: default  
+layout: post  
 title: Signal Vs. Noise  
 date: 2018-06-27 19:53  
 author: DavidRL  

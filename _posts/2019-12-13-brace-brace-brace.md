@@ -1,5 +1,5 @@
 ---  
-layout: default  
+layout: post  
 title: Brace brace brace  
 date: 2019-12-13 12:19  
 author: DavidRL  

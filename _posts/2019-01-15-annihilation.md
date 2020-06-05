@@ -1,5 +1,5 @@
 ---  
-layout: default  
+layout: post  
 title: Thoughts on 'Annihilation'  
 date: 2019-01-15 20:47  
 author: DavidRL  

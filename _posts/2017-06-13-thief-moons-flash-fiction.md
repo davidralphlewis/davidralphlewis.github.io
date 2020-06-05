@@ -1,5 +1,5 @@
 ---  
-layout: default  
+layout: post  
 title: "The Thief of Moons: Flash Fiction"  
 date: 2017-06-13 19:53  
 author: DavidRL  

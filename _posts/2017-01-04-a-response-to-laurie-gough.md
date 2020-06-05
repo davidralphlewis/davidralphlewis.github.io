@@ -1,5 +1,5 @@
 ---  
-layout: default  
+layout: post  
 title: A response to Laurie Gough  
 date: 2017-01-04 15:20  
 author: DavidRL  

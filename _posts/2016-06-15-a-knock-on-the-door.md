@@ -1,5 +1,5 @@
 ---  
-layout: default  
+layout: post  
 title: A Knock on the door  
 date: 2016-06-15 11:11  
 author: DavidRL  

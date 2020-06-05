@@ -28,18 +28,28 @@ a:hover {
 }
 
 
+
 main {
    p {
     margin: 1.5em;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
     }
 
     h1 {
         border-bottom: 1px solid var(--divider-color);
         padding-top: 50px;
+        max-width: 800px;
+        margin-left: auto;
+        margin-right: auto;
     }
 
     h1, h2, h3, h4, h5, h6 {
         padding-bottom: .5rem;
+        max-width: 800px;
+        margin-left: auto;
+        margin-right: auto;
     }
 
     hr {
@@ -104,6 +114,23 @@ main {
     padding-top: 2rem
 }
 
+PageNavigation {
+  font-size: 14px;
+  display: block;
+  width: auto;
+  overflow: hidden;
+}
+
+.PageNavigation a {
+  display: block;
+  width: 50%;
+  float: left;
+  margin: 1em 0;
+}
+
+.PageNavigation .next {
+  text-align: right;
+}
 /* Footer */
 
 footer {

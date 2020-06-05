@@ -1,5 +1,5 @@
 ---  
-layout: default  
+layout: post  
 title: Writing Fast and Sloppy  
 date: 2016-08-17 16:08  
 author: DavidRL  

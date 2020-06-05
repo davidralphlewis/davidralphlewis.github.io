@@ -1,5 +1,5 @@
 ---  
-layout: default  
+layout: post  
 title: Napowrimo 2020 Day 26- We Are Mostly Empty  
 date: 2020-04-26 14:53  
 author: DavidRL  

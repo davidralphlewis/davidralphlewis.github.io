@@ -1,5 +1,5 @@
 ---  
-layout: default  
+layout: post  
 title: Everything is a story  
 date: 2017-05-10 16:26  
 author: DavidRL  

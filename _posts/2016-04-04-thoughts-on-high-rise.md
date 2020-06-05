@@ -1,5 +1,5 @@
 ---  
-layout: default  
+layout: post  
 title: Thoughts on 'High Rise'  
 date: 2016-04-04 09:40  
 author: DavidRL  

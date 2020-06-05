@@ -1,5 +1,5 @@
 ---  
-layout: default  
+layout: post  
 title: Napowrimo 2020 Day 14 - Modified  
 date: 2020-04-14 12:16  
 author: DavidRL  

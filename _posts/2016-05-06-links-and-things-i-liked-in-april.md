@@ -1,5 +1,5 @@
 ---  
-layout: default  
+layout: post  
 title: Links and Things I liked in April  
 date: 2016-05-06 12:54  
 author: DavidRL  

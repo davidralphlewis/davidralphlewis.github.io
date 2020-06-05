@@ -1,5 +1,5 @@
 ---  
-layout: default  
+layout: post  
 title: A report into the spread of M3W  
 date: 2016-09-20 11:30  
 author: DavidRL  

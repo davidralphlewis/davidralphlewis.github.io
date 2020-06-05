@@ -1,5 +1,5 @@
 ---  
-layout: default  
+layout: post  
 title: Jerusalem, Ambition and the Power of Ideas  
 date: 2017-04-26 12:27  
 author: DavidRL  

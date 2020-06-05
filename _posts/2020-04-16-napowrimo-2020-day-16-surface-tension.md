@@ -1,5 +1,5 @@
 ---  
-layout: default  
+layout: post  
 title: Napowrimo 2020 Day 16 - Surface Tension  
 date: 2020-04-16 12:37  
 author: DavidRL  

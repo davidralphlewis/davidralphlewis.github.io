@@ -1,5 +1,5 @@
 ---  
-layout: default  
+layout: post  
 title: Napowrimo 2020 Day 30- Burn  
 date: 2020-04-30 16:02  
 author: DavidRL  

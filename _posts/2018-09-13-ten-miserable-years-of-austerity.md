@@ -1,5 +1,5 @@
 ---  
-layout: default  
+layout: post  
 title: Ten Miserable Years of Austerity  
 date: 2018-09-13 12:12  
 author: DavidRL  

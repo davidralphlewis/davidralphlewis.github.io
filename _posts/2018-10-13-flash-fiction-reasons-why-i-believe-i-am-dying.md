@@ -1,5 +1,5 @@
 ---  
-layout: default  
+layout: post  
 title: "Flash Fiction: Reasons Why I Believe I Am Dying"  
 date: 2018-10-13 14:35  
 author: DavidRL  

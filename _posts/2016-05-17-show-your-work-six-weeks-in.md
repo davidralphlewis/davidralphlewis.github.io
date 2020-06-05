@@ -1,5 +1,5 @@
 ---  
-layout: default
+layout: post
 title: "'Show Your Work!' Six weeks in"
 date: 2016-05-17 12:30  
 author: DavidRL  

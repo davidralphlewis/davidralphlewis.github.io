@@ -1,5 +1,5 @@
 ---  
-layout: default  
+layout: post  
 title: Encrypted (video)  
 date: 2020-03-17 17:24  
 author: DavidRL  

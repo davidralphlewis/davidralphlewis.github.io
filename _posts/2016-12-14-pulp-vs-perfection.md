@@ -1,5 +1,5 @@
 ---  
-layout: default  
+layout: post  
 title: Pulp vs. Perfection  
 date: 2016-12-14 13:00  
 author: DavidRL  

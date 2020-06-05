@@ -1,5 +1,5 @@
 ---  
-layout: default  
+layout: post  
 title: Napowrimo 2020 day 6- Symmetry  
 date: 2020-04-06 12:34  
 author: DavidRL  

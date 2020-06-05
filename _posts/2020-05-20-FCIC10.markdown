@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "FCIC10"
 date: 2020-05-20 12:52
 author: DavidRL

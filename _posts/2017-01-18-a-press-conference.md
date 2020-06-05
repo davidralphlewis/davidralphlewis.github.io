@@ -1,5 +1,5 @@
 ---  
-layout: default  
+layout: post  
 title: A Press Conference  
 date: 2017-01-18 13:32  
 author: DavidRL  

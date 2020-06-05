@@ -1,5 +1,5 @@
 ---  
-layout: default  
+layout: post  
 title: Rediscovering poetry  
 date: 2016-09-28 13:05  
 author: DavidRL  

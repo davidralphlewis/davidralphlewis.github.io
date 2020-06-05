@@ -1,5 +1,5 @@
 ---  
-layout: default  
+layout: post  
 title: September Link Round up  
 date: 2016-10-06 15:34  
 author: DavidRL  

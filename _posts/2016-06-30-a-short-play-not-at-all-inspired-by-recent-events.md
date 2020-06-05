@@ -1,5 +1,5 @@
 ---  
-layout: default  
+layout: post  
 title: A short play not at all inspired by recent events  
 date: 2016-06-30 11:37  
 author: DavidRL  

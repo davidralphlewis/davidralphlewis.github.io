@@ -1,5 +1,5 @@
 ---  
-layout: default  
+layout: post  
 title: Napowrimo Day 28 - Guilt  
 date: 2020-04-28 16:08  
 author: DavidRL  

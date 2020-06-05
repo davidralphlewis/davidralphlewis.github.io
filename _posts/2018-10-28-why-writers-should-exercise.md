@@ -1,5 +1,5 @@
 ---  
-layout: default  
+layout: post  
 title: Why Writers Should Exercise  
 date: 2018-10-28 16:55  
 author: DavidRL  

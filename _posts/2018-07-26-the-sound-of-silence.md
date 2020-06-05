@@ -1,5 +1,5 @@
 ---  
-layout: default  
+layout: post  
 title: The Sound of Silence  
 date: 2018-07-26 18:35  
 author: DavidRL  

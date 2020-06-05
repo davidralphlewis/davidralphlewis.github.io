@@ -1,5 +1,5 @@
 ---  
-layout: default  
+layout: post  
 title: Reasons to stay at home  
 date: 2020-03-19 12:52  
 author: DavidRL  

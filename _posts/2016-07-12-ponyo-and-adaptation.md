@@ -1,5 +1,5 @@
 ---  
-layout: default  
+layout: post  
 title: Ponyo and Adaptation  
 date: 2016-07-12 15:33  
 author: DavidRL  

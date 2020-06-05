@@ -1,5 +1,5 @@
 ---  
-layout: default  
+layout: post  
 title: Taking a Break  
 date: 2017-07-20 16:29  
 author: DavidRL  

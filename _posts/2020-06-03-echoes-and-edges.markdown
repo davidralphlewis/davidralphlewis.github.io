@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Echoes and Edges Collaboration"
 date: 2020-06-03
 author: DavidRL

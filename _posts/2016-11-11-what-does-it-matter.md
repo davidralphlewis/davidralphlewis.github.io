@@ -1,5 +1,5 @@
 ---  
-layout: default  
+layout: post  
 title: What does it matter?  
 date: 2016-11-11 14:51  
 author: DavidRL  

@@ -1,5 +1,5 @@
 ---  
-layout: default  
+layout: post  
 title: NaPoWriMo Halfway through  
 date: 2017-04-19 12:57  
 author: DavidRL  

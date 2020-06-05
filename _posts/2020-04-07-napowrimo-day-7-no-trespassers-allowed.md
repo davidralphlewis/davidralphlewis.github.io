@@ -1,5 +1,5 @@
 ---  
-layout: default  
+layout: post  
 title: Napowrimo 2020 day 7- No Trespassers Allowed  
 date: 2020-04-07 12:29  
 author: DavidRL  

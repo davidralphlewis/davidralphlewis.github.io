@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Serenity Study zine
 date: 2020-04-30 11:28
 author: DavidRL

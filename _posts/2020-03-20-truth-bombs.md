@@ -1,5 +1,5 @@
 ---  
-layout: default  
+layout: post  
 title: Truth Bombs  
 date: 2020-03-20 12:23  
 author: DavidRL  
