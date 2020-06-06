@@ -6,6 +6,5 @@ author: DavidRL
 comments: true
 categories: [photos]
 ---
-![image](/assets/images/articles/radishes.jpg)
-
+<img src="/assets/images/articles/radishes.jpg" alt= "Nom" class="responsive"><br>
 <p>These radishes distilled the sun, turning it deep scarlet.</p>

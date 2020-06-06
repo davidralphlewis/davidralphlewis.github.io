@@ -91,12 +91,13 @@ main {
     margin-left: auto;
     margin-right: auto;
   }
-    img {
-        max-width: 100%;
-        max-width: 800px;
-        margin-left: auto;
-        margin-right: auto;
-    }
+   .responsive {
+   max-width: 90%;
+   height: auto;
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+  }
     iframe {
       display: block;
       max-width: 70%;

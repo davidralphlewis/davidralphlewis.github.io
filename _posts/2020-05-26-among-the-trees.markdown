@@ -6,6 +6,6 @@ author: DavidRL
 comments: true  
 categories: [erasure poetry]
 ---
+<img src="/assets/images/articles/amongthetrees.jpeg" class="responsive"><br>
 
-![among the trees](/assets/images/articles/amongthetrees.jpeg)
 Taken from the review pages of Crack magazine, March 2020
