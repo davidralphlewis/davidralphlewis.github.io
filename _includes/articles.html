@@ -2,11 +2,11 @@
 
 <div class="archive">
     {% for post in paginator.posts %}
-  <div class="archive-item col-12 pl-0 pr-0 {% unless forloop.first %}mt-5 pt-3 {% endunless %}">
-            <h2 class="mb-1" ><a href="{{ post.url | absolute_url }}" class="stretched-link" "centre">{{ post.title }}</a></h2>
+        <div class="archive-item col-12 pl-0 pr-0 {% unless forloop.first %}mt-5 pt-3 border-top{% endunless %}">
+            <h2 class="mb-1"><a href="{{ post.url | absolute_url }}" class="stretched-link">{{ post.title }}</a></h2>
             <h6 class="text-muted font-weight-lighter my-0">{{ post.description }}</h6>
             <h6 class="card-subtitle mb-3 text-secondary">
-                {{ post.date | date_to_string }} Category: {{ post.categories }} </h6>
+                {{ post.date | date_to_string }} </h6>
             {% unless post.featured_image == false %}
                 {% if post.featured_image %}
                     {% assign featured_image = post.featured_image %}
@@ -19,7 +19,7 @@
             {% endunless %}
             <p class="mt-3">{{ post.excerpt | strip_html | truncate: 300 }}</p>
             <p> <a href="{{ post.url | absolute_url }}"> Read More...</a> </p>
-            <hr>
+        </div>
     {% endfor %}
 
     <div class="mb-5">
