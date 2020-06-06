@@ -6,7 +6,7 @@
             <h2 class="mb-1" ><a href="{{ post.url | absolute_url }}" class="stretched-link" "centre">{{ post.title }}</a></h2>
             <h6 class="text-muted font-weight-lighter my-0">{{ post.description }}</h6>
             <h6 class="card-subtitle mb-3 text-secondary">
-                {{ post.date | date_to_string }} Category: {{ post.categories }} {% include read_time.html %} </h6>
+                {{ post.date | date_to_string }} Category: {{ post.categories }} </h6>
             {% unless post.featured_image == false %}
                 {% if post.featured_image %}
                     {% assign featured_image = post.featured_image %}
