@@ -6,7 +6,6 @@
     --divider-color: #f2f0f0;
     --code-background-color: #0f140f;
 }
-
 body {
     background-color: var(--background-color);
     color: var(--font-color);
@@ -62,15 +61,19 @@ main {
 
     blockquote {
       border-left:  4px solid;
-      letter-spacing: 0.5px;
-      padding-left: 10px;
+      border-color: red;
+      padding-left: 20px;
       margin: 2em;
       font-style: italic;
+      max-width: 800px;
+      margin-left: auto;
+      margin-right: auto
     }
 
     blockquote p {
         font-family: serif;
         font-size: 1.25rem;
+
     }
 
     table {
@@ -82,11 +85,24 @@ main {
             vertical-align: top;
         }
     }
-
-
+    ul {
+    margin: 3em;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+  }
     img {
         max-width: 100%;
-
+        max-width: 800px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    iframe {
+      display: block;
+      max-width: 70%;
+      max-width: 800px;
+      margin-left: auto;
+      margin-right: auto;
     }
 
     .featured-image {
