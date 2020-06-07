@@ -61,7 +61,7 @@ main {
 
     blockquote {
       border-left:  4px solid;
-      border-color: red;
+      border-color: red !important;
       padding-left: 20px;
       margin: 2em;
       font-style: italic;
