@@ -111,18 +111,10 @@ main {
    max-width: 800px;
    margin-left: auto;
    margin-right: auto;
-   font-style: italic;
     }
 
     .featured-image {
         height: 10rem;
-    }
-    .center {
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
-        width: 60%;
-        height: auto
     }
 
     video {
@@ -139,11 +131,13 @@ main {
     padding-top: 2rem
 }
 
-PageNavigation {
+.PageNavigation {
   font-size: 14px;
   display: block;
-  width: auto;
+  max-width: 800px;
   overflow: hidden;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .PageNavigation a {
@@ -156,6 +150,8 @@ PageNavigation {
 .PageNavigation .next {
   text-align: right;
 }
+
+
 /* Footer */
 
 footer {
