@@ -16,4 +16,4 @@ This year was a bullet fired from a shaking hand,<br />screaming as it ripped th
 ***
 Thanks to the lovely audience at <a href="https://www.facebook.com/LOTMPoetry/">Lines of the Mind</a> for listening to this one when I read it out a couple of weeks ago.  
 
-In the next couple of weeks I'll look at my favourite pop culture I encountered this year which is frankly more important than all this political nonsense. In the meantime, here's my picks from <a href="https://davidralphlewis.co.uk/best-of-2017/">2017 </a>and from <a href="https://davidralphlewis.co.uk/best-of-2016/">2016.</a><br /><br />  
+In the next couple of weeks I'll look at my favourite pop culture I encountered this year which is frankly more important than all this political nonsense. In the meantime, here's my picks from <a href="/best-of-2017/">2017 </a>and from <a href="/best-of-2016/">2016.</a><br /><br />  

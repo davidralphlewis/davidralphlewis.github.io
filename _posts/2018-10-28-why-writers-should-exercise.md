@@ -20,14 +20,9 @@ This isn’t a secret. Many writers through history have discovered this. Dicken
 
 >	“Whether on his night walks through London, or tramping through the Kent countryside, Dickens clocked up a huge 		number of miles on foot. He is estimated to have walked twelve miles per day – Peter Ackroyd, in his biography of 		Dickens, says that he habitually walked twelve miles in two-and-a-half hours, with just a five-minute break. That’s 		4.8mph, which is at the upper limit of human walking speed (Dickens himself estimates that his average walking speed was 4 mph), and Dickens maintained this in all weather”  
 
-<!-- wp:paragraph {"align":"right"} -->  
-<p style="text-align:right">[note] From (<a href="http://lukemckernan.com/2013/06/09/walking-with-charles-dickens/]">Luke Mckernan</a>)[/note]  
-
-
+ From (<a href="http://lukemckernan.com/2013/06/09/walking-with-charles-dickens/]">Luke Mckernan</a>)  
 
 Similarly, Stephen King and Haruki Murakami are well known runners, with Stephen King’s obsession showing in many of his books. Now, these are professional writers with a lot more time on their hand than most people, but even for those writing around day jobs it is immensely beneficial. In my experience, it helps to sharpen my time writing and allows me to focus.   
-
-
 
 I came to exercise relatively late, only really starting when I was twenty five. I hated it in school, much preferring to bury my nose in a book. The annual cross-country race filled me with dread. I didn’t understand why anyone would want to push themselves physically when you could sit inside and learn instead. [^1]    
 

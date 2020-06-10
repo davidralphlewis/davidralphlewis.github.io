@@ -17,7 +17,7 @@ The article suffers a little from the usual Vice cynicism and fashion critique, 
 
 * Metaphors can directly affect our thoughts or so <a href="http://www.economist.com/blogs/prospero/2016/07/language-and-thought?utm_content=buffer58609&amp;utm_medium=social&amp;utm_source=facebook.com&amp;utm_campaign=buffer">this article</a> argues. It's an interesting exploration of how language affects our view of the world. The analogies we draw all the time are not harmless, they directly impact our thoughts and our ability to understand problems. Words have power, basically.  
 * The always excellent Lynda Barry on writing by hand:  
-[caption id="attachment_666" align="aligncenter" width="236"]<a href="http://davidralphlewis.co.uk/wp-content/uploads/2016/09/tumblr_obncz0jEf11r1gqaco1_1280-min.jpg"><img src="http://davidralphlewis.co.uk/wp-content/uploads/2016/09/tumblr_obncz0jEf11r1gqaco1_1280-min-236x300.jpg" alt="From http://t.co/ZqrD7ktu6t" width="236" height="300" class="size-medium wp-image-666" /></a> From http://t.co/ZqrD7ktu6t[/caption]  
+<img src="/assets/images/articles/lyndabarry.jpg" class="responsive"><br>  
 * I'm a huge Kurt Vonnegut fan. His ability to distill complex ideas into elegantly crafted sentences is a marvel. His love and fear of humanity is evident throughout his work. I read a long volume of his non fiction some time ago and was floored by it. However, i'd never come accross this prescient letter to the future, written in 1988:  
 
 > I hope you have stopped choosing abysmally ignorant optimists for positions of leadership. They were useful only so long as nobody had a clue as to what was really going on—during the past seven million years or so  

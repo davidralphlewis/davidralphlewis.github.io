@@ -30,4 +30,5 @@ This was written from "something hidden, something unknown, something to be disc
 
 </div>  
 
-I've just noticed it's April tomorrow [note] Because <a href="/times-gone-weird/">time has gone strange [/note] so I guess I'll be doing a poem a day from tomorrow. Consider yourself warned.  
+I've just noticed it's April tomorrow [^1] so I guess I'll be doing a poem a day from tomorrow. Consider yourself warned.
+[^1]: Because <a href="/times-gone-weird/">time has gone strange.

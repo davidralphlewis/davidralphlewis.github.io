@@ -28,4 +28,4 @@ universes to be created every second.
 
 ***  
 
-Prompt was "Ask and answer a question" from <a href="https://www.instagram.com/amykaypoetry/" target="_blank" rel="noopener noreferrer">AmyKayPoetry</a>  
+Prompt was "Ask and answer a question" from <a href="https://www.instagram.com/amykaypoetry/">AmyKayPoetry</a>  

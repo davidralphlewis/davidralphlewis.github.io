@@ -24,8 +24,6 @@ By combining different stories, <em>Ponyo</em> becomes an entirely new work than
 
 <em>Ponyo</em> is so creative and so inventive because it uses these elements of creativity to make something new and specific to Japanese culture. It transforms the original story and combines it with new elements, like the frog story and the power of the sea in Japanese art. Some of the shots of the waves bring to mind the woodcut prints of Hokusai for example, but by reframing them within the new story, they are mutated into something new. In country battered by tsumanis, the sea becomes a terrible force to be feared, teeming with unknown life. Nature is beautiful, but also deadly.  
 
-<a href="http://davidralphlewis.co.uk/wp-content/uploads/2016/07/ponyo03.jpg"><img src="http://davidralphlewis.co.uk/wp-content/uploads/2016/07/ponyo03-300x161.jpg" alt="ponyo03" width="300" height="161" class="alignnone size-medium wp-image-560" /></a>  
-
 The film leaves behind the dubious morals of the original story. The mermaid is not shunned or rejected by the prince by the end. It has a completely different emphasis to the Disney film as well. In the same interview as before, Miyazaki says:  
 
 <blockquote>   

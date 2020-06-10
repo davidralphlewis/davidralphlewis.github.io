@@ -17,7 +17,7 @@ I just turned 30, but I remain staggeringly ignorant of many things. So in no pa
     * Where I left my keys, every single morning.  
     * Calculus.  
     * What secret messages the wind whispers.  
-    * How to enjoy eggs.[note] The devil's spawn. It's not a coincidence sulphur smells like rotten eggs[/note]  
+    * How to enjoy eggs.[^1]
     * What to do about all the damn Nazis.  
     * How to bounce out of bed at five am every morning, do yoga, meditate, drink a flax-seed and beetroot smoothie, make a perfect breakfast from scratch before coming up with seventeen brilliant ideas to change the world before most people have their breakfast. I just want to stay in bed.  
     * How come I actually got up at 6 am for a year or so when I was writing my first book but then one day I physically couldn't do it anymore.  
@@ -26,12 +26,12 @@ I just turned 30, but I remain staggeringly ignorant of many things. So in no pa
     * What the song of the spheres sounds like.  
     * Why music is so effective at being a time machine, instantly transporting you back to specific moments.  
     * What I meant by notes I wrote days ago, like "The sky is a low ceiling" or "They could do, but they don't" or "Simulation of movement??"  
-    * How to drive. [note] I failed four tests when I was 18[/note]  
+    * How to drive. [^2]  
     * Where the best places to go are in this strange new city I find myself in.  
     * How to make friends in this strange new city I find myself in.  
     * Advanced chess tactics, like how to win a game.  
     * How to self-promote without being an arsehole.  
-    * How to get more sign-ups to <a href="http://www.tinyletter.com/davidralphlewis">my newsletter!</a>[note]Worth a try[/note]  
+    * How to get more sign-ups to my newsletter 
     * What exactly happened at the end of *Twin Peaks,* *Lost* and *The Sopranos*.  
     * Why rent rises faster than wages.  
     * What to do about the planet getting warmer.  
@@ -46,3 +46,5 @@ I just turned 30, but I remain staggeringly ignorant of many things. So in no pa
 </ol>  
 
 Answers on a postcard, please.  
+[^1]: The devil's spawn. It's not a coincidence sulphur smells like rotten eggs.
+[^2]: I failed four tests when I was 18.

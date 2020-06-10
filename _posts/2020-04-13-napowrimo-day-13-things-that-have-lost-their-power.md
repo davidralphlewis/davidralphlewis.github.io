@@ -36,6 +36,6 @@ Those three am thoughts.
 
 ***  
 
-Prompt was to "Rewrite a Sei Shonagon list" from <a target="_blank" rel="noopener noreferrer" href="https://instagram.com/amykaypoetry?igshid=17ak24ogz39u0">AmyKay Poetry</a>  
+Prompt was to "Rewrite a Sei Shonagon list" from <a href="https://instagram.com/amykaypoetry?igshid=17ak24ogz39u0">AmyKay Poetry</a>  
 
-I found a article of her lists <a target="_blank" rel="noopener noreferrer" href="https://guerrillasemiotics.com/2013/05/sei-shonagons-lists/">here</a> and was drawn to this title.  
+I found a article of her lists <a href="https://guerrillasemiotics.com/2013/05/sei-shonagons-lists/">here</a> and was drawn to this title.  

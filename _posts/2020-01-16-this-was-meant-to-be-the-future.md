@@ -39,6 +39,6 @@ The first story will be out next week.
 
 Here's a cover. I'll also stick this as a featured image on all the stories so they are easily identifiable.  
 
-<img class="wp-image-3013 size-large alignnone" src="https://davidralphlewis.co.uk/wp-content/uploads/2020/01/20200110_191422_00007908930298633142750.png" width="642" height="1024" />  
+<img src="/assets/images/articles/twmtbtfcover.jpg" class="small"><br>
 
-Finally, if you like the book, please consider <a href="https://ko-fi.com/davidralphlewis" target="_blank" rel="noopener noreferrer">buying me a coffee</a>. Of course, there's no obligation and you can enjoy the free stories anyway.  
+Finally, if you like the book, please consider <a href="https://ko-fi.com/davidralphlewis">buying me a coffee</a>. Of course, there's no obligation and you can enjoy the free stories anyway.  

@@ -10,7 +10,7 @@ featured_image: /assets/images/site/aprilfogcrop.jpg
 author: false
 permalink: /aprilfog/
 ---
-<img src="/assets/images/site/aprilfog.jpg"  class="center">
+<img src="/assets/images/site/aprilfog.jpg"  class="small"><br />
 30 poems written for National Poetry Writing Month in 2018. Previously published on my blog.
 
 Free download in MOBI (kindle), EPUB and PDF (everything else) formats for your reading pleasure.

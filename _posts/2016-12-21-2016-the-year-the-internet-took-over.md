@@ -6,7 +6,7 @@ author: DavidRL
 comments: true  
 categories: [year in review]  
 ---  
-What a year. It started with David Bowie dying and somehow went downhill from there. <a href="http://davidralphlewis.co.uk/politics/brexit-and-the-story-we-have-been-told/">A rabid </a>media stirring up <a href="http://davidralphlewis.co.uk/politics/with-us-or-against-us-brexit-and-the-daily-mail/">hate</a> forced the British people to shoot themselves in the foot, whilst in the USA hate and intolerance won the day- if not the popular vote.  
+What a year. It started with David Bowie dying and somehow went downhill from there. <a href="/brexit-and-the-story-we-have-been-told/">A rabid </a>media stirring up <a href="/with-us-or-against-us-brexit-and-the-daily-mail/">hate</a> forced the British people to shoot themselves in the foot, whilst in the USA hate and intolerance won the day- if not the popular vote.  
 
 I feel this year the internet took over political debate. Now, many people get their news from Facebook or Twitter. It was a year in which the internet became central to how information is received and shared. No longer the underdog, used by a few, it is the mainstream way we connect, publish and communicate. There's no escaping it. I'm using it right now.  
 <!--more-->  

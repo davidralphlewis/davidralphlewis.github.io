@@ -8,7 +8,7 @@ categories: [this was meant to be the future]
 masthead_style: banner
 featured_image: /assets/images/site/twmtbtf.jpeg  
 ---  
-<em>This is the third story in a series I’m publishing monthly throughout 2020. <a href="https://davidralphlewis.co.uk/new-serial-book-announcement-this-was-meant-to-be-the-future/">More details here.</a></em>  
+<em>This is the third story in a series I’m publishing monthly throughout 2020. <a href="/new-serial-book-announcement-this-was-meant-to-be-the-future/">More details here.</a></em>  
 
 <em>CW: Gun violence</em>  
 

@@ -31,4 +31,4 @@ So I may have been callously murdered, but it is too late. I am already out in t
 Good day.  
 
 ***
-*This grew out of a recent exercise from the excellent **<a target="_blank" rel="noopener noreferrer" href="http://www.timclarepoet.co.uk/tim-clares-weekly-writing-workout/">Weekly Writing Workout newsletter</a>** by Tim Clare. *  
+*This grew out of a recent exercise from the excellent **<a href="http://www.timclarepoet.co.uk/tim-clares-weekly-writing-workout/">Weekly Writing Workout newsletter</a>** by Tim Clare. *  

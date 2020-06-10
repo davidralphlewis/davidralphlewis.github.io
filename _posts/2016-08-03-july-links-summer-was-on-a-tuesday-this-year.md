@@ -24,7 +24,6 @@ I don't write every day, as I take the weekends off. Even writing in a journal e
 I need to read more of his short stories, because the ones I have read are really special. He has a essential humanity and kindness to his outlook, and the article above is a good example of that.  
 
 * Maggie Smith's poem has apparently gone <a href="http://www.slate.com/blogs/browbeat/2016/06/17/_good_bones_poet_maggie_smith_on_watching_her_poem_go_viral_after_the_orlando.html">viral</a> and it is brilliant. I stumbled on it on Tumblr and thought it too good not to share.   
-<a href="http://davidralphlewis.co.uk/wp-content/uploads/2016/08/tumblr_o92r7w2RNm1romv9co1_400.jpg"><img src="http://davidralphlewis.co.uk/wp-content/uploads/2016/08/tumblr_o92r7w2RNm1romv9co1_400-224x300.jpg" alt="tumblr_o92r7w2RNm1romv9co1_400" width="224" height="300" class="alignnone size-medium wp-image-644" /></a>  
 
 * Related to the above, <a href="http://jessicalakritz.com/ill-teach-you-how-to-read-poetry-in-under-5-minutes/">this</a> is a beautiful guide on how to read poetry.  
 

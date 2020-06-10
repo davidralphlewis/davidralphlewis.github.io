@@ -6,7 +6,7 @@ author: DavidRL
 comments: true  
 categories: [poetry]  
 ---  
-I wrote a bit about the process <a href="http://davidralphlewis.co.uk/napowrimo-halfway-through/">halfway through</a>, but I've finally finished <a href="http://www.napowrimo.net/">NaPoWriMo</a>, where you write a poem every single day in April. I had foolishly thought the process would be relatively straightforward, but I was drastically wrong about that. Writing so many lines over so many days was a real challenge. It was difficult to keep motivated and continue writing.  
+I wrote a bit about the process <a href="/napowrimo-halfway-through/">halfway through</a>, but I've finally finished <a href="http://www.napowrimo.net/">NaPoWriMo</a>, where you write a poem every single day in April. I had foolishly thought the process would be relatively straightforward, but I was drastically wrong about that. Writing so many lines over so many days was a real challenge. It was difficult to keep motivated and continue writing.  
 
 Halfway through the process, I forgot exactly what poetry is. Nothing seemed to make sense:  
 
@@ -43,7 +43,7 @@ forest, blackened walls crawling
 with vines beginning their  
 slow sombre embrace.  
 
-I've long since praised the idea of <a href="http://davidralphlewis.co.uk/the-importance-of-a-creative-routine/">a daily routine</a> and it was this that eventually pulled me through. I stopped worrying about the quality of what I was producing and eventually just got on with the business with writing it. The daily routine helped because it didn't give me time to give into the fear that my writing was trite. Instead, I just had to push forward and write the damn things. Are they any good? I don't know. What I do know is that I now have thirty poems to edit and mess around with. Fear of the blank page is what stops many people writing, but once the poems have been written they can be shaped and edited. Now, I have something to work with. Here's another written during the process:  
+I've long since praised the idea of <a href="/the-importance-of-a-creative-routine/">a daily routine</a> and it was this that eventually pulled me through. I stopped worrying about the quality of what I was producing and eventually just got on with the business with writing it. The daily routine helped because it didn't give me time to give into the fear that my writing was trite. Instead, I just had to push forward and write the damn things. Are they any good? I don't know. What I do know is that I now have thirty poems to edit and mess around with. Fear of the blank page is what stops many people writing, but once the poems have been written they can be shaped and edited. Now, I have something to work with. Here's another written during the process:  
 
 <h1>The Trap</h1>  
 

@@ -31,8 +31,6 @@ Finally, the ever brilliant Maria Popova gave a <a href="https://www.brainpickin
   Strive to be uncynical, to be a hope-giving force, to be a steward of substance. Choose to lift people up, not to lower them down — because it is a choice, always, and because in doing so you lift yourself up.  
 </blockquote>  
 
-<a href="http://davidralphlewis.co.uk/wp-content/uploads/2016/06/tumblr_o7j24094Vv1qbz9meo1_500.jpg"><img src="http://davidralphlewis.co.uk/wp-content/uploads/2016/06/tumblr_o7j24094Vv1qbz9meo1_500-300x300.jpg" alt="tumblr_o7j24094Vv1qbz9meo1_500" width="300" height="300" class="alignnone size-medium wp-image-500" /></a>  
-
-If you have anything I might be interested in, you can submit links to me over on my <a href="https://binary-ephemera.tumblr.com/">tumblr</a>. Or contact me in the link above.  
+If you have anything I might be interested in, you can contact me in the link above.  
 
 <em>Top image from <a href="http://brandonstricker.deviantart.com/art/Meteor-380438460">Brandon Stricker</a></em>  

@@ -23,15 +23,13 @@ children, it feels universal and specific in the best way.
 
 *To Sweeten Bitter* by Raymond Antrobus is incredible but you don't need me to tell you that.  
 
-I also really enjoyed Ross McCleary's *<a href="https://stewedrhubarb.org/product/endorse-me-ross-mccleary/">Endorse Me, You Cowards!</a>** ,* which is both hillarious and then deeply troubling in the way nightmares are. He really nails an uneasiness about modern office work. He also helps run the podcast* Lies, dreaming*, and the episode on <a target= rel="noopener noreferrer" href="https://poetryasfuck.wordpress.com/2019/07/03/hump-day/">Hump Day</a> was really... something else.  
+I also really enjoyed Ross McCleary's *<a href="https://stewedrhubarb.org/product/endorse-me-ross-mccleary/">Endorse Me, You Cowards!</a>** ,* which is both hillarious and then deeply troubling in the way nightmares are. He really nails an uneasiness about modern office work. He also helps run the podcast* Lies, dreaming*, and the episode on <a href="https://poetryasfuck.wordpress.com/2019/07/03/hump-day/">Hump Day</a> was really... something else.  
 
-Also Stuart Buck's *<a rel="noopener noreferrer" href="https://www.selcouthstation.com/product-page/become-something-frail-by-stuart-buck">Become Something Frail</a>*, which is full of incredible imagery. Stuart has a unique way with language and the whole collection shines.  
+Also Stuart Buck's *<a href="https://www.selcouthstation.com/product-page/become-something-frail-by-stuart-buck">Become Something Frail</a>*, which is full of incredible imagery. Stuart has a unique way with language and the whole collection shines.  
 
 So yeah, I got really into reading poetry last year.  
 <h2>Graphic Novels</h2>  
 I finally got all the way through *Transmetropolitan* by Warren Ellis and Darick Robertson, which is sadly getting more and more relevant each passing year. Only the idea of the media having strong power to fight injustice feels dated, but the politics and the characters are oddly prophetic considering it was written at the turn of the millenium.  
-
-<img class="size-medium wp-image-2878 alignnone" src="https://davidralphlewis.co.uk/wp-content/uploads/2020/01/20190821_221124-015190682670661704185-scaled.jpeg" width="300" height="198"/>  
 
 On the other end of the spectrum, Joff Winterhart's *Driving Short Distances* was perfectly observed. Nothing really happens but it feels so tragic. Its a book about masculinty and depression which is funny and heartbreaking without ever being didactic or preachy.  
 <h2>2020</h2>  

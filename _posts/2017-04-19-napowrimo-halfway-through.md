@@ -6,13 +6,13 @@ author: DavidRL
 comments: true  
 categories: [poetry]  
 ---  
-For the month of April, I have tried to write a poem a day for <a href="http://www.napowrimo.net/">NaPoWriMo</a> (National Poetry Writing Month.) It's been surprisingly difficult to find a different theme or story each day. Nevertheless, I feel the process has pushed me forward as a writer by sending me into unknown areas. It's giving me much needed rigour and discipline. I consider myself to be an amateur, with less experience in poetry than in <a href="http://davidralphlewis.co.uk/books/amber-stars-one-night-of-stories/">short stories</a> or plays. I only started writing poetry again <a href="http://davidralphlewis.co.uk/rediscovering-poetry/">last year</a>, and even then it was fairly occasional. Forcing myself to write a poem a day has been a boon, as I have tried to improve each day.  
+For the month of April, I have tried to write a poem a day for <a href="http://www.napowrimo.net/">NaPoWriMo</a> (National Poetry Writing Month.) It's been surprisingly difficult to find a different theme or story each day. Nevertheless, I feel the process has pushed me forward as a writer by sending me into unknown areas. It's giving me much needed rigour and discipline. I consider myself to be an amateur, with less experience in poetry than in <a href="/amberstars/">short stories</a> or plays. I only started writing poetry again <a href="/rediscovering-poetry/">last year</a>, and even then it was fairly occasional. Forcing myself to write a poem a day has been a boon, as I have tried to improve each day.  
 
 I haven't shared all of them because I feel most are fairly poor and in need of serious editing. However, here are a few. This first one was written early in the process:  
 
 <!--more-->  
 
-<h1>#Nofilter</h1>  
+<h2>#Nofilter</h2>  
 
 Finally, I reach this summit after  
 Hauling my bag of bones and fat  
@@ -50,7 +50,7 @@ Bringing with it the promise of ruin.
 
 This next one was written on the 10th.  
 
-<h1>Opacity</h1>  
+<h2>Opacity</h2>  
 
 You stalk the streets, a shadow  
 hunting for a solid object to link to.  
@@ -83,7 +83,7 @@ Sit with me.
 
 This last one was written today.  
 
-<h1>Coverings over bones</h1>  
+<h2>Coverings over bones</h2>  
 
 Casually discarded at the bottom  
 of the dark cave wardrobe, creased  

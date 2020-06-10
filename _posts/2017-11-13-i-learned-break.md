@@ -39,9 +39,3 @@ The only way to forgive yourself. I can't write in the chaos, so I had to just t
 So what now? I'm back in a writing routine. The works in progress are coming along. I'm working on a book of poetry which combines my backouts with poems and also a book of sci-fi short stories. I'm going to keep updating this blog, probably every two weeks instead of every one. One week I'll write this blog, the other week I'll send out <a href="http://tinyletter.com/davidralphlewis">a newsletter</a>. This will hopefully give me time and space to really make this blog the best I can as well as time to work on the works in progress. The topics are still going to be scattershot. I had considered just making this about writing or about poetry, but I don't want to limit myself to just one topic. I'd probably get more hits if I focused it, but I want it to be honest to my interests, which are all over the place. So expect some more flash fiction, some ranting about politics and some general ramblings about life and art and that.  
 
 Stick around. I'm still figuring this out, but it's going to be fun.  
-
-<hr />  
-
-*Like this? Subscribe to **<a href="http://tinyletter.com/davidralphlewis">my newsletter </a>**for updates from me and some recommended reading and poems. *  
-
-*<a href="http://davidralphlewis.co.uk/contact/">Contact me</a> for anything I might be interested in or any feedback. I'm always interested to hear from you.*  

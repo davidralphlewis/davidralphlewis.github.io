@@ -8,7 +8,7 @@ categories: [politics]
 ---  
 So I was going to write about something else entirely, but then the I stumbled on *The Daily Mail* on Twitter. I try to avoid it when I can because it is always a hate-filled rag, but I couldn't avoid it. Today it published this front page:  
 
-<a href="http://davidralphlewis.co.uk/wp-content/uploads/2016/10/download.jpg"><img src="http://davidralphlewis.co.uk/wp-content/uploads/2016/10/download.jpg" alt="Daily Mail front page 12/10/2016" width="307" height="164" class="aligncenter size-full wp-image-711" /></a>  
+<img src="/assets/images/articles/dm.jpg" class="responsive"><br>
 It brings to the surface a lot of feelings that have been brewing in this country recently. It's also widely inaccurate and scary. Everyone has accepted Brexit is going to happen, it's just a case of how badly it is going to hurt the country. Front page spreads like this only serve to divide us when we need to be most united.   
 <!--more-->  
 
