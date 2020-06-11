@@ -10,7 +10,10 @@ body {
     background-color: var(--background-color);
     color: var(--font-color);
 }
-
+div{
+    background-color: var(--background-color);
+    color: var(--font-color);
+}
 a:link {
   color: red;
 }
@@ -259,6 +262,18 @@ footer {
         min-width: 100%;
         min-width: 100vw;
     }
+}
+    #mc_embed_signup_scroll {
+        max-width: 800px;
+        margin-left: auto;
+        margin-right: auto;
+        background-color: var(--background-color);
+        color: var(--font-color);
+}
+
+    #mc-embedded-subscribe-form {
+      background-color: var(--background-color);
+      color: var(--font-color);
 }
 
 @media (max-width: 600px) {

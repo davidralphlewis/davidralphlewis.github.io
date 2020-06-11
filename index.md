@@ -32,8 +32,10 @@ You can follow him on [Twitter](https://www.twitter.com/davidralphlewis), [Insta
 
 <hr>
 
-### Recent Posts
+## [Recent Posts](/articles/)
 
 {% for post in site.posts limit:3 %}
 {% include components/post-card.html %}
 {% endfor %}
+<br >
+{% include mailchimp.html %}
