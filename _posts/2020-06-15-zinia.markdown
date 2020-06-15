@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Summer is here"
+date: 2020-06-15
+author: DavidRL
+comments: true
+categories: [photos]
+---
+
+<img src="/assets/images/articles/zinia.jpeg" class="responsive"><br>
+
+Hello to this zinnia and this zinnia only.
