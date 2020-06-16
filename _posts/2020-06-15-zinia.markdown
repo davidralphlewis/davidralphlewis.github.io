@@ -9,4 +9,4 @@ categories: [photos]
 
 <img src="/assets/images/articles/zinia.jpeg" class="responsive"><br>
 
-Hello to this zinnia and this zinnia only.
+Good morning to this Zinnia and this Zinnia only

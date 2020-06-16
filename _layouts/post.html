@@ -21,7 +21,9 @@
     {% include page_nav.html %}
     {% include footer.html %}
     <hr>
+    {% if site.disqus.shortname %}
     {% include disqus_comments.html %}
+    {% endif %}
 
   </body>
 

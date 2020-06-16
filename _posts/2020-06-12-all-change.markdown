@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "All Change"
+title: "All change"
 date: 2020-06-12
 author: DavidRL  
 comments: true  
@@ -13,7 +13,7 @@ If it hadn't been for lockdown I probably wouldn't have started such a big proje
 
 There's been a lot of debate about the role of the blog in 2020, and why you should bother. Certainly the traffic isn't much to write home about as attentions are gripped by Twitter and Facebook. Paul Graham Raven writes on his excellent Velcro City Tourist Board blog :
 
-> Of course, that rolling discourse hasn’t vanished; it just migrated onto faster, more accessible and more populous platforms, and in doing so became far faster, far thinner, and far more clamorous. Sure, there’s still blogging going on, too, but it’s changed a lot, and in some places died back almost entirely: the Genre Fiction Blog Wars in which I was once a footsoldier appear to have gone full scorched-earth in the years since I went AWOL from the front lines, with many once-vital sites vanished, shuttered or abandoned; my RSS reader is full of URLs I still can’t quite bear to cull, in case they should suddenly start up again like a much-loved numbers station in the night. 
+> Of course, that rolling discourse hasn’t vanished; it just migrated onto faster, more accessible and more populous platforms, and in doing so became far faster, far thinner, and far more clamorous. Sure, there’s still blogging going on, too, but it’s changed a lot, and in some places died back almost entirely: the Genre Fiction Blog Wars in which I was once a footsoldier appear to have gone full scorched-earth in the years since I went AWOL from the front lines, with many once-vital sites vanished, shuttered or abandoned; my RSS reader is full of URLs I still can’t quite bear to cull, in case they should suddenly start up again like a much-loved numbers station in the night.
 
 I grow weary of the silos the social networks produce. In redoing my website, I have reaffirmed my belief in the blog. It's a public archive of my (sometimes rushed and incomplete) thoughts, stretching back to when I self-published my first book. It's a record of my writer's life, an archive I can curate. When everything is so immediate, it's good to have a space for memory and reflection, even if those takes from a few years ago turn out to be wrong. Jay Springett emphasises this is [his post about starting a blog](https://thejaymo.net/2019/12/14/114-please-for-the-love-of-blarg-start-a-blog/):
 

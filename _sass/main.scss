@@ -10,6 +10,10 @@ body {
     background-color: var(--background-color);
     color: var(--font-color);
 }
+div{
+    background-color: var(--background-color);
+    color: var(--font-color);
+}
 a:link {
   color: red;
 }
@@ -270,6 +274,11 @@ footer {
     #mc-embedded-subscribe-form {
       background-color: var(--background-color);
       color: var(--font-color);
+}
+    #disqus_thread {
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 @media (max-width: 600px) {

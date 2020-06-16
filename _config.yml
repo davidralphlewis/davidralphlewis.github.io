@@ -50,7 +50,6 @@ excerpt_separator: <!--more-->
 # Disqus Comments
 disqus:
   shortname: davidralphlewis
-  url: https://www.davidralphlewis.co.uk
 
 include: [.well-known] # include humans.txt
 
