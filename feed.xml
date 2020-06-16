@@ -49,6 +49,8 @@
         {% endif %}
       </author>
       <content type="html" xml:base="{{ post.url | absolute_url | xml_escape }}">
+    {{ post.content | replace: '="/', '="http://example.com/' | replace: ', /', ', http://example.com/' | replace: 'http://example.com', site.url | markdownify | xml_escape }}
+</content>
         {% capture display_image %}
           {% if post.featured_image or site.featured_image %}
             {% if post.featured_image %}
@@ -57,7 +59,7 @@
               {% assign image_source = site.featured_image %}
             {% endif %}
             {% capture post_image %}
-              <img src="{{ image_source | absolute_url }}" alt="" />
+              <media:content url="{{ image_source | absolute_url }}"medium="image">
             {% endcapture %}
             {{ post_image | strip | xml_escape }}
           {% endif %}
