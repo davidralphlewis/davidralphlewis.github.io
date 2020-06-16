@@ -5,6 +5,7 @@ description: # page description (seo, masthead), e.g. "string"
 excerpt:  # post excerpt (seo, articles, archive excerpt), e.g. "string"
 date: 2019-09-24 00:00:00 # page publish date (seo, metadata), e.g. YYYY-MM-DD hh:mm:ss TZD
 last_modified: # page last modified date (metadata, rss), e.g. YYYY-MM-DD hh:mm:ss TZD
+comments: false
 
 # Page Metadata
 keywords: # appends keywords to seo meta tag, e.g. "comma, delimited, string"
