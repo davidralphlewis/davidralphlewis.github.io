@@ -57,8 +57,7 @@
               {% assign image_source = site.featured_image %}
             {% endif %}
             {% capture post_image %}
-              <img src="{{ image_source | absolute_url }}" alt="" />
-              <media:content url="{{ image_source | absolute_url }}"medium="image"> 
+              <media:content url="{{ image_source | absolute_url }}"medium="image">
             {% endcapture %}
             {{ post_image | strip | xml_escape }}
           {% endif %}
