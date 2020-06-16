@@ -50,7 +50,6 @@
       </author>
       <content type="html" xml:base="{{ post.url | absolute_url | xml_escape }}">
     {{ post.content | replace: '="/', '="http://example.com/' | replace: ', /', ', http://example.com/' | replace: 'http://example.com', site.url | markdownify | xml_escape }}
-</content>
         {% capture display_image %}
           {% if post.featured_image or site.featured_image %}
             {% if post.featured_image %}
