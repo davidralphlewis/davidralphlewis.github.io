@@ -5,7 +5,6 @@ date: 2019-09-24 19:59
 author: DavidRL  
 comments: true  
 categories: [publications]
-permalink: /ourvoicesinthechaos/
 masthead_style: banner
 featured_image: /assets/images/site/ourvoicescrop.jpg  
 ---  

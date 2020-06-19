@@ -7,18 +7,31 @@ masthead_style: plain
 social: false
 ---
 ## 2020
+<em>[Condolences](/condolences/)</em>- BBC Upload on BBC Radio Bristol
+
+*How to Hear the Hills* - Charlie + Jake [Echoes and Edges collaborative live stream 2](https://youtu.be/mgjd5tHJhDE)
+
+<em>Golden</em>- BBC Upload on BBC Radio Bristol
+
+*Hollow Passengers* - Charlie + Jake [Echoes and Edges collaborative live stream 1](https://youtu.be/vyHRtbjwlFY)
+
+*Imposter* - [Nine Muses Poetry](https://ninemusespoetry.com/2020/05/14/one-poem-by-david-ralph-lewis/)
+
+*Equinox* - [Poems to keep you company](https://www.samjgrudgings.co.uk/poems-to-keep-you-company) by Sam J. Grudgings
+
+*Failed hypothesis* (reading)- [Dead Darlings Podcast](https://soundcloud.com/deaddarlingspod/episode-9-open-mic-special)
 
 <em>We're Gonna Keep Her Out of It-</em><a href="https://www.apeppublications.com/product/these-poems-are-not-what-they-seem/"> These Poems are Not What They Seem</a>, APEP productions
 
 <em>Encrypted</em>- BBC Upload on BBC Radio Bristol
 
-<em>Failed Hypothesis</em> - Fevers of the Mind
+*Failed Hypothesis*- [Fevers of the Mind](https://feversofthemind.wordpress.com/2020/01/20/failed-hypothesis-c-david-ralph-lewis/)
 
 <h2>2019</h2>
 
 <a href="https://davidralphlewis.co.uk/napowrimo-day-27/">Dance</a>,<a href="https://davidralphlewis.co.uk/napowrimo-2019-day-28/"> An invitation</a>- BBC Upload on BBC Radio Bristol
 
-**BOOK: <a href="https://davidralphlewis.co.uk/portfolio/our-voices-in-the-chaos/"><em>Our Voices in the Chaos</em></a>, Selcouth Station**
+**BOOK: <a href="/ourvoicesinthechaos/"><em>Our Voices in the Chaos</em></a>, Selcouth Station**
 
 <em>Fluvial Dreams-</em> Highland Park Poetry
 
@@ -35,11 +48,11 @@ social: false
 <a href="https://iamnotasilentpoet.wordpress.com/2018/04/14/bang-by-david-ralph-lewis/"><em>Bang</em></a>- I am not a silent poet-<em>
 </em>
 
-**BOOK: - <a href="https://davidralphlewis.co.uk/portfolio/spare-parts/"><em>Spare Parts</em> </a>(in collaboration with M. Amelia Eikli)- Thought Library Media**
+**BOOK: - <a href="/spareparts/"><em>Spare Parts</em> </a>(in collaboration with M. Amelia Eikli)- Thought Library Media**
 
 <h2>2017</h2>
 
-**BOOK: <em>Remain Vigilant- </em>Self Published**
+**BOOK: <em>[Remain Vigilant](/remainvigilant/)- </em>Self Published**
 
 <em>Collaborators</em>- Dog Ear Magazine
 
@@ -55,4 +68,4 @@ social: false
 
 <a href="https://poetryasfuck.wordpress.com/2016/11/30/lies-dreaming-7-the-language-of-business/"><em>Loyal Employee</em>-</a> Lies, dreaming podcast
 
-**BOOK: <em>Amber Stars: One Night of Stories - </em>Self Published**
+**BOOK: <em>[Amber Stars: One Night of Stories](/amberstars/) - </em>Self Published**

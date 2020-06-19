@@ -7,6 +7,7 @@ comments: true
 categories: [this was meant to be the future]
 masthead_style: banner
 featured_image: /assets/images/site/twmtbtf.jpeg  
+series: "this was meant to be the future"
 ---  
 <p style="text-align: left;">Blimey, it's the year Twenty Twenty, a year that sounds incredibly futuristic. We're past the setting of <em>Blade Runner. </em>The world is different and weirder in ways we couldn't imagine before.</p>  
 
@@ -25,7 +26,7 @@ Here's the titles of the stories and when they will be out. I'll link to them al
     <li><a href="/squeamish/">February- Squeamish</a></li>  
     <li><a href="/truth-bombs/">March- Truth Bombs</a></li>  
     <li><a href="/a-response-from-the-black-box/">April- A Response from the Black Box</a></li>  
-    li><a href="/#FCIC10/">April- A Response from the Black Box</a></li><li>May- #FCIC10</li>  
+    <li><a href="/FCIC10/">#FCIC10</a></li><li>May- #FCIC10</li>  
     <li>June- The Sky is Damaged</li>  
     <li>July- Blackout</li>  
     <li>August- Advert Break</li>  
@@ -39,6 +40,6 @@ The first story will be out next week.
 
 Here's a cover. I'll also stick this as a featured image on all the stories so they are easily identifiable.  
 
-<img src="/assets/images/articles/twmtbtfcover.jpg" class="small"><br>
+<img src="/assets/images/articles/twmtbtfcover.png" class="small"><br>
 
 Finally, if you like the book, please consider <a href="https://ko-fi.com/davidralphlewis">buying me a coffee</a>. Of course, there's no obligation and you can enjoy the free stories anyway.  

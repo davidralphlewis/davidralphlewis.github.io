@@ -3,14 +3,10 @@
     --font-color: #f2f0f0;
     --navbar-dark-link-color: white;
     --navbar-light-link-color: white;
-    --divider-color: #f2f0f0;
+    --divider-color: #red
     --code-background-color: #0f140f;
 }
 body {
-    background-color: var(--background-color);
-    color: var(--font-color);
-}
-div{
     background-color: var(--background-color);
     color: var(--font-color);
 }
@@ -161,6 +157,13 @@ main {
   text-align: right;
 }
 
+.panel{
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+  border: 1px solid;
+  border-color: red;
+}
 
 /* Footer */
 
