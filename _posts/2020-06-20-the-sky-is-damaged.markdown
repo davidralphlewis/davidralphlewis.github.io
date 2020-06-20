@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Sky is Damaged"
-date: 2020-06-20 12:52
+date: 2020-06-20
 author: DavidRL
 comments: true
 categories: [this was meant to be the future]
