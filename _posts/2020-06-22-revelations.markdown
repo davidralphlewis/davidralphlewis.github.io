@@ -9,4 +9,5 @@ categories: [erasure poetry]
 
 <img src="/assets/images/articles/revelations.jpeg" class="responsive"><br>
 
-Taken from *Crack* Magazine, March 2020
+Taken from *Crack* magazine, March 2020
+s

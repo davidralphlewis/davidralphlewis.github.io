@@ -29,6 +29,9 @@ footer_menu:
   - url: https://www.instagram.com/davidralphlewis
     target: new
     icon: "fab fa-instagram"
+  - url: https://www.soundcloud.com/davidralphlewis
+    target: new
+    icon: "fab fa-soundcloud"
   - title: Sitemap
     url: /sitemap
     icon: "fas fa-map"

@@ -17,6 +17,7 @@ Or you can <a href="mailto:contact@davidralphlewis.co.uk" rel="me">contact me he
 
 <hr>
 {% include mailchimp.html %}
+Or subscribe to [updates via RSS](http://www.davidralphlewis.co.uk/feed.xml)
 <br />
 ## [Recent Posts](/articles/)
 
