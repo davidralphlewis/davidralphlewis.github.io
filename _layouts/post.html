@@ -21,12 +21,13 @@
     {% include series.html %}
     {% include content.html %}
     {% include page_nav.html %}
-    {% include footer.html %}
+    <hr>
+    {% include mailchimp.html %}
     <hr>
     {% if site.disqus.shortname %}
     {% include disqus_comments.html %}
     {% endif %}
-
+    {% include footer.html %}
   </body>
 
 </html>

@@ -22,7 +22,7 @@ Isn't it better to remain safe within
 the dreaming, even if it is not your own?  
 Don't you want to leave the Wind Fish  
 sleeping? I know you will tell me it is  
-your destiny, whatever that word means-  
+your destiny, whatever that word means,  
 you bear the triangular mark after all.  
 The legend will be retold another time  
 in different lands, remote and distant.  

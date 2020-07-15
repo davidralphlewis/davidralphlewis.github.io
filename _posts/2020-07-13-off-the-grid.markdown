@@ -13,7 +13,7 @@ our cabled bodies were sprawled
 irreparable, most sensory inputs  
 disconnected, transmissions down,  
 smashed by careless hands wielding  
-boulders. When networks were out,  
+boulders. When networks were down,  
 when communities were rewiring  
 like dust scattered in sunbeams,  
 We stayed immobile in deserts,  

@@ -7,8 +7,6 @@ masthead_style: plain
 social: false
 ---
 ## 2020
-*Lunch Break* & *Acclimated* Selcouth Station [Webzine #1](https://www.selcouthstation.com/product-page/selcouth-magazine-1)
-
 <em>[Condolences](/condolences/)</em>- BBC Upload on BBC Radio Bristol
 
 *How to Hear the Hills* - Charlie + Jake [Echoes and Edges collaborative live stream 2](https://youtu.be/mgjd5tHJhDE)
