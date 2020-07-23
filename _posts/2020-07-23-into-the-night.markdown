@@ -1,0 +1,111 @@
+---
+layout: post
+title: "Into the Night"
+date: 2020-07-23
+author: DavidRL
+comments: true
+categories: [this was meant to be the future]
+masthead_style: banner
+featured_image: /assets/images/site/twmtbtf.jpeg
+series: "this was meant to be the future"
+---
+
+There was no sun. The news was full of theories about what had happened but there were no facts, just wild speculation. The government told people not to panic but most of the cabinet had gone missing, so that didn’t help. All we were left with was the thick, dark void that hung above our heads, offering more questions than answers.
+
+The moon and stars had vanished as well, but it was the hideous absence of a benevolent star that panicked people the most.
+<!--more-->
+In the streets, crowds took to looting. I didn't blame them. Sure, in my opinion it was pointless to crave material goods at a time like this, but I understood why the urge. It was a way of establishing control over the unknowable. All they were doing was trying to suppress the feeling of utter chaos. Or add to it. Everybody for themselves, grab what you can on the way down.
+
+I wasn’t above being selfish,  I just didn’t want to steal anything. That morning, I left my wife at home, sleeping. She always slept late, given half a chance. I was sure she would wake to the strange new world soon enough, but in that morning I wanted to give her an extra moment of peace. So I left her in bed and went to work. It was where I felt safe. My shop was my life for ten years and I wanted to see it one last time. You see, I was selfish too.
+
+Darkness overwhelmed everything. Street lights were off, on timers that had failed the population. No matter. I knew the way by heart. I was used to stumbling there in the middle of the night when the alarm was set off by a badger or a gust of wind. Broken glass covered the pavements. In the distance, endless sirens droned, trying to keep some sort of order despite everything. Flames leapt from a few buildings I passed, providing brief illumination and spewing thick smoke into the darkness above. I hoped the people had got out.
+
+My shop would be fine. I had those shutters installed last year. It was a lot of money at the time, but I was glad of the expense now. Besides, even if it wasn’t, I was happy just to go there, into the ruins of my life’s work. I turned down the alley, a small cut through I had discovered a few years back.
+
+Not for the first time, I was happy this was a small town. We were shielded from the worst of the violence. Of course, there was danger here, but on a much smaller scale.  Most people had taken to locking their doors and hiding away inside their houses, hoping for it all to blow over. I wasn’t convinced that was going to happen.
+
+My eyes had adjusted to the permanent night by now. I could see vague outlines of streets and people.
+
+There was a tall man on the corner of the alley with wiry white hair, roaming eyes and a giant placard draped over him saying 'The End is Nigh'. I had seen him before. Usually, he wandered around the streets as others went about their business. His usual spiel was that we were all sinners and God would soon wipe the slate clean. People shied away from him, but he was harmless. Now he wasn’t bothering anyone. Stood still, he was watching the sky, mouth open in amazement. Or maybe horror. As I passed him, he had tears in his eyes.
+
+After a couple of paces, I stopped. Why not? I thought. I turned back.
+
+‘Excuse me?’ He didn’t register the question, but continued to stare at the sky. 'Do you want a cup of tea?’
+
+I had to ask couple of times before he even noticed me. He seemed lost. He looked at me as if I was an apparition from another world. Then very slowly, he nodded.
+
+‘Come on then.’
+
+I took a couple of steps before I turned to check he was following me. He was stood in the same place as before.
+
+'If you want it, come on.' I said. He started to shuffle slowly my way, weighed down by the board.
+
+He was a couple of steps behind me. Every time I stopped to let him catch up, he would stop too.  Fine, if that was how he wanted to deal with it. I carried on, walking just ahead.
+
+Usually, I never would have invited a stranger back to the shop when it was closed. My shop was sanctuary. But these were strange times and I felt like spreading a small bit of kindness.
+
+In the middle of the road, a couple of figures were wrapped around each other, all tangled limbs and soft, exploring caresses. In the darkness, I could only see their outlines merging together. I thought my new friend wouldn't approve, so I shuffled past as fast as possible. I was embarrassed, sure, but it seemed like an appropriate response now. Everything was permitted. Nothing meant anything.
+
+There was an angry roar in the distance, the snarl of a motorbike treating the streets as its own racetrack. All I saw was a light approaching me, fast. Down the pavement. Grabbing the old man just in time, I dived out of the way. A scooter careened past us, the driver hollering obscenities to no one in particular as they vanished into the distance.
+
+Almost being ran down should have shaken the preacher out of his daze, but he stood up, patted himself down and we inched on in silence. He stayed in his fugue state, locked inside himself.
+
+The rest of the way was a crawl. I’d done this route thousands of times in the past, but now it seemed so unfamiliar. I felt as if I was lost in a labyrinth, blind and crawling around the streets, following some small thread with my fingertips.
+
+Finally, we reached my familiar shutters, still untouched in the darkness. I held my torch in my hands and shone the light onto the lock. I found my keys in a coat pocket and with a bit of fiddling, I managed to get them in and turn. The shutters rose slowly. When they were halfway I ducked under and opened the door. The old man followed me.
+
+Inside the shop, it was cool and still. I resisted the urge to turn on the lights. They probably wouldn’t work any more. The stillness was comforting. My eyes struggled to adjust to the even deeper darkness, but on auto-pilot I managed to navigate between the silent tripods. When I reached my office at the back of the shop, I heard a clatter and a crash of metal. The preacher had stumbled into one of the instruments. I cursed him under my breath, hoping it wasn't one of the more expensive models, before realising that it didn't matter any more. It was a shame, because this situation was the perfect chance to use my collection. The utter futility of what I had done struck me in that dark back office. I had left my wife to panic at home, just so I could come into work one last time. The destination had been everything. Now I was here, it seemed so pointless.
+
+Not knowing what else to do, I shuffled back onto the shop floor. Taking the preacher by the arm, I lead him back to my office. I sat him down on the single office chair. My office was tiny, just a desk and a chair slotted into a little alcove in the back room. Most of the room was taken up with boxed stock. The wardrobe-like office wasn't suitable for one person, let alone two. How much of my life had I spend trapped in these walls?
+
+From a drawer below the desk, I produced a gas stove, a couple of mugs and tea bags. I had used the stove for years, as there were no power-points in my office. I had meant to install them years ago but never got round to it. I realised I never would.
+
+‘Tea!’ I proclaimed, cheerful for some reason. The old man just nodded. I’m not even sure why I said it. I just wanted to show him I wasn’t taking him for a ride. That I was genuine in my offer. That kindness still existed, even now.
+
+A ringing jolted me to my bones. The phone on the shop counter was blaring. It cut through the silence like a knife . A landline had always been old-fashioned, even in my childhood, but for some reason it felt necessary. At least the lines were still up.
+
+I picked up the receiver.
+
+'Hello?' I said. There was nothing else on the other end.
+
+'Hello?' I was panicking, despite myself. On the line, I could hear quick, shallow breathing. Like someone running. Then a click and the hum of the line.
+
+I stared at the phone, back on the hook, unsure when I had hung up.  
+
+The preacher was still out back, examining some lenses and parts I was tinkering with. I used to do more repairs, back when I first opened, but there was less demand for my instruments now. There wasn't much when I started. People just didn't want to look to the skies any more. They were content to be stuck on earth. I had just been breaking even the last couple of years, selling to specialists. Lucky my wife made decent money, so she could keep me afloat. I felt another pang of guilt for leaving her sleeping. I hope she didn’t think I had vanished.
+
+The kettle was boiling now, so as promised I poured water into a cup for my new friend. As I placed it in front of him, he looked me straight in the eye for the first time.
+
+'What is it you make here?'
+
+Although his voice was hushed, he still carried that same authority he used while on the street. That same sonorous quality that commanded attention.
+
+I didn't want to tell him but it felt inevitable. 'I don't make anything,' I said. 'I'm just altering a couple of lenses. Getting more clarity and that sort of thing.'
+
+'Clarity?'
+
+Without a word, I grabbed a torch from the drawer in the desk and walked back onto the shop floor. He followed. I shone the torch over the tripods and cylinders. The preacher stared, not understanding.
+
+'Telescopes. I sell telescopes here.'
+
+A change came over the preacher. His look of confusion changed to one of joy.  He started talking, almost to himself, in that same sonorous tone.
+
+'This is blessed. This is destiny. I knew you would not abandon me in my hour of need, oh Lord. You have not left me to fend for myself. He rewards the faithful and I have been so faithful. Thank you oh Lord, for the blessings you have bestowed on me.’
+
+It wasn’t God. It was me. I had lead him through the darkened streets. That’s what I wanted to say but the words stuck in my throat. I remained mute.
+
+'With these instruments I can gaze on the face of God. With these instruments, I can find out why he has forsaken his children and obscured his face. I can look upon him and understand.'
+
+All radio telescopes, from Jodrell Bank to the Atacama desert were now trained on the empty sky above us, trying to figure out what had happened. Each were orders of magnitude more powerful and huge in size, compared to the hobby ones I sold. If the best minds in cosmology couldn’t figure out what had happened, I doubted one slightly senile old man could figure it out, but I kept quiet. I knew my ramblings wouldn’t change his mind anyway. He was set on his course.
+
+He was ranting to himself about God and destiny. I stared out at the shop floor, so familiar even in the darkness. How many years of my life had I given to this place? How many long, tiring hours when I could have been travelling the world, seeing it all the splendour before it was too late. Now, even if I travelled around, even if I could get a flight, there would be nothing to see, just empty darkness. An all pervasive gloom that surrounded the world.
+
+When he came for me, I was lost in thought and unprepared. He swung. His fist hit my cheek. The pain was sudden and intense. The old boy had some fight in him, I'll give him that. I hit back, almost on instinct. Bastard. I was trying to be a good person, even in the middle of everything. I gave him tea. He looked shocked, like he didn't expect any retaliation. He grappled me and I pushed back. We knocked over displays, slammed into the cash register. I pushed him down to the floor and he looked up at me with terror in his wild, roaming eyes. I pulled my fist back to slam it into his stupid face.
+
+I stopped myself. What was I doing, rolling around on the floor like some kind of animal? I didn't care about the telescopes, not now. There was no point. Everything was irrelevant now. I stood up. He cowered underneath me when I stuck out my hand to help him up. I pulled the old preacher to his feet. He whimpered, even when I picked him up.
+
+'Go on. Take one of them,' I said. 'Gift from God.'
+
+He hesitated for a moment, then darted over to one of the large telescopes. He picked it up, tripod and all and scrambled out underneath the shutters. Then he was gone, out into the eternal night, off to find some hill where he could gaze on the face of God. I didn’t have the heart to tell him the face of God would be missing.
+
+I was left alone in the shop, the sum of my life's work, wondering what to do now the sun had been hidden from us.
