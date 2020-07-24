@@ -1,14 +1,14 @@
-{% include logic.html %}
+  {% include logic.html %}
 
 <div id="masthead" class="masthead-{{ masthead }}">
 {% if masthead == "plain" %}
-    <div class="jumbotron jumbotron-fluid text-center text-md-left bg-transparent mb-0" style= padding-top 0.5rem>
+    <div class="jumbotron jumbotron-fluid text-center bg-transparent mb-0" style= padding-top 0.5rem>
         <div class="container my-2 py-3">
 {% elsif masthead == "banner" %}
-    <div class="jumbotron jumbotron-fluid text-center text-md-left text-white bg-dark mb-0" style="background: linear-gradient(rgba(0, 0, 0, 0.65), rgba(0, 0, 0, 0.65)), url('{{ page.featured_image | default: site.featured_image | absolute_url }}') no-repeat center center; background-size: cover;">
+    <div class="jumbotron jumbotron-fluid text-center text-white bg-dark mb-0" style="background: linear-gradient(rgba(0, 0, 0, 0.65), rgba(0, 0, 0, 0.65)), url('{{ page.featured_image | default: site.featured_image | absolute_url }}') no-repeat center center; background-size: cover;">
         <div class="container my-5 py-5">
 {% elsif masthead == "none" %}
-    <div class="jumbotron jumbotron-fluid text-center text-md-left bg-transparent mb-0" style= padding-top 0.5rem>
+    <div class="jumbotron jumbotron-fluid text-center bg-transparent mb-0" style= padding-top 0.5rem>
         <div class="container my-0.5 py-0">
 {% endif %}
          <h1 style= margin-top= 3rem></h1>

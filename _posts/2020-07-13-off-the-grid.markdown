@@ -21,5 +21,5 @@ newly separate and confused
 listening to automated number   
 stations, comfort in the night.  
 
-***
+<hr/>
 Looking through my drafts recently, I realised this one was never posted. Pascal Vine was asking for prompts a while back, so I gave them the prompt "All we listened to was a number station". I wrote a response to it as well. This predates covid but feels very relevant now.
