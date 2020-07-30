@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Vibrations"
-date: 2020-07-27
+title: "Half Awake"
+date: 2020-07-30
 author: DavidRL
 comments: true
 categories: [erasure poetry]
 ---
-<img src="/assets/images/articles/vibrations.jpeg" class="responsive"><br>
+<img src="/assets/images/articles/night.jpeg" class="responsive"><br>
 
 Taken from *Bristol In Stereo* magazine, May 2019.
