@@ -12,7 +12,7 @@ author: false
 ---
 <h3>I've made this book free, see download links below.</h3>  
 
-<img src="/assets/images/site/remain.jpg"  class="small">s
+<img src="/assets/images/site/remain.jpg"  class="small">
 > The system is set up to catch criminals, not to make them.
 
 Remain Vigilant is two linked one-act stage plays, both set in the same secret government organisation that deals with surveillance. Both plays show the paranoia that comes from watching the nation as well of the madness of any large office. They are linked together, telling the story of one organisation, but they are both stand-alone and can be performed separately.  
