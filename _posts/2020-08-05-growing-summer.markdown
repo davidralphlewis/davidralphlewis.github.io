@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Summer"
-date: 2020-06-15
+title: "Growing summer"
+date: 2020-08-05
 author: DavidRL
 comments: true
 categories: [photos]
