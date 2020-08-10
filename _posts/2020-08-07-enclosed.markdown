@@ -8,4 +8,5 @@ categories: [erasure poetry]
 ---
 <img src="/assets/images/articles/walls.jpeg" class="responsive"><br>
 
+
 Taken from *Dork* magazine, April 2019.
