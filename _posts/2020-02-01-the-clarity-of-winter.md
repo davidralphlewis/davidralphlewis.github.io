@@ -6,8 +6,8 @@ author: DavidRL
 comments: true  
 categories: [erasure poetry]  
 ---  
-<img src="/assets/images/articles/winterclarity.jpeg" class="responsive"><br> 
+<img src="/assets/images/articles/winterclarity.jpeg" class="responsive"><br>
 
 This song seems appropriate given the events of yesterday. It's a slow growing collapse.  
 
-<iframe src="https://www.youtube.com/embed/Fw9hgP6QJmc" width="560" height="315"></iframe>  
+<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/Fw9hgP6QJmc" width="560" height="315"></iframe>  

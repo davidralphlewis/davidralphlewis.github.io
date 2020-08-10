@@ -12,7 +12,7 @@ Here, in no particular order, are some things I enjoyed over the last month:
 <li>First, some music. I had the immense pleasure of seeing Los Campesinos! at Live in Leeds. At Glastonbury 2007 , I saw them twice in the same day and hadn't really kept up since then. This time round the band were superb. This was a highlight of their set and the video is quite something as well.</li>  
 </ul>  
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4-M_m1I1uKU" frameborder="0" allowfullscreen></iframe>  
+<iframe class="embed-responsive-item" width="560" height="315" src="https://www.youtube.com/embed/4-M_m1I1uKU" frameborder="0" allowfullscreen></iframe>  
 
 <!--more-->  
 

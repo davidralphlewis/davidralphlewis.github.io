@@ -6,7 +6,10 @@ author: DavidRL
 comments: true
 categories: [creativity]
 ---
-Why not take five minutes out of your day to [watch this:](https://www.youtube.com/watch?v=IvUU8joBb1Q])
+Why not take five minutes out of your day to watch this:
+<div class="embed-responsive embed-responsive-16by9">
+<iframe class="embed-responsive-item" src="https://www.youtube.com/watch?v=IvUU8joBb1Q]" allowfullscreen></iframe>
+</div>
 
 It's an incredible machine made by [Wintergatan](http://wintergatan.bandcamp.com/). Overly complicated and intricate, it is fully programmable and has the ability to play the melody, bass and drums all at the same time while changing key halfway through the song. It took the artist fourteen months to build.
 <!--more-->
