@@ -12,4 +12,4 @@ The anthology out March 7th and is available for preorder now. It's a US publica
 
 I also read my poem as part of Performance Anxiety, a monthly reading on skype. You can listen below. I'm the token Brit.  
 
-<iframe src="https://youtube.com/embed/pGN6SyJbKA8" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>  
+<iframe class="embed-responsive-item" src="https://youtube.com/embed/pGN6SyJbKA8" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>  

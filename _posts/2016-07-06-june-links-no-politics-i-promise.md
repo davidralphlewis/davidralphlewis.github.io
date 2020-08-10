@@ -6,9 +6,8 @@ author: DavidRL
 comments: true  
 categories: [link round up]  
 ---  
-<div class="videoWrapper" style="--aspect-ratio: 3 / 4;>
-  <iframe src="https://www.youtube.com/embed/nKF_0dEY2Oc"; frameborder="0" allowfullscreen></iframe>  
-</div>
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/nKF_0dEY2Oc"; frameborder="0" allowfullscreen></iframe>  
+  
 Given everything that is going on at the moment, I'm amazed we made it to the end of July. However, there's enough good stuff out there to take your mind off the malestrom. Here's a few things I've enjoyed:  
 <!--more-->  
 

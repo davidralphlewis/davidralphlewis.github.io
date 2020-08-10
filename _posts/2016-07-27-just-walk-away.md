@@ -8,7 +8,7 @@ categories: [music]
 ---  
 I was at Tramlines music festival in Sheffield at the weekend. There was sunshine, there was music, there was booze. Lots of good times were had. One of the bands I was most looking forward to seeing was Public Service Broadcasting, who did not disappoint.  
 
-<iframe src="https://www.youtube.com/embed/BHIo6qwJarI" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>  
+<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/BHIo6qwJarI" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>  
 
 I think the band are really something special, with a unique blend of live music and retro samples. However, I can appreciate they are not for everyone. They were oddly scheduled as well, on the main stage before the headliners Catfish and the Bottlemen.  
 <!--more-->  
