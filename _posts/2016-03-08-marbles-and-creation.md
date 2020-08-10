@@ -7,9 +7,15 @@ comments: true
 categories: [creativity]
 ---
 Why not take five minutes out of your day to watch this:
+<<<<<<< HEAD
 <div class="embed-responsive embed-responsive-16by9">
 <iframe class="embed-responsive-item" src="https://www.youtube.com/watch?v=IvUU8joBb1Q]" allowfullscreen></iframe>
 </div>
+=======
+
+<iframe class="embed-responsive-item" src="https://www.youtube.com/watch?v=IvUU8joBb1Q]" allowfullscreen></iframe>
+
+>>>>>>> eed767d6590e976c36dc668627ed363a6656e2a7
 
 It's an incredible machine made by [Wintergatan](http://wintergatan.bandcamp.com/). Overly complicated and intricate, it is fully programmable and has the ability to play the melody, bass and drums all at the same time while changing key halfway through the song. It took the artist fourteen months to build.
 <!--more-->
