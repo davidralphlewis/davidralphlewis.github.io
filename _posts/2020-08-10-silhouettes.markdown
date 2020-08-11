@@ -20,4 +20,4 @@ Our outlines entwined, two dimensions,
 diminished by the judgement of light.  
 
 ***
-[75 years later](https://www.bbc.co.uk/news/world-asia-33839055), we still hear the echoes.
+[75 years later](https://www.bbc.co.uk/news/in-pictures-53648572), we still hear the echoes.
