@@ -20,4 +20,4 @@ Were your irises burnt into the pavement for days?
 Please respond to me if so, I have your wallet.
 
 ***
-The amazing Charlie and Jake set my poem *Condolences* to music in their Echoes and Edges livestream a week ago. Check it out (and all the other brilliant poems and music) [here.](https://www.youtube.com/watch?v=_fXI2bGf5L8)
+The amazing Charlie and Jake set my poem [*Condolences*](www.davidralphlewis.co.uk/condolences) to music in their Echoes and Edges livestream a week ago. Check it out (and all the other brilliant poems and music) [here.](https://www.youtube.com/watch?v=_fXI2bGf5L8)
