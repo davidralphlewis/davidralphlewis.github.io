@@ -13,4 +13,5 @@ categories: [photos]
 <img src="/assets/images/articles/cornwall5.jpg" class="responsive"><br>
 <img src="/assets/images/articles/cornwall1.jpg" class="responsive"><br>
 ***
+
 I'm delighted to have a poem over at [*Mineral Lit*](https://www.minerallitmag.com/travelling.html#/). It's a very strange one called *Travelling*.
