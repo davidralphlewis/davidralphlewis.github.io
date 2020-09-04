@@ -12,13 +12,13 @@ in and talk about it in front of the class
 for everyone else to share and enjoy  
 and so in this cardboard box I have brought   
 the first rays of morning and if I open it  
-this classroom, with its peeling walls,  
-its desks engraved with cramped insults   
+this classroom, with its peeling walls,   
+its desks engraved with cramped insults    
 and declarations of love from children   
-who have now become adults, its blutacked  
+who have now become adults, its blutacked   
 posters of the alphabet, all we can see will   
 transform into gold and all our eyes will  
-glitter and all the dust in the spaces  
+glitter and all the dust in the spaces    
 between us will dance and twirl in the light.
 <hr/>
 
