@@ -53,3 +53,4 @@
 
 {% assign current_year = site.time | date: "%Y" %}
 {% include open-embed.html %}
+{% if page.galleries %}{% include image-gallery-index.html %}{% endif %}
