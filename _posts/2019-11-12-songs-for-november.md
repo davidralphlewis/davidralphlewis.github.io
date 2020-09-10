@@ -6,7 +6,11 @@ author: DavidRL
 comments: true  
 categories: [music]  
 ---  
-Pauline Seawards shared this and I just had to share it as well. David Byrne <a href="https://www.youtube.com/embed/w7HJZPlJn_U">sings *Heroes*</a> with a choir who had practiced for just an hour beforehand. It's utterly beautiful and hypnotizing.
+Pauline Seawards shared this and I just had to share it as well.
+
+https://www.youtube.com/embed/w7HJZPlJn_U
+
+David Byrne sings *Heroes* with a choir who had practiced for just an hour beforehand. It's utterly beautiful and hypnotizing.
 
 I also love what David Byrne said about the performance:   
 
@@ -14,6 +18,8 @@ I also love what David Byrne said about the performance:
 
 > Quoted on<a href="https://happymag.tv/watch-david-byrne-perform-a-chilling-cover-bowies-heroes-backed-by-a-choir-of-strangers/"> happymag.tv</a>  
 
-Then walking home, I listened to <a href= "https://www.youtube.com/embed/x0TJrlemmVQ">*Spanish Translation* by Low:</a>  
+Then walking home, I listened to*Spanish Translation* by Low:
+
+https://www.youtube.com/embed/x0TJrlemmVQ
 
 Both songs send shivers down my spine. Perfect for a cold November night.  

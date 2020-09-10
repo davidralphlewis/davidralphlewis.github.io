@@ -11,7 +11,7 @@ I finally got round to listening to the new Nick Cave &amp; The Bad Seeds album 
 
 This isn't because the album is no good- far from it. It isn't because I wish to keep myself ignorant of its charms. It's just that this album is incredibly difficult to listen to. Nick Cave's son tragically fell to his death in 2015, aged just 15. Although the majority of the album was recorded before the accident, the lyrics were altered and the vocals were redone in the wake of the tragedy. On the finished album, you can hear the pain and grief in Nick Cave's voice. It cracks and splinters, at times reduced to a howl or a whisper. His anguish is all too evident on this record. It's a stark, uncompromising look at grief. Just have a listen to 'Distant Sky':  
 
-<iframe src="https://www.youtube.com/embed/xCVgsI5h9p0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>  
+https://www.youtube.com/embed/xCVgsI5h9p0
 
 The song is both tearful and beautiful. The soprano over the simple instrumentation is like a siren calling you from the underworld. Nick Cave has always dealt with death, but on this album, it is too real and still too raw. Gone are the jaunty killings of Murder Ballads and in its place is a quiet beauty, full of sadness.  
 

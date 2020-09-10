@@ -10,4 +10,4 @@ categories: [erasure poetry]
 
 This song seems appropriate given the events of yesterday. It's a slow growing collapse.  
 
-<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/Fw9hgP6QJmc" width="560" height="315"></iframe>  
+https://www.youtube.com/embed/Fw9hgP6QJmc

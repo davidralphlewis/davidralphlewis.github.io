@@ -12,7 +12,7 @@ Here, in no particular order, are some things I enjoyed over the last month:
 <li>First, some music. I had the immense pleasure of seeing Los Campesinos! at Live in Leeds. At Glastonbury 2007 , I saw them twice in the same day and hadn't really kept up since then. This time round the band were superb. This was a highlight of their set and the video is quite something as well.</li>  
 </ul>  
 
-<iframe class="embed-responsive-item" width="560" height="315" src="https://www.youtube.com/embed/4-M_m1I1uKU" frameborder="0" allowfullscreen></iframe>  
+https://www.youtube.com/embed/4-M_m1I1uKU
 
 <!--more-->  
 
@@ -37,6 +37,6 @@ I've always been fascinated with the idea of staying in a Tokyo capsule hotel, e
 <li><p>Alright, this final one is a cheat because it was only released on May 3rd. But it's a new song from Radiohead! One of my favourite bands ever! Plus, it's actually pretty good.</p></li>  
 </ul>  
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yI2oS2hoL0k" frameborder="0" allowfullscreen></iframe>  
+https://www.youtube.com/embed/yI2oS2hoL0k
 
 <p>If you have anything I might be interested in, you can submit links to me over on my <a href="http://binary-ephemera.tumblr.com/">tumblr</a>. Or contact me in the link above.  

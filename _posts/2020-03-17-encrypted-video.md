@@ -14,4 +14,4 @@ I took it in some strange directions. Chris also helped me record an audio versi
 
 Have a watch:  
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WLb42Bw9LC4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+https://www.youtube.com/embed/WLb42Bw9LC4

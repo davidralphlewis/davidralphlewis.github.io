@@ -15,7 +15,7 @@ As well as revealing new details of the world around you, the best art reveals h
 
 We're always in flux. Always changing, year to year, day to day, moment to moment. Sometimes the changes are subtle. The days go by, then sometimes you wake up and say 'My God! What have I done?'  
 
-<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/I1wg1DNHbNU" frameborder="0" allowfullscreen></iframe>  
+https://www.youtube.com/embed/I1wg1DNHbNU 
 
 Ok maybe not. But music is a good example of art that will endure over long stretches of time.  I must have first heard this song when I was 8 or so maybe. It has recurred throughout my life. I must have heard it thousands of times. Now as an adult, it has more meaning and significance. But the song itself has remained the same as it ever was.  
 
