@@ -28,7 +28,7 @@ a:hover {
 main {
    p {
     margin: 1.5em;
-    max-width: 800px;
+    max-width: 700px;
     margin-left: auto;
     margin-right: auto;
     }
@@ -36,14 +36,14 @@ main {
     h1 {
         border-bottom: 1px solid var(--divider-color);
         padding-top: 50px;
-        max-width: 800px;
+        max-width: 700px;
         margin-left: auto;
         margin-right: auto;
     }
 
     h1, h2, h3, h4, h5, h6 {
         padding-bottom: .5rem;
-        max-width: 800px;
+        max-width: 700px;
         margin-left: auto;
         margin-right: auto;
     }
@@ -63,7 +63,7 @@ main {
       padding-left: 20px;
       margin: 2em;
       font-style: italic;
-      max-width: 800px;
+      max-width: 700px;
       margin-left: auto;
       margin-right: auto
     }
@@ -85,7 +85,7 @@ main {
     }
     ul {
     margin: 3em;
-    max-width: 800px;
+    max-width: 700px;
     margin-left: auto;
     margin-right: auto;
   }
@@ -106,14 +106,14 @@ main {
     iframe {
       display: block;
       max-width: 70%;
-      max-width: 800px;
+      max-width: 700px;
       margin-left: auto;
       margin-right: auto;
     }
 
    ol {
    display: block;
-   max-width: 800px;
+   max-width: 700px;
    margin-left: auto;
    margin-right: auto;
     }
@@ -139,7 +139,7 @@ main {
 .PageNavigation {
   font-size: 14px;
   display: block;
-  max-width: 800px;
+  max-width: 700px;
   overflow: hidden;
   margin-left: auto;
   margin-right: auto;
@@ -266,7 +266,7 @@ footer {
     }
 }
     #mc_embed_signup_scroll {
-        max-width: 800px;
+        max-width: 700px;
         margin-left: auto;
         margin-right: auto;
         background-color: var(--background-color);
@@ -278,7 +278,7 @@ footer {
       color: var(--font-color);
 }
     #disqus_thread {
-    max-width: 800px;
+    max-width: 700px;
     margin-left: auto;
     margin-right: auto;
 }
