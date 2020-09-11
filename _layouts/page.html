@@ -13,7 +13,7 @@ layout: default
   {% endif %}
 
   {{ content }}
-
+{% include image-gallery-index.html %}
   {% if page.last_modified %}
     <p class="mt-5">Last Updated: {{ page.last_modified | date: "%B %d, %Y" }}</p>
   {% endif %}
