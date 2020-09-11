@@ -5,6 +5,7 @@ permalink: /books/
 author: false
 masthead_style: plain
 social: false
+---
 galleries:
   - title: Our Voices in the Chaos
     image: /assets/images/site/ourvoices.jpg
