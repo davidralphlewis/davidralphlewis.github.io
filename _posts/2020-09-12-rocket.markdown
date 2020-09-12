@@ -41,4 +41,3 @@ tools
 {: .center}  
 hope
 {: .center}  
-s
