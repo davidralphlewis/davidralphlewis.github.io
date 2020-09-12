@@ -1,0 +1,44 @@
+---
+layout: post
+title: "Rocket"
+date: 2020-09-12
+author: DavidRL
+comments: true
+categories: [poetry]
+---
+shot<br/>
+{: .center}  
+into
+{: .center}  
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+
+inferno
+{: .center}      
+propels
+{: .center}    
+bodies
+{: .center}   
+beyond
+{: .center}   
+our
+{: .center}   
+.  
+{: .center}  
+<br/>
+<br/>
+
+
+cargo:   
+{: .center}  
+food    
+{: .center}  
+tools    
+{: .center}  
+hope
+{: .center}  
+s
