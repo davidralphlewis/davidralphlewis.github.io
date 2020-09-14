@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Beyond"
+date: 2020-09-14
+author: DavidRL
+comments: true
+categories: [erasure poetry]
+---
+<img src="/assets/images/articles/beyond.jpeg" class="responsive"><br>
+
+Taken from Crack Magazine, February 2020.
+
+This one took a lot of digital manipulation. I wanted to break out of the usual black to reflect the content. This was the original in context:
+
+<img src="/assets/images/articles/beyondoriginal.jpg" class="responsive"><br>
