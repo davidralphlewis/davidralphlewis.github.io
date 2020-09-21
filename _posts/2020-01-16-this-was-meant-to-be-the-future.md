@@ -30,7 +30,7 @@ Here's the titles of the stories and when they will be out. I'll link to them al
     <li><a href="/the-sky-is-damaged/">June- The Sky is Damaged</a></li>  
     <li><a href="/into-the-night/">July- Into the Night</a></li>  
     <li>August- Advert Break</li>  
-    <li>September- Garden of Delights</li>  
+    <li>September- The Garden</li>  
     <li>October- A Trip to C-Mart</li>  
     <li>November- Tech Support</li>  
     <li>December- Auld Lang Syne</li>  
