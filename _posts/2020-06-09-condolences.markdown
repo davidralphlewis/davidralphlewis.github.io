@@ -45,3 +45,7 @@ This poem was written from a prompt by the wonderful [Tonic](https://www.faceboo
 I was also lucky enough to have it played on BBC Radio Bristol on their Upload show. It's on BBC Sounds until the end of the month, <a href="https://www.bbc.co.uk/sounds/play/p08f8bh7">find it here</a>, at 1 hour 48 mins.
 
 I've uploaded the original audio to Soundcloud. <a href="https://soundcloud.com/davidralphlewis/condolences">Listen here</a>
+
+UDPATE: Charlie and Jake also did an amazing version with music as part of their Echoes and Edges livestream. See below:
+
+https://youtu.be/evxJzU0lsBA

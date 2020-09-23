@@ -29,8 +29,8 @@ Here's the titles of the stories and when they will be out. I'll link to them al
     <li><a href="/FCIC10/">May- #FCIC10</a></li>  
     <li><a href="/the-sky-is-damaged/">June- The Sky is Damaged</a></li>  
     <li><a href="/into-the-night/">July- Into the Night</a></li>  
-    <li>August- Advert Break</li>  
-    <li>September- The Garden</li>  
+    <li><a href="/advert-break/">August- Advert Break</a></li>  
+    <li><a href="/the-garden/">September- The Garden</a></li>  
     <li>October- A Trip to C-Mart</li>  
     <li>November- Tech Support</li>  
     <li>December- Auld Lang Syne</li>  

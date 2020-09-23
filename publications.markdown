@@ -7,6 +7,14 @@ masthead_style: plain
 social: false
 ---
 ## 2020
+*Travelling* - [Mineral Lit issue 4.1](https://www.minerallitmag.com/travelling.html#/)
+
+<em>[Condolences](/condolences/)</em> - Charlie + Jake [Echoes and Edges collaborative live stream 1](https://www.youtube.com/watch?v=evxJzU0lsBA&t=10s)
+
+*The Archivists* - [Marble Poetry Issue 7](http://marblepoetry.com/product/issue-7/)
+
+*Lunch Break* & *Acclimated* - [Selcouth Station Magazine issue #1](https://www.selcouthstation.com/product-page/selcouth-magazine-1)
+
 <em>[Condolences](/condolences/)</em>- BBC Upload on BBC Radio Bristol
 
 *How to Hear the Hills* - Charlie + Jake [Echoes and Edges collaborative live stream 2](https://youtu.be/mgjd5tHJhDE)
