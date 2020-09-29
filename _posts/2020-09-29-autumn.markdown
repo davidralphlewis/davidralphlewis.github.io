@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Autumn"
+date: 2020-09-29
+author: DavidRL
+comments: true
+categories: [erasure poetry]
+---
+<img src="/assets/images/articles/autumn.jpeg" class="responsive"><br>
+
+Taken from DIY Magazine, September 2020.
