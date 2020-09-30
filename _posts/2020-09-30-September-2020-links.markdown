@@ -10,7 +10,7 @@ categories: [link round up]
 When I ported this site over and recoded it, I looked through old posts. In 2016 I made monthly link posts where I recommended things I enjoyed. Later, I moved this to a now defunct newsletter.[^1] I thought I would bring back recommendations, changing the format a little bit. So here are some things I've enjoyed.
 
 ## Article
-Blair Braverman [On Getting Rejected a Lot (and Liking It)]. This is excellent advice that I feel I learn over and over again. Worth reading and refreshing. (https://getpocket.com/explore/item/on-getting-rejected-a-lot-and-liking-it?utm_source=pocket-newtab-global-en-GB)
+Blair Braverman [On Getting Rejected a Lot (and Liking It)](https://getpocket.com/explore/item/on-getting-rejected-a-lot-and-liking-it?utm_source=pocket-newtab-global-en-GB). This is excellent advice that I feel I learn over and over again. Worth reading and refreshing. 
 
 ## Book
 
