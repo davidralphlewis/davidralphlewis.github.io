@@ -17,6 +17,6 @@ and a peek at the first poem:
 
 <img src="/assets/images/site/refractioninside.jpg" class="responsive"><br>
 
-It's available for pre-order now on [my shop](https://davidralphlewis.bigcartel.com/). Currently it is being printed. The cost is only £3 plus p&p, so less than a pint or slightly more than a coffee. If you're low income or have lost your job I'll send you one for free- just [email me.](mailto:contact@davidralphlewis.co.uk)
+It's available for pre-order now on [my shop](https://davidralphlewis.bigcartel.com/). Currently it is being printed. The cost is only £3 plus p&p, so less than a pint or slightly more than a coffee. If you're on low income or have lost your job I'll send you one for free- just [email me.](mailto:contact@davidralphlewis.co.uk)
 
 [Buy it here](https://davidralphlewis.bigcartel.com/)
