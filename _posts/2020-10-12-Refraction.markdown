@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "New micro pamphlet- *Refraction*"
+title: "New micro pamphlet- Refraction"
 date: 2020-10-12
 author: DavidRL
 comments: true
