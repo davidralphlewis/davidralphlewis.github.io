@@ -22,3 +22,4 @@ galleries:
     image: /assets/images/site/books/amberstars.jpg
     url: /amberstars/
 ---
+{% include image-gallery-index.html %}
