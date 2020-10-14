@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Spare Parts
 date: 2020-01-11 18:26
 author: DavidRL

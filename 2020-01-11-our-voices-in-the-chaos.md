@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Our Voices in The Chaos
 date: 2020-01-11 11:39
 author: DavidRL

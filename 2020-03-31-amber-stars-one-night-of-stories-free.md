@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "Amber Stars: One Night of Stories- Free!"
 date: 2020-03-31 15:59
 author: DavidRL
