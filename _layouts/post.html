@@ -23,14 +23,13 @@
     {% include author.html %}
     {% endif %}
     {% include content.html %}
+    {% include page_nav.html %}
     <hr>
     {% if author %}
     {% include authorbio.html %}
     {% endif %}
-    {% include page_nav.html %}
     <hr>
     {% include mailchimp.html %}
-    <hr>
     {% if site.disqus.shortname %}
     {% include disqus_comments.html %}
     {% endif %}
