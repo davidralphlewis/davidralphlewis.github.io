@@ -2,7 +2,7 @@
 layout: post
 title: "Into the Night"
 date: 2020-07-23
-author: DavidRL
+
 comments: true
 categories: [this was meant to be the future]
 masthead_style: banner

@@ -2,7 +2,7 @@
 layout: default  
 title: Inside my commonplace book  
 date: 2019-12-10 19:07  
-author: DavidRL  
+  
 comments: true  
 categories: [creativity]  
 ---  

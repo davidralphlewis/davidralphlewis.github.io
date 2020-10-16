@@ -2,7 +2,7 @@
 layout: post
 title: "What we are made of"
 date: 2020-08-12
-author: DavidRL
+
 comments: true
 categories: [erasure poetry]
 ---

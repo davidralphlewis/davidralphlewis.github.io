@@ -2,7 +2,7 @@
 layout: post
 title: "Squall"
 date: 2020-09-07
-author: DavidRL
+
 comments: true
 categories: [erasure poetry]
 ---

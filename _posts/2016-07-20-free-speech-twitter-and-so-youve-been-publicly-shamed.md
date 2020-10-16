@@ -2,7 +2,7 @@
 layout: post  
 title: Free speech, Twitter and 'So You've Been Publicly Shamed'  
 date: 2016-07-20 15:30  
-author: DavidRL  
+  
 comments: true  
 categories: [book review]  
 ---  

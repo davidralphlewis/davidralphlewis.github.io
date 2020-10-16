@@ -2,7 +2,7 @@
 layout: post  
 title: Accidental plagarism  
 date: 2019-11-16 13:24  
-author: DavidRL  
+  
 comments: true  
 categories: [creativity]  
 ---  

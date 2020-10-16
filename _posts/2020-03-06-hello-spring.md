@@ -2,7 +2,7 @@
 layout: default  
 title: Hello Spring  
 date: 2020-03-06 12:34  
-author: DavidRL  
+  
 comments: true  
 categories: [photos]  
 ---  

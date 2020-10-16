@@ -2,7 +2,7 @@
 layout: post  
 title: A Knock on the door  
 date: 2016-06-15 11:11  
-author: DavidRL  
+  
 comments: true  
 categories: [stories]  
 ---  

@@ -2,7 +2,7 @@
 layout: default
 title: Missed Connection
 date: 2020-08-25
-author: DavidRL
+
 comments: true
 categories: [poetry]
 ---

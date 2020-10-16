@@ -2,7 +2,7 @@
 layout: post  
 title: New serial book announcement- This Was Meant to be the Future  
 date: 2020-01-16 09:17  
-author: DavidRL  
+  
 comments: true  
 categories: [this was meant to be the future]
 masthead_style: banner

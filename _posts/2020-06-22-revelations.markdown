@@ -2,7 +2,7 @@
 layout: post
 title: "Revelations"
 date: 2020-06-22
-author: DavidRL
+
 comments: true
 categories: [erasure poetry]
 ---

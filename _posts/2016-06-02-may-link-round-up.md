@@ -2,7 +2,7 @@
 layout: post  
 title: May Link Round-up  
 date: 2016-06-02 11:45  
-author: DavidRL  
+  
 comments: true  
 categories: [link round up]  
 ---  

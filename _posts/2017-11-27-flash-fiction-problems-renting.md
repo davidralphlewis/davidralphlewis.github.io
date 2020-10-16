@@ -2,7 +2,7 @@
 layout: post  
 title: "Flash Fiction: The Problems of Renting"  
 date: 2017-11-27 20:13  
-author: DavidRL  
+  
 comments: true  
 categories: [stories]  
 ---  

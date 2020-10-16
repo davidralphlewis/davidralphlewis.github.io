@@ -2,7 +2,7 @@
 layout: post  
 title: Brand Ambassador  
 date: 2019-08-22 12:23  
-author: DavidRL  
+  
 comments: true  
 categories: [poetry]  
 ---  

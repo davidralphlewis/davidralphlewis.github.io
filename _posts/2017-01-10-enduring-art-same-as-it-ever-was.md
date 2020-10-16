@@ -2,7 +2,7 @@
 layout: post  
 title: Enduring art (Same as it ever was)  
 date: 2017-01-10 17:06  
-author: DavidRL  
+  
 comments: true  
 categories: [creativity]  
 ---  

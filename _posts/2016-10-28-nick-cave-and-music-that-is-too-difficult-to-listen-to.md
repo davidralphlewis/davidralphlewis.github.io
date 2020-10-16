@@ -2,7 +2,7 @@
 layout: post  
 title: Nick Cave and music that is too difficult to listen to  
 date: 2016-10-28 12:43  
-author: DavidRL  
+  
 comments: true  
 categories: [music]  
 ---

@@ -2,7 +2,7 @@
 layout: post  
 title: Brace brace brace  
 date: 2019-12-13 12:19  
-author: DavidRL  
+  
 comments: true  
 categories: [poetry]  
 ---  

@@ -2,7 +2,7 @@
 layout: post
 title: "May in the woods"
 date: 2020-05-22
-author: DavidRL  
+  
 comments: true  
 categories: [photos]
 ---

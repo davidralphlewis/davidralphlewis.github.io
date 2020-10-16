@@ -2,7 +2,7 @@
 layout: post  
 title: August bits and bobs  
 date: 2016-09-06 12:33  
-author: DavidRL  
+  
 comments: true  
 categories: [link round up]  
 ---  

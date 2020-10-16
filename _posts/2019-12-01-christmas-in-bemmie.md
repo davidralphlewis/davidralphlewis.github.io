@@ -2,7 +2,7 @@
 layout: default  
 title: Christmas in Bemmie  
 date: 2019-12-01 13:19  
-author: DavidRL  
+  
 comments: true  
 categories: [photos]  
 ---  

@@ -2,7 +2,7 @@
 layout: post  
 title: Recent Published Writing  
 date: 2018-10-15 14:53  
-author: DavidRL  
+  
 comments: true  
 categories: [publications]  
 ---  

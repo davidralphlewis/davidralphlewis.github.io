@@ -2,7 +2,7 @@
 layout: post
 title: "The end of an era"
 date: 2020-05-28
-author: DavidRL  
+  
 comments: true  
 categories: [erasure poetry]  
 ---  

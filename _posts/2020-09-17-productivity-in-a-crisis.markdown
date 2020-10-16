@@ -2,7 +2,7 @@
 layout: post
 title: "Productivity in a Crisis"
 date: 2020-09-17
-author: DavidRL
+
 comments: true
 categories: [plague notes]
 ---

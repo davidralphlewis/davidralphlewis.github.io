@@ -2,7 +2,7 @@
 layout: post  
 title: Napowrimo 2020 Day 13 - Things that have lost their power  
 date: 2020-04-13 14:06  
-author: DavidRL  
+  
 comments: true  
 categories: [poetry]  
 ---  

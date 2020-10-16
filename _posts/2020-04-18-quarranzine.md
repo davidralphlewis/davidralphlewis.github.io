@@ -2,7 +2,7 @@
 layout: post
 title: Quarranzine  
 date: 2020-04-18 17:47  
-author: DavidRL  
+  
 comments: true  
 categories: [zines]  
 ---  

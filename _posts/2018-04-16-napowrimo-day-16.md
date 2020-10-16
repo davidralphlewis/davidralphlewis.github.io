@@ -2,7 +2,7 @@
 layout: post  
 title: NaPoWriMo 2018 Day 16  
 date: 2018-04-16 16:17  
-author: DavidRL  
+  
 comments: true  
 categories: [poetry]
 ---  

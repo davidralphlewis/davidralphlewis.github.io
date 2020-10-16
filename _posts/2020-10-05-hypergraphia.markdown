@@ -2,7 +2,7 @@
 layout: post
 title: "Hypergraphia"
 date: 2020-10-05
-author: DavidRL
+
 comments: true
 categories: [writing]
 ---

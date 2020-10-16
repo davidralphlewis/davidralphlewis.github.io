@@ -2,7 +2,7 @@
 layout: post  
 title: Napowrimo 2020 Day 23- Erasing  
 date: 2020-04-23 15:13  
-author: DavidRL  
+  
 comments: true  
 categories: [poetry]  
 ---  

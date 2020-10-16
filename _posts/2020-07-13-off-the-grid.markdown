@@ -2,7 +2,7 @@
 layout: post
 title: "Off the Grid"
 date: 2020-07-13
-author: DavidRL
+
 comments: true
 categories: [poetry]
 masthead_style: plain

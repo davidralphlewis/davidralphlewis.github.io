@@ -2,7 +2,7 @@
 layout: default  
 title: Stillness  
 date: 2020-03-08 12:05  
-author: DavidRL  
+  
 comments: true  
 categories: [photos]  
 ---  

@@ -2,7 +2,7 @@
 layout: post  
 title: 30 things I don't know at 30  
 date: 2018-02-28 21:28  
-author: DavidRL  
+  
 comments: true  
 categories: [advice]  
 ---  

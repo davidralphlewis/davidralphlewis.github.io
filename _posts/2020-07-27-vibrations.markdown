@@ -2,7 +2,7 @@
 layout: post
 title: "Vibrations"
 date: 2020-07-27
-author: DavidRL
+
 comments: true
 categories: [erasure poetry]
 ---

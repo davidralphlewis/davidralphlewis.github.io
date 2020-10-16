@@ -2,7 +2,7 @@
 layout: post
 title: "The Garden"
 date: 2020-09-21
-author: DavidRL
+
 comments: true
 categories: [this was meant to be the future]
 masthead_style: banner

@@ -2,7 +2,7 @@
 layout: post
 title: "Napowrimo 2020 day 9 - Hollow Passengers"
 date: 2020-04-09 16:01
-author: DavidRL
+
 comments: true
 categories: [poetry]
 ---

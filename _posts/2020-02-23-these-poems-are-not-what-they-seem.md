@@ -2,7 +2,7 @@
 layout: post  
 title: These Poems are Not What They Seem  
 date: 2020-02-23 12:20  
-author: DavidRL  
+  
 comments: true  
 categories: [publications]  
 ---  

@@ -2,7 +2,7 @@
 layout: post  
 title: "Making it up as you go: Twin Peaks and Welcome to Nightvale"  
 date: 2018-02-08 21:42  
-author: DavidRL  
+  
 comments: true  
 categories: [television]  
 ---  

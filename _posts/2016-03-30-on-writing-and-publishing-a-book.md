@@ -2,7 +2,6 @@
 layout: post
 title: On Writing and Publishing a Book
 date: 2016-03-30 12:52
-author: DavidRL
 comments: true
 categories: [writing]
 ---

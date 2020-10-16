@@ -2,7 +2,7 @@
 layout: default  
 title: Merry Christmas Everyone  
 date: 2019-12-25 09:12  
-author: DavidRL  
+  
 comments: true  
 categories: [photos]  
 ---  

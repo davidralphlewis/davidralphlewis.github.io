@@ -2,7 +2,7 @@
 layout: default  
 title: Newspaper Blackout Poems  
 date: 2016-04-12 09:27  
-author: DavidRL  
+  
 comments: true  
 categories: [erasure poetry]  
 ---  

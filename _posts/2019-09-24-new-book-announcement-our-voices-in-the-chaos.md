@@ -2,7 +2,7 @@
 layout: post  
 title: "New Book Announcement- Our Voices In The Chaos"
 date: 2019-09-24 19:59  
-author: DavidRL  
+  
 comments: true  
 categories: [publications]
 masthead_style: banner

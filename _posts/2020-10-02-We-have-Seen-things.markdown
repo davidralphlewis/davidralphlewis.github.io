@@ -2,7 +2,7 @@
 layout: post
 title: "We have seen things"
 date: 2020-10-02
-author: DavidRL
+
 comments: true
 categories: [poetry]
 ---

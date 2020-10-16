@@ -2,7 +2,7 @@
 layout: post  
 title: "2019: year of contradictions"  
 date: 2020-01-07 12:57  
-author: DavidRL  
+  
 comments: true  
 categories: [year in review]  
 ---  

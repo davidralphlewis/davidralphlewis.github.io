@@ -2,7 +2,7 @@
 layout: default  
 title: Bedminster Lantern Parade  
 date: 2020-01-11 19:15  
-author: DavidRL  
+  
 comments: true  
 categories: [photos]  
 ---  

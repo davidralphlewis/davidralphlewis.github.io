@@ -2,7 +2,6 @@
 layout: post
 title: Marbles and Creation
 date: 2016-03-08 09:18
-author: DavidRL
 comments: true
 categories: [creativity]
 ---

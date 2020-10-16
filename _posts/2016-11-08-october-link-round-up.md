@@ -2,7 +2,7 @@
 layout: post  
 title: October Link Round Up  
 date: 2016-11-08 16:55  
-author: DavidRL  
+  
 comments: true  
 categories: [link round up]  
 ---  

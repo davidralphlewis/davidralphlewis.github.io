@@ -2,7 +2,7 @@
 layout: default  
 title: Never Change Bristol  
 date: 2020-02-23 18:28  
-author: DavidRL  
+  
 comments: true  
 categories: [photos]  
 ---  

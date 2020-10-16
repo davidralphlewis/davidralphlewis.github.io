@@ -2,7 +2,7 @@
 layout: post
 title: "Condolences"
 date: 2020-06-09
-author: DavidRL
+
 categories: [poetry]
 ---
 What good is this scattering over the grass,  

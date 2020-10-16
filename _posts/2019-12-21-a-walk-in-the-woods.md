@@ -2,7 +2,7 @@
 layout: default  
 title: A walk in the woods  
 date: 2019-12-21 23:00  
-author: DavidRL  
+  
 comments: true  
 categories: [photos]  
 ---  

@@ -2,7 +2,7 @@
 layout: post  
 title: The Power of Paper  
 date: 2018-06-07 07:17  
-author: DavidRL  
+  
 comments: true  
 categories: [writing]  
 ---  

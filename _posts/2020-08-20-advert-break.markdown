@@ -2,7 +2,7 @@
 layout: post
 title: "Advert Break"
 date: 2020-08-20
-author: DavidRL
+
 comments: true
 categories: [this was meant to be the future]
 masthead_style: banner

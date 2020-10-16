@@ -2,7 +2,7 @@
 layout: post  
 title: Lies, Dreaming  
 date: 2017-08-22 16:50  
-author: DavidRL  
+  
 comments: true  
 categories: [publications]  
 ---  

@@ -2,7 +2,7 @@
 layout: post
 title: "Silhouettes"
 date: 2020-08-10
-author: DavidRL
+
 comments: true
 categories: [poetry]
 masthead_style: plain

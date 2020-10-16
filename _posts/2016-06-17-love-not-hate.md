@@ -2,7 +2,7 @@
 layout: post  
 title: Love, not hate  
 date: 2016-06-17 18:00  
-author: DavidRL  
+  
 comments: false
 categories: [politics]  
 ---  

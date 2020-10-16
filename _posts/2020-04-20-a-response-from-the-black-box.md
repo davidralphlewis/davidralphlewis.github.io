@@ -2,7 +2,7 @@
 layout: post  
 title: A Response From the Black Box  
 date: 2020-04-20 09:02  
-author: DavidRL  
+  
 comments: true  
 categories: [this was meant to be the future]
 masthead_style: banner

@@ -2,7 +2,7 @@
 layout: post  
 title: NaPoWriMo Lessons  
 date: 2019-05-18 14:50  
-author: DavidRL  
+  
 comments: true  
 categories: [poetry]  
 ---  

@@ -2,7 +2,7 @@
 layout: default  
 title: January sunset  
 date: 2020-01-18 22:59  
-author: DavidRL  
+  
 comments: true  
 categories: [photos]  
 ---  

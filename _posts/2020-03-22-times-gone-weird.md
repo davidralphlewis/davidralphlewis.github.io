@@ -2,7 +2,7 @@
 layout: post  
 title: Time's gone weird  
 date: 2020-03-22 09:26  
-author: DavidRL  
+  
 comments: true  
 categories: [plague notes]  
 ---  

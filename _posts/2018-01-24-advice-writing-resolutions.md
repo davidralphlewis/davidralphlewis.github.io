@@ -2,7 +2,7 @@
 layout: post  
 title: "Advice to Myself: Writing and Resolutions"  
 date: 2018-01-24 21:17  
-author: DavidRL  
+  
 comments: true  
 categories: [writing]  
 ---  

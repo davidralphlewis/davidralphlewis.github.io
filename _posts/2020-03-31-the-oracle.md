@@ -2,7 +2,7 @@
 layout: post  
 title: The Oracle  
 date: 2020-03-31 11:22  
-author: DavidRL  
+  
 comments: true  
 categories: [poetry]  
 ---  

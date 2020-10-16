@@ -2,7 +2,7 @@
 layout: post  
 title: "Distraction by Design: Observations on Television"  
 date: 2017-03-22 13:00  
-author: DavidRL  
+  
 comments: true  
 categories: [television]  
 ---  

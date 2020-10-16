@@ -2,7 +2,7 @@
 layout: post  
 title: Napowrimo 2020 Day 18 - The Return  
 date: 2020-04-18 10:10  
-author: DavidRL  
+  
 comments: true  
 categories: [poetry]  
 ---  

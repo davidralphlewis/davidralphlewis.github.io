@@ -2,7 +2,7 @@
 layout: post  
 title: Quick thoughts on editing  
 date: 2020-03-30 11:55  
-author: DavidRL  
+  
 comments: true  
 categories: [writing]  
 ---  

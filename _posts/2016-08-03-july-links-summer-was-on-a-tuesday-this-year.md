@@ -2,7 +2,7 @@
 layout: post  
 title: "July Links: Summer was on a Tuesday this year"  
 date: 2016-08-03 11:12  
-author: DavidRL  
+  
 comments: true  
 categories: [link round up]  
 ---  

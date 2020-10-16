@@ -2,7 +2,7 @@
 layout: post
 title: "Underwater"
 date: 2020-07-15
-author: DavidRL
+
 comments: true
 categories: [erasure poetry]
 ---

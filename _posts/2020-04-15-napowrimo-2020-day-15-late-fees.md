@@ -2,7 +2,7 @@
 layout: post  
 title: Napowrimo 2020 day 15 - Late fees  
 date: 2020-04-15 16:01  
-author: DavidRL  
+  
 comments: true  
 categories: [poetry]  
 ---  

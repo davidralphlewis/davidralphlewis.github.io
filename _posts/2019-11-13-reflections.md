@@ -2,7 +2,7 @@
 layout: default  
 title: Reflections  
 date: 2019-11-13 13:07  
-author: DavidRL  
+  
 comments: true  
 categories: [photos]  
 ---  

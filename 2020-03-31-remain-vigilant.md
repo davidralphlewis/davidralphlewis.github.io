@@ -2,7 +2,6 @@
 layout: default  
 title: "Remain Vigilant: Two Linked One-Act Plays- Free!"
 date: 2020-03-31 15:49  
-author: DavidRL  
 comments: true  
 categories: [Books]
 permalink: /remainvigilant/

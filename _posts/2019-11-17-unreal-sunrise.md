@@ -2,7 +2,7 @@
 layout: default  
 title: Unreal sunrise  
 date: 2019-11-17 11:13  
-author: DavidRL  
+  
 comments: true  
 categories: [photos]  
 ---  

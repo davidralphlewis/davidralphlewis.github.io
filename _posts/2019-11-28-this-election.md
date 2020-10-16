@@ -2,7 +2,7 @@
 layout: post  
 title: This election  
 date: 2019-11-28 13:24  
-author: DavidRL  
+  
 comments: true  
 categories: [politics]  
 ---  

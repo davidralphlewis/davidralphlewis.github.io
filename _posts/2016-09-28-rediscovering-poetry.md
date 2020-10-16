@@ -2,7 +2,7 @@
 layout: post  
 title: Rediscovering poetry  
 date: 2016-09-28 13:05  
-author: DavidRL  
+  
 comments: true  
 categories: [poetry]  
 ---  

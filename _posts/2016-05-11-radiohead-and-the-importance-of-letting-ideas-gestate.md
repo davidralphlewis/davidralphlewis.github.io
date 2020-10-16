@@ -2,7 +2,7 @@
 layout: post  
 title: Radiohead and the importance of letting ideas gestate  
 date: 2016-05-11 12:48  
-author: DavidRL  
+  
 comments: true  
 categories: [music]  
 ---  

@@ -2,7 +2,7 @@
 layout: post  
 title: "There is No Exit: Flash Fiction"  
 date: 2017-07-14 05:43  
-author: DavidRL  
+  
 comments: true  
 categories: [stories]  
 ---  

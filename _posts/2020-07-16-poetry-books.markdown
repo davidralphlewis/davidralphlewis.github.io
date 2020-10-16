@@ -2,7 +2,7 @@
 layout: post
 title: "Recent Poetry Books I've Enjoyed"
 date: 2020-07-16
-author: DavidRL
+
 comments: true
 categories: [book review]
 ---

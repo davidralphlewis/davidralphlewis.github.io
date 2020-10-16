@@ -2,7 +2,7 @@
 layout: post  
 title: Truth Bombs  
 date: 2020-03-20 12:23  
-author: DavidRL  
+  
 comments: true  
 categories: [this was meant to be the future]
 masthead_style: banner

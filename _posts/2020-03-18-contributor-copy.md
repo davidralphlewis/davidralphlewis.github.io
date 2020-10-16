@@ -2,7 +2,7 @@
 layout: default  
 title: Contributor copy  
 date: 2020-03-18 13:24  
-author: DavidRL  
+  
 comments: true  
 categories: [publications]  
 ---  

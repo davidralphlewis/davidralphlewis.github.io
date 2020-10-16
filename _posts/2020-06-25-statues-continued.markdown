@@ -2,7 +2,7 @@
 layout: post
 title: "Statues continued"
 date: 2020-06-25
-author: DavidRL
+
 comments: true
 categories: [politics]
 ---

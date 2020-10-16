@@ -2,7 +2,7 @@
 layout: post
 title: "Ocarina"
 date: 2020-07-08
-author: DavidRL
+
 comments: true
 categories: [poetry]
 masthead_style: plain

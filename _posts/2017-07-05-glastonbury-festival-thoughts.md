@@ -2,7 +2,7 @@
 layout: post  
 title: "Suspend the outside world for a while: Thoughts on Glastonbury Festival"  
 date: 2017-07-05 15:59  
-author: DavidRL  
+  
 comments: true  
 categories: [art]  
 ---  

@@ -2,7 +2,7 @@
 layout: post
 title: "Summer is here"
 date: 2020-06-15
-author: DavidRL
+
 comments: true
 categories: [photos]
 ---

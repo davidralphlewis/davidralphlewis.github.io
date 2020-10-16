@@ -2,7 +2,7 @@
 layout: post  
 title: napowrimo 2018 Day 1  
 date: 2018-04-01 14:15  
-author: DavidRL  
+  
 comments: true  
 categories: [poetry]  
 ---  

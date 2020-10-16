@@ -2,7 +2,7 @@
 layout: post
 title: "Half Life"
 date: 2020-09-03
-author: DavidRL
+
 comments: true
 categories: [erasure poetry]
 ---

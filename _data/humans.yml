@@ -3,12 +3,11 @@ developers:
     name: "Drew Parrish Strange"
     title: Developer
     location: "United States of America"
-authors:
-  DavidRL:
-    name: "David Ralph Lewis"
-    avatar:
-    bio: "David Ralph Lewis is a poet and writer from Bristol, UK"
-    url: https:www.davidralphlewis.co.uk
-    twitter: davidralphlewis
-    facebook: davidralphlewis
-    instagram: davidralphlewis
+authors:      
+  Test:
+    name: "Testy Mc Testington"
+    avatar: /assets/images/humans/dpstrange.png
+    bio: "Testy McTestington smokes kippers and fights dirty. He isn't your daughter's poet, he's a bastard of the streets, the contreversial bad boy of poetry"
+    url: https://testmctestingtonisreal.co.uk
+    email: test@testmctestingtonisreal.co.uk
+    twitter: Testyboy

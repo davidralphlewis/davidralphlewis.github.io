@@ -2,7 +2,7 @@
 layout: post  
 title: Sharp Objects and genre blindspots  
 date: 2019-02-08 17:25  
-author: DavidRL  
+  
 comments: true  
 categories: [book review]  
 ---  

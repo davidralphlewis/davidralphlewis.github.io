@@ -2,7 +2,7 @@
 layout: post  
 title: NaPoWriMo 2018 Day 20  
 date: 2018-04-20 18:19  
-author: DavidRL  
+  
 comments: true  
 categories: [poetry]
 ---  

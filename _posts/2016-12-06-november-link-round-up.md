@@ -2,7 +2,7 @@
 layout: post  
 title: November Link Round up  
 date: 2016-12-06 13:57  
-author: DavidRL  
+  
 comments: true  
 categories: [link round up]  
 ---  

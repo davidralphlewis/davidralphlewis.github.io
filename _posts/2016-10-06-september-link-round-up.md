@@ -2,7 +2,7 @@
 layout: post  
 title: September Link Round up  
 date: 2016-10-06 15:34  
-author: DavidRL  
+  
 comments: true  
 categories: [link round up]  
 ---  

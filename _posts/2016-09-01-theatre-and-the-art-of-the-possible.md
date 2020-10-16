@@ -2,7 +2,7 @@
 layout: post  
 title: Theatre and the Art of the Possible  
 date: 2016-09-01 16:16  
-author: DavidRL  
+  
 comments: true  
 categories: [theatre]  
 ---  

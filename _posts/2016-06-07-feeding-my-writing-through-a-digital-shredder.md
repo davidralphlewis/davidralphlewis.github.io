@@ -2,7 +2,7 @@
 layout: post  
 title: Feeding my writing through a digital shredder  
 date: 2016-06-07 12:55  
-author: DavidRL  
+  
 comments: true  
 categories: [poetry]  
 ---  

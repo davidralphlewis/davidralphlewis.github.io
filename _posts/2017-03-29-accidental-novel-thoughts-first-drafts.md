@@ -2,7 +2,7 @@
 layout: post  
 title: "My accidental novel: Thoughts on first drafts"  
 date: 2017-03-29 16:20  
-author: DavidRL  
+  
 comments: true  
 categories: [writing]  
 ---  

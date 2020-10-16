@@ -2,7 +2,7 @@
 layout: post  
 title: Complications  
 date: 2020-02-13 17:45  
-author: DavidRL  
+  
 comments: true  
 categories: [poetry]  
 ---  

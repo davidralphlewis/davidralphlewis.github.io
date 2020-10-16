@@ -57,3 +57,14 @@ plugins: [jekyll-paginate]
 
 paginate: 15
 paginate_path: "/articles/page/:num/"
+
+authors:
+  Test:
+    name: Test
+    display_name: Testing McTestington
+    profile: "/assets/images/humans/dpstrange.png"
+    email: jorgen@company.com
+    web: "http://company.com"
+    twitter: company
+    github: jorgenm
+    bio: "Testing McTestington is the bad boy of poetry. He burns cats for fun. His debut pamphlet Badgers are Bastards is available now if you stand outside your door and scream into the night."

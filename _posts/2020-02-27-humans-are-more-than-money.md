@@ -2,7 +2,7 @@
 layout: post  
 title: Humans are more than money  
 date: 2020-02-27 20:48  
-author: DavidRL  
+  
 comments: true  
 categories: [politics]  
 ---  

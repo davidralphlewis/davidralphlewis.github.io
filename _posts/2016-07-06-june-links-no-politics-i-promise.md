@@ -2,7 +2,7 @@
 layout: post  
 title: June Links - No Politics, I Promise  
 date: 2016-07-06 11:50  
-author: DavidRL  
+  
 comments: true  
 categories: [link round up]  
 ---  

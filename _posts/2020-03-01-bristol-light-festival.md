@@ -2,7 +2,7 @@
 layout: default  
 title: Bristol light festival  
 date: 2020-03-01 13:29  
-author: DavidRL  
+  
 comments: true  
 categories: [photos]  
 ---  

@@ -2,7 +2,7 @@
 layout: post  
 title: "2017 in Review: Laughing at the Naked Emperor"  
 date: 2017-12-12 21:50  
-author: DavidRL  
+  
 comments: true  
 categories: [year in review]  
 ---  

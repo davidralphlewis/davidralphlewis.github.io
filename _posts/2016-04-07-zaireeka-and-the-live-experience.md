@@ -2,7 +2,6 @@
 layout: post  
 title: Zaireeka and the live experience  
 date: 2016-04-07 10:13  
-author: DavidRL  
 comments: true  
 categories: [music]  
 ---  

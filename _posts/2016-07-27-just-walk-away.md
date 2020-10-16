@@ -2,7 +2,7 @@
 layout: post  
 title: "Just Walk Away: On Cynicism and Subjectivity"  
 date: 2016-07-27 10:26  
-author: DavidRL  
+  
 comments: true  
 categories: [music]  
 ---  

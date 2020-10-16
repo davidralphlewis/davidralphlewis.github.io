@@ -2,7 +2,7 @@
 layout: post
 title: "Costal walks"
 date: 2020-09-02
-author: DavidRL
+
 comments: true
 categories: [photos]
 ---

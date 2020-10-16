@@ -2,7 +2,7 @@
 layout: post  
 title: "Creative Anxieties: Fear of not writing enough"  
 date: 2018-03-25 13:42  
-author: DavidRL  
+  
 comments: true  
 categories: [writing]  
 ---  

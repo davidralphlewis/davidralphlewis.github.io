@@ -2,7 +2,7 @@
 layout: post
 title: "Half Awake"
 date: 2020-07-30
-author: DavidRL
+
 comments: true
 categories: [erasure poetry]
 ---

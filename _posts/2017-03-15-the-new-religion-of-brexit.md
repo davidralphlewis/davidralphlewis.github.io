@@ -2,7 +2,7 @@
 layout: post  
 title: The New Religion of Brexit  
 date: 2017-03-15 12:39  
-author: DavidRL  
+  
 comments: true  
 categories: [politics]  
 ---  

@@ -2,7 +2,7 @@
 layout: default  
 title: Two poems of hope  
 date: 2019-12-14 12:01  
-author: DavidRL  
+  
 comments: true  
 categories: [publications]  
 ---  

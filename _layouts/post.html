@@ -19,7 +19,14 @@
     {% include masthead2.html %}
     <br />
     {% include series.html %}
+    {% if author %}
+    {% include author.html %}
+    {% endif %}
     {% include content.html %}
+    <hr>
+    {% if author %}
+    {% include authorbio.html %}
+    {% endif %}
     {% include page_nav.html %}
     <hr>
     {% include mailchimp.html %}

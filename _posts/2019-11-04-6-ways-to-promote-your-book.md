@@ -2,7 +2,7 @@
 layout: post  
 title: 6 Ways to Promote Your Book  
 date: 2019-11-04 12:03  
-author: DavidRL  
+  
 comments: true  
 categories: [stories]  
 ---   

@@ -2,7 +2,7 @@
 layout: post  
 title: New poem at Highland Park Poetry  
 date: 2019-11-05 20:38  
-author: DavidRL  
+  
 comments: true  
 categories: [publications]  
 ---  

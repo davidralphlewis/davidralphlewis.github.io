@@ -2,7 +2,7 @@
 layout: post
 title: "Colston and the Myths of History"
 date: 2020-06-24
-author: DavidRL
+
 comments: true
 categories: [politics]
 ---

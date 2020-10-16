@@ -2,7 +2,7 @@
 layout: post  
 title: Napowrimo 2020 Day 4- Erosion  
 date: 2020-04-04 10:35  
-author: DavidRL  
+  
 comments: true  
 categories: [poetry] 
 ---  

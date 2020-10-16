@@ -105,6 +105,30 @@ main {
   margin-left: auto;
   margin-right: auto;
  }
+ .textrightsmall{
+ max-width: 15%;
+ height: auto;
+ display: inline-block;
+ clear: right;
+ float: left;
+ margin: 20px;
+ }
+ .textright{
+ max-width: 30%;
+ height: auto;
+ display: inline-block;
+ clear: right;
+ float: left;
+ margin: 20px;
+ }
+ .textleft{
+ max-width: 30%;
+ height: auto;
+ display: inline-block;
+ clear: left;
+ float: right;
+ margin: 20px;
+ }
     iframe {
       display: block;
       max-width: 70%;

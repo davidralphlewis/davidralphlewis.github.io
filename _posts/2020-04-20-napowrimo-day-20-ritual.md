@@ -2,7 +2,7 @@
 layout: post  
 title: Napowrimo day 20- Ritual  
 date: 2020-04-20 11:40  
-author: DavidRL  
+  
 comments: true  
 categories: [poetry]  
 ---  

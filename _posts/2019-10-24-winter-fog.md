@@ -2,7 +2,7 @@
 layout: default  
 title: Winter Fog  
 date: 2019-10-24 13:27  
-author: DavidRL  
+  
 comments: true  
 categories: [photos]  
 ---  

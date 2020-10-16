@@ -2,7 +2,7 @@
 layout: default  
 title: The clarity of winter  
 date: 2020-02-01 10:09  
-author: DavidRL  
+  
 comments: true  
 categories: [erasure poetry]  
 ---  

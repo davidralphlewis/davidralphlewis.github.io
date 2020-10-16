@@ -2,7 +2,7 @@
 layout: post
 title: "Korembi"
 date: 2020-09-23
-author: DavidRL
+
 comments: true
 categories: [photos]
 ---

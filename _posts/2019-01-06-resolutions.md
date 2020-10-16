@@ -2,7 +2,7 @@
 layout: post  
 title: Resolutions  
 date: 2019-01-06 16:36  
-author: DavidRL  
+  
 comments: true  
 categories: [stories]  
 ---  

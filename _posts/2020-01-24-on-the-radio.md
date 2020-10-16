@@ -2,7 +2,7 @@
 layout: post  
 title: On the radio  
 date: 2020-01-24 13:22  
-author: DavidRL  
+  
 comments: true  
 categories: [publications]  
 ---  

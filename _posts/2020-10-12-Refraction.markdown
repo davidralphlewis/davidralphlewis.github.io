@@ -1,13 +1,13 @@
 ---
-layout: post
-title: "New micro pamphlet- Refraction"
-date: 2020-10-12
-author: DavidRL
+categories: publications
 comments: true
-categories: [publications]
-masthead_style: banner
+date: 2020-10-12
 featured_image: /assets/images/site/refractioncrop.png
+layout: post
+masthead_style: banner
+title: "New micro pamphlet- Refraction"
 ---
+
 In an effort to make something positive come out of this year, I have created a small pamphlet of poetry called *Refraction*. It features ten poems about swimming and the peace I find immersing myself in water. (There is another, secret meaning; trying to find moments of calm in a relentless, chaotic world.)
 
 Here's a cover:

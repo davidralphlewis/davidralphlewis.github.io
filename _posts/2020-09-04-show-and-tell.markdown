@@ -2,7 +2,7 @@
 layout: default
 title: Show and Tell
 date: 2020-09-04
-author: DavidRL
+
 comments: true
 categories: [poetry]
 ---

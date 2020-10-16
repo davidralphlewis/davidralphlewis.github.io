@@ -2,7 +2,7 @@
 layout: post
 title: "Silicone Song"
 date: 2020-07-24
-author: DavidRL
+
 comments: true
 categories: [erasure poetry]
 ---

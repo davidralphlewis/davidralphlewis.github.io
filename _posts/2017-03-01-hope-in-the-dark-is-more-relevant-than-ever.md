@@ -2,7 +2,7 @@
 layout: post  
 title: "'Hope in the Dark' is more relevant than ever"  
 date: 2017-03-01 17:14  
-author: DavidRL  
+  
 comments: true  
 categories: [book review]  
 ---  

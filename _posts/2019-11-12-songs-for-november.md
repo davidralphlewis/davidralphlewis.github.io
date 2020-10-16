@@ -2,7 +2,7 @@
 layout: post  
 title: Songs for November  
 date: 2019-11-12 21:27  
-author: DavidRL  
+  
 comments: true  
 categories: [music]  
 ---  

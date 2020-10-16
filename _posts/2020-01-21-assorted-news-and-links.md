@@ -2,7 +2,7 @@
 layout: post  
 title: Assorted news and links  
 date: 2020-01-21 13:06  
-author: DavidRL  
+  
 comments: true  
 categories: [link round up]  
 ---  

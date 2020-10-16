@@ -2,7 +2,7 @@
 layout: post
 title: "Growing summer"
 date: 2020-08-05
-author: DavidRL
+
 comments: true
 categories: [photos]
 ---

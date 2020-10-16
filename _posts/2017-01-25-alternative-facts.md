@@ -2,7 +2,7 @@
 layout: post  
 title: Alternative facts and the rule of misinformation  
 date: 2017-01-25 13:47  
-author: DavidRL  
+  
 comments: true  
 categories: [politics]  
 ---  

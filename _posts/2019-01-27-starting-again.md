@@ -2,7 +2,7 @@
 layout: post  
 title: Starting again  
 date: 2019-01-27 15:09  
-author: DavidRL  
+  
 comments: true  
 categories: [writing]  
 ---  
