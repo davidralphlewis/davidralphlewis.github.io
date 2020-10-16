@@ -22,50 +22,6 @@
     {% include open-embed.html %}
     <br>
     <hr>
-    {% if author %}
-    <div class="mt-5">
-        <h1>About the Author</h1>
-        <div class="d-flex align-items-center flex-row">
-          <div class="mr-2">
-            {% if author.avatar %}
-              <img class="rounded-circle" src="{{ author.avatar | absolute_url }}" style="max-height: 100px;" />
-            {% elsif author.name %}
-              <span class="fa-stack fa-3x float-left">
-                <i class="fas fa-circle fa-stack-2x text-primary"></i>
-                <strong class="fa-stack-1x text-light">{{ author.name | truncate: 1, "" }}</strong>
-              </span>
-            {% else %}
-              <span class="fa-stack fa-3x float-left">
-                <i class="fas fa-circle fa-stack-2x text-primary"></i>
-                <strong class="fa-stack-1x text-light">{{ site.title | truncate: 1, "" }}</strong>
-              </span>
-            {% endif %}
-          </div>
-          <div>
-            {% if author.name %}
-              {% if author.url %}
-                <a href="{{ author.url }}" target="_blank"><h5 class="p-0 m-0">{{ author.name }}</h5></a>
-              {% elsif author.twitter %}
-                <a href="https://twitter.com/{{ author.twitter }}" target="_blank"><h5 class="p-0 m-0">{{ author.name }}</h5></a>
-              {% else %}
-                <h5 class="mb-0">{{ author.name }}</h5>
-              {% endif %}
-            {% else %}
-              {% if site.twitter %}
-                <a href="https://twitter.com/{{ author.twitter }}" target="_blank"><h5 class="p-0 m-0">{{ site.title }}</h5></a>
-              {% else %}
-                <a href="{{ site.url | absolute_url }}"><h5 class="p-0 m-0">{{ site.title }}</h5></a>
-              {% endif %}
-            {% endif %}
-            {% if author.bio %}
-              <p class="p-0 m-0">{{ author.bio }}</p>
-            {% else %}
-              <p class="p-0 m-0">{{ site.description }}</p>
-            {% endif %}
-          </div>
-        </div>
-    </div>
-    {% endif %}
     {% if site.disqus.shortname %}
     {% include disqus_comments.html %}
     {% endif %}
