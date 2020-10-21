@@ -2,7 +2,7 @@
 layout: post  
 title: New serial book announcement- This Was Meant to be the Future  
 date: 2020-01-16 09:17  
-  
+
 comments: true  
 categories: [this was meant to be the future]
 masthead_style: banner
@@ -31,7 +31,7 @@ Here's the titles of the stories and when they will be out. I'll link to them al
     <li><a href="/into-the-night/">July- Into the Night</a></li>  
     <li><a href="/advert-break/">August- Advert Break</a></li>  
     <li><a href="/the-garden/">September- The Garden</a></li>  
-    <li>October- A Trip to C-Mart</li>  
+    <li><a href="/a-trip-to-c-mart/">October- Welcome to C-Mart</a></li>  
     <li>November- Tech Support</li>  
     <li>December- Auld Lang Syne</li>  
 </ol>  
