@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Doodles"
+date: 2020-10-22
+comments: true
+categories: [photos]
+---
+<img src="/assets/images/articles/doodle1.jpeg" class="responsive"><br>
+<img src="/assets/images/articles/doodle2.jpeg" class="responsive"><br>
+
+These thin line pens have been a good investment.
