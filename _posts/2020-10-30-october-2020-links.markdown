@@ -1,4 +1,4 @@
---  
+---
 layout: post  
 title: October 2020 Links
 date: 2020-10-30
