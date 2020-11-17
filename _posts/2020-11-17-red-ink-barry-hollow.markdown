@@ -64,4 +64,4 @@ B: It's a poem I wrote while the emotion behind it was still quite raw. I feel I
 Raised in Ayrshire, Barry’s poetry often features a sprinkling of old Scots. This can be seen in a variety of poetry journals and anthologies. He has a pamphlet length collection within - Symphonies of the Wild Hearted - by A.B. Baird Publishing, available on Amazon or direct from the publisher. Barry has been featured on BBC Radio Bristol,  Bristol Festival of Literature and hopes to gain more experience of the live spoken word scene in the near(ish) future.
 
 Instagram - [@thehollowgram](www.instagram.com/thehollowgram)
-Twitter - @barryhollow
+Twitter - [@barryhollow](www.twitter.com/barryhollow)
