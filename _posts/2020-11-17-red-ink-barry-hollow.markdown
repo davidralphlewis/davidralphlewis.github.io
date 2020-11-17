@@ -4,6 +4,7 @@ title: "Red Ink: Barry Hollow"
 date: 2020-11-17
 comments: true  
 categories: [red ink]
+series: "Red Ink"
 ---
 *This is the start of a new series where I interview poets about their process and writing in reference to a single poem. I'm delighted to start with Barry Hollow, a fantastic poet and all round great bloke who I met through Bristol Tonic.*
 
