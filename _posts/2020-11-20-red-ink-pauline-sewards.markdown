@@ -1,7 +1,7 @@
 ---
 layout: post  
 title: "Red Ink: Pauline Sewards"
-date: 2020-11-19
+date: 2020-11-20
 comments: true  
 categories: [red ink]
 series: "Red Ink"
