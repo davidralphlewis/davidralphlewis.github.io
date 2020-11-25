@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Technical Support"
-date: 2020-11-24
+date: 2020-11-25
 comments: true
 categories: [this was meant to be the future]
 masthead_style: banner
