@@ -14,18 +14,18 @@ series: "Red Ink"
 By Amanda Miller  
 *Inspired by [Portrait by Antonio Machado](https://www.poetryfoundation.org/poetrymagazine/browse?contentId=28768)*
 
-My history begins with a familiar frost, turning from the sun— A  
-childhood that is full of faceless wounds trapped in New York, A   
-grave somewhere, adorned with chaos and lost to survival. The  
-rest—    
-Twenty years draped upon my grandmother’s arms,   
-While being spoon-fed a cloud of amnesia.   
+My history begins with a familiar frost, turning from the sun—     
+A  childhood that is full of faceless wounds trapped in New York,     
+A  grave somewhere, adorned with chaos and lost to survival.    
+The rest—     
+Twenty years draped upon my grandmother’s arms,    
+While being spoon-fed a cloud of amnesia.    
 
-My poetry comes from a storm just passed and one not far off  
-Trying to capture the wind, as if to hold and to beg. I know it  
-too well, anyway   
+My poetry comes from a storm just passed and one not far off    
+Trying to capture the wind, as if to hold and to beg.   
+I know it too well, anyway    
 A feverish will to be more than, to keep catching up to myself,  
-—which makes writing this poem a comedy,   
+— which makes writing this poem a comedy,   
 And the writer a tragic sovereign.   
 
 I try to swear I am good and honest, but   
