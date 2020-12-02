@@ -44,6 +44,7 @@ That could rip my safety raw.
 This is the infinite search, nestled in my palm    
 Twisted in my mind. Oh, how funny…   
 The portrait of me.  
+
 ***  
 
 A-  This poem went through roughly 4 revisions over the course of two weeks with some feedback from my dear friend Mollie Gold. I'm pretty satisfied where it landed, it was definitely a piece that gave me a run for my money though. Doing an imitation poem can be tricky - you have to constantly remind yourself "what would I say? how would I phrase this?" instead of trying to sound like someone else.
