@@ -46,6 +46,7 @@ minor triumphs and major disasters,
 catastrophic headlines and pet pictures,  
 the nauseating loop of half ideas, niche jokes,  
 and all those graphs trending upwards.  
+
 I resist. I will not turn on the wifi,  
 not just yet.  I will listen to my breath  
 sudden and rapid, see it form and vanish  
