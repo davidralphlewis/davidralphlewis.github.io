@@ -79,6 +79,6 @@ Oh, please let all of us be well.
 
 ***
 
-This was written for the wonderful [Bristol Tonic.](facebook.com/BristolTonic/), which I co-headlined last night. It was my first headlining slot ever and I was so grateful to be asked. The night has been such a warm, welcoming space to share new work and has been a lifeline during this year especially, when we are all scattered and separate. Thanks so much to them for asking me, it was an honour.
+This was written for the wonderful [Bristol Tonic.](facebook.com/BristolTonic/), which I co-headlined last night. It was my first headlining slot ever and I was so grateful to be asked. The night has been such a warm, welcoming space to share new work and has been a lifeline during this year especially, when we are all scattered and separate. Thanks so much to them, it was an honour.
 
 You can watch the night back [here.](https://www.facebook.com/881907221970150/videos/403226870869725)
