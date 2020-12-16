@@ -7,7 +7,9 @@ categories: [red ink]
 series: "Red Ink"
 ---
 *This a series where I interview poets about their process and writing in reference to a single poem. Today we have Damien Donnelly, who kindly invited me onto his podcast Eat the Storms in November. Listen to that [here.](https://eatthestorms.com/2020/11/14/eat-the-storms-the-podcast-episode-11/) Today we reflect on the writing process of his Pushcart nominated poem,* Tattered Brown Trousers.
+
 ***
+
 ## Tattered Brown Trousers
 
 Father ate all the flowers  
