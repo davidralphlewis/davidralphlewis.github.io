@@ -49,7 +49,7 @@
         {% endif %}
       </author>
       <content type="html" xml:base="{{ post.url | absolute_url | xml_escape }}">
-    {{ post.content | replace: '="/', '="http://example.com/' | replace: ', /', ', http://example.com/' | replace: 'http://example.com', site.url | markdownify | xml_escape }}
+    {{ post.content | markdownify | xml_escape }}
         {% capture display_image %}
             {% capture post_image %}
               <media:content url="{{ image_source | absolute_url }}"medium="image">
