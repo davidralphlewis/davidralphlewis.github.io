@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Gradual"
+date: 2021-01-04
+comments: true
+categories: [erasure poetry]
+---
+<img src="/assets/images/articles/gradual.jpeg" class="responsive"><br>
+
+Taken from DIY magazine, December 2020.
