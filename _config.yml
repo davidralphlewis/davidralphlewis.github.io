@@ -44,6 +44,7 @@ defaults:
 markdown: kramdown
 kramdown:
     highlighter: rouge
+gem "kramdown", ">= 2.3.0"
 
 excerpt_separator: <!--more-->
 
