@@ -13,4 +13,7 @@ gem "jekyll"
 group :jekyll_plugins do
     gem 'github-pages'
     gem 'jekyll-paginate'
+
+gem "nokogiri", ">= 1.11.0.rc4"
+
 end
