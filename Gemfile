@@ -15,6 +15,3 @@ group :jekyll_plugins do
     gem 'jekyll-paginate'
 
 end
-
-gem "nokogiri", ">= 1.11.0.rc4"
-gem "kramdown", ">= 2.3.0"
