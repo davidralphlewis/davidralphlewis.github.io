@@ -21,27 +21,7 @@
     {% include content.html %}
     {% include footer.html %}
     {% include open-embed.html %}
-    <script src="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.js" data-cfasync="false"></script>
-  <script>
-  window.cookieconsent.initialise({
-    "palette": {
-      "popup": {
-        "background": "#000"
-      },
-      "button": {
-        "background": "#f1d600"
-      }
-    },
-    "type": "opt-out",
-    "content": {
-      "message": "This website uses cookies. ",
-      "dismiss": "Sure thing",
-      "deny": "Nah thanks",
-      "link": "Learn More"
-    }
-  });
-  </script>
-  {% include Callbackhook.js %}
+    {% include cookies.js %}
     <br>
     <hr>
     {% if author %}
