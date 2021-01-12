@@ -1,23 +1,18 @@
 main_menu:
   - title: Blog
     url: /articles/
-  - title: Publications
+  - title: Publication History
     url: /publications/
+  - title: Books
+    url: /mybooks/
   - title: Shop
     url: https://davidralphlewis.bigcartel.com/
     target: new
-  - title: "Books"
-    dropdown: # enables dropdown menu
-      - title: Our Voices in the Chaos
-        url: /ourvoicesinthechaos/
-      - title: Spare Parts
-        url: /spareparts/
-      - title: "April Fog-FREE"
-        url: /aprilfog/
-      - title: "Remain Vigilant-FREE"
-        url: /remainvigilant/
-      - title: "Amber Stars-FREE"
-        url: /amberstars/
+  - title: Email me
+    url: mailto:contact@davidralphlewis.co.uk
+  - title: Ko-fi
+    url: https://ko-fi.com/davidralphlewis
+
 
 footer_menu:
   - url: https://www.facebook.com/davidralphlewis

@@ -6,18 +6,26 @@ author: false
 masthead_style: plain
 social: false
 ---
+## 2021
+
+*Horoscopes* [Welcome to Bear Creek](https://www.welcometobearcreek.com/horoscopes)
+
 ## 2020
+*After, Transient, Borderlands* [Neon Magazine Issue 51](https://www.neonmagazine.co.uk/neon-literary-magazine-issue-51/)
+
+*Six Months from Now* [Poems to Keep you Company Vol viii](https://www.samjgrudgings.co.uk/poems-to-keep-you-company) & BBC Upload
+
+**BOOK: [Refraction](https://davidralphlewis.bigcartel.com/product/refraction)**
+
 *Travelling* - [Mineral Lit issue 4.1](https://www.minerallitmag.com/travelling.html#/)
 
-<em>[Condolences](/condolences/)</em> - Charlie + Jake [Echoes and Edges collaborative live stream 1](https://www.youtube.com/watch?v=evxJzU0lsBA&t=10s)
+<em>[Condolences](/condolences/)</em> - Charlie + Jake [Echoes and Edges collaborative live stream 1](https://www.youtube.com/watch?v=evxJzU0lsBA&t=10s) & BBC Upload on BBC Radio Bristol
 
 *The Archivists* - [Marble Poetry Issue 7](http://marblepoetry.com/product/issue-7/)
 
 *Lunch Break* & *Acclimated* - [Selcouth Station Magazine issue #1](https://www.selcouthstation.com/product-page/selcouth-magazine-1)
 
-<em>[Condolences](/condolences/)</em>- BBC Upload on BBC Radio Bristol
-
-*How to Hear the Hills* - Charlie + Jake [Echoes and Edges collaborative live stream 2](https://youtu.be/mgjd5tHJhDE)
+*How to Hear the Hills* - Charlie + Jake [Echoes and Edges collaborative live stream 2](https://youtu.be/mgjd5tHJhDE) &
 
 <em>Golden</em>- BBC Upload on BBC Radio Bristol
 
