@@ -1,10 +1,25 @@
-45   File: 
-(sexism,patriarchy) ADHD misdiagnosed in women
-(Productivity,wellbeing,selfcare) get out of a funk
-(internet) POSSE
-(totalitarianism,stories,Scepticism) The testaments quote
-Rocket Fuel escaping
-(booknotes,fiction,totalitarianism,theocracy,feminism) The Testaments- Margaret Atwood
-totalitarian Regimes collapse
-(productivity,questions,selfimprovement) hard questions struthless
-emacs shortcuts
+---
+title: "In bloom"
+date: 2021-01-21
+layout: post
+categories: [erasure poetry]
+comments: true
+---
+
+<img src="/assets/images/articles/2021/inbloom.jpeg" class="responsive"><br>   
+I cannot look away from the whorl of galaxies     
+tucked into each curled petal, the supermassive    
+black hole that sits on top of a stamen, dragging     
+all light and time towards it. In the pint glass     
+sepals shimmer with the burning of millions of dead    
+stars, buds flicker with a pulse of decaying planck   
+seconds, the superpositions of many possible worlds    
+blur each leaf and thorn and somewhere in each bloom    
+I am meeting you for the first time, walking around    
+the castle, studying in Birmingham, waiting to be    
+born, dying, watching a bouquet, unable to stay still,    
+unable to look away from the constant, dizzying spin.    
+
+***
+
+I needed a prompt today so I made one. This is a quick free write from the erasure, which is taken from DIY magazine, October 2020.
