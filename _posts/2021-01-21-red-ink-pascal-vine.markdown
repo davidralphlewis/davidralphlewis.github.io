@@ -122,6 +122,6 @@ D: Thank you so much.
 
 Pascal Vine is a UK performance poet from the Somerset Levels who enjoys describing the world around them in the touchiest-feeliest ways possible. They have been published by Bad Betty, Three Drops, Verve and Eyeflash. They are disabled, nonbinary and tired.
 
-[Youtube](https://www.youtube.com/channel/UCwi6xuVThLTXttH5cckdOZg)
-[Instagram](https://www.instagram.com/pascalvpoet/)
-[Facebook](https://www.facebook.com/PascalVinePoet)
+[Youtube](https://www.youtube.com/channel/UCwi6xuVThLTXttH5cckdOZg)  
+[Instagram](https://www.instagram.com/pascalvpoet/)  
+[Facebook](https://www.facebook.com/PascalVinePoet)  
