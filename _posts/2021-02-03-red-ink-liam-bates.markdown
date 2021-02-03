@@ -29,13 +29,13 @@ I bet she hardly ever gets a day off to spend with friends.
 
 ***
 
-*DL:Where did you start with this poem? Was it based on a real moment you experienced?*
+*DL: Where did you start with this poem? Was it based on a real moment you experienced?*
 
 LB: I think this is the closest thing to an explicitly Covid World poem I have. I started it I think during lockdown 1. Most of my poems begin in a surreal place I think, and I guess this one did too, it just also happened to be real.
 
 *DL: You say your poems begin a surreal place, where do you typically pull inspiration from?*
 
-LB: Yeah, I think I’m interested in surreal and absurd ideas generally, though admittedly didn’t come to that through any academically route, though I’ve tried on occasion to learn more about the poets and other artists who describe themselves as Surrealists with a big S. In reality, I think things like cartoons, weird music, cinema, some stand up, those are the early entry points to the surreal for me, along with maybe having a certain sort of brain.
+LB: Yeah, I think I’m interested in surreal and absurd ideas generally, though admittedly didn’t come to that through any academic route, though I’ve tried on occasion to learn more about the poets and other artists who describe themselves as Surrealists with a big S. In reality, I think things like cartoons, weird music, cinema, some stand up, those are the early entry points to the surreal for me, along with maybe having a certain sort of brain.
 
 *DL: Does the surrealness come to you on the first draft or is it something you dig for? How did you revise this poem?*
 
@@ -43,7 +43,7 @@ LB: It's there in the first draft, usually, yeah, though I think digging's a goo
 
 *DL: Yeah the conversational tone balances really well with the strangeness of the situation. Is your revision process similar for each poem?*
 
-LB: I’d say generally yes: my typical approach is reading things aloud, trying things out to try and make everything sit better on the page and sonically, making sure the imagery and word choices chime harmonically in the overall structure of the poem, or reaching for dissonance if that’s what’s needed; I’m feeling more comfortable recently employing dissonant and ugly sounding lines on occasion, if that’s what fits conceptually. I’m also much better now and stepping back from poems for a while and coming back to them with a fresher perspective. I’m still not at the point where I can put a poem in a drawer for 6 months, like a lot of the craft books recommend, but I definitely feel less in a rush lately to get a poem out there—it definitely helps to walk around and fully explore the terrain before making any final decisions on what to include in the postcard. 
+LB: I’d say generally yes: my typical approach is reading things aloud, trying things out to try and make everything sit better on the page and sonically, making sure the imagery and word choices chime harmonically in the overall structure of the poem, or reaching for dissonance if that’s what’s needed; I’m feeling more comfortable recently employing dissonant and ugly sounding lines on occasion, if that’s what fits conceptually. I’m also much better now and stepping back from poems for a while and coming back to them with a fresher perspective. I’m still not at the point where I can put a poem in a drawer for 6 months, like a lot of the craft books recommend, but I definitely feel less in a rush lately to get a poem out there—it definitely helps to walk around and fully explore the terrain before making any final decisions on what to include in the postcard.
 
 *DL: Awesome, I really like that final description, jts a great way to think about it.*
 
