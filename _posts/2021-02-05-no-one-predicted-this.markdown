@@ -18,7 +18,7 @@ tear copper wire from the concrete.
 We've done all we can, they inisist   
 in their two thousand pound a piece   
 newspaper columns, before huffing   
-furnitue polish, snorting ground  
+furniture polish, snorting ground  
 rare turtle eggs and sitting down    
 to a subsidised pre-luncheon of     
 flammable cladding shavings over    
