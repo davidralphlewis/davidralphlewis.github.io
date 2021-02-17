@@ -6,7 +6,7 @@ categories: [erasure poetry]
 comments: true
 ---
 
-<img src="/assets/images/articles/2021/fuzz.jpeg" class="responsive"><br>
+<img src="/assets/images/articles/2021/Fuzz.jpeg" class="responsive"><br>
 
 Taken from DIY Magazine October 2020
 
