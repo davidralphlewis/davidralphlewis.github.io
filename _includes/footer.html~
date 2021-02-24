@@ -1,12 +1,10 @@
 {% include logic.html %}
 
 <footer>
-  <hr>
     <div class="container">
         <div class="mt-5 py-5 content">
             <div class="d-flex justify-content-center justify-content-md-start">
-              <div class="flex-md-fill">&copy; {% if published_year %}{{ published_year }}{% if published_year != current_year %} - {{ current_year }}{% endif %}{% endif %} {{ site.title }}. Original Theme by <a href="https://github.com/dpstrange/jekyll-bootstrap">DPStrange</a></div>
-	        {% include search-google.html %}
+                <div class="flex-md-fill">&copy; {% if published_year %}{{ published_year }}{% if published_year != current_year %} - {{ current_year }}{% endif %}{% endif %} {{ site.title }}. Original Theme by <a href="https://github.com/dpstrange/jekyll-bootstrap">DPStrange</a></div>
                 {% assign menu = site.data.navigation %}
                 {% assign links = menu.footer_menu %}
                 {% for link in links %}

@@ -13,8 +13,8 @@
 
 
 <div class="panel seriesNote">
-	<p>This article is <strong>Part {{ idx }}</strong> in a <strong>{{ count }}-Part</strong> Series.</p>
-	<ul>
+	<p style="text-align:center; font-family: 'Amethysta';">This article is <strong>Part {{ idx }}</strong> in a <strong>{{ count }}-Part</strong> Series.</p>
+	<ul style="font-family: 'Amethysta';">
 	{% assign count = '0' %}
 	{% for post in site.posts reversed %}
 	{% if post.series == page.series %}

@@ -13,11 +13,10 @@
     {% if jekyll.environment == 'production' %}
     {% include analytics.html %}
     {% endif %}
-    {% include title.html %}
   </head>
   <body>
+    {% include navigation.html %}
     {% include masthead2.html %}
-    {% include page_nav.html %}
     <br />
     {% include series.html %}
     {% if author %}
@@ -29,8 +28,7 @@
     {% include authorbio.html %}
     {% endif %}
     {% include page_nav.html %}
-    {% include related.html %}
-    <br />
+    <hr>
     {% include mailchimp.html %}
     <hr>
     {% if site.disqus.shortname %}

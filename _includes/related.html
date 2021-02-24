@@ -1,0 +1,16 @@
+
+{% include logic.html %}
+  <div class="panel seriesNote">
+  <h2 style="text-align:center; font-family: 'Amethysta';">Recent Posts</h2>
+  <p>
+          <ul style="font-family: 'Amethysta';">
+            {% for post in site.related_posts limit:5 %}
+              <a href="{{ post.url }}">
+                  <li>
+                  <h5>{{ post.title }}-&nbsp;{{ post.date | date_to_string }}</h5>
+                  </li>
+              </a>
+            {% endfor %}
+          </ul>
+</p>
+</div>

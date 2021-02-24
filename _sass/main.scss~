@@ -31,9 +31,6 @@ main {
     max-width: 700px;
     margin-left: auto;
     margin-right: auto;
-    font-family: 'Open Sans', sans-serif;
-    font-size: 17px;
-    text-align: justify;
     }
     .center{
        text-align: center;
@@ -42,10 +39,8 @@ main {
         border-bottom: 1px solid var(--divider-color);
         padding-top: 50px;
         max-width: 700px;
-          margin-left: auto;
+        margin-left: auto;
         margin-right: auto;
-        font-family: 'Amethysta';
-        text-align: center;
     }
 
     h1, h2, h3, h4, h5, h6 {
@@ -53,8 +48,6 @@ main {
         max-width: 700px;
         margin-left: auto;
         margin-right: auto;
-        font-family: 'Amethysta';
-        text-align: center;
     }
 
     hr {
@@ -71,7 +64,6 @@ main {
       border-color: red !important;
       padding-left: 20px;
       margin: 2em;
-      font-family: 'Amethysta';
       font-style: italic;
       max-width: 700px;
       margin-left: auto;
@@ -125,23 +117,19 @@ main {
  max-width: 30%;
  height: auto;
  display: inline-block;
- font-family: 'Oxygen', sans-serif;
- clear: left;
- float: right;
+ clear: right;
+ float: left;
  margin: 20px;
  }
  .textleft{
  max-width: 30%;
  height: auto;
  display: inline-block;
- font-family: 'Oxygen', sans-serif;
  clear: left;
  float: right;
  margin: 20px;
  }
-
-
-  iframe {
+    iframe {
       display: block;
       max-width: 70%;
       max-width: 700px;
@@ -175,25 +163,23 @@ main {
 }
 
 .PageNavigation {
-  font-size: 15px;
+  font-size: 14px;
   display: block;
   max-width: 700px;
-  font-family: 'Amethysta';
   overflow: hidden;
   margin-left: auto;
   margin-right: auto;
-  text-align: center;
 }
 
-
-.PageNavigation a .next {
-  text-align: left;
-  float: left;
-}
-
-.PageNavigation a .prev {
-  text-align: right;
+.PageNavigation a {
+  display: block;
+  width: 50%;
   float: right;
+  margin: 1em 0;
+}
+
+.PageNavigation .next {
+  text-align: left;
 }
 
 .panel{
@@ -316,14 +302,12 @@ hr {
         max-width: 700px;
         margin-left: auto;
         margin-right: auto;
-        font-family: 'Amethysta';
         background-color: var(--background-color);
         color: var(--font-color);
 }
 
     #mc-embedded-subscribe-form {
       background-color: var(--background-color);
-      font-family: 'Amethysta';
       color: var(--font-color);
 }
     #disqus_thread {
@@ -434,7 +418,7 @@ hr {
 }
 
 /* Content */
-.blockcontent {
+.content {
   background-color: #414041;
   padding: 10px;
 }
