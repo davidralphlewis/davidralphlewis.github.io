@@ -8,6 +8,10 @@ social: false
 ---
 ## 2021
 
+*Ciculation* Charlie + Jake Echoes and Edges collaborative live stream
+
+https://www.youtube.com/watch?v=IQX6ir4HksU
+
 *Horoscopes* [Welcome to Bear Creek](https://www.welcometobearcreek.com/horoscopes)
 
 ## 2020
@@ -19,17 +23,20 @@ social: false
 
 *Travelling* - [Mineral Lit issue 4.1](https://www.minerallitmag.com/travelling.html#/)
 
-<em>[Condolences](/condolences/)</em> - Charlie + Jake [Echoes and Edges collaborative live stream 1](https://www.youtube.com/watch?v=evxJzU0lsBA&t=10s) & BBC Upload on BBC Radio Bristol
+<em>[Condolences](/condolences/)</em> - BBC Upload on BBC Radio Bristol & Charlie + Jake Echoes and Edges collaborative live stream
+
+https://www.youtube.com/watch?v=evxJzU0lsBA
 
 *The Archivists* - [Marble Poetry Issue 7](http://marblepoetry.com/product/issue-7/)
 
 *Lunch Break* & *Acclimated* - [Selcouth Station Magazine issue #1](https://www.selcouthstation.com/product-page/selcouth-magazine-1)
 
-*How to Hear the Hills* - Charlie + Jake [Echoes and Edges collaborative live stream 2](https://youtu.be/mgjd5tHJhDE) &
-
+*How to Hear the Hills* - Charlie + Jake Echoes and Edges collaborative live stream 2
 <em>Golden</em>- BBC Upload on BBC Radio Bristol
 
-*Hollow Passengers* - Charlie + Jake [Echoes and Edges collaborative live stream 1](https://youtu.be/vyHRtbjwlFY)
+*Hollow Passengers* - Charlie + Jake Echoes and Edges collaborative live stream 1
+
+https://youtu.be/vyHRtbjwlFY
 
 *Imposter* - [Nine Muses Poetry](https://ninemusespoetry.com/2020/05/14/one-poem-by-david-ralph-lewis/)
 
