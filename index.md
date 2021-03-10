@@ -5,9 +5,12 @@ author: false
 masthead_style: none
 social: false
 ---
+<figure>
  <img src="/assets/images/site/me.jpg" alt="Photo taken by Sam Cavender @samsnapsalot" class="responsive">
+<figcaption>Photo taken by <a href="https://www.instagram.com/samsnapsalot/"Sam Cavender</a>"</figcaption>
+</figure>
 
-I'm a poet and short story writer based in Bristol, UK, whose work has been nominated for the Forward Prize and has appeared in *Neon Magazine*, *Nine Muses Poetry* and *Marble Poetry*. My first poetry chapbook, *[Our Voices in the Chaos](/ourvoicesinthechaos/)*, was published by Selcouth Station in October 2019. I self published a second tiny pamphlet in October 2020 called *[Refraction.](https://davidralphlewis.bigcartel.com/product/refraction)* 
+I'm a poet and short story writer based in Bristol, UK, whose work has been nominated for the Forward Prize and has appeared in *Neon Magazine*, *Nine Muses Poetry* and *Marble Poetry*. My first poetry chapbook, *[Our Voices in the Chaos](/ourvoicesinthechaos/)*, was published by Selcouth Station in October 2019. I self published a second tiny pamphlet in October 2020 called *[Refraction.](https://davidralphlewis.bigcartel.com/product/refraction)*
 
 I have a number of other books available, including three that are free to download. [Go here](/mybooks/) to browse and download. On this website, I maintain a blog about writing, art and politics as well as any other random topic. Often I scrawl over newspapers to create erasure poetry.
 
