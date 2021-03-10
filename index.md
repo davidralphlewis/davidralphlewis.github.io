@@ -5,10 +5,9 @@ author: false
 masthead_style: none
 social: false
 ---
-<figure>
  <img src="/assets/images/site/me.jpg" alt="Photo taken by Sam Cavender @samsnapsalot" class="responsive">
-<figcaption>Photo taken by <a href="https://www.instagram.com/samsnapsalot/"Sam Cavender</a>"</figcaption>
-</figure>
+ 
+*Photo taken by <a href="https://www.instagram.com/samsnapsalot/"Sam Cavender</a>*
 
 I'm a poet and short story writer based in Bristol, UK, whose work has been nominated for the Forward Prize and has appeared in *Neon Magazine*, *Nine Muses Poetry* and *Marble Poetry*. My first poetry chapbook, *[Our Voices in the Chaos](/ourvoicesinthechaos/)*, was published by Selcouth Station in October 2019. I self published a second tiny pamphlet in October 2020 called *[Refraction.](https://davidralphlewis.bigcartel.com/product/refraction)*
 
