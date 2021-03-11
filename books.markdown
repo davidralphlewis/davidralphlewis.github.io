@@ -10,8 +10,8 @@ social: false
 <div class="row">
  <div class="column">
    <div class="blockcontent">
-   <a href="https://davidralphlewis.bigcartel.com/product/refraction"><img border="0" alt="Refraction" src="/assets/images/site/refractioncover.jpg" width="100%"></a>
-      <a href="https://davidralphlewis.bigcartel.com/product/refraction"><h2>Refraction</h2></a>
+   <a href="/refractionpamphlet"><img border="0" alt="Refraction" src="/assets/images/site/refractioncover.jpg" width="100%"></a>
+      <a href="/refractionpamphlet"><h2>Refraction</h2></a>
      <p>Micro poetry pamphlet I made during 2020 about swimming and attempting to find peace in a chaotic world.</p>
    </div>
  </div>
@@ -53,4 +53,3 @@ social: false
 </div>
 
 <!-- END MAIN -->
-
