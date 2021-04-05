@@ -2,7 +2,7 @@
 title: "Count Down to Infinity"
 date: 2021-04-05
 layout: post
-categories: [erasure poetry]
+categories: [poetry]
 comments: true
 ---
 
