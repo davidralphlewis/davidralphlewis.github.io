@@ -12,22 +12,20 @@
 {% endfor %}
 
 
-<div class="panel seriesNote">
-	<p style="text-align:center; font-family: 'Amethysta';">This article is <strong>Part {{ idx }}</strong> in a <strong>{{ count }}-Part</strong> Series.</p>
-	<ul style="font-family: 'Amethysta';">
+	<h4>This article is <strong>Part {{ idx }}</strong> in a <strong>{{ count }}-Part</strong> Series.</h4>
+	<ul">
 	{% assign count = '0' %}
 	{% for post in site.posts reversed %}
 	{% if post.series == page.series %}
 		{% capture count %}{{ count | plus: '1' }}{% endcapture %}
-		<li>Part {{ count }} -
+		<p>Part {{ count }} -
 		{% if page.url == post.url %}
 			This Article
 		{% else %}
 			<a href="{{post.url}}">{{post.title}}</a>
 		{% endif %}
-		</li>
+		</p>
 	{% endif %}
 	{% endfor %}
 	</ul>
-</div>
 {% endif %}

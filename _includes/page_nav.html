@@ -1,6 +1,12 @@
 
-<div class="PageNavigation">
-<h6> {% if page.previous.url %} <a href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a>{% endif %}&nbsp;&nbsp;•&nbsp;&nbsp;{% if page.next.url %}<a href="{{page.next.url}}">{{page.next.title}} &raquo;</a> {% endif %}
+<div class="container">
+  <div class="row">
+    <div class="col-sm">
+<h6> {% if page.previous.url %} <a href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a>{% endif %}</h6>
+  </div>
+  <div class="col-sm">
+<h6>{% if page.next.url %}<a href="{{page.next.url}}">{{page.next.title}} &raquo;</a> {% endif %}
   </h6>
-  </br>
+</div>
+</div>
 </div>

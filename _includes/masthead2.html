@@ -3,23 +3,23 @@
 <div id="masthead" class="masthead-{{ masthead }}">
 {% if masthead == "plain" %}
     <div class="main">
-        <div class="container my-2 py-3">
+        <div class="container my-1 py-1">
 {% elsif masthead == "banner" %}
     <div class="jumbotron jumbotron-fluid text-center text-white bg-dark mb-0" style="background: linear-gradient(rgba(0, 0, 0, 0.65), rgba(0, 0, 0, 0.65)), url('{{ page.featured_image | default: site.featured_image | absolute_url }}') no-repeat center center; background-size: cover;">
         <div class="container my-5 py-5">
 {% elsif masthead == "none" %}
-    <div class="main" style= padding-top 0.5rem>
-        <div class="container my-0.5 py-0">
+    <div class="main" style= padding-top 0rem>
+        <div class="container my-0 py-0">
 {% endif %}
     </br>
-            <h1 style="text-align:center; font-family: 'Amethysta'; font-size: 42px;">{{ page.title }}</h1>
+            <h1>{{ page.title }}</h1>
             {% if author %}
             {% assign author = site.authors[page.author] %}
-            <p style="text-align:center; font-family: 'Amethysta'; font-size: 25px;">
+            <p>
               <em>by {{ author.display_name }}</em>
             </p>
             {% endif %}
-            <p style="text-align:center; font-family: 'Amethysta'; font-size: 25px;"><em>{{ page.date | date: "%d %B %Y" }}, Category: {{ page.categories }}</em></p>
+            <p style="text-align: center;"><em>{{ page.date | date: "%d %B %Y" }}, Category: {{ page.categories }}</em></p>
         </div>
     </div>
 </div>

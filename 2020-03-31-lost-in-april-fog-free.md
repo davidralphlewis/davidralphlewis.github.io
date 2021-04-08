@@ -10,15 +10,27 @@ featured_image: /assets/images/site/aprilfogcrop.jpg
 author: false
 permalink: /aprilfog/
 ---
-<img src="/assets/images/site/aprilfog.jpg"  class="small"><br />
-30 poems written for National Poetry Writing Month in 2018. Previously published on my blog.
+<div class="container">
+<h3>I've made this book free. Download below.
+</h3>
+</div>
+<div class="container">
+<div class="row">
+<div class="col-md-4 col-sm-12">
+<img src="/assets/images/site/aprilfog.jpg"  class="img-fluid">
+</div>
+<div class="col-md-8 col-sm-12">
+<p>30 poems written for National Poetry Writing Month in 2018. Previously published on my blog.</p>
 
-Free download in MOBI (kindle), EPUB and PDF (everything else) formats for your reading pleasure.
+<p>Free download in MOBI (kindle), EPUB and PDF (everything else) formats for your reading pleasure.</p>
 
-Released Under a Creative Commons Licence, so please share and distribute if you want.
+<p>Released Under a Creative Commons Licence, so please share and distribute if you want.</p>
 
 <h2>Download</h2>
 
-* <a href="/assets/books/Lost-in-April-Fog-David-Ralph-Lewis.pdf">Pdf</a>
-* <a href="/assets/books/Lost-in-April-Fog-David-Ralph-Lewis.epub">ePub</a>
-* <a href="/assets/books/Lost-in-April-Fog-David-Ralph-Lewis.mobi">Mobi</a>
+<li><a href="/assets/books/Lost-in-April-Fog-David-Ralph-Lewis.pdf">Pdf</a></li>
+<li><a href="/assets/books/Lost-in-April-Fog-David-Ralph-Lewis.epub">ePub</a></li>
+<li><a href="/assets/books/Lost-in-April-Fog-David-Ralph-Lewis.mobi">Mobi</a></li>
+</div>
+</div>
+</div>
