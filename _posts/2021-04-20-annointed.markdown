@@ -8,10 +8,10 @@ categories: [poetry]
 
 I spin each morning from dream silk  
 allow soft light to pour in a torrent  
-from my ears and into the world.  
+from my ears out into the aether.  
 
 Lost chorus ripples from unseen branches.  
-I am annointed. This is how I walk  
+I am anointed. This is how I drift  
 without touching the dew damp ground,  
 
 absolution in waves over my skin.
