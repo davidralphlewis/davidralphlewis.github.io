@@ -7,7 +7,7 @@ categories: [red ink]
 series: "Red Ink"
 ---
 
-*This is a series where I interview poets about their process in regards to a single poem. Today we have the fantastic Elizabeth McGeown, who I have been lucky enough to meet at various poetry nights over zoom in the last year.
+*This is a series where I interview poets about their process in regards to a single poem. Today we have the fantastic Elizabeth McGeown, who I have been lucky enough to meet at various poetry nights over zoom in the last year.*
 
 ***
 
