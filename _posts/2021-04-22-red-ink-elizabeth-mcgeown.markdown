@@ -1,6 +1,6 @@
 ---
-title: "Red Ink: Elizabeth Mc"
-date: 2021-04-15
+title: "Red Ink: Elizabeth McGeown"
+date: 2021-04-22
 layout: post
 comments: true  
 categories: [red ink]
