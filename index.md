@@ -38,7 +38,7 @@ Or subscribe to <a href="/feed.xml">updates via RSS</a>
 <br />
 <div class="container">
 <div class="row">
-<div class="col-md-2 col-sm-12">
+<div class="col-md-1 col-sm-12">
 </div>
 <div class="col-md-8 col-sm-12 mx-sm-2 mx-md-0 my-sm-1 my-sm-0">
 <h1><a href="/articles">Recent Posts</a></h1>
@@ -48,7 +48,7 @@ Or subscribe to <a href="/feed.xml">updates via RSS</a>
 {% endfor %}
 
 </div>
-<div class="col-md-2 col-sm-12">
+<div class="col-md-1 col-sm-12">
 </div>
 </div>
 </div>
