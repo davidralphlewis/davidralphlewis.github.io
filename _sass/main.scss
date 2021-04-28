@@ -324,7 +324,7 @@ hr {
 
 @media screen and (max-width: 600px) {
   .header {
-padding: 10px;
+padding: 5px;
 font-size: 20px;
   }
 
@@ -382,7 +382,7 @@ font-size: 20px;
 
  @media (max-width: 480px) {
      .content{
-        margin-left: 5px;
+        margin-left: 0;
         margin-top: 5px;
      }
 p, h1, h2, h3, h4, h5, h6 {
@@ -393,7 +393,7 @@ padding-right: 10px;
 
  @media (max-width: 320px) {
      .content{
-        margin-left: 5px;
+        margin-left: 0;
         margin-top: 5px;
      }
 body {
