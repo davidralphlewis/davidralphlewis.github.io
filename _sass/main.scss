@@ -1,5 +1,5 @@
 @import url(https://fonts.googleapis.com/css2?family=Montserrat:wght@300,600&family=Work+Sans:wght@200&display=swap);
-
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond&family=PT+Serif&display=swap');
 :root {
     --background-color: #3b3b3b;
     --font-color: #ffffff;
@@ -13,8 +13,8 @@ background-color: #3b3b3b;
 body {
     background-color: var(--background-color);
     color: var(--font-color);
-    font-family: 'Work Sans', sans-serif;
-    font-size: 17px;
+    font-family: 'PT Serif', serif;
+    font-size: 18px;
     text-align: left;
 }
 
@@ -35,10 +35,10 @@ a:hover {
 }
 
 p {
-font-weight: 200;
+font-weight: 400;
 margin-top: 10px;
-    font-family: 'Work Sans', sans-serif;
-    font-size: 17px;
+    font-family: 'PT Serif', serif;
+    font-size: 18px;
     text-align: left;
 line-height: 1.6;
 padding-left: 10px;
