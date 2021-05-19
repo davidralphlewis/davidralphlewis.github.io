@@ -9,11 +9,12 @@
 html {
   min-height: 100%;
 background-color: #3b3b3b;
+scroll-behavior: smooth;
 }
 body {
     background-color: var(--background-color);
     color: var(--font-color);
-    font-family: 'PT Serif', serif;
+    font-family: 'Merriweather', serif;
     font-size: 18px;
     text-align: left;
 }
@@ -37,7 +38,7 @@ a:hover {
 p {
 font-weight: 400;
 margin-top: 10px;
-    font-family: 'PT Serif', serif;
+    font-family: 'Work Sans', sans-serif;
     font-size: 18px;
     text-align: left;
 line-height: 1.6;
