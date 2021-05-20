@@ -40,7 +40,7 @@ p {
 font-weight: 300;
 margin-top: 10px;
     font-family: 'Work Sans', sans-serif;
-    font-size: 17px;
+    font-size: 18px;
     text-align: left;
 line-height: 1.6;
     }
@@ -93,7 +93,15 @@ color: orange;
           background-size: 20px 20px;
       }
 
+::-moz-selection { /* Code for Firefox */
+  color: black;
+  background: orange;
+}
 
+::selection {
+  color: black;
+  background: orange;
+}
       /* -- create the quotation marks -- */
       blockquote:before,
       blockquote:after{
@@ -208,7 +216,7 @@ padding-left: 10px;
    ol,ul {
    display: block;
     font-family: 'Work Sans', sans-serif;
-    font-size: 17px;
+    font-size: 18px;
 line-weight: 300;
 line-height: 1.6;
 padding: 20px;
