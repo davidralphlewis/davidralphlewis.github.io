@@ -9,7 +9,7 @@ comments: true
 In a recent post, Austin Kleon writes about how other writers sort through their work:
 
 > I am fascinated by the notebook and filing systems of other writers. In my experience, it’s very easy to write every day and get ideas down, but **it’s not so easy to keep track of it all.**
-<figcaption class="figure-caption text-right">(Emphasis mine) -- <a href="https://austinkleon.com/2021/05/20/indexing-filing-systems-and-the-art-of-finding-what-you-have">Indexing, filing systems, and the art of finding what you have</a></figcaption>
+<figcaption class="figure-caption text-right"> -- <a href="https://austinkleon.com/2021/05/20/indexing-filing-systems-and-the-art-of-finding-what-you-have">Indexing, filing systems, and the art of finding what you have</a></figcaption>
 
 I've encountered this a little bit before. I love notebooks, but struggle to extract anything useful from them once they are done. They pile up under my desk and I rarely look at them again. Instead I transcribe them as I go. For years, I've chucked them into [one long plain text file](https://davidralphlewis.github.io/binaryephemera/The-Spark-File.html) but that has become unwieldy and hard to look through. I had the same problem as the notebooks, I would write it down at the bottom of the file and not look at the rest.
 
