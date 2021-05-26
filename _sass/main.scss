@@ -202,6 +202,12 @@ margin-right: auto;
   width: 22.5%;
 }
 
+@media screen and (max-width: 600px) {
+  .column {
+    width: 97%;
+padding-left: 10px;
+  }
+  
 /* Clear floats after the columns */
 .row:after {
   content: "";
