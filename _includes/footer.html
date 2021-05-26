@@ -2,18 +2,9 @@
 
 <footer>
     <div class="container">
-        <div class="mt-5 py-5 content">
-            <div class="d-flex justify-content-center justify-content-md-start">
               <div class="flex-md-fill">Released by David Ralph Lewis under a <a href="https://creativecommons.org/licenses/by-nc/4.0">Creative Commons Attribution-NonCommercial 4.0 International License</a> Original Theme by <a href="https://github.com/dpstrange/jekyll-bootstrap">DPStrange</a></div>
-	        {% include search-google.html %}
-                {% assign menu = site.data.navigation %}
-                {% assign links = menu.footer_menu %}
-                {% for link in links %}
-                    <div class="pl-3 d-none d-md-block"><a href="{{ link.url }}" {% if link.target %}target="_{{ link.target }}"{% endif %}>{% if link.icon %}<i class="{{ link.icon }}"></i>{% endif %} </i>{{ link.title }}</a></div>
-                {% endfor %}
-            </div>
+
         </div>
-    </div>
 </footer>
 
 <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
