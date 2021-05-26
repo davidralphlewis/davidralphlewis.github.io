@@ -444,7 +444,6 @@ p, h1, h2, h3, h4, h5, h6 {
 padding-left: 10px;
 padding-right: 10px;
 }
- }
 
  @media (max-width: 320px) {
      .content{
@@ -456,7 +455,7 @@ body {
 padding-left: 7px;
 padding-right: 7px;
 }
- }
+
 
  @media (min-width:320px)  { /* smartphones, portrait iPhone, portrait 480x320 phones (Android) */ }
  @media (min-width:480px)  { /* smartphones, Android phones, landscape iPhone */ }
@@ -577,5 +576,3 @@ padding-right: 7px;
 .highlight .vi { color: #fb660a } /* Name.Variable.Instance */
 .highlight .vm { color: #fb660a } /* Name.Variable.Magic */
 .highlight .il { color: #0086f7; font-weight: bold } /* Literal.Number.Integer.Long */
-}
-}
