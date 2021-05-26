@@ -439,6 +439,7 @@ font-size: 20px;
         margin-left: 0;
         margin-top: 5px;
      }
+   }
 p, h1, h2, h3, h4, h5, h6 {
 padding-left: 10px;
 padding-right: 10px;
@@ -450,6 +451,7 @@ padding-right: 10px;
         margin-left: 0;
         margin-top: 5px;
      }
+   }
 body {
 padding-left: 7px;
 padding-right: 7px;
@@ -575,4 +577,5 @@ padding-right: 7px;
 .highlight .vi { color: #fb660a } /* Name.Variable.Instance */
 .highlight .vm { color: #fb660a } /* Name.Variable.Magic */
 .highlight .il { color: #0086f7; font-weight: bold } /* Literal.Number.Integer.Long */
+}
 }
