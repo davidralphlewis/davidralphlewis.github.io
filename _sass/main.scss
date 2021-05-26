@@ -201,12 +201,7 @@ margin-right: auto;
 .right {
   width: 22.5%;
 }
-@media screen and (max-width: 600px) {
-  .column {
-    width: 97%;
-padding-left: 10px;
-  }
-}
+
 /* Clear floats after the columns */
 .row:after {
   content: "";
@@ -323,6 +318,24 @@ text-decoration: none;
     display: block;
   }
 }
+
+@media (max-width: 978px) {
+    .container {
+      padding:0;
+      margin:0;
+    }
+
+    body {
+      padding:0;
+    }
+
+    .navbar-fixed-top, .navbar-fixed-bottom, .navbar-static-top {
+      margin-left: 0;
+      margin-right: 0;
+      margin-bottom:0;
+    }
+}
+
 
 .container-narrow {
 max-width: 800px;
