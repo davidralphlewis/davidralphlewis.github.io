@@ -33,9 +33,7 @@ Or subscribe to <a href="/feed.xml">updates via RSS</a>
 </div>
 </div>
 </div>
-<div class="container-fluid">
 
-<br />
 <div class="container">
 <div class="row">
 <div class="col-md-9 col-sm-12">

@@ -156,32 +156,7 @@ color: orange;
   margin-left: auto;
   margin-right: auto;
  }
- .textrightsmall{
- max-width: 15%;
- height: auto;
- display: inline-block;
- clear: right;
- float: left;
- margin: 20px;
- }
- .textright{
- max-width: 30%;
- height: auto;
- display: inline-block;
- font-family: 'Oxygen', sans-serif;
- clear: left;
- float: right;
- margin: 20px;
- }
- .textleft{
- max-width: 30%;
- height: auto;
- display: inline-block;
- font-family: 'Oxygen', sans-serif;
- clear: left;
- float: right;
- margin: 20px;
- }
+
 .twcontent {
 max-wdith: 900px;
 margin-left: auto;
@@ -334,6 +309,16 @@ text-decoration: none;
       padding:0;
     }
 
+    h1 {
+      padding:5px;
+    }
+    p {
+      padding:5px;
+    }
+    br {
+      padding:0;
+    }
+
     .navbar-fixed-top, .navbar-fixed-bottom, .navbar-static-top {
       margin-left: 0;
       margin-right: 0;
@@ -440,10 +425,7 @@ font-size: 20px;
         margin-top: 5px;
      }
    }
-p, h1, h2, h3, h4, h5, h6 {
-padding-left: 10px;
-padding-right: 10px;
-}
+
 
  @media (max-width: 320px) {
      .content{
@@ -451,11 +433,6 @@ padding-right: 10px;
         margin-top: 5px;
      }
    }
-body {
-padding-left: 7px;
-padding-right: 7px;
-}
-
 
  @media (min-width:320px)  { /* smartphones, portrait iPhone, portrait 480x320 phones (Android) */ }
  @media (min-width:480px)  { /* smartphones, Android phones, landscape iPhone */ }
