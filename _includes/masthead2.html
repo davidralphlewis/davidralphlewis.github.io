@@ -4,6 +4,8 @@
 {% if masthead == "plain" %}
     <div class="main">
         <div class="container my-1 py-1">
+          </div>
+          </div>
 {% elsif masthead == "banner" %}
     <div class="jumbotron jumbotron-fluid text-center text-white bg-dark mb-0" style="background: linear-gradient(rgba(0, 0, 0, 0.65), rgba(0, 0, 0, 0.65)), url('{{ page.featured_image | default: site.featured_image | absolute_url }}') no-repeat center center; background-size: cover;">
         <div class="container my-5 py-5">
