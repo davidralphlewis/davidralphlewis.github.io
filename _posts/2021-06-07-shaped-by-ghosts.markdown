@@ -10,4 +10,4 @@ comments: true
 
 Taken from the reviews page of Crack Magazine, May 2021.
 
-Fevers of the Mind have featured two of my poems. [Find them here](https://feversofthemind.com/2021/06/04/2-new-poems-by-david-ralph-lewis-an-untitled-piece-the-early-bird-catches-the-worm/). Thanks so much to the editor, David L O'Nan
+Fevers of the Mind have featured two of my poems. [Find them here](https://feversofthemind.com/2021/06/04/2-new-poems-by-david-ralph-lewis-an-untitled-piece-the-early-bird-catches-the-worm/). Thanks so much to the editor, David L O'Nan.
