@@ -1,6 +1,6 @@
 {% include logic.html %}
     <div class="pt-2">
-    {{ content }}
+    {{ content | extlinks }}
     {% if page.galleries %}
     {% include image-gallery-index.html %}
     {% endif %}
