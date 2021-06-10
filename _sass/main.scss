@@ -33,9 +33,17 @@ a:visited {
 }
 
 a:hover {
- color: orange;
+background: orange;
+ color: black;
   text-decoration: underline;
 
+}
+
+a[target="_blank"]:after {
+    font-family: 'Font Awesome 5 Free';
+    content: " \f35d";
+font-style: normal;
+font-weight: 900;
 }
 
 p {
