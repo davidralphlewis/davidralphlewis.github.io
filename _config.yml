@@ -44,7 +44,7 @@ defaults:
 markdown: kramdown
 kramdown:
     highlighter: rouge
-
+    
 excerpt_separator: <!--more-->
 
 # Disqus Comments
@@ -53,12 +53,7 @@ disqus:
 
 include: [.well-known] # include humans.txt
 
-plugins:
-  - jekyll-extlinks
-
-extlinks:
-   attributes: {rel: nofollow, target: _blank}
-   rel_exclude: ['https://www.davidralphlewis.co.uk/', 'https://davidralphlewis.github.io/', 'localhost:4000/']
+plugins: [jekyll-paginate]
 
 paginate: 15
 paginate_path: "/articles/page/:num/"
