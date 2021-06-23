@@ -8,9 +8,11 @@ comments: true
 
 There's a certain section of the population who tend to get furious when a tv show or film casts anyone but straight white dudes. These people tend to be right wing straight white dudes who twist themselves into knots to argue any casting that diverges from their demographic is political. Or some such nonsense. It happened with the *Ghost Busters* remake in 2016, so much so that one of it's main stars, Leslie Jones, was bullied off Twitter. It has only really got worse since then.
 
+<!--more-->
+
 Most recently, it has surfaced with the cast of *The Sandman* TV series, which cast a non binary actor as Desire and a black actor as Death. People called it political casting.
 
-I'm not here to argue diverse casting is a good thing. (It is.) Lots of people have done that,[^1] people with more experience and eloquence than me on the subject.[^2] But I'd like to push back on this argument that 'stories shouldn't be political' which I hear so often. *The Sandman* also happens to be on of my favourite works of fiction ever, a rich and powerful work that rewards multiple re-readings, so I feel I can push back on this. 
+I'm not here to argue diverse casting is a good thing. (It is.) Lots of people have done that,[^1] people with more experience and eloquence than me on the subject.[^2] But I'd like to push back on this argument that 'stories shouldn't be political' which I hear so often. *The Sandman* also happens to be on of my favourite works of fiction ever, a rich and powerful work that rewards multiple re-readings, so I feel I can push back on this.
 
 There seems to be a myth that there's some stories that aren't political, that are entirely neutral, divorced from the context and the society that created them. I don't think there is. Every story will be influenced by the current society and will either reflect or critique it. Orwell put it best over half a century ago:
 
@@ -49,4 +51,4 @@ Exactly. It's wilful ignorance and manufactured outrage. No story can every be n
 
 [^4]: Of course, by quoting it here you miss out on the incredible art in this prologue. In which, as well, Dream reflects the culture telling the story and is black.
 
-[^5]: See also [this powerful talk](https://www.ted.com/talks/chimamanda_ngozi_adichie_the_danger_of_a_single_story/transcript?language=en) , which remains sadly relevant. 
+[^5]: See also [this powerful talk](https://www.ted.com/talks/chimamanda_ngozi_adichie_the_danger_of_a_single_story/transcript?language=en) , which remains sadly relevant.

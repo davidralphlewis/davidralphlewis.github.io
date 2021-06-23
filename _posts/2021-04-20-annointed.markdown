@@ -17,6 +17,7 @@ without touching the dew damp ground,
 absolution in waves over my skin.
 
 ---
+<!--more-->
 
 Over on Instagram, the very wonderful [Open Collab](https://opencollab.co.uk/) are running remixes where you add your own words over their music. I smashed two poems together and came up with this. [Go here](https://www.instagram.com/p/CNUVPiql1jL/?utm_source=ig_web_copy_link) to watch me read it with music.[^1]
 

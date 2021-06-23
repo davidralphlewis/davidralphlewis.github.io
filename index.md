@@ -14,7 +14,7 @@ social: false
 </figure>
 </div>
 <div class="col-md-4 col-sm-12">
-<p class="text-justify">I'm a poet and short story writer based in Bristol, UK, whose work has been nominated for the Forward Prize and has appeared in <em>Neon Magazine</em>, <em>Nine Muses Poetry</em> and <em>Marble Poetry</em>. My first poetry chapbook, <em><a href="/ourvoicesinthechaos/">Our Voices in the Chaos</a></em>, was published by Selcouth Station in October 2019. I self published a second tiny pamphlet in October 2020 called <em><a href="/refractionpamphlet/">Refraction.</a></em></p>
+<p>I'm a poet and short story writer based in Bristol, UK, whose work has been nominated for the Forward Prize and has appeared in <em>Neon Magazine</em>, <em>Nine Muses Poetry</em> and <em>Marble Poetry</em>. My first poetry chapbook, <em><a href="/ourvoicesinthechaos/">Our Voices in the Chaos</a></em>, was published by Selcouth Station in October 2019. I self published a second tiny pamphlet in October 2020 called <em><a href="/refractionpamphlet/">Refraction.</a></em></p>
 </div>
 </div>
 <div class="row">
@@ -35,14 +35,11 @@ Or subscribe to <a href="/feed.xml">updates via RSS</a>
 </div>
 
 <div class="container">
-<div class="row">
-<div class="col-md-9 col-sm-12">
 <h1><a href="/articles">Recent Posts</a></h1>
 
 {% for post in site.posts limit:3 %}
 {% include components/post-card.html %}
 {% endfor %}
 
-</div>
-</div>
+
 </div>

@@ -18,6 +18,8 @@ This morning I have a refund for my part time job in London
 and I have been told that the rhythm of your language
 is a better man than I  
 
+<!--more-->
+
 These days are the hardest things to get in the way  
 
 I have been sent over the page  

@@ -19,6 +19,8 @@ fragile tissue, judging bias – the wounded
 cut carefully  
 always holding their breath.  
 
+<!--more-->
+
 When they remade you, I slept  
 on a hospital couch with your dress, bundled  
 like a woollen heart, to my nose. Five hours  

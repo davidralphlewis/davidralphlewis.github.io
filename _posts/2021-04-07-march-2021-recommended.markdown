@@ -10,6 +10,8 @@ This is a bit late because of Easter. Spring is in the air, the tulips have take
 
 Here's some things I liked in March:
 
+<!--more-->
+
 ## Game
 
 [Howling Dogs](http://slimedaughter.com/games/twine/howlingdogs/) is a text based game that you can play in your browser. Starting slow and routine, it soon expands into something much more bizarre. It's short, but packed full of interesting, strange situations and poetry that it will stick with you for a long time.

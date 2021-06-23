@@ -13,6 +13,8 @@ Some leave but the number never goes down.<br>
 No matter how quickly I work, more remain.<br> 		 	 	
 The amount of disgruntled guests is infinite.<br>	 			
 
+<!--more-->
+
 The final bills I print out are infinite.<br> 	  			
 (Minibars never run empty in this hotel.)<br> 		 	
 I take one payment. Countless more remain,<br>  	 			

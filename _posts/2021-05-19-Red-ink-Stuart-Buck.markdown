@@ -39,6 +39,7 @@ thirteen but this feels so natural that i
 could be thirty nine and i would still  
 be as excited and happy as i am now  
 
+<!--more-->
 
 2.
 

@@ -14,6 +14,8 @@ on the newly exposed wire foundations.
 We watch the sky flash orange and violet,   
 feel the rumbles deep inside our ribcages.   
 
+<!--more-->
+
 'No', I reply, 'we shouldn't get involved.   
 Besides, we've got too much cleaning up to do.'  
 as I gesture at all the debris  

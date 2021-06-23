@@ -25,6 +25,8 @@ turn over corpse, the bird's eye sockets blind.
 But Maggots do not cross my mind at all;  
 the plump rot-seeking them of single mind.  
 
+<!--more-->
+
 Death should be still, not undead, filled with things  
 which almost serve to stand the bird upright.  
 Excited bubbling underneath the wings;  

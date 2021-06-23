@@ -10,6 +10,8 @@ I enjoyed Cory Doctorow writing about the lessons he has learned over [twenty ye
 
 > These repeated acts of public description adds each idea to a supersaturated, subconscious solution of fragmentary elements that have the potential to become something bigger. Every now and again, a few of these fragments will stick to each other and nucleate, crystallizing a substantial, synthetic analysis out of all of those bits and pieces I’ve salted into that solution of potential sources of inspiration.
 
+<!--more-->
+
 I've been blogging for about a quarter of the time that Doctorow has but I've found much the same thing. Having a public website allows me to develop ideas and have a vast archive to draw on.
 
 It makes me think that there's two types of website, one that is for the audience and another that is primarily for the author. I think mine is frequently falling into the latter. For most of the five years I've been blogging, it has been something I've done for my own pleasure. I've come to really value publishing ideas in a public forum to get feedback on them and not waiting until they are fully finished. The regular practise of publishing to this site has become a way to feed the rest of my writing.

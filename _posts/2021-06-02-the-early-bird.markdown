@@ -21,6 +21,8 @@ time in a colour-coded, neat, hand-drawn
 calendar that they make every Sunday  
 night in preparation for the week ahead.  
 
+<!--more-->
+
 If colleagues were asked to describe  
 the early bird, they would use the words  
 'brusque' or 'serious' or 'difficult to get on with'.  

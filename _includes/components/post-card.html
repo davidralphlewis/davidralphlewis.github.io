@@ -1,18 +1,14 @@
 {% include logic.html %}
-<div class="card card-post border-top-0 border-left-0 border-right-0 rounded-0">
-      <div style="background-color: #474747">
-        <h2 class="card-title">
-            <a href="{{ post.url | absolute_url }}">{{ post.title }}</a>
-        </h2>
-        <h6 class="card-subtitle text-secondary">
-            {{ post.date | date_to_string }}
-        </h6>
-        <div class="card-text d-flex align-items-center">
-        </div>
-        <div>
-            {{ post.excerpt }}
-        </div>
-        <p>
-        <a href="{{ post.url | absolute_url }}"> Read More...</a>
-        </p>
-    </div>
+
+  <div class="card">
+  <h2 class="card-header"><a href="{{ post.url | absolute_url }}">{{ post.title }}</a>
+  </h2>
+  <div class="card-body">
+    <h5 class="card-title text-muted text-center"> {{ post.date | date_to_string }} {{ post.catgeories }}</h5>
+    <p class="card-text">{{ post.excerpt }}</p>
+    <div class="card-footer text-center">
+    <a href="{{ post.url | absolute_url }}" class="button">Read more</a>
+  </div>
+
+  </div>
+</div>
