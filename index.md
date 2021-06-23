@@ -34,7 +34,7 @@ Or subscribe to <a href="/feed.xml">updates via RSS</a>
 </div>
 </div>
 
-<div class="container">
+<div class="container-narrow">
 <h1><a href="/articles">Recent Posts</a></h1>
 
 {% for post in site.posts limit:3 %}
