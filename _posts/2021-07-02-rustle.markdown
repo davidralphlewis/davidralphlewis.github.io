@@ -2,7 +2,7 @@
 title: "Rustle"
 date: 2021-07-02
 layout: post
-categories: [erasure poetry]
+categories: [poetry]
 comments: true
 ---
 
