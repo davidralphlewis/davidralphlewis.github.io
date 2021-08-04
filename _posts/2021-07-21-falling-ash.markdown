@@ -10,4 +10,4 @@ comments: true
 
 Taken from Crack Magazine, July 2021.
 
-In rare personal news, I got engaged over the weekend to my partner of seven years, Mel. I'm ridiculously happy.
+In rare personal news, I got engaged over the weekend to my partner of seven years, Mel. I'm ridiculously happy
