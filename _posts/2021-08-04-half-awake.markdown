@@ -5,7 +5,7 @@ date: 2021-08-04
 comments: true
 categories: [erasure poetry]
 ---
-<img src="https://www.davidralphlewis.co.uk/assets/images/articles/2021/halfawake.jpeg" alt="erasure poem: after a sleepless night/the hidden structures are unforgiving/ yet something comfortable remains" title="Shiny silver markers were a good investment" class="responsive"><br>
+<img src="https://www.davidralphlewis.co.uk/assets/images/articles/2021/halfawake.jpeg" alt="erasure poem: after a sleepless night/the hidden structures are unforgiving/ yet something comfortable remains" title="The magazine fought me on their choice of background" class="responsive"><br>
 
 Taken from Crack Magazine, July 2021.
 
