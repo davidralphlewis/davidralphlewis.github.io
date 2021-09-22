@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: narrowpage
 title: Publications
 permalink: /publications/
 author: false
