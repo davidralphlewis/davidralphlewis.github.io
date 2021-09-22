@@ -8,47 +8,49 @@ social: false
 ---
 ## 2021
 
-*Ciculation* Charlie + Jake Echoes and Edges collaborative live stream
+* *Crosswords* - Welcome to Bear Creek
+
+* *Ciculation* - Charlie + Jake Echoes and Edges collaborative live stream
 
 https://www.youtube.com/watch?v=IQX6ir4HksU
 
-*Horoscopes* [Welcome to Bear Creek](https://www.welcometobearcreek.com/horoscopes)
+* *Horoscopes* - [Welcome to Bear Creek](https://www.welcometobearcreek.com/horoscopes)
 
 ## 2020
-*After, Transient, Borderlands* [Neon Magazine Issue 51](https://www.neonmagazine.co.uk/neon-literary-magazine-issue-51/)
+* *After, Transient, Borderlands* - [Neon Magazine Issue 51](https://www.neonmagazine.co.uk/neon-literary-magazine-issue-51/)
 
-*Six Months from Now* [Poems to Keep you Company Vol viii](https://www.samjgrudgings.co.uk/poems-to-keep-you-company) & BBC Upload
+* *Six Months from Now* - [Poems to Keep you Company Vol viii](https://www.samjgrudgings.co.uk/poems-to-keep-you-company) & BBC Upload
 
-**BOOK: [Refraction](https://davidralphlewis.bigcartel.com/product/refraction)**
+* **BOOK: [Refraction](https://davidralphlewis.bigcartel.com/product/refraction)**
 
-*Travelling* - [Mineral Lit issue 4.1](https://www.minerallitmag.com/travelling.html#/)
+* *Travelling* - [Mineral Lit issue 4.1](https://www.minerallitmag.com/travelling.html#/)
 
-<em>[Condolences](/condolences/)</em> - BBC Upload on BBC Radio Bristol & Charlie + Jake Echoes and Edges collaborative live stream
+* <em>[Condolences](/condolences/)</em> - BBC Upload on BBC Radio Bristol & Charlie + Jake Echoes and Edges collaborative live stream
 
 https://www.youtube.com/watch?v=evxJzU0lsBA
 
-*The Archivists* - [Marble Poetry Issue 7](http://marblepoetry.com/product/issue-7/)
+* *The Archivists* - [Marble Poetry Issue 7](http://marblepoetry.com/product/issue-7/)
 
-*Lunch Break* & *Acclimated* - [Selcouth Station Magazine issue #1](https://www.selcouthstation.com/product-page/selcouth-magazine-1)
+* *Lunch Break* & *Acclimated* - [Selcouth Station Magazine issue #1](https://www.selcouthstation.com/product-page/selcouth-magazine-1)
 
-*How to Hear the Hills* - Charlie + Jake Echoes and Edges collaborative live stream 2
+* *How to Hear the Hills* - Charlie + Jake Echoes and Edges collaborative live stream 2
 <em>Golden</em>- BBC Upload on BBC Radio Bristol
 
 *Hollow Passengers* - Charlie + Jake Echoes and Edges collaborative live stream 1
 
 https://youtu.be/vyHRtbjwlFY
 
-*Imposter* - [Nine Muses Poetry](https://ninemusespoetry.com/2020/05/14/one-poem-by-david-ralph-lewis/)
+* *Imposter* - [Nine Muses Poetry](https://ninemusespoetry.com/2020/05/14/one-poem-by-david-ralph-lewis/)
 
-*Equinox* - [Poems to keep you company](https://www.samjgrudgings.co.uk/poems-to-keep-you-company) by Sam J. Grudgings
+* *Equinox* - [Poems to keep you company](https://www.samjgrudgings.co.uk/poems-to-keep-you-company) by Sam J. Grudgings
 
-*Failed hypothesis* (reading)- [Dead Darlings Podcast](https://soundcloud.com/deaddarlingspod/episode-9-open-mic-special)
+* *Failed hypothesis* (reading) - [Dead Darlings Podcast](https://soundcloud.com/deaddarlingspod/episode-9-open-mic-special)
 
-<em>We're Gonna Keep Her Out of It-</em><a href="https://www.apeppublications.com/product/these-poems-are-not-what-they-seem/"> These Poems are Not What They Seem</a>, APEP productions
+* <em>We're Gonna Keep Her Out of It</em><a href="https://www.apeppublications.com/product/these-poems-are-not-what-they-seem/"> - These Poems are Not What They Seem</a>, APEP productions
 
-<em>Encrypted</em>- BBC Upload on BBC Radio Bristol
+* <em>Encrypted</em> - BBC Upload on BBC Radio Bristol
 
-*Failed Hypothesis*- [Fevers of the Mind](https://feversofthemind.wordpress.com/2020/01/20/failed-hypothesis-c-david-ralph-lewis/)
+*Failed Hypothesis* - [Fevers of the Mind](https://feversofthemind.wordpress.com/2020/01/20/failed-hypothesis-c-david-ralph-lewis/)
 
 <h2>2019</h2>
 
