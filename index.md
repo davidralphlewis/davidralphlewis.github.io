@@ -23,6 +23,8 @@ social: false
 
 <p>When not writing, I enjoy dancing badly at gigs, attempting to grow vegetables and taking photos. I understand a very, very small amount of what is going on in the world.</p>
 
+<p> Here's what's going on with me <a href="https://notes.davidralphlewis.co.uk/now">now</a>
+
 <p>You can follow me on: <a href="https://twitter.com/davidralphlewis" rel="me">Twitter</a>, <a href="https://Instagram.com/davidralphlewis" rel="me">Instagram</a> and <a href="https://facebook.com/davidralphlewis" rel="me">Facebook.</a></p>
 
 <p>Or you can <a href="mailto:contact@davidralphlewis.co.uk" rel="me">contact me here.</a> I'm available for readings, commissions or anything else.</p>
