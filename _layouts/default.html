@@ -13,11 +13,11 @@
     {% if jekyll.environment == 'production' %}
     {% endif %}
     <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css" />
-  {% include switcher.js %}
   {% include title.html %}
   </head>
   <body>
     {% include masthead.html %}
+      {% include switcher.js %}
     {% include open-embed.html %}
     {% include content.html %}
     {% include footer.html %}
