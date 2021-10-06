@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: narrowpage
 title: Publications
 permalink: /publications/
 author: false
@@ -8,87 +8,89 @@ social: false
 ---
 ## 2021
 
-*Ciculation* Charlie + Jake Echoes and Edges collaborative live stream
+* *Crosswords* - Welcome to Bear Creek
+
+* *Ciculation* - Charlie + Jake Echoes and Edges collaborative live stream
 
 https://www.youtube.com/watch?v=IQX6ir4HksU
 
-*Horoscopes* [Welcome to Bear Creek](https://www.welcometobearcreek.com/horoscopes)
+* *Horoscopes* - [Welcome to Bear Creek](https://www.welcometobearcreek.com/horoscopes)
 
 ## 2020
-*After, Transient, Borderlands* [Neon Magazine Issue 51](https://www.neonmagazine.co.uk/neon-literary-magazine-issue-51/)
+* *After, Transient, Borderlands* - [Neon Magazine Issue 51](https://www.neonmagazine.co.uk/neon-literary-magazine-issue-51/)
 
-*Six Months from Now* [Poems to Keep you Company Vol viii](https://www.samjgrudgings.co.uk/poems-to-keep-you-company) & BBC Upload
+* *Six Months from Now* - [Poems to Keep you Company Vol viii](https://www.samjgrudgings.co.uk/poems-to-keep-you-company) & BBC Upload
 
-**BOOK: [Refraction](https://davidralphlewis.bigcartel.com/product/refraction)**
+* **BOOK: [Refraction](https://davidralphlewis.bigcartel.com/product/refraction)**
 
-*Travelling* - [Mineral Lit issue 4.1](https://www.minerallitmag.com/travelling.html#/)
+* *Travelling* - [Mineral Lit issue 4.1](https://www.minerallitmag.com/travelling.html#/)
 
-<em>[Condolences](/condolences/)</em> - BBC Upload on BBC Radio Bristol & Charlie + Jake Echoes and Edges collaborative live stream
+* <em>[Condolences](/condolences/)</em> - BBC Upload on BBC Radio Bristol & Charlie + Jake Echoes and Edges collaborative live stream
 
 https://www.youtube.com/watch?v=evxJzU0lsBA
 
-*The Archivists* - [Marble Poetry Issue 7](http://marblepoetry.com/product/issue-7/)
+* *The Archivists* - [Marble Poetry Issue 7](http://marblepoetry.com/product/issue-7/)
 
-*Lunch Break* & *Acclimated* - [Selcouth Station Magazine issue #1](https://www.selcouthstation.com/product-page/selcouth-magazine-1)
+* *Lunch Break* & *Acclimated* - [Selcouth Station Magazine issue #1](https://www.selcouthstation.com/product-page/selcouth-magazine-1)
 
-*How to Hear the Hills* - Charlie + Jake Echoes and Edges collaborative live stream 2
+* *How to Hear the Hills* - Charlie + Jake Echoes and Edges collaborative live stream 2
 <em>Golden</em>- BBC Upload on BBC Radio Bristol
 
-*Hollow Passengers* - Charlie + Jake Echoes and Edges collaborative live stream 1
+* *Hollow Passengers* - Charlie + Jake Echoes and Edges collaborative live stream 1
 
 https://youtu.be/vyHRtbjwlFY
 
-*Imposter* - [Nine Muses Poetry](https://ninemusespoetry.com/2020/05/14/one-poem-by-david-ralph-lewis/)
+* *Imposter* - [Nine Muses Poetry](https://ninemusespoetry.com/2020/05/14/one-poem-by-david-ralph-lewis/)
 
-*Equinox* - [Poems to keep you company](https://www.samjgrudgings.co.uk/poems-to-keep-you-company) by Sam J. Grudgings
+* *Equinox* - [Poems to keep you company](https://www.samjgrudgings.co.uk/poems-to-keep-you-company) by Sam J. Grudgings
 
-*Failed hypothesis* (reading)- [Dead Darlings Podcast](https://soundcloud.com/deaddarlingspod/episode-9-open-mic-special)
+* *Failed hypothesis* (reading) - [Dead Darlings Podcast](https://soundcloud.com/deaddarlingspod/episode-9-open-mic-special)
 
-<em>We're Gonna Keep Her Out of It-</em><a href="https://www.apeppublications.com/product/these-poems-are-not-what-they-seem/"> These Poems are Not What They Seem</a>, APEP productions
+* <em>We're Gonna Keep Her Out of It</em><a href="https://www.apeppublications.com/product/these-poems-are-not-what-they-seem/"> - These Poems are Not What They Seem</a>, APEP productions
 
-<em>Encrypted</em>- BBC Upload on BBC Radio Bristol
+* <em>Encrypted</em> - BBC Upload on BBC Radio Bristol
 
-*Failed Hypothesis*- [Fevers of the Mind](https://feversofthemind.wordpress.com/2020/01/20/failed-hypothesis-c-david-ralph-lewis/)
+* *Failed Hypothesis* - [Fevers of the Mind](https://feversofthemind.wordpress.com/2020/01/20/failed-hypothesis-c-david-ralph-lewis/)
 
 <h2>2019</h2>
 
-<a href="https://davidralphlewis.co.uk/napowrimo-day-27/">Dance</a>,<a href="https://davidralphlewis.co.uk/napowrimo-2019-day-28/"> An invitation</a>- BBC Upload on BBC Radio Bristol
+* <a href="https://davidralphlewis.co.uk/napowrimo-day-27/">Dance</a>,<a href="https://davidralphlewis.co.uk/napowrimo-2019-day-28/"> An invitation</a>- BBC Upload on BBC Radio Bristol
 
-**BOOK: <a href="/ourvoicesinthechaos/"><em>Our Voices in the Chaos</em></a>, Selcouth Station**
+* ** BOOK: <a href="/ourvoicesinthechaos/"><em>Our Voices in the Chaos</em></a> - Selcouth Station**
 
-<em>Fluvial Dreams-</em> Highland Park Poetry
+* <em>Fluvial Dreams-</em> - Highland Park Poetry
 
-<em>Beyond Darkness</em> - The Martian Wave
+* <em>Beyond Darkness</em> - The Martian Wave
 
-### 2018
+## 2018
 
-<a href="https://poetryasfuck.wordpress.com/2018/08/29/lies-dreaming-16-supermarket-sweep/"><em>Supermarket Sweep</em> </a>- Lies, dreaming podcast
+* <a href="https://poetryasfuck.wordpress.com/2018/08/29/lies-dreaming-16-supermarket-sweep/"><em>Supermarket Sweep</em> </a>- Lies, dreaming podcast
 
-<a href="https://www.selcouthstation.com/single-post/2018/05/14/David-Ralph-Lewis-Three-Blackout-Poems?platform=hootsuite"><em>Lucid, Signals, Thin Places</em></a>- Selcouth Station
+* <a href="https://www.selcouthstation.com/single-post/2018/05/14/David-Ralph-Lewis-Three-Blackout-Poems?platform=hootsuite"><em>Lucid, Signals, Thin Places</em></a>- Selcouth Station
 
-<em><a href="https://www.neonbooks.org.uk/portfolio/battery-pack-three/">Debugging Report</a>-</em> Neon Magazine Battery Pack
+* <em><a href="https://www.neonbooks.org.uk/portfolio/battery-pack-three/">Debugging Report</a>-</em> Neon Magazine Battery Pack
 
-<a href="https://iamnotasilentpoet.wordpress.com/2018/04/14/bang-by-david-ralph-lewis/"><em>Bang</em></a>- I am not a silent poet-<em>
+* <a href="https://iamnotasilentpoet.wordpress.com/2018/04/14/bang-by-david-ralph-lewis/"><em>Bang</em></a>- I am not a silent poet-<em>
 </em>
 
-**BOOK: - <a href="/spareparts/"><em>Spare Parts</em> </a>(in collaboration with M. Amelia Eikli)- Thought Library Media**
+* **BOOK: - <a href="/spareparts/"><em>Spare Parts</em> </a>(in collaboration with M. Amelia Eikli)- Thought Library Media**
 
 <h2>2017</h2>
 
-**BOOK: <em>[Remain Vigilant](/remainvigilant/)- </em>Self Published**
+* **BOOK: <em>[Remain Vigilant](/remainvigilant/)- </em>Self Published**
 
-<em>Collaborators</em>- Dog Ear Magazine
+* <em>Collaborators</em>- Dog Ear Magazine
 
-<a href="https://poetryasfuck.wordpress.com/2017/07/31/11-treasure/"><em>The Lost Treasure of Dai-Ko</em></a>- Lies, dreaming podcast<em>
+* <a href="https://poetryasfuck.wordpress.com/2017/07/31/11-treasure/"><em>The Lost Treasure of Dai-Ko</em></a>- Lies, dreaming podcast<em>
 </em>
 
-<a href="https://iamnotasilentpoet.wordpress.com/2017/05/24/white-noise-by-david-ralph-lewis/"><em>White Noise</em>-</a> I am not a silent poet
+* <a href="https://iamnotasilentpoet.wordpress.com/2017/05/24/white-noise-by-david-ralph-lewis/"><em>White Noise</em>-</a> I am not a silent poet
 
 <h2>2016</h2>
 
-<em>6 tips on marketing your self-published novel</em>- Pure Slush<em>
+* <em>6 tips on marketing your self-published novel</em>- Pure Slush<em>
 </em>
 
-<a href="https://poetryasfuck.wordpress.com/2016/11/30/lies-dreaming-7-the-language-of-business/"><em>Loyal Employee</em>-</a> Lies, dreaming podcast
+* <a href="https://poetryasfuck.wordpress.com/2016/11/30/lies-dreaming-7-the-language-of-business/"><em>Loyal Employee</em>-</a> Lies, dreaming podcast
 
-**BOOK: <em>[Amber Stars: One Night of Stories](/amberstars/) - </em>Self Published**
+* **BOOK: <em>[Amber Stars: One Night of Stories](/amberstars/) - </em>Self Published**
