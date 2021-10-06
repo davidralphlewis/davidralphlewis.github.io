@@ -6,7 +6,7 @@ masthead_style: none
 social: false
 ---
 <div class="container">
-<div class="row">
+  <div class="row">
 <div class="col-md-7 col-sm-12">
 <figure class="figure">
  <img src="/assets/images/site/me.jpg" alt="Photo taken by Sam Cavender @samsnapsalot" class="img-fluid">
@@ -22,8 +22,6 @@ social: false
 <p>I have a number of other books available, including three that are free to download. <a href="/mybooks/">Go here</a> to browse and download. On this website, I maintain a blog about writing, art and politics as well as any other random topic. Often I scrawl over newspapers to create erasure poetry.</p>
 
 <p>When not writing, I enjoy dancing badly at gigs, attempting to grow vegetables and taking photos. I understand a very, very small amount of what is going on in the world.</p>
-
-<p> Here's what's going on with me <a href="https://notes.davidralphlewis.co.uk/now">now</a></p>
 
 <p>You can follow me on: <a href="https://twitter.com/davidralphlewis" rel="me">Twitter</a>, <a href="https://Instagram.com/davidralphlewis" rel="me">Instagram</a> and <a href="https://facebook.com/davidralphlewis" rel="me">Facebook.</a></p>
 

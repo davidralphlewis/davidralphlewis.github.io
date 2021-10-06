@@ -1,14 +1,7 @@
 {% include logic.html %}
 <div class="header">
-<Div class="custom-control custom-switch">
-  <input type="checkbox" class="custom-control-input" id="darkSwitch" />
-  <label class="custom-control-label" for="darkSwitch">Dark Mode</label>
-</div>
-<script src="/dark-mode-switch.min.js"></script>
-                    </div>
-
-
 <h1 style="text-align:center;font-size: 45px;">David Ralph Lewis</h1>
+<h2 style="text-align:center;font-size: 30px;"> Poet and Author </h2>
 <p><a href="https://www.facebook.com/davidralphlewis"><i class="fab fa-facebook-square"></i></a>
 <a href="https://www.twitter.com/davidralphlewis"><i class="fab fa-twitter-square"></i></a>
 <a href="https://www.instagram.com/davidralphlewis"><i class="fab fa-instagram"></i></a>
@@ -29,8 +22,12 @@
  <a class="nav-item nav-link px-3" href="https://davidralphlewis.bigcartel.com/">Shop</a>
 <a class="nav-item nav-link px-3" href="mailto:contact@davidralphlewis.co.uk">Email Me</a>
 <a class="nav-item nav-link px-3" href="https://ko-fi.com/davidralphlewis">Ko-Fi</a>
+<div class="custom-control custom-switch align-self-center">
+                        <input type="checkbox" class="custom-control-input" id="checkbox" />
+                        <label class="custom-control-label" for="checkbox"><i class="fas fa-sun"></i></label>
+                    </div>
+
 </div>
     </div>
 
 </nav>
-

@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@900&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600&display=swap');
 
-:root {
+.root[color-mode="light"] {
     --background-color: #fefff2;
     --font-color: #242424;
     --primary-color: orange;
@@ -13,29 +13,26 @@
 
 }
 
-[data-theme="dark"] {
+.root[color-mode="dark"]{
     --primary-color: #9A97F3;
     --secondary-color: #818cab;
     --font-color: #e1e1ff;
     --bg-color: #161625;
-    --heading-color: #818cab;
+    --header-color: orange;
+    --link-color: blue;
+    --link-color-visited: purple;
 }
 
+/* Any element with the class "light--hidden" will be hidden when the site is set to Light Mode */
+:root[color-mode="light"] .light--hidden {
+    display: none;
+}
 
-html {
-  min-height: 100%;
-background-color: var(--background-color);
-scroll-behavior: smooth;
+/* Any element with the class "dark--hidden" will be hidden when the site is set to Dark Mode */
+:root[color-mode="dark"] .dark--hidden {
+    display: none;
 }
-body {
-    background-color: var(--background-color);
-    color: var(--font-color);
-    font-family: 'Open Sans', sans-serif;
-    font-size: 19px;
-    text-align: left;
-    width: 100%;
-    overflow-x: hidden;
-}
+
 
 body {
     -webkit-font-smoothing: antialiased;
@@ -289,7 +286,7 @@ flex: justify-content-between;
 }
 
 nav.navbar a:hover {
-background-color: var(--highlight-color);
+background-color: var(--primary-color);
 }
 
 .hamburger {
@@ -332,6 +329,64 @@ text-decoration: none;
 
 .active {
   background-color: #4CAF50;
+}
+
+.theme-switch-wrapper {
+  display: flex;
+  align-items: center;
+
+  em {
+    margin-left: 10px;
+    font-size: 1rem;
+  }
+}
+.theme-switch {
+  display: inline-block;
+  height: 34px;
+  position: relative;
+  width: 60px;
+}
+
+.theme-switch input {
+  display:none;
+}
+
+.slider {
+  background-color: #ccc;
+  bottom: 0;
+  cursor: pointer;
+  left: 0;
+  position: absolute;
+  right: 0;
+  top: 0;
+  transition: .4s;
+}
+
+.slider:before {
+  background-color: #fff;
+  bottom: 4px;
+  content: "";
+  height: 26px;
+  left: 4px;
+  position: absolute;
+  transition: .4s;
+  width: 26px;
+}
+
+input:checked + .slider {
+  background-color: #66bb6a;
+}
+
+input:checked + .slider:before {
+  transform: translateX(26px);
+}
+
+.slider.round {
+  border-radius: 34px;
+}
+
+.slider.round:before {
+  border-radius: 50%;
 }
 
 @media screen and (max-width: 500px) {

@@ -6,12 +6,15 @@
 
 -->
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: 'en' }}">
+<html lang="{{ site.lang | default: 'en' }}" color-mode="light">
   <head>
     {% include head.html %}
     <link rel="shortcut icon" type="image/x-icon" href="/assets/images/site/logo.png">
     {% if jekyll.environment == 'production' %}
     {% endif %}
+    <script>
+      {% include switcher.js %}
+</script>
     {% include title.html %}
   </head>
   <body>
