@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@900&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600&display=swap');
 
-.root[color-mode="light"] {
+.root[data theme="light"] {
     --background-color: #fefff2;
     --font-color: #242424;
     --primary-color: orange;
@@ -13,7 +13,7 @@
 
 }
 
-.root[color-mode="dark"]{
+.root[data-theme="dark"]{
     --primary-color: #9A97F3;
     --secondary-color: #818cab;
     --font-color: #e1e1ff;
