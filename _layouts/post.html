@@ -12,7 +12,7 @@
     <link rel="shortcut icon" type="image/x-icon" href="/assets/images/site/logo.png">
     {% if jekyll.environment == 'production' %}
     {% endif %}
-
+      {% include switcher.js %}
     {% include title.html %}
   </head>
   <body>
@@ -22,7 +22,6 @@
       <div class="row">
    <div class="col-md-8 col-sm-12">
     {% include open-embed.html %}
-      {% include switcher.js %}
     {% include content.html %}
     {% include page_nav.html %}
     </div>
