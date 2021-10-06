@@ -37,6 +37,11 @@ body {
     overflow-x: hidden;
 }
 
+body {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
 a:link {
   color: var(--link-color);
 text-decoration: underline;
