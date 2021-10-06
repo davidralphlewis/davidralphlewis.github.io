@@ -2,7 +2,6 @@
 <html>
 <div class="archive">
 
-
     {% for post in paginator.posts %}
         <div class="archive-item col-12 pl-0 pr-0 {% unless forloop.first %}mt-5 pt-3 {% endunless %}">
             <h2 class="mb-1"><a href="{{ post.url | absolute_url }}" class="stretched-link">{{ post.title }}</a></h2>
