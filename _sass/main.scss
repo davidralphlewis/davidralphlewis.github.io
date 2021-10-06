@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@900&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600&display=swap');
 
-:root[data-theme="light"] {
+:root {
     --background-color: #fefff2;
     --font-color: #242424;
     --primary-color: orange;
@@ -73,7 +73,7 @@ line-height: 1.6;
     }
 
     h1 {
-        border-bottom: 1px solid var(--divider-color);
+        border-bottom: 1px solid var(--header-color);
 margin-top: 10px;
 margin-bottom: 17px;
         font-family:' Merriweather', serif;
@@ -90,6 +90,8 @@ margin-top: 17px;
 margin-bottom: 17px;
         font-family: 'Merriweather', serif;
         text-align: center;
+	font-color: var(--header-color);
+
     }
 
     hr {
