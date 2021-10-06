@@ -1,29 +1,31 @@
 @import url(https://fonts.googleapis.com/css2?family=Montserrat:wght@300,600&family=Work+Sans:wght@200&display=swap);
 @import url('https://fonts.googleapis.com/css2?family=EB+Garamond&family=PT+Serif&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
 :root {
-    --background-color: #474747;
-    --font-color: #ffffff;
+    --background-color: #ffffcf;
+    --font-color: #242424;
     --code-background-color: #0f140f;
 }
 
 html {
   min-height: 100%;
-background-color: #474747;
+background-color: var(--background-color);
 scroll-behavior: smooth;
 }
 body {
     background-color: var(--background-color);
     color: var(--font-color);
-    font-family: 'Merriweather', serif;
-    font-size: 18px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 19px;
     text-align: left;
     width: 100%;
     overflow-x: hidden;
 }
 
 a:link {
-  color: #58f4fc;
+  color: #0208b5;
 text-decoration: underline;
 }
 
@@ -47,10 +49,9 @@ font-weight: 900;
 }
 
 p {
-font-weight: 300;
+font-weight: 400;
 margin-top: 10px;
-    font-family: 'Work Sans', sans-serif;
-    font-size: 18px;
+    font-family: 'Open Sans', sans-serif;
     text-align: left;
 line-height: 1.6;
     }
@@ -74,7 +75,7 @@ margin-bottom: 17px;
         font-family: 'Merriweather', serif;
 font-weight: 400;
         text-align: center;
-color: orange;
+color: #ff8400;
     }
 
     hr {
@@ -92,7 +93,7 @@ color: orange;
           font-style: italic;
           padding: 1rem 1.2rem;
           width: 90%;  /* create space for the quotes */
-          color: #ffffff;
+          color: var(--background-color);
           margin: 1rem auto 2rem;
           background:
           linear-gradient(to right, #ff8800 4px, transparent 4px) 0 100%,
@@ -109,7 +110,7 @@ color: orange;
         color: orange;
   color: orange;
   padding: 14px 28px;
-  font-size: 18px;
+  font-size: 19px;
   cursor: pointer;
 
       }
