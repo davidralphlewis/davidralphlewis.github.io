@@ -2,31 +2,6 @@
 <html>
 <div class="archive">
 
-  <div class="card card-post border-top-0 border-left-0 border-right-0 rounded-0 {% unless forloop.first %}mt-5 pt-3 {% endunless %}">
-        <div style="background-color: #353a3c">
-    <h2 class="card-header"><a href="{{ post.url | absolute_url }}">{{ post.title }}</a>
-    </h2>
-    <div class="card-body">
-      <h6 class="card-subtitle mb-3 text-secondary">
-          {{ post.date | date_to_string }} Category: {{ post.categories | proper_case }}</h6>
-          {% unless post.featured_image == false %}
-              {% if post.featured_image %}
-                  {% assign featured_image = post.featured_image %}
-              {% endif %}
-              {% if display_featured_image %}
-                  <div class="mt-3">
-                      {% include featured-image.html %}
-                  </div>
-              {% endif %}
-          {% endunless %}
-          <p class="mt-3">{{ post.excerpt | truncatewords: 100 }}</p>
-          <p> <a href="{{ post.url | absolute_url }}"> Read More...</a> </p>
-      </div>
-    </div>
-  </div>
-    </div>
-    </div>
-
     {% for post in paginator.posts %}
         <div class="archive-item col-12 pl-0 pr-0 {% unless forloop.first %}mt-5 pt-3 {% endunless %}">
             <h2 class="mb-1"><a href="{{ post.url | absolute_url }}" class="stretched-link">{{ post.title }}</a></h2>
