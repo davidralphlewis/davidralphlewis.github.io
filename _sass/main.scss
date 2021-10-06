@@ -1,13 +1,26 @@
-@import url(https://fonts.googleapis.com/css2?family=Montserrat:wght@300,600&family=Work+Sans:wght@200&display=swap);
-@import url('https://fonts.googleapis.com/css2?family=EB+Garamond&family=PT+Serif&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@300&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400&display=swap');
 
 :root {
     --background-color: #fefff2;
     --font-color: #242424;
+    --primary-color: orange;
+    --secondary-color: #a6a6a6;
+    --link-color: blue;
+    --link-color-visited: purple;
+    --header-color: #242424;		
     --code-background-color: #0f140f;
+
 }
+
+[data-theme="dark"] {
+    --primary-color: #9A97F3;
+    --secondary-color: #818cab;
+    --font-color: #e1e1ff;
+    --bg-color: #161625;
+    --heading-color: #818cab;
+}
+
 
 html {
   min-height: 100%;
@@ -25,17 +38,17 @@ body {
 }
 
 a:link {
-  color: #0208b5;
+  color: var(--link-color);
 text-decoration: underline;
 }
 
 /* visited link */
 a:visited {
-    color: purple;
+    color: var(--link-color-visited);
 }
 
 a:hover {
-background: orange;
+background: var(--primary-color);
  color: black;
   text-decoration: underline;
 
@@ -61,21 +74,19 @@ line-height: 1.6;
 margin-top: 10px;
 margin-bottom: 17px;
         font-family:' Merriweather', serif;
-font-weight: 400;
+font-weight: 900;
         text-align: center;
 line-height: 2;
     }
 
     h1, h2, h3, h4, h5, h6 {
-font-weight: 600;
+font-weight: 900;
         margin-left: auto;
         margin-right: auto;
 margin-top: 17px;
 margin-bottom: 17px;
         font-family: 'Merriweather', serif;
-font-weight: 400;
         text-align: center;
-color: #ff8400;
     }
 
     hr {
@@ -84,7 +95,7 @@ color: #ff8400;
         margin-left: auto;
         margin-right: auto;
         border: 2px solid;
-        border-color: orange !important;
+        border-color: var(--primary-color) !important;
     }
 
     blockquote {
@@ -93,7 +104,7 @@ color: #ff8400;
           font-style: italic;
           padding: 1rem 1.2rem;
           width: 90%;  /* create space for the quotes */
-          color: var(--background-color);
+          color: var(--font-color);
           margin: 1rem auto 2rem;
           background:
           linear-gradient(to right, #ff8800 4px, transparent 4px) 0 100%,
@@ -106,9 +117,9 @@ color: #ff8400;
 
       .button {
         border: 2px solid black;
-        border-color: #ff9800;
-        color: orange;
-  color: orange;
+        border-color: var(--primary-color);
+        color: var(--primary-color);
+  color: var(--primary-color);
   padding: 14px 28px;
   font-size: 19px;
   cursor: pointer;
@@ -129,7 +140,7 @@ color: #ff8400;
           position: absolute;
           font-style: normal;
     font-weight: 900;
-          color: #ff8800;
+          color: var(--primary-color);
           font-size: 34px;
       }
 
@@ -164,7 +175,7 @@ color: #ff8400;
     }
     .card {
 box-shadow: 0 0px 20px 0 rgba(0,0,0,0.2);
-background-color:#8f8f8f !important;
+background-color: var(--secondary-color) !important;
 }
 
 
@@ -273,7 +284,7 @@ flex: justify-content-between;
 }
 
 nav.navbar a:hover {
-background-color: orange;
+background-color: var(--highlight-color);
 }
 
 .hamburger {
@@ -286,7 +297,7 @@ color: #fff;
 }
 .navbar-nav .nav-item.active .nav-link,
 .navbar-nav .nav-item:hover .nav-link {
-    background-color: orange;
+    background-color: var(--highlight-color);
 }
 
 .navbar-custom {
@@ -352,12 +363,12 @@ margin-right: auto;
 
 .footer {
 font-size: 14px;
-border-top: 1px solid orange;
+border-top: 1px solid var(--primary-color);
 text-align: center;
 }
     .container {
         .content {
-            border-top: 1px solid var(--divider-color);
+            border-top: 1px solid var(--primary-color);
         }
     }
 hr {
@@ -367,7 +378,7 @@ hr {
     margin-top: 40px;
     margin-bottom: 40px;
     border: 2px solid;
-    border-color: orange !important;
+    border-color: var(--highlight-color) !important;
 }
 
 @media screen and (max-width: 600px) {
