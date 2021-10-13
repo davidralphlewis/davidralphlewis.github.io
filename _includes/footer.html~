@@ -1,17 +1,32 @@
 {% include logic.html %}
 
-<footer>
-    <div class="container">
-        <div class="mt-5 py-5 content">
-            <div class="d-flex justify-content-center justify-content-md-start">
-                <div class="flex-md-fill">&copy; {% if published_year %}{{ published_year }}{% if published_year != current_year %} - {{ current_year }}{% endif %}{% endif %} {{ site.title }}. Original Theme by <a href="https://github.com/dpstrange/jekyll-bootstrap">DPStrange</a></div>
-                {% assign menu = site.data.navigation %}
-                {% assign links = menu.footer_menu %}
-                {% for link in links %}
-                    <div class="pl-3 d-none d-md-block"><a href="{{ link.url }}" {% if link.target %}target="_{{ link.target }}"{% endif %}>{% if link.icon %}<i class="{{ link.icon }}"></i>{% endif %} </i>{{ link.title }}</a></div>
-                {% endfor %}
-            </div>
+<footer class="footer">
+  <div class="container">
+    <div class="row">
+        <div class="col-sm-12 col-md-4 footer-navigation">
+            <h3><a href="/">David Ralph Lewis</a></h3>
+            <ul class="list-unstyled">
+                <li><a href="/">Home</a></li>
+                <li><a href="/articles">Blog</a></li>
+              <li><a href="https://notes.davidralphlewis.co.uk">Notes</a></li>
+              <li><a href="/sitemap">Sitemap</a></li>
+              <li><a href="/feed.xml"> RSS Feed <i class="fas fa-rss"></i></a></li>
+
         </div>
+              <div class="col-sm-12 col-md-3">
+              <h4> Contact</h4>
+              <div style="font-size: 24px"><a href="https://www.facebook.com/davidralphlewis"><i class="fab fa-facebook-square"></i></a>
+              <a href="https://www.twitter.com/davidralphlewis"><i class="fab fa-twitter-square"></i></a>
+              <a href="https://www.instagram.com/davidralphlewis"><i class="fab fa-instagram"></i></a>
+              <a href="https://www.soundcloud.com/davidralphlewis"><i class="fab fa-soundcloud"></i></a></div>
+              <p class="text-center"> <a href="mailto:contact@davidralphlewis.co.uk" target="_blank">contact@davidralphlewis.co.uk</a></p>
+
+                </div>
+        <div class="col-sm-12 col-md-3">
+            <p style="font-size: 14px">Released 2016 - {{ 'now' | date: "%Y" }} by David Ralph Lewis under a <a href="https://creativecommons.org/licenses/by-nc/4.0" target="_blank"">Creative Commons Attribution-NonCommercial 4.0 International License.</a></p>
+            <p style="font-size: 14px"> Original Theme by <a href="https://github.com/dpstrange/jekyll-bootstrap">DPStrange</p>
+    </div>
+    </div>
     </div>
 </footer>
 

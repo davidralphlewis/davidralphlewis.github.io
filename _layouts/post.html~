@@ -11,30 +11,33 @@
     {% include head.html %}
     <link rel="shortcut icon" type="image/x-icon" href="/assets/images/site/logo.png">
     {% if jekyll.environment == 'production' %}
-    {% include analytics.html %}
     {% endif %}
+    {% include title.html %}
   </head>
   <body>
-    {% include navigation.html %}
+
     {% include masthead2.html %}
-    <br />
-    {% include series.html %}
-    {% if author %}
-    {% include author.html %}
-    {% endif %}
+    <div class="container">
+      <div class="row">
+   <div class="col-md-8 col-sm-12">
+    {% include open-embed.html %}
     {% include content.html %}
-    <hr>
-    {% if author %}
-    {% include authorbio.html %}
-    {% endif %}
     {% include page_nav.html %}
-    <hr>
-    {% include mailchimp.html %}
-    <hr>
-    {% if site.disqus.shortname %}
-    {% include disqus_comments.html %}
-    {% endif %}
-    {% include footer.html %}
-  </body>
+    </div>
+      <div class="col-md-3 col-sm-12">
+      {% include series.html %}
+      {% if author %}
+      {% include author.html %}
+      {% endif %}
+      {% include related.html %}
+      {% include mailchimp.html %}
+      </div>
+  </div>
+  </div>
+  <script>
+    {% include switcher.js %}
+    </script>
+  {% include footer.html %}
+</body>
 
 </html>

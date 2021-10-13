@@ -23,29 +23,25 @@ social: false
 
 <p>When not writing, I enjoy dancing badly at gigs, attempting to grow vegetables and taking photos. I understand a very, very small amount of what is going on in the world.</p>
 
-<p> Here's what's going on with me <a href="https://notes.davidralphlewis.co.uk/now">now.</a></p>
+<p> Here's what's going on with me <a href="https://notes.davidralphlewis.co.uk/now">now</a></p>
 
 <p>You can follow me on: <a href="https://twitter.com/davidralphlewis" rel="me">Twitter</a>, <a href="https://Instagram.com/davidralphlewis" rel="me">Instagram</a> and <a href="https://facebook.com/davidralphlewis" rel="me">Facebook.</a></p>
 
 <p>Or you can <a href="mailto:contact@davidralphlewis.co.uk" rel="me">contact me here.</a> I'm available for readings, commissions or anything else.</p>
-
 </div>
 <div class="col-md-3 col-sm-12">
-<div class="mailchimp">
 {% include mailchimp.html %}
 Or subscribe to <a href="/feed.xml">updates via RSS</a>
 </div>
 </div>
 </div>
-</div>
 
-<div class="container">
-<h1>Recent Posts</h1>
-<br>
-<div class="row">
+<div class="container-narrow">
+<h1><a href="/articles">Recent Posts</a></h1>
+
 {% for post in site.posts limit:3 %}
 {% include components/post-card.html %}
 {% endfor %}
-<h2><a href="/articles">More blog posts</a></h2>
-</div>
+
+
 </div>
