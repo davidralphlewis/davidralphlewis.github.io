@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@900&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400..500;600&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@700&display=swap');
 
 :root{
@@ -45,7 +45,7 @@ a:visited {
 
 a:hover {
 background: var(--highlight-color);
- color: black;
+ color: var(--font-color);
  text-decoration: underline;
 
 }
@@ -66,6 +66,12 @@ body.dark-theme a:visited{
     color: #ff08ef;
     text-decoration: underline
 }
+body.dark-theme a:hover {
+background: var(--highlight-color-dark);
+ color: var(--font-color-dark);
+ text-decoration: underline;
+
+}
 
     p {
 font-weight: 500;
@@ -78,7 +84,7 @@ margin-top: 10px;
     }
 
     body.dark-theme p{
-	font-weight: 500;
+	font-weight: 450;
 margin-top: 10px;
     font-family: 'Open Sans', sans-serif;
     text-align: left;
