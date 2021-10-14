@@ -8,6 +8,26 @@ social: false
 ---
 ## 2021
 
+* *Cartography* - Open Collab
+
+https://www.youtube.com/watch?v=NJGHN44VD9g
+
+* *Ceasefire* - [Ink, Sweat & Tears](https://inksweatandtears.co.uk/david-ralph-lewis/)- Nominated for pick of the month.
+
+* *Bonfire Night, The Time Traveller Has Questions, Even After Orientation & You Haven't Listened to the Warning of Your Forefathers* - [Flights Magazine](https://flightofthedragonfly.com/david-ralph-lewis/)
+
+* *The Universe Learns to Be Silent and Still*- [Feral Poetry](https://feralpoetry.net/the-universe-yearns-to-be-silent-and-still-by-david-ralph-lewis/)
+
+* *The Early Bird & Untitled poem* - [Fevers of the mind](https://feversofthemind.com/2021/06/04/2-new-poems-by-david-ralph-lewis-an-untitled-piece-the-early-bird-catches-the-worm/)
+
+* *An Honest Trade* - [Sledgehammer Lit](https://www.sledgehammerlit.com/post/an-honest-trade-by-david-ralph-lewis) (Nominated for Best of the Net Award)
+
+* *She's Silent*(written with Cat Balaq) - Open Collab
+
+https://www.youtube.com/watch?v=ZkT1a-OIDI8
+
+* *Removal* - [Osmosis Press](https://osmosispress.com/2021/03/21/david-ralph-lewis-relocation/)
+
 * *Crosswords* - Welcome to Bear Creek
 
 * *Ciculation* - Charlie + Jake Echoes and Edges collaborative live stream
@@ -17,7 +37,12 @@ https://www.youtube.com/watch?v=IQX6ir4HksU
 * *Horoscopes* - [Welcome to Bear Creek](https://www.welcometobearcreek.com/horoscopes)
 
 ## 2020
-* *After, Transient, Borderlands* - [Neon Magazine Issue 51](https://www.neonmagazine.co.uk/neon-literary-magazine-issue-51/)
+
+* *Cordial* - Write Out Loud
+
+* *Advertorial* - Daily Drunk Mag
+
+* *After, Transient, Borderlands* - [Neon Magazine Issue 51](https://www.neonmagazine.co.uk/neon-literary-magazine-issue-51/)- *After* was nominated for the Forward Prize.
 
 * *Six Months from Now* - [Poems to Keep you Company Vol viii](https://www.samjgrudgings.co.uk/poems-to-keep-you-company) & BBC Upload
 
