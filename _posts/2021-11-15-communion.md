@@ -13,4 +13,4 @@ Taken from Crack Magazine November 2021.
 
 If you like this, I have three erasures in the upcoming issue of *Neon* Magazine. Massive thanks to them. You can pre-order the issue [here.](https://www.neonbooks.org.uk/product-tag/issue-53/)
 
-I also have a small shivery poem alongside some brilliant poet in the Black Bough Poetry anthology *Christmas & Winter - Volume 2*. Again, huge thanks to the editor for taking the poem in. You can find that [here.](https://www.blackboughpoetry.com/about-3)
+I also have a small shivery poem alongside some brilliant poets in the *Black Bough Poetry* anthology *Christmas & Winter - Volume 2*. Again, huge thanks to the editor for taking the poem in. You can find that [here.](https://www.blackboughpoetry.com/about-3)
