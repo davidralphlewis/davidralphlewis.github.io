@@ -8,10 +8,7 @@ social: false
 <div class="container">
 <div class="row">
 <div class="col-md-7 col-sm-12">
-<figure class="figure">
- <img src="/assets/images/site/me.jpg" alt="Photo taken by Sam Cavender @samsnapsalot" class="img-fluid">
-<figcaption class="figure-caption">Photo taken by <a href="https://www.instagram.com/samsnapsalot/">Sam Cavender</a></figcaption>
-</figure>
+ <img src="/assets/images/site/headshot.jpg" alt="Me with a beard in front of loads of logs" class="img-fluid">
 </div>
 <div class="col-md-4 col-sm-12">
 <p>I'm a poet and short story writer based in Bristol, UK, whose work has been nominated for the Forward Prize and has appeared in <em>Neon Magazine</em>, <em>Nine Muses Poetry</em> and <em>Marble Poetry</em>. My first poetry chapbook, <em><a href="/ourvoicesinthechaos/">Our Voices in the Chaos</a></em>, was published by Selcouth Station in October 2019. I self published a second tiny pamphlet in October 2020 called <em><a href="/refractionpamphlet/">Refraction.</a></em></p>
@@ -46,6 +43,3 @@ Or subscribe to <a href="/feed.xml">updates via RSS</a>
 {% for post in site.posts limit:3 %}
 {% include components/post-card.html %}
 {% endfor %}
-<h2><a href="/articles">More blog posts</a></h2>
-</div>
-</div>
