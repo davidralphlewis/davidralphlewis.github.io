@@ -3,17 +3,17 @@
 @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@700&display=swap');
 
 :root{
-    --background-color: #fefff2;
+    --background-color: #e1d9c2;
     --background-color-dark: #161625;
     --font-color: #242424;
     --font-color-dark: #fefff2;
-    --highlight-color: #a30000;
+    --highlight-color: #bc4937;
     --highlight-color-dark: orange;
     --secondary-color: #a6a6a6;
     --secondary-color-dark: #454545;
     --link-color: #12009c;
     --link-color: #12009c;
-    --link-color-visited: #650094; 
+    --link-color-visited: #650094;
     --header-color: #242424;
     --code-background-color: #0f140f;
 }
@@ -34,7 +34,7 @@ body.dark-theme {
     background: #161625;
     color: var(--font-color-dark);
 }
-    
+
 a:link {
   color: var(--link-color);
 text-decoration: underline;
@@ -88,9 +88,9 @@ margin-top: 10px;
     font-size: 19px;
     color: var(--font-color-dark);
     }
-    
 
-    
+
+
     h1 {
 font-weight: 900;
         margin-left: auto;
@@ -126,7 +126,7 @@ margin-bottom: 17px;
 	color: var(--highlight-color);
 
 		}
-		
+
     body.dark-theme h1 {
 font-weight: 900;
         margin-left: auto;
@@ -158,7 +158,7 @@ margin-top: 17px;
 margin-bottom: 17px;
         font-family: 'Orbitron', sans-serif;
         text-align: center;
-	color: var(--highlight-color-dark); 
+	color: var(--highlight-color-dark);
 
     }
 
@@ -211,7 +211,7 @@ margin-bottom: 17px;
           linear-gradient(to top, var(--highlight-color-dark) 4px, transparent 4px) 0 100%;
           background-repeat: no-repeat;
           background-size: 20px 20px;
- } 
+ }
       .button {
         border: 2px solid black;
         border-color: var(--primary-color);
