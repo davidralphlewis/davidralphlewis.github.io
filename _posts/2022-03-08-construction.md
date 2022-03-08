@@ -5,22 +5,23 @@ date:   2022-03-08 08:24:37 +0000
 categories: poetry
 ---
 <div>
-You imagined | a field transmuted | into endless red bricks.
-You | hammered a sign | into the soil and | walked away.
-Now we carve | out mud and sand | mix and bake together
-earth | into our inferno | churn the loose |  ground into cubes
-make straight | lines out of leaves | that only want to curve. 
-You | had a simple idea | thought a while | and called it a city.
-We are the ones | who stacked the | ground on top of itself, 
-who | spun streets from | the threads of | the slip breeze. 
-And when this | empty space has | been alchemically set
-into |  a new epicentre | of industry and | fearful commerce
-there will be no | monument to all | of our cracked hands 
-that | struggled against | nature to lay out | these streets. 
-Our fingerprints | will instead be | embedded into concrete
-the | echo of our voices | will be audible | in every room.
+You imagined | a field transmuted | into endless red bricks.<br>
+You | hammered a sign | into the soil and | walked away.<br>
+Now we carve | out mud and sand | mix and bake together<br>
+earth | into our inferno | churn the loose |  ground into cubes<br>
+make straight | lines out of leaves | that only want to curve.<br> 
+You | had a simple idea | thought a while | and called it a city.<br>
+We are the ones | who stacked the | ground on top of itself,<br>
+who | spun streets from | the threads of | the slip breeze.<br>
+And when this | empty space has | been alchemically set <br>
+into |  a new epicentre | of industry and | fearful commerce <br>
+there will be no | monument to all | of our cracked hands <br>
+that | struggled against | nature to lay out | these streets. <br>
+Our fingerprints | will instead be | embedded into concrete <br>
+the | echo of our voices | will be audible | in every room. <br>
 
 </div>
+
 
 ---
 
