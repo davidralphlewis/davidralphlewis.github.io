@@ -4,7 +4,7 @@ title:  Construction
 date:   2022-03-08 08:24:37 +0000
 categories: poetry
 ---
-
+<div>
 You imagined | a field transmuted | into endless red bricks.
 You | hammered a sign | into the soil and | walked away.
 Now we carve | out mud and sand | mix and bake together
@@ -19,6 +19,8 @@ there will be no | monument to all | of our cracked hands
 that | struggled against | nature to lay out | these streets. 
 Our fingerprints | will instead be | embedded into concrete
 the | echo of our voices | will be audible | in every room.
+
+</div>
 
 ---
 
