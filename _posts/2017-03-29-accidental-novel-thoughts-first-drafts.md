@@ -1,5 +1,5 @@
 ---  
-layout: post  
+layout: single  
 title: "My accidental novel: Thoughts on first drafts"  
 date: 2017-03-29 16:20  
   

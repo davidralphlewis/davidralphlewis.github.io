@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Do we get political now?
 date: 2021-05-07
 comments: true

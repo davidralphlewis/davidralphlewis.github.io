@@ -1,12 +1,12 @@
 ---
-layout: post
+layout: single
 title: "Into the Night"
 date: 2020-07-23
 
 comments: true
 categories: [this was meant to be the future]
-masthead_style: banner
-featured_image: /assets/images/site/twmtbtf.jpeg
+header:
+  image: /assets/images/site/twmtbtf-banner.jpeg 
 series: "this was meant to be the future"
 ---
 

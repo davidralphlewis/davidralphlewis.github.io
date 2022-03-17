@@ -1,5 +1,5 @@
 ---  
-layout: post  
+layout: single  
 title: Pulp vs. Perfection  
 date: 2016-12-14 13:00  
   

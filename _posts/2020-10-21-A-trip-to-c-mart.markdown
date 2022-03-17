@@ -1,11 +1,11 @@
 ---
-layout: post
+layout: single
 title: "Welcome to C-Mart"
 date: 2020-10-21
 comments: true
 categories: [this was meant to be the future]
-masthead_style: banner
-featured_image: /assets/images/site/twmtbtf.jpeg
+header:
+  image: /assets/images/site/twmtbtf-banner.jpeg 
 series: "this was meant to be the future"
 ---
 ‘Welcome to C-Mart. I hope you have a wonderful visit. My name is Cindy. If you need any assistance, you can just call my name and I will do my best to help out.’

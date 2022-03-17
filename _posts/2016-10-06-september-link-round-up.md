@@ -1,5 +1,5 @@
 ---  
-layout: post  
+layout: single  
 title: September Link Round up  
 date: 2016-10-06 15:34  
   

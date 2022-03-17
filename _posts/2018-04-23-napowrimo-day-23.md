@@ -1,5 +1,5 @@
 ---  
-layout: post  
+layout: single  
 title: NaPoWriMo 2018 Day 23  
 date: 2018-04-23 15:56  
   

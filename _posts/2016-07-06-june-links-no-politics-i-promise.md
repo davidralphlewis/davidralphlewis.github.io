@@ -1,5 +1,5 @@
 ---  
-layout: post  
+layout: single  
 title: June Links - No Politics, I Promise  
 date: 2016-07-06 11:50  
   

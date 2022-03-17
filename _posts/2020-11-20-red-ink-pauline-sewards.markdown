@@ -1,5 +1,5 @@
 ---
-layout: post  
+layout: single  
 title: "Red Ink: Pauline Sewards"
 date: 2020-11-20
 comments: true  

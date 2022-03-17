@@ -1,5 +1,5 @@
 ---  
-layout: post  
+layout: single  
 title: Remain Vigilant  
 date: 2016-11-23 16:03  
   

@@ -1,5 +1,5 @@
 ---  
-layout: post  
+layout: single  
 title: Love, not hate  
 date: 2016-06-17 18:00  
   

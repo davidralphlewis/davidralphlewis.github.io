@@ -1,5 +1,5 @@
 ---  
-layout: post  
+layout: single  
 title: Ponyo and Adaptation  
 date: 2016-07-12 15:33  
   

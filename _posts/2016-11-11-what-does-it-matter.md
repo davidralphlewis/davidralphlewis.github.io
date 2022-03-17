@@ -1,5 +1,5 @@
 ---  
-layout: post  
+layout: single  
 title: What does it matter?  
 date: 2016-11-11 14:51  
   

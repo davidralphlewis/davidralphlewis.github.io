@@ -1,5 +1,5 @@
 ---  
-layout: post  
+layout: single  
 title: NaPoWriMo 2018 Day 8  
 date: 2018-04-08 17:04  
   

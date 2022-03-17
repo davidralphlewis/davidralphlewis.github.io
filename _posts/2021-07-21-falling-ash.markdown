@@ -1,7 +1,7 @@
 ---
 title: "Falling Ash"
 date: 2021-07-13
-layout: post
+layout: single
 categories: [erasure poetry]
 comments: true
 ---

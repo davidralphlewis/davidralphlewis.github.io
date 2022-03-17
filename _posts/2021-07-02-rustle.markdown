@@ -1,7 +1,7 @@
 ---
 title: "Rustle"
 date: 2021-07-02
-layout: post
+layout: single
 categories: [poetry]
 comments: true
 ---

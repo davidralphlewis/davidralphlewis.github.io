@@ -1,5 +1,5 @@
 ---  
-layout: post  
+layout: single  
 title: George Saunders and Normalisation  
 date: 2017-02-08 13:06  
   

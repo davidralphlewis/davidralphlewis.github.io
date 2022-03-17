@@ -1,5 +1,5 @@
 ---  
-layout: post  
+layout: single  
 title: The Oracle  
 date: 2020-03-31 11:22  
   

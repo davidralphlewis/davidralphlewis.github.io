@@ -1,5 +1,5 @@
 ---  
-layout: post  
+layout: single  
 title: October Link Round Up  
 date: 2016-11-08 16:55  
   

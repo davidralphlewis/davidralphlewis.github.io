@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: January 2021 Links
 date: 2021-02-02
 comments: true

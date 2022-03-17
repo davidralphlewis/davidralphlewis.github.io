@@ -1,5 +1,5 @@
 ---  
-layout: post  
+layout: single  
 title: The Work Never Stops  
 date: 2016-04-18 11:12  
   

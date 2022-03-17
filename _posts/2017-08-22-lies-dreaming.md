@@ -1,5 +1,5 @@
 ---  
-layout: post  
+layout: single  
 title: Lies, Dreaming  
 date: 2017-08-22 16:50  
   

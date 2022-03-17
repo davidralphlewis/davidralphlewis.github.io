@@ -1,5 +1,5 @@
 ---  
-layout: post  
+layout: single  
 title: "Subject: My Demise"  
 date: 2019-06-25 12:19  
   

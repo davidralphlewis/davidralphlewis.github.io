@@ -1,5 +1,5 @@
 ---  
-layout: post  
+layout: single  
 title: Napowrimo 2020 Day 8 - Stagecraft  
 date: 2020-04-08 16:02  
   

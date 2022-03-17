@@ -1,5 +1,5 @@
 ---
-layout: post  
+layout: single  
 title: "Red Ink: Barry Hollow"
 date: 2020-11-17
 comments: true  

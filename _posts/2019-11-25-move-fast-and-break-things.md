@@ -1,5 +1,5 @@
 ---  
-layout: post  
+layout: single  
 title: Move fast and break things  
 date: 2019-11-25 12:35  
   

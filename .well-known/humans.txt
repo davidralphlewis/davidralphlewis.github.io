@@ -1,5 +1,0 @@
----
----
-{% include ascii.html %}
-
-{{ site.url }}

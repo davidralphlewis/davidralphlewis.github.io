@@ -1,5 +1,5 @@
 ---  
-layout: post  
+layout: single  
 title: September 2020 Links
 date: 2020-09-30
   

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Costal walks"
 date: 2020-09-02
 

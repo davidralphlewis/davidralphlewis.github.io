@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Me Elsewhere"
 date: 2020-07-02
 

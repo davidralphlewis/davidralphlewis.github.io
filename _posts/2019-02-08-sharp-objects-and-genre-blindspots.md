@@ -1,5 +1,5 @@
 ---  
-layout: post  
+layout: single  
 title: Sharp Objects and genre blindspots  
 date: 2019-02-08 17:25  
   

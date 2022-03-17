@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: March 2021 Recommended
 date: 2021-04-07
 comments: true

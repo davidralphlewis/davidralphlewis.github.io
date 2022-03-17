@@ -1,5 +1,5 @@
 ---  
-layout: post  
+layout: single  
 title: Reasons to stay at home  
 date: 2020-03-19 12:52  
   

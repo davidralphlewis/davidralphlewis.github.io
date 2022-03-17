@@ -1,5 +1,5 @@
 ---  
-layout: post  
+layout: single  
 title: Time's gone weird  
 date: 2020-03-22 09:26  
   

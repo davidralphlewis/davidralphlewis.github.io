@@ -1,5 +1,5 @@
 ---  
-layout: post  
+layout: single  
 title: A response to Laurie Gough  
 date: 2017-01-04 15:20  
   

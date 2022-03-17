@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  Communion
 date:   2021-11-15 17:34:03 +0000
 categories: [erasure poetry]

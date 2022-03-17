@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Marbles and Creation
 date: 2016-03-08 09:18
 comments: true

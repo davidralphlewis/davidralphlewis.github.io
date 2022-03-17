@@ -1,5 +1,5 @@
 ---  
-layout: post  
+layout: single  
 title: White Noise  
 date: 2017-05-25 13:09  
   

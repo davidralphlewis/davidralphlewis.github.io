@@ -1,5 +1,5 @@
 ---  
-layout: post  
+layout: single  
 title: How to Be Free  
 date: 2019-08-16 11:33  
   

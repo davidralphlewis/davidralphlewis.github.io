@@ -1,5 +1,5 @@
 ---  
-layout: post  
+layout: single  
 title: The Power of Paper  
 date: 2018-06-07 07:17  
   

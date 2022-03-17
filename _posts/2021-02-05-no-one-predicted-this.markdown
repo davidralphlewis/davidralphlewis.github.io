@@ -1,7 +1,7 @@
 ---
 title: "No one could have predicted this"
 date: 2021-02-05
-layout: post
+layout: single
 categories: [poetry]
 comments: true
 ---

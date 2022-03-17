@@ -1,5 +1,5 @@
 ---  
-layout: post  
+layout: single  
 title: NaPoWriMo 2019 Day 5  
 date: 2019-04-05 11:18  
   

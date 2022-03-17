@@ -1,5 +1,5 @@
 ---  
-layout: post  
+layout: single  
 title: "2019: books of the year"  
 date: 2020-01-08 19:48  
   

@@ -1,7 +1,7 @@
 ---
 title: "Red Ink: Stuart Buck"
 date: 2021-05-19
-layout: post
+layout: single
 comments: true  
 categories: [red ink]
 series: "Red Ink"

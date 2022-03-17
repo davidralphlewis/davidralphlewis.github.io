@@ -1,5 +1,5 @@
 ---  
-layout: post  
+layout: single  
 title: Napowrimo 2020 Day 19- The Movement of Boulders  
 date: 2020-04-19 10:16  
   

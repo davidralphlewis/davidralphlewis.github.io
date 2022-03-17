@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Statues continued"
 date: 2020-06-25
 

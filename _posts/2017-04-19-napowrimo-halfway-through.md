@@ -1,5 +1,5 @@
 ---  
-layout: post  
+layout: single  
 title: NaPoWriMo Halfway through  
 date: 2017-04-19 12:57  
   

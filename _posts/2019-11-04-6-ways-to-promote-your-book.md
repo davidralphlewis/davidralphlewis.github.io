@@ -1,5 +1,5 @@
 ---  
-layout: post  
+layout: single  
 title: 6 Ways to Promote Your Book  
 date: 2019-11-04 12:03  
   

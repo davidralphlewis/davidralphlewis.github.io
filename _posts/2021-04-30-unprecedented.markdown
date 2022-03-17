@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Unprecedented
 date: 2021-04-30
 comments: true

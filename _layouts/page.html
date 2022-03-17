@@ -1,74 +1,66 @@
 ---
 layout: default
 ---
-{% include logic.html %}
 
-<div class="content anchors">
-  {% include alert.html %}
-
-  {% if display_featured_image %}
-    <div class="mb-5">
-      {% include featured-image.html %}
-    </div>
-  {% endif %}
-  
-  {% if page.last_modified %}
-    <p class="mt-5">Last Updated: {{ page.last_modified | date: "%B %d, %Y" }}</p>
-  {% endif %}
-</div>
-
-{% if author %}
-<div class="mt-5">
-    <h1>About the Author</h1>
-    <div class="d-flex align-items-center flex-row">
-      <div class="mr-2">
-        {% if author.avatar %}
-          <img class="rounded-circle" src="{{ author.avatar | absolute_url }}" style="max-height: 100px;" />
-        {% elsif author.name %}
-          <span class="fa-stack fa-3x float-left">
-            <i class="fas fa-circle fa-stack-2x text-primary"></i>
-            <strong class="fa-stack-1x text-light">{{ author.name | truncate: 1, "" }}</strong>
-          </span>
-        {% else %}
-          <span class="fa-stack fa-3x float-left">
-            <i class="fas fa-circle fa-stack-2x text-primary"></i>
-            <strong class="fa-stack-1x text-light">{{ site.title | truncate: 1, "" }}</strong>
-          </span>
-        {% endif %}
-      </div>
-      <div>
-        {% if author.name %}
-          {% if author.url %}
-            <a href="{{ author.url }}" target="_blank"><h5 class="p-0 m-0">{{ author.name }}</h5></a>
-          {% elsif author.twitter %}
-            <a href="https://twitter.com/{{ author.twitter }}" target="_blank"><h5 class="p-0 m-0">{{ author.name }}</h5></a>
-          {% else %}
-            <h5 class="mb-0">{{ author.name }}</h5>
-          {% endif %}
-        {% else %}
-          {% if site.twitter %}
-            <a href="https://twitter.com/{{ author.twitter }}" target="_blank"><h5 class="p-0 m-0">{{ site.title }}</h5></a>
-          {% else %}
-            <a href="{{ site.url | absolute_url }}"><h5 class="p-0 m-0">{{ site.title }}</h5></a>
-          {% endif %}
-        {% endif %}
-        {% if author.bio %}
-          <p class="p-0 m-0">{{ author.bio }}</p>
-        {% else %}
-          <p class="p-0 m-0">{{ site.description }}</p>
-        {% endif %}
-      </div>
-    </div>
-</div>
+{% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
+  {% include page__hero.html %}
+{% elsif page.header.video.id and page.header.video.provider %}
+  {% include page__hero_video.html %}
 {% endif %}
 
-{% if social %}
-<div class="mt-5">
-  <h1>Social</h1>
-  <div class="link-group">
-    <a class="btn btn-primary" href="https://twitter.com/intent/tweet?url={{ page.url | absolute_url }}&text={{ site.title }}: {{ page.title }}{% if author.twitter %}&via={{ author.twitter }}{% endif %}" target="_blank">Twitter</a>
-    <a class="btn btn-primary" href="https://www.linkedin.com/shareArticle?mini=true&url={{ page.url | absolute_url }}&title={{ site.title }}: {{ page.title }}{% if excerpt %}&summary={{ page.excerpt }}{% endif %}&source={{ site.url }}" target="_blank">Linkedin</a>
-    <a class="btn btn-primary" href="mailto:?subject={{ site.title }}: {{ page.title }}&body={{ page.url | absolute_url }}" target="_blank">Email</a>
-  </div>
-</div>
+{% if page.url != "/" and site.breadcrumbs %}
+  {% unless paginator %}
+    {% include breadcrumbs.html %}
+  {% endunless %}
 {% endif %}
+
+<div id="main" role="main">
+  {% include sidebar.html %}
+
+  <article class="page h-entry" itemscope itemtype="https://schema.org/CreativeWork">
+    {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
+    {% if page.excerpt %}<meta itemprop="description" content="{{ page.excerpt | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
+    {% if page.date %}<meta itemprop="datePublished" content="{{ page.date | date_to_xmlschema }}">{% endif %}
+    {% if page.last_modified_at %}<meta itemprop="dateModified" content="{{ page.last_modified_at | date_to_xmlschema }}">{% endif %}
+
+    <div class="page__inner-wrap">
+      {% unless page.header.overlay_color or page.header.overlay_image %}
+        <header>
+          {% if page.title %}<h1 id="page-title" class="page__title p-name" itemprop="headline">
+            <a href="{{ page.url | absolute_url }}" class="u-url" itemprop="url">{{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}</a>
+          </h1>{% endif %}
+          {% include page__meta.html %}
+        </header>
+      {% endunless %}
+
+      <section class="page__content e-content" itemprop="text">
+        {% if page.toc %}
+          <aside class="sidebar__right {% if page.toc_sticky %}sticky{% endif %}">
+            <nav class="toc">
+              <header><h4 class="nav__title"><i class="fas fa-{{ page.toc_icon | default: 'file-alt' }}"></i> {{ page.toc_label | default: site.data.ui-text[site.locale].toc_label | default: "On this page" }}</h4></header>
+              {% include toc.html sanitize=true html=content h_min=1 h_max=6 class="toc__menu" skip_no_ids=true %}
+            </nav>
+          </aside>
+        {% endif %}
+        {{ content }}
+        {% if page.link %}<div><a href="{{ page.link }}" class="btn btn--primary">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
+      </section>
+
+      <footer class="page__meta">
+        {% if site.data.ui-text[site.locale].meta_label %}
+          <h4 class="page__meta-title">{{ site.data.ui-text[site.locale].meta_label }}</h4>
+        {% endif %}
+        {% include page__taxonomy.html %}
+        {% include page__date.html %}
+      </footer>
+
+      <hr>
+
+    </div>
+
+    {% if jekyll.environment == 'production' and site.comments.provider and page.comments %}
+      {% include comments.html %}
+    {% endif %}
+  </article>
+
+</div>

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Supernova"
 date: 2020-10-06
 comments: true

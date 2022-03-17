@@ -1,5 +1,5 @@
 ---  
-layout: post  
+layout: single  
 title: The Ambiguity of Captain Fantastic  
 date: 2016-09-14 16:03  
   

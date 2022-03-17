@@ -1,7 +1,7 @@
 ---
 title: "The Power of Interlinking"
 date: 2021-05-25
-layout: post
+layout: single
 categories: [writing]
 comments: true
 ---

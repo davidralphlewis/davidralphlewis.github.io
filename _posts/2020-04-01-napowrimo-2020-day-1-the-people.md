@@ -1,5 +1,5 @@
 ---  
-layout: post  
+layout: single  
 title: NaPoWriMo 2020 Day 1- The People  
 date: 2020-04-01 17:00  
   

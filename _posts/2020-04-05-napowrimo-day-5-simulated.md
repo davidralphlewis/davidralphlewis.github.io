@@ -1,5 +1,5 @@
 ---  
-layout: post  
+layout: single  
 title: Napowrimo 2020 day 5 - Simulated  
 date: 2020-04-05 11:33  
   

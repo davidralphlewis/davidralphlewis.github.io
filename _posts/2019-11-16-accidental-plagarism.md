@@ -1,5 +1,5 @@
 ---  
-layout: post  
+layout: single  
 title: Accidental plagarism  
 date: 2019-11-16 13:24  
   

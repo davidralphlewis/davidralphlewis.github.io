@@ -1,5 +1,5 @@
 ---  
-layout: post  
+layout: single  
 title: napowrimo 2018 Day 1  
 date: 2018-04-01 14:15  
   

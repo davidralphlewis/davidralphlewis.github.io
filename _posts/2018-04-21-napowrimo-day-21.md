@@ -1,5 +1,5 @@
 ---  
-layout: post  
+layout: single  
 title: NaPoWriMo 2018 Day 21  
 date: 2018-04-21 11:20  
   

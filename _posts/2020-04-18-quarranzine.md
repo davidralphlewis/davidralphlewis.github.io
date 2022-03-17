@@ -1,5 +1,5 @@
 ---  
-layout: post
+layout: single
 title: Quarranzine  
 date: 2020-04-18 17:47  
   

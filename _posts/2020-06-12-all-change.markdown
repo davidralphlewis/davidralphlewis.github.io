@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "All change"
 date: 2020-06-12
   

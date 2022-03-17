@@ -1,36 +1,21 @@
-{% include logic.html %}
+<div class="page__footer-follow">
+  <ul class="social-icons">
+    {% if site.data.ui-text[site.locale].follow_label %}
+      <li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>
+    {% endif %}
 
-<footer class="footer">
-  <div class="container">
-    <div class="row">
-        <div class="col-sm-12 col-md-4 footer-navigation">
-            <h3><a href="/">David Ralph Lewis</a></h3>
-            <ul class="list-unstyled">
-                <li><a href="/">Home</a></li>
-                <li><a href="/articles">Blog</a></li>
-              <li><a href="https://notes.davidralphlewis.co.uk">Notes</a></li>
-              <li><a href="/sitemap">Sitemap</a></li>
-              <li><a href="/feed.xml"> RSS Feed <i class="fas fa-rss"></i></a></li>
+    {% if site.footer.links %}
+      {% for link in site.footer.links %}
+        {% if link.label and link.url %}
+          <li><a href="{{ link.url }}" rel="nofollow noopener noreferrer"><i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true"></i> {{ link.label }}</a></li>
+        {% endif %}
+      {% endfor %}
+    {% endif %}
 
-        </div>
-              <div class="col-sm-12 col-md-4">
-              <h3> Contact</h3>
-              <div style="font-size: 24px"><a href="https://www.facebook.com/davidralphlewis"><i class="fab fa-facebook-square"></i></a>
-              <a href="https://www.twitter.com/davidralphlewis"><i class="fab fa-twitter-square"></i></a>
-              <a href="https://www.instagram.com/davidralphlewis"><i class="fab fa-instagram"></i></a>
-              <a href="https://www.soundcloud.com/davidralphlewis"><i class="fab fa-soundcloud"></i></a></div>
-              <p class="text-center"> <a href="mailto:contact@davidralphlewis.co.uk" target="_blank">Email me</a></p>
+    {% unless site.atom_feed.hide %}
+      <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | relative_url }}{% endif %}"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>
+    {% endunless %}
+  </ul>
+</div>
 
-                </div>
-        <div class="col-sm-12 col-md-4">
-            <p style="font-size: 14px">Released 2016 - {{ 'now' | date: "%Y" }} by David Ralph Lewis under a <a href="https://creativecommons.org/licenses/by-nc/4.0" target="_blank"">Creative Commons Attribution-NonCommercial 4.0 International License.</a></p>
-            <p style="font-size: 14px"> Original Theme by <a href="https://github.com/dpstrange/jekyll-bootstrap">DPStrange</p>
-            <p style="font-size: 14px"> Colours taken from <a href="https://explog.in/notes/poet.html">Poet theme</a></p>
-    </div>
-    </div>
-    </div>
-</footer>
-
-<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.2.0/anchor.min.js" integrity="sha256-m1eTvwEHwmsw4+XKF7BshClVJEPwTVycveNl0CS0Mkk=" crossorigin="anonymous"></script>
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+<div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>

@@ -1,5 +1,5 @@
 ---  
-layout: post  
+layout: single  
 title: Brace brace brace  
 date: 2019-12-13 12:19  
   

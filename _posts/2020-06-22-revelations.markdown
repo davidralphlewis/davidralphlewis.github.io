@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Revelations"
 date: 2020-06-22
 

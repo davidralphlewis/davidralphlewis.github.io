@@ -1,7 +1,7 @@
 ---
 title: "Red Ink: Pascal Vine"
 date: 2021-01-22
-layout: post
+layout: single
 comments: true  
 categories: [red ink]
 series: "Red Ink"

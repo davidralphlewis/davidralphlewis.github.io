@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  Lost to Fog
 date:   2021-12-08 09:25:54 +0000
 categories: [erasure poetry]

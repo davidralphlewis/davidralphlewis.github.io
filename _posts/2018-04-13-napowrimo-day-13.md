@@ -1,5 +1,5 @@
 ---  
-layout: post  
+layout: single  
 title: NaPoWriMo 2018 Day 13  
 date: 2018-04-13 16:33  
   

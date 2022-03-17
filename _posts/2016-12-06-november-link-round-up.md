@@ -1,5 +1,5 @@
 ---  
-layout: post  
+layout: single  
 title: November Link Round up  
 date: 2016-12-06 13:57  
   

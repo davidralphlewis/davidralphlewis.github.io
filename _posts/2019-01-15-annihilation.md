@@ -1,5 +1,5 @@
 ---  
-layout: post  
+layout: single  
 title: Thoughts on 'Annihilation'  
 date: 2019-01-15 20:47  
   

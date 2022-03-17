@@ -1,5 +1,5 @@
 ---  
-layout: post  
+layout: single  
 title: The Sound of Silence  
 date: 2018-07-26 18:35  
   

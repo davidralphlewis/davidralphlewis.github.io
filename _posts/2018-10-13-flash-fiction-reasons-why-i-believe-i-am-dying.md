@@ -1,5 +1,5 @@
 ---  
-layout: post  
+layout: single  
 title: "Flash Fiction: Reasons Why I Believe I Am Dying"  
 date: 2018-10-13 14:35  
   

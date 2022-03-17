@@ -1,5 +1,5 @@
 ---  
-layout: post  
+layout: single  
 title: "Suspend the outside world for a while: Thoughts on Glastonbury Festival"  
 date: 2017-07-05 15:59  
   

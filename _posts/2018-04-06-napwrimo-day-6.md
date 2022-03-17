@@ -1,5 +1,5 @@
 ---  
-layout: post  
+layout: single  
 title: NaPoWriMo 2018 Day 6  
 date: 2018-04-06 16:14  
   

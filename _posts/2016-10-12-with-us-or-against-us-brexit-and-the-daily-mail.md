@@ -1,5 +1,5 @@
 ---  
-layout: post
+layout: single
 title: " 'With us or against us': Brexit and The Daily Mail"
 date: 2016-10-12 12:51  
   

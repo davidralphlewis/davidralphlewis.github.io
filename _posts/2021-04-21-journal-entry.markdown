@@ -1,7 +1,7 @@
 ---
 title: "Journal entry"
 date: 2021-04-21
-layout: post
+layout: single
 categories: [erasure poetry]
 comments: true
 ---

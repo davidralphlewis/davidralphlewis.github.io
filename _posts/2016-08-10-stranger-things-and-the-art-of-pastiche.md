@@ -1,5 +1,5 @@
 ---  
-layout: post  
+layout: single  
 title: Stranger Things and the art of Pastiche  
 date: 2016-08-10 09:58  
   

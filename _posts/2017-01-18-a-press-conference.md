@@ -1,5 +1,5 @@
 ---  
-layout: post  
+layout: single  
 title: A Press Conference  
 date: 2017-01-18 13:32  
   

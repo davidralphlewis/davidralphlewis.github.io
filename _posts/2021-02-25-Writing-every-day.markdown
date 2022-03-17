@@ -1,7 +1,7 @@
 ---
 title: "Writing Every Day"
 date: 2021-02-25
-layout: post
+layout: single
 categories: [creativity]
 comments: true
 ---

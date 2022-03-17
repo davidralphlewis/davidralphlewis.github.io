@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "So Long 2020"
 date: 2021-01-01
 comments: true

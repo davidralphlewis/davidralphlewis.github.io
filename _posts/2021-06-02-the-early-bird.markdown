@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: The early bird catches the worm
 date: 2021-06-02
 comments: true

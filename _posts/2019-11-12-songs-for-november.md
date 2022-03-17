@@ -1,5 +1,5 @@
 ---  
-layout: post  
+layout: single  
 title: Songs for November  
 date: 2019-11-12 21:27  
   

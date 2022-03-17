@@ -1,7 +1,7 @@
 ---
 title: "The Power of Disco"
 date: 2021-02-26
-layout: post
+layout: single
 categories: [erasure poetry]
 comments: true
 ---

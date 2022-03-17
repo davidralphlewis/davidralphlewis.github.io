@@ -1,5 +1,5 @@
 ---  
-layout: post  
+layout: single  
 title: Whiplash and the Dangerous Myth of the Suffering Artist  
 date: 2018-05-23 20:48  
   

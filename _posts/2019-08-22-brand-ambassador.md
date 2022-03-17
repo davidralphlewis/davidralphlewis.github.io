@@ -1,5 +1,5 @@
 ---  
-layout: post  
+layout: single  
 title: Brand Ambassador  
 date: 2019-08-22 12:23  
   

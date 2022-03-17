@@ -1,5 +1,5 @@
 ---  
-layout: post  
+layout: single  
 title: The New Religion of Brexit  
 date: 2017-03-15 12:39  
   

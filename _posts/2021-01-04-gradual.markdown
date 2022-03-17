@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Gradual"
 date: 2021-01-04
 comments: true

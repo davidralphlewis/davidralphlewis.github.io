@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  Accumulated Weight
 date:   2022-01-11 13:59:20 +0000
 categories: [erasure poetry]

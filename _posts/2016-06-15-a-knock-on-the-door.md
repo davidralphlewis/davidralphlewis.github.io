@@ -1,5 +1,5 @@
 ---  
-layout: post  
+layout: single  
 title: A Knock on the door  
 date: 2016-06-15 11:11  
   

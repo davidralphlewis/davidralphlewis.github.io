@@ -1,5 +1,5 @@
 ---
-layout: post  
+layout: single  
 title: "Red Ink: Damien Donnelly"
 date: 2020-12-16
 comments: true  

@@ -1,5 +1,5 @@
 ---
-layout: post  
+layout: single  
 title: Six months from now
 date: 2020-11-09
 comments: true  

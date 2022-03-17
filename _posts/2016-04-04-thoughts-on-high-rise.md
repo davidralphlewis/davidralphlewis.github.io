@@ -1,5 +1,5 @@
 ---  
-layout: post  
+layout: single  
 title: Thoughts on 'High Rise'  
 date: 2016-04-04 09:40    
 comments: true  

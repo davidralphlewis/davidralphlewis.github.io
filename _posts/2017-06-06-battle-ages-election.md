@@ -1,5 +1,5 @@
 ---  
-layout: post  
+layout: single  
 title: Battle of the Ages in the Election  
 date: 2017-06-06 20:25  
   

@@ -1,5 +1,5 @@
 ---  
-layout: post  
+layout: single  
 title: "Flash Fiction: The Problems of Renting"  
 date: 2017-11-27 20:13  
   

@@ -1,5 +1,5 @@
 ---  
-layout: post  
+layout: single  
 title: "2016: The Year the Internet took over"  
 date: 2016-12-21 12:19  
   

@@ -1,7 +1,7 @@
 ---
 title: "Emerald Swell"
 date: 2021-03-17
-layout: post
+layout: single
 categories: [erasure poetry]
 comments: true
 ---

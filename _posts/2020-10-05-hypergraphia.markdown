@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Hypergraphia"
 date: 2020-10-05
 

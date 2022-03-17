@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Virtual workshop and a poem
 date: 2020-05-11 19:42
 

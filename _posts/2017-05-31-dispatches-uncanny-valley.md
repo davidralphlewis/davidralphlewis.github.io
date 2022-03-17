@@ -1,5 +1,5 @@
 ---  
-layout: post  
+layout: single  
 title: Dispatches from the Uncanny Valley  
 date: 2017-05-31 12:48  
   

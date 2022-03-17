@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Winter Woods"
 date: 2020-12-14
 comments: true

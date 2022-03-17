@@ -1,7 +1,7 @@
 ---
 title: "Never Finishing"
 date: 2021-05-17
-layout: post
+layout: single
 categories: [writing]
 comments: true
 ---

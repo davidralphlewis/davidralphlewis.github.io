@@ -1,7 +1,7 @@
 ---
 title: "Beautiful Entropy"
 date: 2021-06-15
-layout: post
+layout: single
 categories: [erasure poetry]
 comments: true
 ---

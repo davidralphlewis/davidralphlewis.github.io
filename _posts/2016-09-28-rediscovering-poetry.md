@@ -1,5 +1,5 @@
 ---  
-layout: post  
+layout: single  
 title: Rediscovering poetry  
 date: 2016-09-28 13:05  
   

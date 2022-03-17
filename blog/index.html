@@ -1,0 +1,36 @@
+---
+title: Blog posts
+layout: bloglist
+author_profile: false
+permalink: /blog/
+pagination:
+  enabled: true
+---
+
+{% for post in paginator.posts %}
+      <div class="{{ include.type | default: 'list' }}__item">
+          <h2><a href="{{ post.url | absolute_url }}" class="u-url" itemprop="url">{{ post.title }}</a></h2>
+          <h6>{{ post.date | date_to_string }} <a href="{{ category_word | slugify | prepend: path_type | prepend: site.category_archive.path | relative_url }}" class="page__taxonomy-item p-category" rel="tag">{{ post.categories | proper_case }}</a>{% unless forloop.last %}<span class="sep"> </span>{% endunless %}</h6>
+
+          {% unless post.featured_image == false %}
+              {% if post.featured_image %}
+                  {% assign featured_image = post.featured_image %}
+              {% endif %}
+          {% endunless %}
+          <p>{{ post.excerpt | truncatewords: 100 }}</p>
+          <p> <a class="btn btn--primary" href="{{ post.url | absolute_url }}"> Read More...</a> </p>
+      </div>
+{% endfor %}
+{% if paginator.total_pages > 1 %}
+<ul>
+  {% if paginator.previous_page %}
+    <a class="btn btn--primary" href="{{ paginator.previous_page_path | prepend: site.baseurl }}">Newer</a>
+  {% endif %}
+  {% if paginator.next_page %}
+    <a class="btn btn--primary" href="{{ paginator.next_page_path | prepend: site.baseurl }}">Older</a>
+  {% endif %}
+</ul>
+{% endif %}
+
+<a class="btn btn--primary" href="/byyear/">Posts by Year</a>
+<a class="btn btn--primary" href="/categories/">Posts by Category</a>

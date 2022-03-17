@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Awakening"
 date: 2020-07-06
 

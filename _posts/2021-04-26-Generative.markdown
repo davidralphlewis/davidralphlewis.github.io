@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Generative
 date: 2021-04-26
 comments: true

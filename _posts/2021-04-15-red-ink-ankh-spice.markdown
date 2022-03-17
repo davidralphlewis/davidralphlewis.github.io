@@ -1,7 +1,7 @@
 ---
 title: "Red Ink: Ankh Spice"
 date: 2021-04-15
-layout: post
+layout: single
 comments: true  
 categories: [red ink]
 series: "Red Ink"

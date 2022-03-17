@@ -1,7 +1,7 @@
 ---
 title: "Red Ink: Liam Bates"
 date: 2021-02-03
-layout: post
+layout: single
 comments: true  
 categories: [red ink]
 series: "Red Ink"

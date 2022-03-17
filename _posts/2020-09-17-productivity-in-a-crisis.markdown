@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Productivity in a Crisis"
 date: 2020-09-17
 

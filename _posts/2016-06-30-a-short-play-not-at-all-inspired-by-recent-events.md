@@ -1,5 +1,5 @@
 ---  
-layout: post  
+layout: single  
 title: A short play not at all inspired by recent events  
 date: 2016-06-30 11:37  
   

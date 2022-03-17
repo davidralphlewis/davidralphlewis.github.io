@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  Uncertain Art
 date:   2021-11-01 08:07:25 +0100
 categories: [art]

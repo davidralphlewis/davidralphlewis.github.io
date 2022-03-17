@@ -1,5 +1,5 @@
 ---  
-layout: post  
+layout: single  
 title: Optimism, empathy and The Long Way to a Small, Angry Planet  
 date: 2016-11-16 13:54  
   

@@ -1,5 +1,5 @@
 ---
-layout: post  
+layout: single  
 title: Me Me Me
 date: 2020-11-13
 comments: true  

@@ -1,7 +1,7 @@
 ---
 title: "Dream Days"
 date: 2021-05-12
-layout: post
+layout: single
 categories: [erasure poetry]
 comments: true
 ---

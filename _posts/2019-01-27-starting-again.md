@@ -1,5 +1,5 @@
 ---  
-layout: post  
+layout: single  
 title: Starting again  
 date: 2019-01-27 15:09  
   

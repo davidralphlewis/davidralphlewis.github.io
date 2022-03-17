@@ -1,5 +1,5 @@
 ---  
-layout: post  
+layout: single  
 title: "No Such Thing as a 'True' Artist: Persistent Myths That Need To Be Retired"  
 date: 2018-08-12 17:42  
   

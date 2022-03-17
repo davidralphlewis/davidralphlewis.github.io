@@ -1,35 +1,14 @@
-main_menu:
-  - title: Blog
-    url: /articles/
-  - title: Publication History
+# main links
+main:
+  - title: "About"
+    url: /about/
+  - title: "Blog"
+    url: /blog/
+  - title: "Books"
+    url: /books/
+  - title: Publications
     url: /publications/
-  - title: Books
-    url: /mybooks/
-  - title: Shop
-    url: https://davidralphlewis.bigcartel.com/
-    target: new
-  - title: Email me
-    url: mailto:contact@davidralphlewis.co.uk
-  - title: Ko-fi
+  - title: Notes
+    url: https://notes.davidralphlewis.co.uk
+  - title: "Tip Jar"
     url: https://ko-fi.com/davidralphlewis
-
-
-footer_menu:
-  - url: https://www.facebook.com/davidralphlewis
-    target: new
-    icon: "fab fa-facebook-square"
-  - url: https://www.twitter.com/davidralphlewis
-    target: new
-    icon: "fab fa-twitter-square"
-  - url: https://www.instagram.com/davidralphlewis
-    target: new
-    icon: "fab fa-instagram"
-  - url: https://www.soundcloud.com/davidralphlewis
-    target: new
-    icon: "fab fa-soundcloud"
-  - title: Sitemap
-    url: /sitemap
-    icon: "fas fa-map"
-  - title: RSS
-    url: /feed.xml
-    icon: "fa fa-rss"

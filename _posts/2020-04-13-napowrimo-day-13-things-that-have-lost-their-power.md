@@ -1,5 +1,5 @@
 ---  
-layout: post  
+layout: single  
 title: Napowrimo 2020 Day 13 - Things that have lost their power  
 date: 2020-04-13 14:06  
   

@@ -2,7 +2,7 @@
 categories: update
 comments: true
 date: 2020-10-16
-layout: post
+layout: single
 masthead_style: plain
 title: "Guest Blogs"
 ---

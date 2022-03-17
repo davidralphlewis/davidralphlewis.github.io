@@ -1,5 +1,5 @@
 ---  
-layout: post  
+layout: single  
 title: Feeding my writing through a digital shredder  
 date: 2016-06-07 12:55  
   

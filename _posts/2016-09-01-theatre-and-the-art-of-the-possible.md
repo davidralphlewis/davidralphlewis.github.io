@@ -1,5 +1,5 @@
 ---  
-layout: post  
+layout: single  
 title: Theatre and the Art of the Possible  
 date: 2016-09-01 16:16  
   

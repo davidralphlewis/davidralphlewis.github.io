@@ -3,7 +3,7 @@ categories: publications
 comments: true
 date: 2020-10-12
 featured_image: /assets/images/site/refractioncrop.png
-layout: post
+layout: single
 masthead_style: banner
 title: "New micro pamphlet- Refraction"
 ---

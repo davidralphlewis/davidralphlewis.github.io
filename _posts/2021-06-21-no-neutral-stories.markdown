@@ -1,7 +1,7 @@
 ---
 title: "No Neutral Stories"
 date: 2021-06-21
-layout: post
+layout: single
 categories: [politics]
 comments: true
 ---

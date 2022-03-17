@@ -1,5 +1,5 @@
 ---  
-layout: post  
+layout: single  
 title: Napowrimo 2020 Day 22- An Argument  
 date: 2020-04-22 12:14  
   

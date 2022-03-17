@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Free Fall
 date: 2021-08-10
 comments: true

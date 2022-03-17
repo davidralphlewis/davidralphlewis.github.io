@@ -1,12 +1,12 @@
 ---
-layout: post
+layout: single
 title: "The Sky is Damaged"
 date: 2020-06-20
 
 comments: true
 categories: [this was meant to be the future]
-masthead_style: banner
-featured_image: /assets/images/site/twmtbtf.jpeg
+header:
+  image: /assets/images/site/twmtbtf-banner.jpeg 
 series: "this was meant to be the future"
 ---
 

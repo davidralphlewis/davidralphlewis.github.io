@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Cartography
 date: 2021-09-21
 comments: true

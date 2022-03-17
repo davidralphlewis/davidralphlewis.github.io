@@ -1,5 +1,5 @@
 ---  
-layout: post  
+layout: single  
 title: Nick Cave and music that is too difficult to listen to  
 date: 2016-10-28 12:43  
   

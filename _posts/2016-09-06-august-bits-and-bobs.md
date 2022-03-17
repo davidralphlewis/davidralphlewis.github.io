@@ -1,5 +1,5 @@
 ---  
-layout: post  
+layout: single  
 title: August bits and bobs  
 date: 2016-09-06 12:33  
   

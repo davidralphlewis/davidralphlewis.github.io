@@ -1,12 +1,12 @@
 ---  
-layout: post  
+layout: single  
 title: A Response From the Black Box  
 date: 2020-04-20 09:02  
-  
+
 comments: true  
 categories: [this was meant to be the future]
-masthead_style: banner
-featured_image: /assets/images/site/twmtbtf.jpeg  
+header:
+  image: /assets/images/site/twmtbtf-banner.jpeg 
 series: "this was meant to be the future"
 ---  
 One night last week, I thought I had a breakthrough. I was fiddling with a new set of code in the middle section of the input. I don’t work with the programme directly of course. It’s beyond us now. No-one has any idea what it’s doing. It’s meant to be running simulations to find a solution to the energy crisis but it doesn’t do anything.  

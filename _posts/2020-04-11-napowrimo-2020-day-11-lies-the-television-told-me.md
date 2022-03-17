@@ -1,5 +1,5 @@
 ---  
-layout: post  
+layout: single  
 title: Napowrimo 2020 Day 11 - Lies the television told me  
 date: 2020-04-11 11:39  
   

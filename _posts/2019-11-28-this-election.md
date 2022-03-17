@@ -1,5 +1,5 @@
 ---  
-layout: post  
+layout: single  
 title: This election  
 date: 2019-11-28 13:24  
   

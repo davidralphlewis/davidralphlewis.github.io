@@ -1,5 +1,5 @@
 ---  
-layout: post  
+layout: single  
 title: The importance of a creative routine  
 date: 2016-11-02 16:24  
   

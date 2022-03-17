@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  Monochrome Memories
 date:   2022-02-22 07:52:01 +0000
 categories: [erasure poetry]

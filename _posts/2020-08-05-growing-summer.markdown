@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Growing summer"
 date: 2020-08-05
 

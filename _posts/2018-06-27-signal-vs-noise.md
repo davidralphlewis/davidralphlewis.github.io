@@ -1,5 +1,5 @@
 ---  
-layout: post  
+layout: single  
 title: Signal Vs. Noise  
 date: 2018-06-27 19:53  
   

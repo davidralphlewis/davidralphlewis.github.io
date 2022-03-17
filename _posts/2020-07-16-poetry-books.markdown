@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Recent Poetry Books I've Enjoyed"
 date: 2020-07-16
 

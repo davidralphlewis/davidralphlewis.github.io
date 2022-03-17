@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Among the trees"
 date: 2020-05-26
   

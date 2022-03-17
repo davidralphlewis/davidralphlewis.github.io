@@ -1,5 +1,5 @@
 ---  
-layout: post  
+layout: single  
 title: "To Forbidden Passengers: Flash Fiction"  
 date: 2017-02-22 11:47  
   

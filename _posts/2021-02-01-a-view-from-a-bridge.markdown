@@ -1,7 +1,7 @@
 ---
 title: "A View From a Bridge"
 date: 2021-02-01
-layout: post
+layout: single
 categories: [photos]
 comments: true
 ---

@@ -1,5 +1,5 @@
 ---
-layout: post  
+layout: single  
 title: "Red Ink: Amanda Miller"
 date: 2020-12-02
 comments: true  

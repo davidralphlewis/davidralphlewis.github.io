@@ -1,5 +1,5 @@
 ---  
-layout: post  
+layout: single  
 title: Resolutions  
 date: 2019-01-06 16:36  
   

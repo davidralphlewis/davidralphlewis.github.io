@@ -1,5 +1,5 @@
 ---  
-layout: post  
+layout: single  
 title: Napowrimo 2020 Day 17- Waiting  
 date: 2020-04-17 16:01  
   

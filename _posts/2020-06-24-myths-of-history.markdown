@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Colston and the Myths of History"
 date: 2020-06-24
 

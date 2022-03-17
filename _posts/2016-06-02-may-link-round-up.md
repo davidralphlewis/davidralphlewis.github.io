@@ -1,5 +1,5 @@
 ---  
-layout: post  
+layout: single  
 title: May Link Round-up  
 date: 2016-06-02 11:45  
   

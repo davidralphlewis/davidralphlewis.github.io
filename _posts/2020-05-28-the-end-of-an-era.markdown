@@ -1,5 +1,5 @@
 ---  
-layout: post
+layout: single
 title: "The end of an era"
 date: 2020-05-28
   

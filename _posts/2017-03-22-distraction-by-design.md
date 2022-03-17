@@ -1,5 +1,5 @@
 ---  
-layout: post  
+layout: single  
 title: "Distraction by Design: Observations on Television"  
 date: 2017-03-22 13:00  
   

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Serenity Study zine
 date: 2020-04-30 11:28
 

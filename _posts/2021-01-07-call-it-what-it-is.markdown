@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Call it what it is"
 date: 2021-01-07
 comments: true

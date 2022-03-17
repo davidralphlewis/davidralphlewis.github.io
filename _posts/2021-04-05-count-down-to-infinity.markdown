@@ -1,7 +1,7 @@
 ---
 title: "Count Down to Infinity"
 date: 2021-04-05
-layout: post
+layout: single
 categories: [poetry]
 comments: true
 ---

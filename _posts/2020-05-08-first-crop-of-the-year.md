@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: First crop of the year
 date: 2020-05-08 16:16
 

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "We have seen things"
 date: 2020-10-02
 

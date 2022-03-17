@@ -1,5 +1,5 @@
 ---  
-layout: post  
+layout: single  
 title: Assorted news and links  
 date: 2020-01-21 13:06  
   

@@ -1,5 +1,5 @@
 ---  
-layout: post  
+layout: single  
 title: Napowrimo day 20- Ritual  
 date: 2020-04-20 11:40  
   

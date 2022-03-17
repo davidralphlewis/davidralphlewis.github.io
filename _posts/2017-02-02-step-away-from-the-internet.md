@@ -1,5 +1,5 @@
 ---  
-layout: post  
+layout: single  
 title: Step Away from the Internet  
 date: 2017-02-02 12:10  
   

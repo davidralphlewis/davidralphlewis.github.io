@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Dawn Ritual
 date: 2021-04-20
 comments: true

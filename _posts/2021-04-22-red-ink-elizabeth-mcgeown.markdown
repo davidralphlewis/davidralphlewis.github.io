@@ -1,7 +1,7 @@
 ---
 title: "Red Ink: Elizabeth McGeown"
 date: 2021-04-22
-layout: post
+layout: single
 comments: true  
 categories: [red ink]
 series: "Red Ink"

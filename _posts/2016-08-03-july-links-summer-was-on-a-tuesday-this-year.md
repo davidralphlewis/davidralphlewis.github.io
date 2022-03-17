@@ -1,5 +1,5 @@
 ---  
-layout: post  
+layout: single  
 title: "July Links: Summer was on a Tuesday this year"  
 date: 2016-08-03 11:12  
   

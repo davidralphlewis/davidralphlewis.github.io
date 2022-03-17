@@ -1,7 +1,7 @@
 ---
 title: "Brighter Days Ahead"
 date: 2021-02-24
-layout: post
+layout: single
 categories: [erasure poetry]
 comments: true
 ---

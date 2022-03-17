@@ -1,5 +1,5 @@
 ---  
-layout: post  
+layout: single  
 title: Humans are more than money  
 date: 2020-02-27 20:48  
   

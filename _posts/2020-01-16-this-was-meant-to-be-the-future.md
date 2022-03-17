@@ -1,12 +1,12 @@
 ---  
-layout: post  
+layout: single  
 title: New serial book announcement- This Was Meant to be the Future  
 date: 2020-01-16 09:17  
 
 comments: true  
 categories: [this was meant to be the future]
-masthead_style: banner
-featured_image: /assets/images/site/twmtbtf.jpeg  
+header:
+  image: /assets/images/site/twmtbtf-banner.jpeg  
 series: "this was meant to be the future"
 ---  
 <p style="text-align: left;">Blimey, it's the year Twenty Twenty, a year that sounds incredibly futuristic. We're past the setting of <em>Blade Runner. </em>The world is different and weirder in ways we couldn't imagine before.</p>  
@@ -32,8 +32,8 @@ Here's the titles of the stories and when they will be out. I'll link to them al
     <li><a href="/advert-break/">August- Advert Break</a></li>  
     <li><a href="/the-garden/">September- The Garden</a></li>  
     <li><a href="/a-trip-to-c-mart/">October- Welcome to C-Mart</a></li>  
-    <li>November- Tech Support</li>  
-    <li>December- Auld Lang Syne</li>  
+    <li><a href="/Technical-Support/">November- Tech Support</a></li>  
+    <li><a href="/Auld-Lang-Syne/">December- Auld Lang </a></li>  
 </ol>  
 
 The first story will be out next week.  

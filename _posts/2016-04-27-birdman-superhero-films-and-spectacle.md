@@ -1,5 +1,5 @@
 ---  
-layout: post
+layout: single
 title: "'Birdman', Superhero Films and Spectacle"
 date: 2016-04-27 11:57  
   

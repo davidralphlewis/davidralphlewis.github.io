@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: The Tides of Time
 date: 2021-09-29
 comments: true

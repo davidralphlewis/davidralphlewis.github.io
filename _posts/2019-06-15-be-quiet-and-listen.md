@@ -1,5 +1,5 @@
 ---  
-layout: post  
+layout: single  
 title: Be quiet and listen  
 date: 2019-06-15 14:32  
   

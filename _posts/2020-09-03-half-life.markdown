@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Half Life"
 date: 2020-09-03
 

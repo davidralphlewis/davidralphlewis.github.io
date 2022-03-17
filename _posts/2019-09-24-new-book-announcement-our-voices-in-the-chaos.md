@@ -1,5 +1,5 @@
 ---  
-layout: post  
+layout: single  
 title: "New Book Announcement- Our Voices In The Chaos"
 date: 2019-09-24 19:59  
   
