@@ -24,7 +24,7 @@ Mostly I made it for my own amusement, but I also wanted to publish these fever 
 
 Huge thanks to Cat Balaq and Elizabeth McGeown for feedback on the poems when this project was still a traditional pamphlet as well as Melissa Wiseman for proof-reading and play testing. 
 
-You can play it below or go [here.](https://davidralphlewis.itch.io/reality-adjustments) I hope you enjoy it. 
+You can play it below or go [here.](https://davidralphlewis.itch.io/reality-adjustments) It will work on mobile, but you probably need to be on a larger computer. I hope you enjoy it. 
 
 <iframe src="https://itch.io/embed/1444945?bg_color=e1d9c2&amp;link_color=ed4b32&amp;border_color=ed4b32" width="552" height="167" frameborder="0"><a href="https://davidralphlewis.itch.io/reality-adjustments">Reality Adjustments by David Ralph Lewis</a></iframe>
 
