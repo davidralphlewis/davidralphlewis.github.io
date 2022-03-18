@@ -28,6 +28,7 @@ feature_row:
     btn_class: "btn--primary"
 ---
 ![image-left](/assets/images/site/headshotsmall.jpg){: .align-left}
+
 # Hello and welcome to my site
 I'm a poet and short story writer based in Bristol, UK, who writes surreal and imagistic work. I also perform as a spoken word artist. My writing has been nominated for the Forward Prize and has appeared in <em>Neon Magazine</em>, <em>Nine Muses Poetry</em> and <em>Marble Poetry</em>.
 

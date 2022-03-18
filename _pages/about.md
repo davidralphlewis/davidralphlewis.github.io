@@ -5,7 +5,9 @@ permalink: /about/
 classes: wide
 ---
 
-![image-right](/assets/images/site/reading.jpg){: .align-right}
+![image-right](/assets/images/site/reading.jpg){: .align-right} 
+
+
 I've been writing for awhile, starting with plays before moving onto short stories. I now mostly focus on poetry, scrawl over newspapers to make erasure poems and generally mess around with words. My poetry tends to narrative and image driven, often surreal and strange. I'm also a spoken word artist, performing my work as much as possible in person.
 
 This website is my blog, my small piece of land on the internet and a place where I tinker and mess around.
@@ -13,6 +15,9 @@ This website is my blog, my small piece of land on the internet and a place wher
 Apart from writing, I like growing plants, playing on the Switch and going to new and interesting places.
 
 [Here's](https://notes.davidralphlewis.co.uk/now) what's going on with me right now.
+
+Photo by <a href="https://www.nickytakesphotos.co.uk/">Nicky Takes Photos</a>
+{: .align-right}
 
 ## Page
 
