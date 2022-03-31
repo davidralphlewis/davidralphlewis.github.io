@@ -11,7 +11,7 @@ Taken from Crack Magazine, April 2022.
 
 ---
 
-* I delighted to be on the Full House Literary Podcast talking about poetry and mental health. It was a thought provoking, interesting discussion that was quite wide ranging. I was delighted to be asked to be on it, listen [here.](https://www.fullhouseliterary.com/podcast-epsisodes/mental-health-and-writing-roundtable) 
+* I was delighted to be asked onto the Full House Literary Podcast talking about poetry and mental health. It was a thought provoking, interesting discussion that was quite wide ranging. Thanks so much to them for having me on, listen [here.](https://www.fullhouseliterary.com/podcast-epsisodes/mental-health-and-writing-roundtable) 
 
 * Speaking of poetry, I'm volunteering at [Lyra Festival](https://www.lyrafest.com/) in Bristol over the next couple of weeks. It looks to be a really fascinating series of events, I'm also competing in the slam. If you'd like to come along to the qualifying rounds you can sign up on zoom [here.](https://www.lyrafest.com/#events/e72148) 
 
