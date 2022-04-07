@@ -5,7 +5,7 @@ classes:
 permalink: /
 author_profile: true
 feature_row:
-  - image_path: /assets/images/site/home.jpeg
+  - image_path: /assets/images/site/home.jpg
     alt: "Reality Adjustments"
     title: "Reality Adjustments"
     excerpt: "An interactive game/ poetry pamphlet exploring the mutating streets of a strange city."
