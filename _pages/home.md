@@ -5,14 +5,14 @@ classes:
 permalink: /
 author_profile: true
 feature_row:
- - image_path: /assets/images/site/home.jpeg
+  - image_path: /assets/images/site/home.jpeg
     alt: "Reality Adjustments"
     title: "Reality Adjustments"
     excerpt: "An interactive game/ poetry pamphlet exploring the mutating streets of a strange city."
     url: /reality-adjustments/
     btn_label: "Read now"
     btn_class: "btn--primary"
- - image_path: /assets/images/site/refractioncrop.png
+  - image_path: /assets/images/site/refractioncrop.png
     alt: "Refraction"
     title: "Refraction"
     excerpt: "A small pamphlet I self published about missing the sea and trying to find peace in chaotic times"
