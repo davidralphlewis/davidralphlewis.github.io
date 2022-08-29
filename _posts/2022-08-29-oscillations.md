@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  Oscillations
 date:   2022-08-29 17:15:12 +0100
 categories: [erasure poetry]
