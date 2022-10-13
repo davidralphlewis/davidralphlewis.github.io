@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  2022 August and September Input
-date:   2022-10-13 08:16:52 +0000
+date:   2022-10-13
 category: input
 ---
 
