@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  Resignation: A Coupling
+title:  Resignation- A Coupling
 date:   2022-10-21 18:18:11 +0100
 category: [poetry]
 ---
