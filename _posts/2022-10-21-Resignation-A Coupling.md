@@ -38,7 +38,7 @@ low-tax, high-growth economy that would take advantage of
 the freedoms of Brexit.  
 
 I recognise, though, given the situation,  
-*that our rituals were ineffective. We were so certain.*  
+*our rituals were ineffective. We were so certain.*  
 I cannot deliver the mandate on which I was elected  
 *because the stars have grown cold, destroyed*   
 by the Conservative Party.  
@@ -50,7 +50,7 @@ the King
 to notify him that I am   
 *merely a sack of skin hollowed by atrocities, so I am*  
 resigning as leader of the Conservative Party.  
-*I praised consumption and was surprised when I was consumed.*  
+*I preached consumption and was surprised when I was consumed.*  
 
 This morning, I met the chairman of the  
 *order, the high priest of the fearful*  
