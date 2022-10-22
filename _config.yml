@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : "Poet and writer from Bristol, UK"
 name                     : "David Ralph Lewis"
 description              : "Poet and Writer from Bristol UK"
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://www.davidralphlewis.co.uk
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -79,7 +79,7 @@ baidu_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : davidralphlewis
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -130,9 +130,6 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: https://www.twitter.com/davidralphlewis
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: https://www.facebook.com/davidralphlewis
