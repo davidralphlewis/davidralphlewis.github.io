@@ -16,6 +16,8 @@ Apart from writing, I like growing plants, playing on the Switch and going to ne
 
 [Here's](https://notes.davidralphlewis.co.uk/now) what's going on with me right now.
 
+[Here's](https://notes.davidralphlewis.co.uk/tools-i-use) the tools I use to make this site and write.
+
 Photo by <a href="https://www.nickytakesphotos.co.uk/">Nicky Takes Photos</a>
 {: .align-right}
 
