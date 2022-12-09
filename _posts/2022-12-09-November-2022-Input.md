@@ -1,7 +1,7 @@
 ---
 title: "November 2022 Input"
 layout: single
-date: 04-12-2022
+date: 08-12-2022
 categories: [input]
 permalink:
 ---
