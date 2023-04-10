@@ -2,7 +2,7 @@
 main:
   - title: "About Me"
     url: /about/
-  - title: "Posts"
+  - title: "Blog"
     url: /blog/
   - title: Notes
     url: https://notes.davidralphlewis.co.uk
