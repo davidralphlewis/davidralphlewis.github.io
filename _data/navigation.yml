@@ -1,14 +1,14 @@
 # main links
 main:
-  - title: "About"
+  - title: "About Me"
     url: /about/
-  - title: "Blog"
+  - title: "Posts"
     url: /blog/
-  - title: "Books"
-    url: /books/
-  - title: Publications
-    url: /publications/
   - title: Notes
     url: https://notes.davidralphlewis.co.uk
+  - title: "Books"
+    url: /books/
+  - title: "Publications"
+    url: /publications/
   - title: "Tip Jar"
     url: https://ko-fi.com/davidralphlewis
