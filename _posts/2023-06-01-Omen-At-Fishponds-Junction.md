@@ -7,7 +7,7 @@ permalink:
 ---
 
 Down the central reservation he strode,   
-unbothered by traffic fumes or concrete   
+unbothered by exhaust fumes or concrete, 
 face encased in a leather mask.
 
 I was idling in my ordered world  
@@ -20,7 +20,7 @@ by sunshade and plexiglass,
 raised a single finger towards   
 the broiling, pyretic sky  
 
-and walked onwards, message delivered.   
+and marched onwards, message delivered.   
 My spine became a melting glacier.   
 I opened the passenger door, left    
 my laptop and future on the hard shoulder    
