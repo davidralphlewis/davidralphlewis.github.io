@@ -1,5 +1,5 @@
 ---
-title: "2023-07-07-On-Threads"
+title: "On Threads"
 layout: single
 date: 2023-07-07
 categories: [internet]
