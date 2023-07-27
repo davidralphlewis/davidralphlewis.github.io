@@ -4,10 +4,10 @@ main:
     url: /about/
   - title: "Blog"
     url: /blog/
-  -- title: "Micro Blog" 
-     url: "https://davidralphlewis.tumblr.com/" 
-  -- title: "Notes"
-     url: https://notes.davidralphlewis.co.uk
+  - title: "Micro Blog" 
+    url: "https://davidralphlewis.tumblr.com/" 
+  - title: "Notes"
+    url: https://notes.davidralphlewis.co.uk
   - title: "Books"
     url: /books/
   - title: "Publications"
