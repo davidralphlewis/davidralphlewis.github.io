@@ -53,6 +53,6 @@ This website has all my writings and my books. It also has a blog I've been main
 {% include post-card.html %}
 {% endfor %}
 
-<div class="notice--primary">
+<div>
 {% include mailchimp.html %}
 </div>
