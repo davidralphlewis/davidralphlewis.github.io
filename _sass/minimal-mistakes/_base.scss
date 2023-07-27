@@ -1,7 +1,7 @@
 /* ==========================================================================
    BASE ELEMENTS
    ========================================================================== */
-
+@import url('https://fonts.googleapis.com/css2?family=Merriweather&display=swap');
 html {
   /* sticky footer fix */
   position: relative;
@@ -29,7 +29,7 @@ h5,
 h6 {
   margin: 2em 0 0.5em;
   line-height: 1.2;
-  font-family: $header-font-family;
+  font-family: 'Merriweather', serif;
   font-weight: bold;
 }
 
