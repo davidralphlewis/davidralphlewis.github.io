@@ -12,13 +12,13 @@ Mud as a river. Mud as a theoretical concept, the transistory state of matter ra
 
 ## 0.6
 
-Technical difficulties-
-Oh.
-Maybe if I-
-Oh. 
-Or perhaps-
-Oh. 
-Could you-
+Technical difficulties-  
+Oh.  
+Maybe if I-  
+Oh.   
+Or perhaps-  
+Oh.   
+Could you-  
 Oh. 
 
 ## 1.1
