@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Cloud Song"
-date:   2023-07-27
+date:   2023-08-15
 categories: [erasure poetry]
 ---
 
