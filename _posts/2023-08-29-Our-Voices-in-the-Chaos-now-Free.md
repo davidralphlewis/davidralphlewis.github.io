@@ -18,4 +18,4 @@ With the press gone, I'm faced with the dilemma of what to do with this pamphlet
 
 [Download here](/assets/books/Our-Voices-in-the-Chaos-free.pdf) (direct download, pdf only)
 
-You are welcome to [buy me a coffee][https://ko-fi.com/davidralphlewis] but is by no means essential.
+You are welcome to [buy me a coffee](https://ko-fi.com/davidralphlewis) but is by no means essential.
