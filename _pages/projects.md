@@ -1,7 +1,7 @@
 ---
-title: Books
+title: Projects
 layout: single
-permalink: /books/
+permalink: /projects/
 classes: wide
 feature_row:
   - image_path: /assets/images/site/refractioncrop.png
@@ -50,7 +50,7 @@ feature_row3:
     btn_class: "btn--primary"
 ---
 
-Here's all the books I've got out in the world.
+Here's all the larger projects I've worked on and got out into the world.
 
 ## Poetry
 

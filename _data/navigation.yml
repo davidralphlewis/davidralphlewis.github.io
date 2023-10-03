@@ -8,8 +8,8 @@ main:
     url: "https://davidralphlewis.tumblr.com/" 
   - title: "Notes"
     url: https://notes.davidralphlewis.co.uk
-  - title: "Books"
-    url: /books/
+  - title: "Projects"
+    url: /projects/
   - title: "Publications"
     url: /publications/
   - title: "Tip Jar"
