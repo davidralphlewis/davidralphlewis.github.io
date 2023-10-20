@@ -31,7 +31,7 @@ into the peace of the forest.
 Under an emerald canopy   
 they kicked off   
 their sensible shoes  
-and felt the soil and soft moss  
+and felt soil and soft moss  
 between their toes  
-as pdappled light danced  
+as dappled light danced  
 for joy over their skin. 
