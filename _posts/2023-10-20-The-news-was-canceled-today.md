@@ -1,5 +1,5 @@
 ---
-title: "The news was canceled today" 
+title: "The news was cancelled today" 
 layout: single
 date: 20-10-2023
 categories: [poetry]
