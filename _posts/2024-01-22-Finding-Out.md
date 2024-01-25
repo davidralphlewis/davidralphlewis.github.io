@@ -1,7 +1,7 @@
 ---
 title: "Finding Out"
 layout: single
-date: 2024-01-24
+date: 2024-01-22
 category: [erasure poetry] 
 permalink:
 ---
