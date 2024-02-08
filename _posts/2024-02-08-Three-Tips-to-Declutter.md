@@ -19,7 +19,7 @@ Hey everyone, thanks for coming to this seminar.
 
 Today I'm going to talk about how to declutter everything you own in three simple stages. Of course, nothing can be truly owned. Everything is rented or on loan from this world; your car, your house, your body, eventually it will all have to be paid back. Stick around though, Stage three may surprise you! 
 
-## Stage One
+## Stage 1
 
 Gather all your plastic containers, your tupperware of various sizes with mismatching lids. Don't forget your single use wrappers, your Tesco bags and your crisp packets. Whisper all your secrets directly into the plastic, all your fears and regrets, all your feelings and mistakes and misgivings. Now you want to drive to the nearest beach - something that should be significantly easier in the coming years. 
 
