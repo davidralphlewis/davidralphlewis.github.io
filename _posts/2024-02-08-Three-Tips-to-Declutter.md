@@ -11,6 +11,8 @@ This was actually made from a prompt at [Bristol Tonic](https://www.facebook.com
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/t09m2PyfJ0I?si=K4hnRvdhjfgHQkGI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+---
+
 # Three Tips to Declutter Your Life
 
 Hey everyone, thanks for coming to this seminar. 
