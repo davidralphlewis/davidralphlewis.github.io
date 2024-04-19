@@ -1,5 +1,5 @@
 ---
-title: How long until your inlet valve thickens
+title: How long until your inlet valve chokes up
 layout: single
 date: 2024-04-19
 category:
