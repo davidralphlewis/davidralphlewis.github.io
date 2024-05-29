@@ -6,7 +6,7 @@ category: [poetry]
 permalink:
 ---
 
-Sheets now sliced streaks of   
+Streets now sliced streaks of   
 shimmering turquoise, scarlet and   
 funeral grey blurs, suggestions of   
 doors, signs and windows barely   
@@ -19,4 +19,4 @@ time for questions. Legs now
 pistons, push my hazy memory of a   
 body forever forward as the city   
 loops over again towards the   
-vanishing point, never reached.  
+vanishing point, never reached -
