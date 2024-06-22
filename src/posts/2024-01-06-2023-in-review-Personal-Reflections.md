@@ -1,0 +1,75 @@
+---
+title: "2023 in Review: Personal reflections"
+
+date: 2024-01-06
+tags: 
+permalink:
+---
+
+Once again I closed off last year and started the new one by filling out a [year compass](https://yearcompass.com/) booklet. Although the years are arbitrary, I find this time to reflect and reset immensely valuable. 
+
+As I did [last year](https://www.davidralphlewis.co.uk/2022-in-review-personal-reflections/), I've decided to also summarise the year in a personal way, as opposed to my [rants](https://www.davidralphlewis.co.uk//2023-in-review) about politics. It's reasonably long, so strap in.
+
+## Life
+
+I wrote late last year about my desire to [slow down](https://www.davidralphlewis.co.uk/slowing-down/) a bit, reflecting it in my review of [2022](https://www.davidralphlewis.co.uk/2022-in-review-personal-reflections/). I wanted a fallow year, to regroup and reflect more. For the first half of the year, I was reasonably successful. I had surgery to remove my gallbladder[^1] and as a result I needed to not do anything for a little bit. I was lucky to make a full recovery quickly, but the time off forced me to do less. Life moved on of course, and I ended up filling my time with more distractions. 
+
+I also moved to the countryside this year, which was a welcome change of pace. I'm forty five minutes outside of Bristol now, which is close enough to go into work but far enough that I feel a little removed from the city. 
+
+The latter half of the year has been tough in a few ways I'm not going into here, but it was healing to be surrounded by nature and to watch the seasons change. 
+
+I was lucky enough to go to lots of interesting places this year. Bilbao and San Sebastian were culinary delights, with incredible food and amazing culture. Bluedot festival was a lot of fun [^2], with science talks, comedy and excellent live music. I also spent a week in Cornwall for my wedding anniversary, watching the sea and reading. 
+
+Although some things have been a struggle, I am lucky in so many ways. I am reminded of this daily.
+
+## Writing
+
+As I wrote [here](https://www.davidralphlewis.co.uk/on-submissions/), I deliberately wanted to avoid submitting to journals this year. I took the pressure off myself and instead focused on writing poems. I aimed for one a week, which I didn't always hit. But that's ok, because I think I've successfully reset my writing process, slowing down making poems and taking more time for editing. I've also found a lot more joy and fun in the process itself. I'd like to keep the attention more on the process of writing, not the end result. 
+
+## Books
+
+I read [38 books](https://notes.davidralphlewis.co.uk/books23) last year, a little less than my usual.
+
+*The Broken Earth* trilogy by N.K. Jemisen was my clear favourite speculative series I read last year, with a wildly inventive setting and unique, well realised characters. Somehow, Jemisen manages to keep the balance between tiny moments of character and huge moments of world building. 
+
+Close behind was *Black Sun* by Rebecca Roanhorse, which is a fantasy novel based on pre-Columbus American legends. It also has excellent world building and a jaw dropping ending. 
+
+Other novels I enjoyed were *Tomorrow and Tomorrow and Tomorrow* by Gabrielle Zevin, which is about games and the joy of collaborating with others. It avoids cliché and goes in some really interesting directions. *Our Wives Under the Sea* by Julia Armfield also avoids cliché, lying somewhere between social realism and horror to create a compelling tale about grieving someone while they are still alive. *To The Lighthouse* by Virginia Woolf was a reread, but I lost myself to the beautiful music of her sentences. 
+
+*Wintering* by Katherine May was my favourite non-fiction book I read, dealing with the necessity of rest and recovering from unexpected sad times, and acknowledging and accepting them. 
+
+Poetry wise, I loved *Deep Wheel Orcadia*, a sci-fi novel written in verse and in Orkney dialect. It was beautiful and profound, and completely unique. I read a lot of books by Bristol poets as well, with *The Nation's Saddest Love Poems* by Sam J. Grudgings being sad, tender and only slightly horrific. *Faulty Manufacturing* by Josie Alford is a brutally honest exploration of her complicated feelings after the death of her father, with end lines that absolutely cut you deep. Finally, *Health Hireth* by Taran Spalding Jenkins is a pamphlet of lyrical beauty that explores myth, illness and language, with poems written in Kernewek and translated back into English. 
+
+I think with all my reading this year the things I've enjoyed the most have been doing something new or different, expanding the possibilities of language and story. 
+
+## Music
+
+An unintentional side effect of moving to the country was I listened to a lot more new music, as my commute into the office twice a week is the perfect time to stick on an album.
+
+My favourite album of the year was *Heavy Heavy* by Young Fathers. It's an incredible genre hopping album full of surprises and twists and turns, sometimes rap, sometimes soul, sometimes choral unity. I was lucky enough to see them at Bluedot and it elevated the album for me, as live they are powerful and full of intense amounts of energy.
+
+I also listened a lot to *After the Magic*, by Paranoul, which is intense in a different way, mixing elements of shoegaze and indie rock together to create a heady sonic mix. The production makes everything clear though and it never gets lost in the muddy sound the way some post rock stuff does. Jeff Rosenstock's album *HELLMODE* was also a highlight, being pop punk songs about healing and improving. 
+
+In quieter moments, I looked to *Does Spring Hide It's Joy*,  a two hour cello drone album by Kali Malone. I found the extended cello notes to be hypnotic and mesmerising. A late entry was King Creosote's *I DES*, a beautiful folk album about death and grief, with some dancier tracks. It's lush and beautiful.
+
+Other music I enjoyed includes *Radical Romantics* by Fever Ray, *Integrated Tech Solutions* by Aesop Rock, *Live at Bush Hall* by Black Country, New Road[^3] and *The Record* by boygenuis. It was a really good year for music and I hope to carry on listening with the same intensity. The more I explore new music, the more I find. 
+
+## Games 
+
+ *The Legend of Zelda: Breath of the Wild*  & *The Legend of Zelda: Tears of the Kingdom*-  I spent a lot of this year exploring Hyrule. *Breath of the Wild* is slower and more contemplative, whereas *Tears of the Kingdom* is more frantic. Both games offer a rich open world to get lost in, full of detail and unique moments. Exploration is rewarded and you always feel like you are forging your own path. I explored almost every nook of Hyrule and enjoyed every moment of it. Truly, both games are stunning works of art. 
+
+ I also played a fair bit of *Fortnite*. I'm terrible at it but it's a good social experience. 
+
+ I also spent quite a lot of time this year planning and running a new *Dungeons and Dragons* campaign, having wrapped up a heavily modified version of *Lost Mines of Phandelver*. I'm the DM and its a lot of fun seeing the unexpected ways sessions turn out. 
+
+## Looking Forward
+
+Inspired by [C G P Grey](https://www.youtube.com/watch?v=NVGuFdX5guE), I like setting themes for the year instead of resolution. Last year my theme was "A fallow year", which spoke to what I wanted to do- slow down, reassess and find joy in things. I think I was mostly sucesssful. 
+
+This year, I'd like to build on that but not hermit myself away so much. I have a tendency to avoid the rest of the world, having mostly solitary hobbies like writing poems and swimming. I'd like to strike a balance between resting, working on projects by myself and meeting and engaging with cool people. My theme for this year is therefore simply "connection"- with the moment, with my work, but most of all with others. If you're reading this far and you're a cool artist looking for a collaboration, drop me an email. If you're a friend, lets catch up.
+
+I hope the next year is good for everyone reading this. 
+
+[^1]: All praise must go to the team at the BRI, for their care and attention. The NHS is such a precious resource, we must fight to keep it. 
+[^2]: It was also very wet and muddy, but that didn't matter. 
+[^3]: I also saw them at Bluedot, they were also excellent. I love how they have pulled themselves out of the ashes and formed a whole new experience after their lead singer left. *Turbine/ Pigs* is maybe my favourite song of the year.
