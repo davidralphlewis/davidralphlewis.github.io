@@ -6,6 +6,8 @@ module.exports = function (eleventyConfig) {
     eleventyConfig.addPassthroughCopy("./src/style.css");
     eleventyConfig.addWatchTarget("./src/style.css");
 	eleventyConfig.addPlugin(pluginRss);
+	eleventyConfig.addLiquidFilter("dateToRfc3339", pluginRss.dateToRfc3339);
+	eleventyConfig.addLiquidFilter("dateToRfc822", pluginRss.dateToRfc822);
     eleventyConfig.addShortcode('excerpt', post => extractExcerpt(post));
 	eleventyConfig.addFilter('dateIso', date => {
 		return moment(date).toISOString();
@@ -23,6 +25,7 @@ module.exports = function (eleventyConfig) {
 		}
 		return post.templateContent;
 	}
+
 
     return {
 dir: {
