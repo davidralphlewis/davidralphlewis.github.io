@@ -1,9 +1,18 @@
 /* Sakura.css v1.5.0
  * ================
+
  * Minimal css theme.
  * Project: https://github.com/oxalorg/sakura/
  */
 /* Body */
+
+:root {
+  --bg-color: #f7f5f2;
+  --link-color: #f94727;
+  --highlight-color: #bb2f16;
+  --button-color:#e7961c ;
+}
+
 html {
   font-size: 62.5%;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif;
@@ -12,10 +21,10 @@ html {
 body {
   font-size: 1.8rem;
   line-height: 1.618;
-  max-width: 38em;
+  max-width: 42em;
   margin: auto;
   color: #4a4a4a;
-  background-color: #f9f9f9;
+  background-color: var(--bg-color);
   padding: 13px;
 }
 
@@ -61,6 +70,7 @@ h5 {
   font-size: 1.25em;
 }
 
+
 h6 {
   font-size: 1em;
 }
@@ -75,19 +85,20 @@ small, sub, sup {
 }
 
 hr {
-  border-color: #f94727;
+  border-color: var(--highlight-color);
 }
 
 a {
-  text-decoration: none;
-  color: #2b4ac6;
+  text-decoration: underline dotted;
+  color: var(--link-color);
 }
 a:visited {
-  color: #144f5a;
+  color: var(--highlight-color);
 }
 a:hover {
-  color: #f94727;
-  border-bottom: 2px solid #4a4a4a;
+  background-color: var(--highlight-color);
+color: white;
+  text-decoration: underline solid;
 }
 
 ul {
@@ -107,9 +118,9 @@ blockquote {
   padding-top: 0.8em;
   padding-bottom: 0.8em;
   padding-right: 0.8em;
-  border-left: 5px solid #f94727;
+  border-left: 5px solid var(--highlight-color);
   margin-bottom: 2.5rem;
-  background-color: #f1f1f1;
+  background-color: #8f8f8f;
 }
 
 blockquote p {
@@ -179,7 +190,7 @@ textarea {
   text-align: center;
   text-decoration: none;
   white-space: nowrap;
-  background-color: #f94727;
+  background-color: var(--button-color);
   color: #f9f9f9;
   border-radius: 1px;
   border: 1px solid #030303;

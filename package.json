@@ -15,6 +15,7 @@
     "@11ty/eleventy": "github:11ty/eleventy"
   },
   "devDependencies": {
-    "@11ty/eleventy-plugin-rss": "^2.0.1"
+    "@11ty/eleventy-plugin-rss": "^2.0.1",
+    "moment": "^2.30.1"
   }
 }

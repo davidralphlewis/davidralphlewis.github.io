@@ -19,7 +19,7 @@ This website has all my writings and my books. It also has a blog I've been main
 {% assign top_posts = collections.posts | reverse %}
 {% for post in top_posts limit:5 | reverse %}
 ### <a href="{{post.url}}">{{ post.data.title }}</a>
-<i>{{ post.date }}<br/></i>
+<i><time datetime="{{ post.date | dateIso }}">{{ post.date | dateReadable }}</time><br/></i>
 {% excerpt post %}
 
 <a href="{{post.url}}">Read More </a>

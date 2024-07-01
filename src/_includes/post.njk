@@ -3,7 +3,7 @@ layout: "base.njk"
 ---
 
 <h1> {{ title }} </h1>
-<p><i>Published on: {{ page.date.toDateString() }}</i></p>
+<p><i>Published on: <time datetime="{{ post.date | dateIso }}">{{ post.date | dateReadable }}</time></i></p>
     {% for tag in tags %}
     <button>
 <a href="/posts/tag/{{tag}}">{{tag}}</a>
