@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/style.css">
+    <title> June 2022 Input</title>
+</head>
+<body>
+    <header>
+         <a href="/" class="page-header__logo" title="Go home">
+            <img src="/assets/avatar.png" alt="" width="48">
+            </a>
+    
+            <nav>
+                <a href="/">Home</a> |
+                <a href="/about">About Me</a> | 
+                <a href="/blog">Blog</a>
+            </nav>
+            </header>
+<main>
+    <article>
+    
+<h1> June 2022 Input </h1>
+<p><i>Published on: <time datetime="2024-07-05T18:38:43.324Z">July 5, 2024</time></i></p
+<ul>
+    
+    <li>
+        <a href="/posts/tag/posts">posts</a>
+    </li>
+    
+    <li>
+        <a href="/posts/tag/input">input</a>
+    </li>
+    
+</ul>
+<p>Summer is here and I am wilting. This month I went out to a couple of gigs and loved it. I have missed live music, especially during the pandemic.</p>
+<p>I also started a lot of things but didn't finish many of them, so this month's list is fairly short.</p>
+<h2>Books</h2>
+<ul>
+<li>
+<p><em>The Sandman: Dream Country</em> by Neil Gaiman, Kelley Jones, Charles Vess, Colleen Doran, Malcom Jones III - I'm slowly rereading the Sandman series before the tv adaptation later this year. More so than Doll's House, I think these short stories are where the series really comes into its own, especially with the fantastic Midsummer's Night Dream. Morpheus is a background character in most of these stories and it is somehow stronger for it.</p>
+</li>
+<li>
+<p><em>Dungeon Master's Guide</em> by Wizards of the Coast- I did read this, but it's more of a recipe book than a thrilling cover to cover novel. More of a reference guide but very handy, with loads of information and guides on how to run your game.</p>
+</li>
+</ul>
+<h2>Films</h2>
+<ul>
+<li>
+<p><em>Top Gun: Maverick</em>- Way better than it had any right to be. One of the best heist films I've seen, with jawdropping physical stunts. The story is predictable, sure, but it is also satisfying, well paced and well acted. It's a fantastic recruitment advert.</p>
+</li>
+<li>
+<p><em>Shang-Chi and the Legend of the Ten Rings</em>- Marvel mixes it's usual formula with kung fu films and it works really well. It follows a formula sure, but having a director who actually knows how to shoot an action scene really makes a difference.</p>
+</li>
+</ul>
+<h2>TV Shows</h2>
+<ul>
+<li><em>Obi-Wan Kenobi</em>- The best Star Wars Tv show since the Mandalorian season one, but mostly because of Ewan McGregor and Hayden Christensen. There's some really interesting character work here but it's hidden under a lot of padding. It would have made a very good film but instead is a good tv show.</li>
+</ul>
+<hr>
+<p>That's it for this month. I'm going to go enjoy the sun- or more realistically go outside for ten minutes and get burned.</p>
+
+
+</article>
+</main>
+</body>
+<hr>
+<footer>
+    <p>Released by David Ralph Lewis under a Creative Commons Attribution-NonCommercial 4.0 International Licence </p>
+</footer>
+</html>

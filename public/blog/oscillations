@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/style.css">
+    <title> Oscillations</title>
+</head>
+<body>
+    <header>
+         <a href="/" class="page-header__logo" title="Go home">
+            <img src="/assets/avatar.png" alt="" width="48">
+            </a>
+    
+            <nav>
+                <a href="/">Home</a> |
+                <a href="/about">About Me</a> | 
+                <a href="/blog">Blog</a>
+            </nav>
+            </header>
+<main>
+    <article>
+    
+<h1> Oscillations </h1>
+<p><i>Published on: <time datetime="2024-07-05T18:38:43.331Z">July 5, 2024</time></i></p
+<ul>
+    
+    <li>
+        <a href="/posts/tag/posts">posts</a>
+    </li>
+    
+    <li>
+        <a href="/posts/tag/erasure-poetry">erasure poetry</a>
+    </li>
+    
+</ul>
+<p><img src="https://www.davidralphlewis.co.uk/assets/images/articles/2022/cosmos.jpeg" alt="erasure poem: The universe is flux/ unrecognisable between transformations" title="Have you seen the deep field from JWST? The scale is mind blowing" class="responsive"><br></p>
+<p>Taken from Crack Magazine, August 2022.</p>
+
+
+</article>
+</main>
+</body>
+<hr>
+<footer>
+    <p>Released by David Ralph Lewis under a Creative Commons Attribution-NonCommercial 4.0 International Licence </p>
+</footer>
+</html>

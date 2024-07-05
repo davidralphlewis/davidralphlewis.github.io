@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/style.css">
+    <title> Fly Away</title>
+</head>
+<body>
+    <header>
+         <a href="/" class="page-header__logo" title="Go home">
+            <img src="/assets/avatar.png" alt="" width="48">
+            </a>
+    
+            <nav>
+                <a href="/">Home</a> |
+                <a href="/about">About Me</a> | 
+                <a href="/blog">Blog</a>
+            </nav>
+            </header>
+<main>
+    <article>
+    
+<h1> Fly Away </h1>
+<p><i>Published on: <time datetime="2024-07-05T18:38:43.373Z">July 5, 2024</time></i></p
+<ul>
+    
+    <li>
+        <a href="/posts/tag/posts">posts</a>
+    </li>
+    
+    <li>
+        <a href="/posts/tag/poetry">poetry</a>
+    </li>
+    
+</ul>
+<p>I am hauling all our rugs, books,<br>
+house plants, our glasses wrapped<br>
+in bubble wrap and old duvets ,<br>
+all our memories neatly boxed up,<br>
+every object we own all jumbled,<br>
+carrying from the borrowed van<br>
+into our new home. I am bending<br>
+at the knees. I am judging the structural<br>
+stability of cardboard to ensure<br>
+our horde will stack. Tessellation<br>
+is essential. My shoulders radiate<br>
+like embers. Your nerves are glowing<br>
+filaments of thin tungsten.</p>
+<p>In bone branches above our heads,<br>
+a welcoming committee of starlings land.<br>
+We watch the tree fill with wings.<br>
+For a moment, there is nothing<br>
+separating us and the murmuration,<br>
+all the voice that sing to the dizzying blue,<br>
+calling in one rippling, multi harmonic, chittering<br>
+warming song that echoes and shimmers and writhes<br>
+and separates and shimmers and echoes again.</p>
+<p>You take my hand. One small body leaps<br>
+and falls upwards, soars up, up into<br>
+the vastness. We are too heavy,<br>
+too landlocked for flight.<br>
+So we watch it become invisible.</p>
+<p>This, too, is an act of devotion.</p>
+<hr>
+<p>Thanks again to <em>Bristol Tonic</em> for the chance to write something new. My prompt this time was 'Fly away with me', which coincided nicely with my life.</p>
+
+
+</article>
+</main>
+</body>
+<hr>
+<footer>
+    <p>Released by David Ralph Lewis under a Creative Commons Attribution-NonCommercial 4.0 International Licence </p>
+</footer>
+</html>

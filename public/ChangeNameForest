@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/style.css">
+    <title> I love walking in the woods so much I&#39;m going to change my name to Forest</title>
+</head>
+<body>
+    <header>
+         <a href="/" class="page-header__logo" title="Go home">
+            <img src="/assets/avatar.png" alt="" width="48">
+            </a>
+    
+            <nav>
+                <a href="/">Home</a> |
+                <a href="/about">About Me</a> | 
+                <a href="/blog">Blog</a>
+            </nav>
+            </header>
+<main>
+    <article>
+    
+<h1> I love walking in the woods so much I&#39;m going to change my name to Forest </h1>
+<p><i>Published on: <time datetime="2024-07-05T18:38:43.410Z">July 5, 2024</time></i></p
+<ul>
+    
+    <li>
+        <a href="/posts/tag/posts">posts</a>
+    </li>
+    
+    <li>
+        <a href="/posts/tag/poetry">poetry</a>
+    </li>
+    
+</ul>
+<p>Here, under the glitter of a multi-coloured canopy I am finding a new serenity, the peace of lives measured in centuries. I am removed from glaring lights and constant haze, breathing in a million micro-organisms. My pulse no longer has the twitch and shuffle of muffled drum and bass bleeding through the wall from next door, my heartbeat settles to the pace of my slow stride. I have left behind the disarray of the city, exchanged it for the slow drowning of moss. I am stopping walking, gazing up at the branches and the distant sun, falling faster. Recently I have been too much concerned with electrical misfires inside my head, I have forgotten to watch lichen climb a felled trunk. My toes are rooting into the soil. They are sending signals into the mycellium network. It responds with a sustained hum. This long note holds me captive. I breathe out poison, nutrients for the leaves encircling me. We sway in symbiosis. My legs bend together. Merge. Time is syrup. Here is stillness. My pulse is. Slowing. To a beat. per minute. Hour. Days dropping. Dead leaves. Pile. Mulch. Regrow. My skin now. brittle. Wrinkled. Bark. What was. My name? I am. reaching. Arms. Twigs. Arms. Branches. To sky. My smile. Frozen. My blood. sap. I reach. Up. Decades. Collapse. Sky. Branches. Reach. towards. Light. Light. Light. Light.</p>
+<hr>
+<p>Another Bristol Tonic prompt (the title.) I had a lot of fun with this one</p>
+
+
+</article>
+</main>
+</body>
+<hr>
+<footer>
+    <p>Released by David Ralph Lewis under a Creative Commons Attribution-NonCommercial 4.0 International Licence </p>
+</footer>
+</html>

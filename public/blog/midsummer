@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/style.css">
+    <title> Midsummer</title>
+</head>
+<body>
+    <header>
+         <a href="/" class="page-header__logo" title="Go home">
+            <img src="/assets/avatar.png" alt="" width="48">
+            </a>
+    
+            <nav>
+                <a href="/">Home</a> |
+                <a href="/about">About Me</a> | 
+                <a href="/blog">Blog</a>
+            </nav>
+            </header>
+<main>
+    <article>
+    
+<h1> Midsummer </h1>
+<p><i>Published on: <time datetime="2024-07-05T18:38:43.322Z">July 5, 2024</time></i></p
+<ul>
+    
+    <li>
+        <a href="/posts/tag/posts">posts</a>
+    </li>
+    
+    <li>
+        <a href="/posts/tag/poetry">poetry</a>
+    </li>
+    
+</ul>
+<p>Our days are longest now, we hold the light<br>
+solid between our fingers, like putty,<br>
+before twirling, once more unstoppable.<br>
+These are days we dream of deep in winter,<br>
+when we are	banished in	eternal night.<br>
+These are days suffused	with strange rare magicks,<br>
+when our flame bodies flicker translucent.<br>
+We manifest	what we will. Morning sparks<br>
+alchemical. Our fingertips bristle.<br>
+Play the music! Let us unite as one<br>
+before the world tips inevitably<br>
+back towards the shortening hours of sun.<br>
+How precious these illuminated days.<br>
+How soon, like warm embers, they start to fade.</p>
+
+
+</article>
+</main>
+</body>
+<hr>
+<footer>
+    <p>Released by David Ralph Lewis under a Creative Commons Attribution-NonCommercial 4.0 International Licence </p>
+</footer>
+</html>

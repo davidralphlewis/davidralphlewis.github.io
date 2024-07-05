@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/style.css">
+    <title> October&#39;s Oxidation</title>
+</head>
+<body>
+    <header>
+         <a href="/" class="page-header__logo" title="Go home">
+            <img src="/assets/avatar.png" alt="" width="48">
+            </a>
+    
+            <nav>
+                <a href="/">Home</a> |
+                <a href="/about">About Me</a> | 
+                <a href="/blog">Blog</a>
+            </nav>
+            </header>
+<main>
+    <article>
+    
+<h1> October&#39;s Oxidation </h1>
+<p><i>Published on: <time datetime="2024-07-05T18:38:43.342Z">July 5, 2024</time></i></p
+<ul>
+    
+    <li>
+        <a href="/posts/tag/posts">posts</a>
+    </li>
+    
+    <li>
+        <a href="/posts/tag/poetry">poetry</a>
+    </li>
+    
+</ul>
+<p>Drains are clogged with circuit boards again.<br>
+Flurries of rust flakes carpet the streets.<br>
+All the air tastes of wet pennies. Every<br>
+polished gear and lever is corroding fast<br>
+under the pressures of time. Gutters, pipes<br>
+peel off houses and droop. Children swing<br>
+rivets on strings, laugh in modem screeches.<br>
+Pull on your coat. Leave the Geiger counter<br>
+on the kitchen side. Let's walk together,<br>
+despite this antifreeze rain, feel the crunch<br>
+and pop of ball bearings beneath our feet.<br>
+Down in the landfill, bottles of bleach<br>
+are waiting for spring to erupt and bloom.</p>
+
+
+</article>
+</main>
+</body>
+<hr>
+<footer>
+    <p>Released by David Ralph Lewis under a Creative Commons Attribution-NonCommercial 4.0 International Licence </p>
+</footer>
+</html>
