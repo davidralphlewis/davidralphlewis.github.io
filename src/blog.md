@@ -15,14 +15,14 @@ pagination:
 {% for post in postslist %}
 <p>
 <h2> <a href="{{post.url}}">{{ post.data.title }}</a> </h2>
-<i>{{ post.date }}<br/></i>
+<i><time datetime="{{ post.date | dateIso }}">{{ post.date | dateReadable }}</time><br/></i>
 {% excerpt post %}
 </p>
 {% endfor %}
 
 {% if pagination.href.previous %}
- <button class="nav"> <a href="{{pagination.href.previous}}">Previous Page</a></button>
+<a href="{{pagination.href.previous}}">Previous Page</a>
 {% endif %}
 {% if pagination.href.next %}
-  <button class="nav"> <a href="{{pagination.href.next}}">Next Page</a></button>
+<a href="{{pagination.href.next}}">Next Page</a>
 {% endif %}

@@ -2,7 +2,7 @@
 
 title:  Slowing Down
 date:   2022-11-24
-category: [creativity]
+tag: [creativity]
 ---
 
 After I got married at the end of September, I went on honeymoon to Croatia. It was bliss- two weeks of lying on the beach, reading books and occasionally swimming. Now of course I'm back to real life with all the admin and bills to pay.

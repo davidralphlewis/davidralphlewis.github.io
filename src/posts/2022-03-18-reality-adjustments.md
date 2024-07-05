@@ -2,7 +2,7 @@
 
 title:  Reality Adjustments
 date:   2022-03-18
-categories: publications
+tag: publications
 ---
 
 Today I'm releasing an interactive poetry pamphlet called *Reality Adjustments.* It's a surreal dive into a city that is always changing, with mutating streets, strange jobs and one or two apocalypses There are different paths to follow, multiple different endings and elements that change depending on where you have been before.

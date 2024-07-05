@@ -2,7 +2,7 @@
 
 title:  The Revolution Will Biodegrade
 date:   2023-02-23
-categories: [erasure poetry]
+tag: [erasure poetry]
 ---
 
 <img src="https://www.davidralphlewis.co.uk/assets/images/articles/2023/rewild.jpeg" alt="erasure poem: What if you could make this nature new/ overflowing with movement and the unknown" title="I don't make erasure poetry any more, I rewild newspapers" class="responsive"><br>

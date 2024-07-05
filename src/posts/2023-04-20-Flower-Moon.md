@@ -2,7 +2,7 @@
 title: "Flower Moon"
 
 date: 2023-04-20
-categories: [poetry]
+tag: [poetry]
 ---
 
 It's Easter and all the daffodils are screaming  

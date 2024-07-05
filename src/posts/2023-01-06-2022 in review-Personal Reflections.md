@@ -1,7 +1,7 @@
 ---
 title: "2022 in Review: Personal Reflections"
 date: 2023-01-03
-categories: [year in review]
+tag: [year in review]
 ---
 
 Following on from last week's [year in review post](https://www.davidralphlewis.co.uk/2022-in-review-weaponised-nostalgia/), which was more political in nature, I thought I would take some time to reflect on last year from a personal perspective. Each year I go through the [Year Compass](https://yearcompass.com/) as a ritual to close down the last year and set goals for the next, so this post is informed by that. 

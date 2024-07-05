@@ -2,7 +2,7 @@
 title: "In these days of sushi terrorism"
 
 date: 2023-05-05
-categories: [poetry]
+tag: [poetry]
 permalink:
 ---
 

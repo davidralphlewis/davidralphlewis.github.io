@@ -28,7 +28,7 @@ This website has all my writings and my books. It also has a blog I've been main
 {% endfor %}
 
 
-<button>[All Posts](/blog)</button>
+[All Posts](/blog)
 
 
 

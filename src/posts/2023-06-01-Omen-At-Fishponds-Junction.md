@@ -2,7 +2,7 @@
 title: "Omen at Fishponds Junction"
 
 date: 2023-06-01
-categories: [poetry]
+tag: [poetry]
 permalink:
 ---
 

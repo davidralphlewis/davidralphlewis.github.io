@@ -2,7 +2,7 @@
 
 title:  2022 August and September Input
 date:   2022-10-13
-category: input
+tag: input
 ---
 
 September was almost entirely dedicated to wedding planning and admin. All our hard work paid off though, as the day was incredibly beautiful and full of immense happiness. I’m still overflowing from joy from the day, and had a relaxing, necessary honeymoon with my wife. It was amazing and still doesn’t feel fully real. I feel so very lucky.

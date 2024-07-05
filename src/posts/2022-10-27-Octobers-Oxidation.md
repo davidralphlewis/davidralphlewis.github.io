@@ -2,7 +2,7 @@
 title: "October's Oxidation"
 date: 2022-10-27
 permalink: /octobers-oxidation
-category: [poetry]
+tag: [poetry]
 ---
 
 Drains are clogged with circuit boards again.  

@@ -1,7 +1,7 @@
 ---
 title: "The forecast sighs"
 date: 2024-01-12
-category: [poetry]
+tag: [poetry]
 permalink:
 ---
 

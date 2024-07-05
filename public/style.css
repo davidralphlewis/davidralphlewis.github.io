@@ -7,10 +7,10 @@
 /* Body */
 
 :root {
-  --bg-color: #f7f5f2;
-  --link-color: #f94727;
-  --highlight-color: #bb2f16;
-  --button-color:#e7961c ;
+  --bg-color: #e6e4e4;
+  --link-color: #cf000f;
+  --highlight-color: #8B0000;
+  --button-color:#B50000 ;
 }
 
 html {
@@ -186,12 +186,12 @@ textarea {
 
 .button, button, input[type=submit], input[type=reset], input[type=button], input[type=file]::file-selector-button {
   display: inline-block;
-  padding: 5px 10px;
+  padding: 10px 20px;
   text-align: center;
   text-decoration: none;
   white-space: nowrap;
   background-color: var(--button-color);
-  color: #f9f9f9;
+  color: #f9f9f9 !important;
   border-radius: 1px;
   border: 1px solid #030303;
   cursor: pointer;
@@ -209,6 +209,10 @@ textarea {
 .button:focus-visible, button:focus-visible, input[type=submit]:focus-visible, input[type=reset]:focus-visible, input[type=button]:focus-visible, input[type=file]::file-selector-button:focus-visible {
   outline-style: solid;
   outline-width: 2px;
+}
+
+.button a{
+color: white !important; 
 }
 
 textarea, select, input {

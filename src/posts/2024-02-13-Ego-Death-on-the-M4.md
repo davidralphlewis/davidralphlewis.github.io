@@ -1,7 +1,7 @@
 ---
 title: "Ego Death on the M4"
 
-category: "[poetry]"
+tag: "[poetry]"
 date: 2024-02-13
 ---
 

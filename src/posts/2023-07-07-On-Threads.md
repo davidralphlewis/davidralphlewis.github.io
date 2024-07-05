@@ -2,7 +2,7 @@
 title: "On Threads"
 
 date: 2023-07-07
-categories: [internet]
+tag: [internet]
 permalink:
 ---
 

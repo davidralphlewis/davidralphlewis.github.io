@@ -1,7 +1,7 @@
 ---
 title: "Midwinter"
 date: 2023-01-26
-categories: [poetry]
+tag: [poetry]
 ---
 
 Fresh frost has visited overnight,   

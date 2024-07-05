@@ -1,7 +1,7 @@
 ---
 title: "May and June 2023 Input"
 date: 2023-07-17
-categories: [input]
+tag: [input]
 permalink:
 ---
 

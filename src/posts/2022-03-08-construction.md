@@ -2,7 +2,7 @@
 
 title:  Construction
 date:   2022-03-08
-categories: poetry
+tag: poetry
 ---
 <div>
 You imagined | a field transmuted | into endless red bricks.<br>
