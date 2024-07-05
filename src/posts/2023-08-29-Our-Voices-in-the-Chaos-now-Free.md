@@ -2,7 +2,7 @@
 title: "Our Voices in the Chaos- now Free"
 
 date: 2023-08-29
-tag: [publications]
+tags: [publications]
 permalink:
 ---
 

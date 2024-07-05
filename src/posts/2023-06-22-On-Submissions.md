@@ -1,7 +1,7 @@
 ---
 title: "Personal Thoughts on Submissions"
 date: 2023-06-22
-tag: [writing]
+tags: [writing]
 permalink:
 ---
 

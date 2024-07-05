@@ -2,7 +2,7 @@
 title: "Another espresso shot sky commute"
 
 date: 2023-07-09
-tag: [poetry]
+tags: [poetry]
 permalink:
 ---
 

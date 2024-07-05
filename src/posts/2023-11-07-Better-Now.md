@@ -2,7 +2,7 @@
 title: Better Now
 
 date: 2023-11-07
-tag: [poetry] 
+tags: [poetry] 
 permalink:
 ---
 A flutter of flame consumed leaves  

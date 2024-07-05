@@ -2,7 +2,7 @@
 title: When I took my mattress my duvet and their dreams
 
 date: 2024-03-08
-tag: "[poetry]"
+tags: "[poetry]"
 permalink:
 ---
 

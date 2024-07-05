@@ -1,7 +1,7 @@
 ---
 title: "The Days Stack Up"
 date: 2024-04-12
-tag: journaling
+tags: journaling
 permalink:
 ---
 

@@ -2,7 +2,7 @@
 title: "A Manifesto for Art as Self Care"
 
 date: 2024-01-25
-tag: [creativity] 
+tags: [creativity] 
 permalink:
 ---
 

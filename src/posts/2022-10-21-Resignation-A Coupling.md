@@ -2,7 +2,7 @@
 
 title:  Resignation- A Coupling
 date:   2022-10-21
-tag: [poetry]
+tags: [poetry]
 ---
 
 I came into office  

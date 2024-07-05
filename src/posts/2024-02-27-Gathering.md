@@ -2,7 +2,7 @@
 title: Gathering
 
 date: 2024-02-27
-tag: "[poetry]"
+tags: "[poetry]"
 permalink:
 ---
 

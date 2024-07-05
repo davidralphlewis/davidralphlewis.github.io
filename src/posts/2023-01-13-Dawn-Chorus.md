@@ -1,7 +1,7 @@
 ---
 title: "Dawn Chorus"
 date: 2023-01-13
-tag: [poetry]
+tags: [poetry]
 ---
 
 Blackbirds sing from the only tree    

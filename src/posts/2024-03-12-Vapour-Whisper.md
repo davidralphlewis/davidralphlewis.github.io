@@ -2,7 +2,7 @@
 title: Vapour Whisper
 
 date: 2024-03-12
-tag:
+tags:
   - erasure poetry
 permalink:
 ---

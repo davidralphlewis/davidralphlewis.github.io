@@ -1,7 +1,7 @@
 ---
 title: "I love walking in the woods so much I'm going to change my name to Forest"
 date: 2023-06-19
-tag: [poetry]
+tags: [poetry]
 permalink: /ChangeNameForest
 ---
 

@@ -2,7 +2,7 @@
 title: Dungeness
 
 date: 2023-10-03
-tag: [poetry]
+tags: [poetry]
 permalink:
 ---
 

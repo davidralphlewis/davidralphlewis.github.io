@@ -2,7 +2,7 @@
 title: "2023 in Review: Personal reflections"
 
 date: 2024-01-06
-tag: 
+tags: 
 permalink:
 ---
 

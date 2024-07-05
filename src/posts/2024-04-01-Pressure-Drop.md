@@ -2,7 +2,7 @@
 title: Pressure Drop
 
 date: 2024-04-01
-tag:
+tags:
   - erasure poetry
 permalink:
 ---

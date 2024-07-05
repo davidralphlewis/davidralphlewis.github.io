@@ -1,7 +1,7 @@
 ---
 title: "Discovering My Allergy to Scallops"
 date: 2024-04-04
-tag:
+tags:
   - poetry
 permalink:
 ---

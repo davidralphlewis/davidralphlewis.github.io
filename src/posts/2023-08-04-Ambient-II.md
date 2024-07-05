@@ -2,7 +2,7 @@
 title: "Ambient II"
 
 date: 2023-08-04
-tag: [poetry]
+tags: [poetry]
 permalink:
 ---
 

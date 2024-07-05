@@ -1,7 +1,7 @@
 ---
 title: "How long until your inlet valve chokes up"
 date: 2024-04-19
-tag:
+tags:
   - poetry
 permalink:
 ---

@@ -1,7 +1,7 @@
 ---
 title: Quick Dice Poetry Exercise
 date: 2024-06-22
-tag:
+tags:
   - creativity
 permalink:
 ---

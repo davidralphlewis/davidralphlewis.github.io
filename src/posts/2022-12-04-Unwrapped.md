@@ -2,7 +2,7 @@
 
 title:  Unwrapped
 date:   2022-12-04
-tag: [poetry]
+tags: [poetry]
 ---
 Her morning started with misty adolescent mooncore.
 

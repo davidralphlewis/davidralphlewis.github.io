@@ -2,7 +2,7 @@
 title: "Between them is a canyon"
 
 date: 2023-06-23
-tag: [poetry]
+tags: [poetry]
 permalink:
 ---
 

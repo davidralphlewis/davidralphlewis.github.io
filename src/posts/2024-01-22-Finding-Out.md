@@ -2,7 +2,7 @@
 title: "Finding Out"
 
 date: 2024-01-22
-tag: [erasure poetry] 
+tags: [erasure poetry] 
 permalink:
 ---
 

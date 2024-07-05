@@ -1,7 +1,7 @@
 ---
 title: Three Tips to Declutter Your Life
 
-tag: "[poetry]"
+tags: "[poetry]"
 date: 2024-02-08
 ---
 

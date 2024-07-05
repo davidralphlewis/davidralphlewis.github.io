@@ -2,7 +2,7 @@
 
 title:  "2022 in Review: Weaponised Nostalgia"
 date:   2022-12-29
-tag: [year in review]
+tags: [year in review]
 ---
 
 Another year of political chaos, with three prime ministers, war in Ukraine and a cost of living crisis. It has been a lot.  Instead of returning to relative stability, the ripple effects of lockdowns have continued to have a huge impact and will likely reverberate for years to come. 

@@ -1,7 +1,7 @@
 ---
 title: "November 2022 Input"
 date: 2022-12-08
-tag: [input]
+tags: [input]
 permalink:
 ---
 

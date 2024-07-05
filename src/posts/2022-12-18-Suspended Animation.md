@@ -2,7 +2,7 @@
 
 title:  Suspended Animation
 date:   2022-12-18
-tag: [poetry]
+tags: [poetry]
 ---
 During the second spring,   
 gorse opened exploratory  

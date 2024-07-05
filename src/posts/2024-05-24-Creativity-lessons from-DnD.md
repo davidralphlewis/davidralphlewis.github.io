@@ -1,7 +1,7 @@
 ---
 title: "Creativity lessons from Dungeons and Dragons"
 date: 2024-05-24
-tag:
+tags:
   - creativity
 permalink:
 ---

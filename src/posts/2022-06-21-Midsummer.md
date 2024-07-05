@@ -2,7 +2,7 @@
 
 title:  Midsummer
 date:   2022-06-21
-tag: poetry
+tags: poetry
 ---
 
 Our days are longest now, we hold the light  

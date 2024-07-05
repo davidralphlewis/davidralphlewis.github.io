@@ -2,7 +2,7 @@
 title: "The news was cancelled today" 
 
 date: 2023-10-20
-tag: [poetry]
+tags: [poetry]
 permalink:
 ---
 because there was no danger or threat,  
