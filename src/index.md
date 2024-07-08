@@ -9,7 +9,9 @@ I'm a poet and short story writer based in the south west of the UK, who writes 
 
 My writing has appeared in <em>Neon Magazine</em>, <em>Nine Muses Poetry</em> and <em>Marble Poetry</em>.
 
-This website has all my writings and my books. It also has a blog I've been maintaining for 8 years. Subjects include art, politics, poems and anything else I fancy.
+This website has all my writings and my books. It's a little broken at the moment as I change from Jekyll to Eleventy. Haven't got pictures working for example. Oh well, we will get there
+
+ It has a blog I've been maintaining for 8 years. Subjects include art, politics, poems and anything else I fancy.
 
 [Here](https://notes.davidralphlewis.co.uk/now) is what I'm up to now.
 
