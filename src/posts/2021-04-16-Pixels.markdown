@@ -1,0 +1,11 @@
+---
+
+title: Pixels
+date: 2021-04-16
+comments: true
+tags: [poetry]
+---
+
+<img src="/assets/images/articles/2021/pixels.jpg" class="responsive"><br>
+
+As part of the *Red Sky Sessions* with Apples and Snakes, we were asked to chose a painting from the MOMA collection. We then either wrote about the character or adapted a technique from the painting. I tried to ape the tecnique of [this self portrait](https://www.moma.org/collection/works/79889?classifications=9&date_begin=1920&date_end=2021&direction=fwd&page=&q=portrait&utf8=%E2%9C%93&with_images=1) by Andy Warhol.

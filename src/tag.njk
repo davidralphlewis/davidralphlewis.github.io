@@ -7,7 +7,7 @@ permalink: /posts/tag/{{ tag }}/
 layout: "base.njk"
 ---
 
-<h1>Posts Tagged “{{ tag }}”</h1>
+<h1>Posts Tagged “{{ tag | slugify  }}”</h1>
 
 <ul>
 {% set taglist = collections[ tag ] %}

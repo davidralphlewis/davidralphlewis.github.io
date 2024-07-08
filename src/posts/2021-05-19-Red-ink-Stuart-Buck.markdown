@@ -1,0 +1,134 @@
+---
+title: "Red Ink: Stuart Buck"
+date: 2021-05-19
+
+comments: true  
+tags: [red ink]
+series: "Red Ink"
+---
+
+*This is a series where I interview poets about their process in regards to a single poem. Today we have the exceptional Stuart Buck, a brilliant poet, illustrator and editor of the very strange and wonderful* [Bear Creek Gazette.](https://www.welcometobearcreek.com/) *Here is a poem from his new collection,* [Blue the Green Sky](https://thebrokenspine.co.uk/2021/04/27/blue-the-green-sky-stuart-m-buck-upcoming-release/)
+
+***
+
+## maps
+
+1.  
+
+its nine thirty and i am at school and  
+we are outside on a warm day and  
+its the first time i appreciate the  
+shorts they make us wear because  
+my legs are warm and my arms are  
+warm and guy taylor and me are  
+walking past the playground area  
+towards the beautiful woods that  
+we are warned about at the start  
+of each term but we can’t resist  
+because the trees look like broccoli  
+and the sun shatters into a million  
+tiny pins pricking the soft earth  
+floor because the leaves are real  
+thick like fur on bone and guy and  
+me don’t talk we never do we just  
+walk towards the forbidden fruit our  
+own garden of eden and as we near  
+the woods we turn to each other and  
+smile and he takes my hand and i am  
+thirteen but this feels so natural that i  
+could be thirty nine and i would still  
+be as excited and happy as i am now  
+
+<!--more-->
+
+2.
+
+once we are inside the woods we  
+have nothing to fear and the school  
+yard is so far away it may as well be  
+on the moon and the cries and shouts  
+of the children sound like a television  
+turned all the way down and we grip  
+each other’s hands tightly and i can  
+feel his palm is clammy and that makes  
+me even happier because mine is too  
+
+
+ 3.
+
+its dark now and we have been here for  
+ten minutes just walking and touching  
+and smiling and laughing and it feels  
+like just a second has passed but we both  
+know soon it will be time to go and rejoin  
+our classes and pretend that we are really  
+interested in maths and art and swimming  
+and learning and really all we care about is  
+each other and the forest and those moments  
+when we can stop pretending and just be who  
+we are among the trees and the pins and the  
+flashes of light so bright you can taste them  
+with your tongue and the smell of the earth  
+and feeling of relief and i never want  
+to leave but then it is time to leave so we do.  
+
+
+ 4.
+
+the last time i saw guy taylor was yesterday  
+and my teacher says i will never see him again  
+and if i am lucky i will be let back into school  
+but by god if i ever so much as touch anyone  
+he will throw me out and my mum is sad and  
+my dad is sad and i am sad because i do not  
+know if guy is sad and the thought of never  
+seeing him again makes my stomach turn  
+over and i didn’t even get a chance to say  
+goodbye or good luck or thank you or i  
+love you or hold him just one last time and  
+tell him that everything will be fine and not  
+to worry about who he is because he is a  
+walk in the fresh snow and a deep blue sky  
+and a night spent inside listening to the rain  
+
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1037301421&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/stu-buck-325858633" title="Stuart Buck" target="_blank" style="color: #cccccc; text-decoration: none;">Stuart Buck</a> · <a href="https://soundcloud.com/stu-buck-325858633/maps" title="maps" target="_blank" style="color: #cccccc; text-decoration: none;">maps</a></div>
+
+---
+*D: This is tender and heartbreaking! Was it based on a real memory?*
+
+S: So Maps was based on an amalgamation of several memories. There was a boy named Guy Taylor and we did share many tender moments, in the same way that I think a lot more boys do than like to mention. There was a wood surrounding the School grounds. I went to a very posh private school that I hated, but one of the good things about it was that it had an amazing grounds. We had a lake with an island on it, acres of green playground, football pitches and the aforementioned woods surrounding the whole thing. There were many tall tales of people living in there. I never saw anyone though. Sometimes we would steal off to the woods together. We would hold each others hands and just spend time in each others arms. I think he may have been my first love. I think about him a lot.
+
+*D: What made you want to write about these memories? Was there an initial spark that reminded you of them?*
+
+S: I write a lot about the link between childhood confusion and the way it affects us as adults. I think the themes in Maps are universal, the love, the forbidden physical intimacy and the ultimately futile pursuit of all of these when you are young. People see young people as emotionally simple, that they do not understand what is running through them, but the case with me and I feel like most kids who are fucked up and confused is that we felt MORE than we do now. Adulthood blunts the knife of passion, with debt, with work, with illness. When you are young, you have only the light from the stars and the feeling of another persons skin against yours. You don’t worry about what people are going to think about you. Its love in it’s rawest form. I think that is why I write the way I do. Because I miss that rawness. I have probably drifted away from what you asked here. As far as an initial spark goes, I still dream about my time at school with Guy a lot. I lost contact with him entirely after I left. I have no idea whether he is alive or dead. He is a relic from my past and because of that detachment he is the most perfect form of love there is. Impossible.
+
+*D: How much editing and redrafting did you do on this poem?*
+
+S: Actually, this is where I think I differ from most poets. I don't edit my work. Never have. I construct my poems as one long sentence then add line breaks where I feel the narrator would breath. So with Maps, the narrator is a young, breathless boy in love with the world and in love with his friend. So I had his voice in my head and I just wrote it. I don't think that's a standard way to do things but it's what has worked for me. I want to get what's in my head onto the page and into other peoples heads with as few barriers as possible. Maps probably took 30 minutes to write in all. That's why it reads the way it does.
+
+*D: I remember you saying that before and it's fascinating to me as it's so opposite to how I write and to the recieved wisdom.*
+
+*How long did you have the voice in your head before you wrote it? Do you tend to think about the poems for a long time before the actual writing?*
+
+S: Not at all. Poetry is completely spontaneous to me. I will write absolutely nothing for weeks then something will come to me (if there are any outside influences I have yet to pinpoint them) and it will happen fast and messy. I mean, I guess the voice is always inside me but maybe it doesn't always need writing down. I never write more than one thing at a time either. I find the act of writing absolutely exhausting. Like a gunshot wound. All of a sudden it needs to happen, then I don't want it to happen again for a while.
+
+Its different with full length writing I think. That's more of a marathon. Poetry is a quick, dirty act to me. Like picking at a scab.
+
+*D: Why do you think poetry is different to prose? Is it just the length or is there something else?*
+
+S: I think poetry, for me, is creating one or two big, bright images in someone's mind. Going further than that, I want those big bright images in my mind to be transferred to the readers mind. With long form writing, I am trying to describe a lot more. Where someone is. What they are thinking and saying. The time, place, location. I am, frankly, terrible at writing longer stuff. But I try, which is all anyone can do.
+
+When I write poetry, I use the power of someone's assumption a lot. I love the sparseness of poetry. I started out writing haiku and tanka. The Japanese short forms are constricting and teach you brevity. I try to keep those lessons in mind whenever I write poems.
+
+*D: Has putting this poem into a book changed it for you at all?*
+
+S: This is a tough one. It's in the new collection but it's actually very old. It was one of the first poems I wrote that made me stop and think I might be able to submit poems and make books. I guess the main way it has altered the poem is it will get it out to more people. It's good live, I have performed it a lot and it fits in with my performance style nicely. I think the poem tells a story, albeit one in fairly basic language. It's got a beginning, middle and end which, when you are listening live, tends to be something that sticks with you. A lot of my poetry is short and does not translate well from the page to the stage. But Maps does. It just struck me to tell you that the poem is named after the Yeah Yeah Yeahs song. In the video, Karen O is singing on stage and gradually breaks into tears. The refrain is 'wait, they don't love you like I love you' and whenever I listen to the song or watch that video, that line, that 'wait', stands out as something really beautiful. A piece of art in just one line. Maybe even just one word. Which, I guess, is what I hope to achieve with my poetry.
+
+https://www.youtube.com/watch?v=oIIxlgcuQRU
+
+*D: Thanks so much*
+
+---
+
+Stuart Buck [@stuartmbuck](https://www.twitter.com/stuartmbuck) is a writer, poet and artist living in the Rocky Mountains with his wife and two dogs. 'Blue the Green Sky' will be his third poetry collection and he is the EIC of The Bear Creek Gazette @bcgazette
