@@ -5,7 +5,7 @@ date: 2021-08-10
 comments: true
 tags: [erasure poetry]
 ---
-<img src="https://www.davidralphlewis.co.uk/assets/images/articles/2021/freefall.jpeg" alt="erasure poem: I am mobbed by/moments of weightlessness/ pulled in all directions at once" title="Same weird background as the last one, works a bit better here" class="responsive"><br>
+<img src="/assets/images/articles/2021/freefall.jpeg" alt="erasure poem: I am mobbed by/moments of weightlessness/ pulled in all directions at once" title="Same weird background as the last one, works a bit better here" class="responsive"><br>
 
 Taken from Crack Magazine, July 2021.
 

@@ -5,7 +5,7 @@ date:   2022-03-31
 tags: [erasure poetry]
 ---
 
-<img src="https://www.davidralphlewis.co.uk/assets/images/articles/2022/fragmented.jpeg" alt="erasure poem: Sounds twist/ begin to congeal./The sky speeds/becomes scattershot/and restless" title="I'm not sure what about the design of this one but it was split down the middle so played around with it." class="responsive"><br>
+<img src="/assets/images/articles/2022/fragmented.jpeg" alt="erasure poem: Sounds twist/ begin to congeal./The sky speeds/becomes scattershot/and restless" title="I'm not sure what about the design of this one but it was split down the middle so played around with it." class="responsive"><br>
 
 Taken from Crack Magazine, April 2022.
 

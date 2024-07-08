@@ -5,7 +5,7 @@ date: 2021-09-02
 comments: true
 tags: [erasure poetry]
 ---
-<img src="https://www.davidralphlewis.co.uk/assets/images/articles/2021/upgraded.jpeg" alt="erasure poem: the land completes its evolution/shimmers and sways/outside of space and time/ the logical endpoint/so we party" title="I knew taking endless photographs of landscapes would come in useful at some point" class="responsive"><br>
+<img src="/assets/images/articles/2021/upgraded.jpeg" alt="erasure poem: the land completes its evolution/shimmers and sways/outside of space and time/ the logical endpoint/so we party" title="I knew taking endless photographs of landscapes would come in useful at some point" class="responsive"><br>
 
 Taken from Crack Magazine, July 2021.
 

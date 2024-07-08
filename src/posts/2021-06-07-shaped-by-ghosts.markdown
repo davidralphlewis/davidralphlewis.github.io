@@ -6,7 +6,7 @@ tags: [erasure poetry]
 comments: true
 ---
 
-<img src="https://www.davidralphlewis.co.uk/assets/images/articles/2021/ghostshaped.jpeg" alt="erasure poem: phantasmagorias reimagine the lanscapes dissonance meets us at home -- and it sounds magnificent" title="was thinking how this one could be about the horrors of our histories littering our cities like the colston statue but couldn't quite make it work" class="responsive"><br>
+<img src="/assets/images/articles/2021/ghostshaped.jpeg" alt="erasure poem: phantasmagorias reimagine the lanscapes dissonance meets us at home -- and it sounds magnificent" title="was thinking how this one could be about the horrors of our histories littering our cities like the colston statue but couldn't quite make it work" class="responsive"><br>
 
 Taken from the reviews page of Crack Magazine, May 2021.
 

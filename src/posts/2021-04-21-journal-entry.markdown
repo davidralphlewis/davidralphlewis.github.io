@@ -6,7 +6,7 @@ tags: [erasure poetry]
 comments: true
 ---
 
-<img src="https://www.davidralphlewis.co.uk/assets/images/articles/2021/unreal.jpeg" class="responsive"><br>
+<img src="/assets/images/articles/2021/unreal.jpeg" class="responsive"><br>
 
 Taken from an old *New Yorker*
 

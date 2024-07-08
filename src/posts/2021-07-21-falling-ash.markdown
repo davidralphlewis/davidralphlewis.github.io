@@ -6,7 +6,7 @@ tags: [erasure poetry]
 comments: true
 ---
 
-<img src="https://www.davidralphlewis.co.uk/assets/images/articles/2021/meteors.jpeg" alt="Erasure poem: Shooting stars collide/with whispers of fog/ and escape" title="More shiny markers, really determined to get my moneys worth." class="responsive"><br>
+<img src="/assets/images/articles/2021/meteors.jpeg" alt="Erasure poem: Shooting stars collide/with whispers of fog/ and escape" title="More shiny markers, really determined to get my moneys worth." class="responsive"><br>
 
 Taken from Crack Magazine, July 2021.
 

@@ -5,7 +5,7 @@ date:   2023-02-23
 tags: [erasure poetry]
 ---
 
-<img src="https://www.davidralphlewis.co.uk/assets/images/articles/2023/rewild.jpeg" alt="erasure poem: What if you could make this nature new/ overflowing with movement and the unknown" title="I don't make erasure poetry any more, I rewild newspapers" class="responsive"><br>
+<img src="/assets/images/articles/2023/rewild.jpeg" alt="erasure poem: What if you could make this nature new/ overflowing with movement and the unknown" title="I don't make erasure poetry any more, I rewild newspapers" class="responsive"><br>
 
 Return your charade of a citadel back    
 to the abundant soil, the loan from loam   
