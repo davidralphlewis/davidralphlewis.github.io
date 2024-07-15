@@ -22,18 +22,13 @@
     <article>
     
 <h1> Skeleton Trees </h1>
-<p><i>Published on: <time datetime="2024-07-15T19:25:04.819Z">July 15, 2024</time></i></p
-<ul>
+<p><i>Published on: <time datetime="2024-07-15T19:36:32.880Z">July 15, 2024</time></i></p>
     
-    <li>
-        <a href="/posts/tag/posts">posts</a>
-    </li>
+       <a href="/posts/tag/posts">#posts</a>
     
-    <li>
-        <a href="/posts/tag/photos">photos</a>
-    </li>
+       <a href="/posts/tag/photos">#photos</a>
     
-</ul>
+	<br>
 <p><img src="/assets/images/articles/2021/skeletontree1.jpg" class="responsive"><br>
 <img src="/assets/images/articles/2021/skeletontree2.jpeg" class="responsive"><br>
 <img src="/assets/images/articles/2021/skeletontree3.jpeg" class="responsive"><br></p>

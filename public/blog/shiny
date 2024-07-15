@@ -22,18 +22,13 @@
     <article>
     
 <h1> Shiny </h1>
-<p><i>Published on: <time datetime="2024-07-15T19:25:05.073Z">July 15, 2024</time></i></p
-<ul>
+<p><i>Published on: <time datetime="2024-07-15T19:36:33.221Z">July 15, 2024</time></i></p>
     
-    <li>
-        <a href="/posts/tag/posts">posts</a>
-    </li>
+       <a href="/posts/tag/posts">#posts</a>
     
-    <li>
-        <a href="/posts/tag/erasure-poetry">erasure poetry</a>
-    </li>
+       <a href="/posts/tag/erasure-poetry">#erasure poetry</a>
     
-</ul>
+	<br>
 <p><img src="/assets/images/articles/2023/shiny.jpeg" alt="erasure poem: We all need glimpses of hope/ surprise moments of calm/ delicate breathing" title="Enjoyed destroying a silver marker for this one" class="responsive"><br></p>
 <p>Erasure poem taken from a random page of an unknown music magazine I had lying around.</p>
 
@@ -44,7 +39,7 @@
 	
 		<p>
 			<strong>Previous</strong>:
-			<a href="/posts/2023-05-19-Roaming/">Roaming</a>
+			<a href="/blog/roaming">Roaming</a>
         
         | 
 			<strong>Next</strong>:

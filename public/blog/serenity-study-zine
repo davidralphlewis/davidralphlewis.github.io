@@ -22,18 +22,13 @@
     <article>
     
 <h1> Serenity Study zine </h1>
-<p><i>Published on: <time datetime="2024-07-15T19:25:04.808Z">July 15, 2024</time></i></p
-<ul>
+<p><i>Published on: <time datetime="2024-07-15T19:36:32.852Z">July 15, 2024</time></i></p>
     
-    <li>
-        <a href="/posts/tag/posts">posts</a>
-    </li>
+       <a href="/posts/tag/posts">#posts</a>
     
-    <li>
-        <a href="/posts/tag/zines">zines</a>
-    </li>
+       <a href="/posts/tag/zines">#zines</a>
     
-</ul>
+	<br>
 <p>I turned my poem from <a href="/napowrimo-2020-day-27-serenity-study/">NaPoWriMo Day 27 </a>into a little zine.
 <img src="/assets/images/articles/sszine1.jpg" class="responsive"><br>
 <img src="/assets/images/articles/sszine2.jpg" class="responsive"><br>

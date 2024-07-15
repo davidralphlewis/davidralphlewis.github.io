@@ -22,18 +22,13 @@
     <article>
     
 <h1> Reality Adjustments </h1>
-<p><i>Published on: <time datetime="2024-07-15T19:25:04.872Z">July 15, 2024</time></i></p
-<ul>
+<p><i>Published on: <time datetime="2024-07-15T19:36:32.949Z">July 15, 2024</time></i></p>
     
-    <li>
-        <a href="/posts/tag/posts">posts</a>
-    </li>
+       <a href="/posts/tag/posts">#posts</a>
     
-    <li>
-        <a href="/posts/tag/publications">publications</a>
-    </li>
+       <a href="/posts/tag/publications">#publications</a>
     
-</ul>
+	<br>
 <p>Today I'm releasing an interactive poetry pamphlet called <em>Reality Adjustments.</em> It's a surreal dive into a city that is always changing, with mutating streets, strange jobs and one or two apocalypses There are different paths to follow, multiple different endings and elements that change depending on where you have been before.</p>
 <p>I started this project as a traditional poetry pamphlet, in a book format and worked on it for a couple of years. But I was never happy with the sequencing of the poems. The structure of the pamphlet seemed to change every time I looked at it. So after having it rejected a few times from publishers, I rewrote it using <a href="https://twinery.org/">TWINE</a>, an open source interactive fiction tool. It was useful to animate and change the text, turning in from a linear experience to a more interactive one. It's been a lot of fun adapting the project into this new format, visually laying out paths and learning a new form of code. I also added in some erasures and some AI generated images from <a href="https://pixray.gob.io/text2image/">Pixray</a> which seemed to fit the general unsettling tone. The result is somewhere between a work of interactive fiction and a poetry pamphlet.</p>
 <p>Mostly I made it for my own amusement, but I also wanted to publish these fever dreams that have haunted me for the last couple of years. I'm releasing it for free but if you like it you can always drop a few quid in my <a href="https://ko-fi.com/davidralphlewis">tip jar.</a></p>

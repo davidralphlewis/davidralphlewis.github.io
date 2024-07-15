@@ -22,18 +22,13 @@
     <article>
     
 <h1> Lunar </h1>
-<p><i>Published on: <time datetime="2024-07-15T19:25:04.447Z">July 15, 2024</time></i></p
-<ul>
+<p><i>Published on: <time datetime="2024-07-15T19:36:32.297Z">July 15, 2024</time></i></p>
     
-    <li>
-        <a href="/posts/tag/posts">posts</a>
-    </li>
+       <a href="/posts/tag/posts">#posts</a>
     
-    <li>
-        <a href="/posts/tag/erasure-poetry">erasure poetry</a>
-    </li>
+       <a href="/posts/tag/erasure-poetry">#erasure poetry</a>
     
-</ul>
+	<br>
 <p><img src="/assets/images/articles/lunar.jpeg" class="responsive"><br></p>
 <p>Taken from the review pages of Bristol In Stereo January 2019</p>
 

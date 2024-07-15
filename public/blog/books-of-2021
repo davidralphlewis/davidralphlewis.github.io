@@ -22,18 +22,13 @@
     <article>
     
 <h1> Books of 2021 </h1>
-<p><i>Published on: <time datetime="2024-07-15T19:25:04.849Z">July 15, 2024</time></i></p
-<ul>
+<p><i>Published on: <time datetime="2024-07-15T19:36:32.921Z">July 15, 2024</time></i></p>
     
-    <li>
-        <a href="/posts/tag/posts">posts</a>
-    </li>
+       <a href="/posts/tag/posts">#posts</a>
     
-    <li>
-        <a href="/posts/tag/year-in-review">year in review</a>
-    </li>
+       <a href="/posts/tag/year-in-review">#year in review</a>
     
-</ul>
+	<br>
 <p>Last year I got through 65 books. (I've kept a list <a href="https://notes.davidralphlewis.co.uk/books-read-2021">here</a>) Because I'm not really using GoodReads anymore,  I thought I would curate a few of my highlights:</p>
 <!--more-->
 <h2><em>Solutions and Other Problems</em> - Allie Brosh</h2>

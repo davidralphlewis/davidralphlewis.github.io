@@ -22,18 +22,13 @@
     <article>
     
 <h1> Shore </h1>
-<p><i>Published on: <time datetime="2024-07-15T19:25:04.490Z">July 15, 2024</time></i></p
-<ul>
+<p><i>Published on: <time datetime="2024-07-15T19:36:32.400Z">July 15, 2024</time></i></p>
     
-    <li>
-        <a href="/posts/tag/posts">posts</a>
-    </li>
+       <a href="/posts/tag/posts">#posts</a>
     
-    <li>
-        <a href="/posts/tag/erasure-poetry">erasure poetry</a>
-    </li>
+       <a href="/posts/tag/erasure-poetry">#erasure poetry</a>
     
-</ul>
+	<br>
 <p><img src="/assets/images/articles/shore.jpeg" class="responsive"><br></p>
 
 <br>

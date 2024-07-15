@@ -22,18 +22,13 @@
     <article>
     
 <h1> Bristol light festival </h1>
-<p><i>Published on: <time datetime="2024-07-15T19:25:04.551Z">July 15, 2024</time></i></p
-<ul>
+<p><i>Published on: <time datetime="2024-07-15T19:36:32.510Z">July 15, 2024</time></i></p>
     
-    <li>
-        <a href="/posts/tag/posts">posts</a>
-    </li>
+       <a href="/posts/tag/posts">#posts</a>
     
-    <li>
-        <a href="/posts/tag/photos">photos</a>
-    </li>
+       <a href="/posts/tag/photos">#photos</a>
     
-</ul>
+	<br>
 <p><img src="/assets/images/articles/lightfest1.jpg" class="responsive"><br>
 <img src="/assets/images/articles/lightfest2.jpg" class="responsive"><br></p>
 

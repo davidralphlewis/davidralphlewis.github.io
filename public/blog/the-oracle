@@ -22,18 +22,13 @@
     <article>
     
 <h1> The Oracle </h1>
-<p><i>Published on: <time datetime="2024-07-15T19:25:04.612Z">July 15, 2024</time></i></p
-<ul>
+<p><i>Published on: <time datetime="2024-07-15T19:36:32.617Z">July 15, 2024</time></i></p>
     
-    <li>
-        <a href="/posts/tag/posts">posts</a>
-    </li>
+       <a href="/posts/tag/posts">#posts</a>
     
-    <li>
-        <a href="/posts/tag/poetry">poetry</a>
-    </li>
+       <a href="/posts/tag/poetry">#poetry</a>
     
-</ul>
+	<br>
 <p>Forgive me, I have lost my lexicon<br>
 of the future. Now I search the tangled<br>
 entropy of brambles and bindweed.<br>

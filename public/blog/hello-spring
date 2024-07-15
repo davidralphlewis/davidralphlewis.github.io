@@ -22,18 +22,13 @@
     <article>
     
 <h1> Hello Spring </h1>
-<p><i>Published on: <time datetime="2024-07-15T19:25:04.557Z">July 15, 2024</time></i></p
-<ul>
+<p><i>Published on: <time datetime="2024-07-15T19:36:32.518Z">July 15, 2024</time></i></p>
     
-    <li>
-        <a href="/posts/tag/posts">posts</a>
-    </li>
+       <a href="/posts/tag/posts">#posts</a>
     
-    <li>
-        <a href="/posts/tag/photos">photos</a>
-    </li>
+       <a href="/posts/tag/photos">#photos</a>
     
-</ul>
+	<br>
 <p><img src="/assets/images/articles/seedlings.jpg" class="responsive"><br></p>
 <blockquote>
 <p>spring is like a perhaps<br>
