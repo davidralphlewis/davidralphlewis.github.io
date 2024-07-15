@@ -1,0 +1,13 @@
+---
+
+title: "Korembi"
+date: 2020-09-23
+
+comments: true
+tags: [photos]
+---
+
+<img src="/assets/images/articles/trees4.jpeg" class="responsive"><br>
+<img src="/assets/images/articles/trees5.jpeg" class="responsive"><br>
+
+> Komorebi (木漏れ日): the scattered light that filters through when sunlight shines through trees

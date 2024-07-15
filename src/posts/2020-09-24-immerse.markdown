@@ -1,0 +1,11 @@
+---
+
+title: "Immerse"
+date: 2020-09-24
+
+comments: true
+tags: [erasure poetry]
+---
+<img src="/assets/images/articles/immerse.jpeg" class="responsive"><br>
+
+Taken from Crack Magazine, February 2020.
