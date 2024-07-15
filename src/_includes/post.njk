@@ -12,3 +12,18 @@ layout: "base.njk"
     {% endfor %}
 </ul>
 {{ content | safe }}
+<br>
+<hr>
+
+
+	{% if prevPost.url %}
+		<p>
+			<strong>Previous</strong>:
+			<a href="{{ prevPost.url }}">{{ prevPost.data.title }}</a>
+        {% if nextPost.url %}
+        | 
+			<strong>Next</strong>:
+			<a href="{{ nextPost.url }}">{{ nextPost.data.title }}</a>
+		</p>
+	{% endif %}
+	{% endif %}

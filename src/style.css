@@ -24,6 +24,9 @@ body {
   color: #4a4a4a;
   background-color: var(--bg-color);
   padding: 13px;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
 }
 
 @media (max-width: 684px) {
@@ -44,6 +47,7 @@ main {
 
 footer {
 text-align: center;
+margin-top: auto;
 }
 h1, h2, h3, h4, h5, h6 {
   line-height: 1.1;
