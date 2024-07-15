@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/style.css">
+    <title> Resonance</title>
+</head>
+<body>
+    <header>
+         <a href="/" class="page-header__logo" title="Go home">
+            <img src="/assets/avatar.png" alt="" width="48">
+            </a>
+    
+            <nav>
+                <a href="/">Home</a> |
+                <a href="/about">About Me</a> | 
+                <a href="/blog">Blog</a>
+            </nav>
+            </header>
+<main>
+    <article>
+    
+<h1> Resonance </h1>
+<p><i>Published on: <time datetime="2024-07-15T19:25:04.588Z">July 15, 2024</time></i></p
+<ul>
+    
+    <li>
+        <a href="/posts/tag/posts">posts</a>
+    </li>
+    
+    <li>
+        <a href="/posts/tag/poetry">poetry</a>
+    </li>
+    
+</ul>
+<p>I joined a Facebook group [^1] which has daily prompts. This one was written in response to the prompt: &quot;How do you click: Write a poem filled with noise&quot; poem.</p>
+<p>It's the first day of lockdown, a week of social distancing and I feel this is representative of me missing the buzz and hum of humans in general.</p>
+<h2>Resonance</h2>
+<p>Days pass with the click of keys,<br>
+the confused mumblings of the wind,<br>
+unseen neighbours speaking, phrases<br>
+occasionally diffusing through walls.</p>
+<p>Underneath, I still hear an echo-<br>
+many voices merged into a chorus.<br>
+We were so melodic, weren't we?<br>
+We sang in such rare harmonies.</p>
+<p>Our vibrations still shake each<br>
+single brick, rumble along tarmac,<br>
+and cause dust to dance with joy.<br>
+Holding my breath, I listen.</p>
+<p>[^1]: Poetry in the time of being alone.</p>
+
+<br>
+<hr>
+
+
+	
+		<p>
+			<strong>Previous</strong>:
+			<a href="/blog/times-gone-weird">Time&#39;s gone weird</a>
+        
+        | 
+			<strong>Next</strong>:
+			<a href="/blog/whirl">Whirl</a>
+		</p>
+	
+	
+</article>
+</main>
+</body>
+<hr>
+<footer>
+    <p>Released by David Ralph Lewis under a Creative Commons Attribution-NonCommercial 4.0 International Licence </p>
+</footer>
+</html>

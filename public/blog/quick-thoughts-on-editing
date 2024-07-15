@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/style.css">
+    <title> Quick thoughts on editing</title>
+</head>
+<body>
+    <header>
+         <a href="/" class="page-header__logo" title="Go home">
+            <img src="/assets/avatar.png" alt="" width="48">
+            </a>
+    
+            <nav>
+                <a href="/">Home</a> |
+                <a href="/about">About Me</a> | 
+                <a href="/blog">Blog</a>
+            </nav>
+            </header>
+<main>
+    <article>
+    
+<h1> Quick thoughts on editing </h1>
+<p><i>Published on: <time datetime="2024-07-15T19:25:04.605Z">July 15, 2024</time></i></p
+<ul>
+    
+    <li>
+        <a href="/posts/tag/posts">posts</a>
+    </li>
+    
+    <li>
+        <a href="/posts/tag/writing">writing</a>
+    </li>
+    
+</ul>
+<p>From Warren Ellis' excellent <a href="http://orbitaloperations.com/">newsletter</a>[^1]</p>
+<blockquote>
+<p>The trick is never to let yourself believe it is pouring fully formed from your fingers into a submittable file.  It's all roughs.  It's layering. It's starting with the six lines you had, that you foolishly believe constitute &quot;an idea,&quot; and editing them and adding to them and sculpting them and building on them and then realising it's shit and saving that version, renaming the file and starting again, going back to where you went wrong and rewriting, until you feel like you have the shape of something that might actually be useful.&gt;</p>
+</blockquote>
+<p>I've been going over old writing and poems I did at the start of March and I remember none of it. Which is helpful, because then I can tear it apart and rebuild it.</p>
+<p>More than ever, I consider this building and shaping as Warren Ellis calls it to be the actual craft of writing. A lot of joy comes from changing things as you go. Very few things start immediately perfect, but they usually have a germ of an idea within them. There's a lot of fun in shifting and changing and altering to make that idea clearer or to get it to where you want to be. In the first draft, I find new images, but in subsequent ones I find a structure.</p>
+<p>[^1]: Which I highly recommend  and you should all be subscribed to.</p>
+
+<br>
+<hr>
+
+
+	
+		<p>
+			<strong>Previous</strong>:
+			<a href="/blog/inside">Inside</a>
+        
+        | 
+			<strong>Next</strong>:
+			<a href="/blog/the-oracle">The Oracle</a>
+		</p>
+	
+	
+</article>
+</main>
+</body>
+<hr>
+<footer>
+    <p>Released by David Ralph Lewis under a Creative Commons Attribution-NonCommercial 4.0 International Licence </p>
+</footer>
+</html>

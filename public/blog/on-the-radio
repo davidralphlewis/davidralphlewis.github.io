@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/style.css">
+    <title> On the radio</title>
+</head>
+<body>
+    <header>
+         <a href="/" class="page-header__logo" title="Go home">
+            <img src="/assets/avatar.png" alt="" width="48">
+            </a>
+    
+            <nav>
+                <a href="/">Home</a> |
+                <a href="/about">About Me</a> | 
+                <a href="/blog">Blog</a>
+            </nav>
+            </header>
+<main>
+    <article>
+    
+<h1> On the radio </h1>
+<p><i>Published on: <time datetime="2024-07-15T19:25:04.484Z">July 15, 2024</time></i></p
+<ul>
+    
+    <li>
+        <a href="/posts/tag/posts">posts</a>
+    </li>
+    
+    <li>
+        <a href="/posts/tag/publications">publications</a>
+    </li>
+    
+</ul>
+<p>I was very lucky to have a poem on BBC Radio Bristol's Upload show. The poem is called Encrypted and was written for <a href="https://facebook.com/profile.php?id=881907221970150&amp;ref=content_filter">Tonic</a>, which is an amazing night. You get given a prompt and you have a month to write a piece for it.</p>
+<p>The prompt I got was &quot;threw postcards in the shape of airplanes hoping they get to where they meant to&quot;. It pushed the poem in strange new directions I never would have thought of if I was just sitting down to write without a prompt.</p>
+<p>Thanks to Chris Beale for recording it and Upload for broadcasting it. It is nationwide across the UK and is a fantastic initiative. I'd really recommend <a href="https://www.bbc.co.uk/programmes/p07xtgyr">sending something in</a>.</p>
+<p><a href="https://www.bbc.co.uk/sounds/play/p07y148p">Listen here.</a> My poem is about an hour and a half in. It's on BBC Sounds until 23rd February.</p>
+<p>(Now <a href="https://youtu.be/tHAhnJbGy9M">this song</a> is in my head.)</p>
+
+<br>
+<hr>
+
+
+	
+		<p>
+			<strong>Previous</strong>:
+			<a href="/blog/assorted-news-and-links">Assorted news and links</a>
+        
+        | 
+			<strong>Next</strong>:
+			<a href="/blog/shore">Shore</a>
+		</p>
+	
+	
+</article>
+</main>
+</body>
+<hr>
+<footer>
+    <p>Released by David Ralph Lewis under a Creative Commons Attribution-NonCommercial 4.0 International Licence </p>
+</footer>
+</html>

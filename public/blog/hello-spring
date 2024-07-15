@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/style.css">
+    <title> Hello Spring</title>
+</head>
+<body>
+    <header>
+         <a href="/" class="page-header__logo" title="Go home">
+            <img src="/assets/avatar.png" alt="" width="48">
+            </a>
+    
+            <nav>
+                <a href="/">Home</a> |
+                <a href="/about">About Me</a> | 
+                <a href="/blog">Blog</a>
+            </nav>
+            </header>
+<main>
+    <article>
+    
+<h1> Hello Spring </h1>
+<p><i>Published on: <time datetime="2024-07-15T19:25:04.557Z">July 15, 2024</time></i></p
+<ul>
+    
+    <li>
+        <a href="/posts/tag/posts">posts</a>
+    </li>
+    
+    <li>
+        <a href="/posts/tag/photos">photos</a>
+    </li>
+    
+</ul>
+<p><img src="/assets/images/articles/seedlings.jpg" class="responsive"><br></p>
+<blockquote>
+<p>spring is like a perhaps<br>
+Hand in a window<br>
+(carefully to<br>
+and fro moving New and<br>
+Old things,while<br>
+people stare carefully<br>
+moving a perhaps<br>
+fraction of flower here placing<br>
+an inch of air there)and<br>
+without breaking anything.</p>
+</blockquote>
+<ul>
+<li><a href="https://poets.org/poem/spring-perhaps-hand">E.E. Cummings</a>&gt;</li>
+</ul>
+
+<br>
+<hr>
+
+
+	
+		<p>
+			<strong>Previous</strong>:
+			<a href="/blog/bristol-light-festival">Bristol light festival</a>
+        
+        | 
+			<strong>Next</strong>:
+			<a href="/blog/stillness">Stillness</a>
+		</p>
+	
+	
+</article>
+</main>
+</body>
+<hr>
+<footer>
+    <p>Released by David Ralph Lewis under a Creative Commons Attribution-NonCommercial 4.0 International Licence </p>
+</footer>
+</html>

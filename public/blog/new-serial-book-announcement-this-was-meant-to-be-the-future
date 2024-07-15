@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/style.css">
+    <title> New serial book announcement- This Was Meant to be the Future</title>
+</head>
+<body>
+    <header>
+         <a href="/" class="page-header__logo" title="Go home">
+            <img src="/assets/avatar.png" alt="" width="48">
+            </a>
+    
+            <nav>
+                <a href="/">Home</a> |
+                <a href="/about">About Me</a> | 
+                <a href="/blog">Blog</a>
+            </nav>
+            </header>
+<main>
+    <article>
+    
+<h1> New serial book announcement- This Was Meant to be the Future </h1>
+<p><i>Published on: <time datetime="2024-07-15T19:25:04.451Z">July 15, 2024</time></i></p
+<ul>
+    
+    <li>
+        <a href="/posts/tag/posts">posts</a>
+    </li>
+    
+    <li>
+        <a href="/posts/tag/this-was-meant-to-be-the-future">this was meant to be the future</a>
+    </li>
+    
+</ul>
+<p style="text-align: left;">Blimey, it's the year Twenty Twenty, a year that sounds incredibly futuristic. We're past the setting of <em>Blade Runner. </em>The world is different and weirder in ways we couldn't imagine before.</p>  
+<p>With that in mind, I'm announcing my next book of short stories, called <em>This Was Meant to be the Future.</em> I've been working on these stories for the last couple of years and it feels an appropriate time to release them.</p>
+<!--more-->  
+<p>There are 12 stories in total. They all exist in the same universe and tell an overall story, but should work as one offs. There's stories of sinister corporations, conspiracy theories, nanobots and new realities.</p>
+<p>I'm going to be releasing them monthly on this blog for free, then as a physical book and ebook. The best way to keep up to date with them is to subscribe to the blog, either by email or by RSS. Links are in the sidebar.</p>
+<p>Here's the titles of the stories and when they will be out. I'll link to them all when they go up.</p>
+<ol>  
+    <li><a href="/sirens/">January- Sirens</a></li>  
+    <li><a href="/squeamish/">February- Squeamish</a></li>  
+    <li><a href="/truth-bombs/">March- Truth Bombs</a></li>  
+    <li><a href="/a-response-from-the-black-box/">April- A Response from the Black Box</a></li>  
+    <li><a href="/FCIC10/">May- #FCIC10</a></li>  
+    <li><a href="/the-sky-is-damaged/">June- The Sky is Damaged</a></li>  
+    <li><a href="/into-the-night/">July- Into the Night</a></li>  
+    <li><a href="/advert-break/">August- Advert Break</a></li>  
+    <li><a href="/the-garden/">September- The Garden</a></li>  
+    <li><a href="/a-trip-to-c-mart/">October- Welcome to C-Mart</a></li>  
+    <li><a href="/Technical-Support/">November- Tech Support</a></li>  
+    <li><a href="/Auld-Lang-Syne/">December- Auld Lang </a></li>  
+</ol>  
+<p>The first story will be out next week.</p>
+<p>Here's a cover. I'll also stick this as a featured image on all the stories so they are easily identifiable.</p>
+<p><img src="/assets/images/articles/twmtbtfcover.png" class="small"><br></p>
+<p>Finally, if you like the book, please consider <a href="https://ko-fi.com/davidralphlewis">buying me a coffee</a>. Of course, there's no obligation and you can enjoy the free stories anyway.</p>
+
+<br>
+<hr>
+
+
+	
+		<p>
+			<strong>Previous</strong>:
+			<a href="/blog/lunar">Lunar</a>
+        
+        | 
+			<strong>Next</strong>:
+			<a href="/blog/early-swim">Early Swim</a>
+		</p>
+	
+	
+</article>
+</main>
+</body>
+<hr>
+<footer>
+    <p>Released by David Ralph Lewis under a Creative Commons Attribution-NonCommercial 4.0 International Licence </p>
+</footer>
+</html>

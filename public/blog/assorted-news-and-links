@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/style.css">
+    <title> Assorted news and links</title>
+</head>
+<body>
+    <header>
+         <a href="/" class="page-header__logo" title="Go home">
+            <img src="/assets/avatar.png" alt="" width="48">
+            </a>
+    
+            <nav>
+                <a href="/">Home</a> |
+                <a href="/about">About Me</a> | 
+                <a href="/blog">Blog</a>
+            </nav>
+            </header>
+<main>
+    <article>
+    
+<h1> Assorted news and links </h1>
+<p><i>Published on: <time datetime="2024-07-15T19:25:04.476Z">July 15, 2024</time></i></p
+<ul>
+    
+    <li>
+        <a href="/posts/tag/posts">posts</a>
+    </li>
+    
+    <li>
+        <a href="/posts/tag/link-round-up">link round up</a>
+    </li>
+    
+</ul>
+<ul>
+<li>
+<p>Theres a new poem of mine up on <em>Fevers of the Mind</em>. Its called <em>Failed Hypothesis</em>, <a href="https://feversofthemind.wordpress.com/2020/01/20/failed-hypothesis-c-david-ralph-lewis/">go here</a> to read it.</p>
+</li>
+<li>
+<p>I love these cold clear winter days. Here's a photo I took yesterday by the harbour:</p>
+</li>
+</ul>
+<p><img src="/assets/images/articles/harbour.jpeg" class="responsive"><br></p>
+<ul>
+<li>If you're writing anything in any capacity you should take some time to read <a href="http://www.kaliwallace.com/news/2020/1/12/your-heart-is-a-moving-target">this amazing essay</a> by Kali Wallace. It's something I've touched on before, the pressure to keep working, but articulated so beautifully and painfully:</li>
+</ul>
+<blockquote>
+<p>Write something else. Write it faster. And network more, because those failures are your fault. You don't follow enough writers on Twitter. You don't read enough agent newsletters. You don't go to enough conventions. You don't know the right people.&gt;</p>
+</blockquote>
+<p>Oof.</p>
+<ul>
+<li>
+<p>Philip Levine reads <a href="https://m.youtube.com/watch?v=1Jg6_7inIRg&amp;feature=youtu.be">Let Me Begin Again</a>. Just a stunning poem.</p>
+</li>
+<li>
+<p>On poetry, here's <a href="https://podplayer.net/?id=93172264">readings</a> from the recent T. S. Eliot prize. UK poetry is in a great space at the moment.</p>
+</li>
+</ul>
+
+<br>
+<hr>
+
+
+	
+		<p>
+			<strong>Previous</strong>:
+			<a href="/blog/sirens">Sirens</a>
+        
+        | 
+			<strong>Next</strong>:
+			<a href="/blog/on-the-radio">On the radio</a>
+		</p>
+	
+	
+</article>
+</main>
+</body>
+<hr>
+<footer>
+    <p>Released by David Ralph Lewis under a Creative Commons Attribution-NonCommercial 4.0 International Licence </p>
+</footer>
+</html>
