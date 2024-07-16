@@ -1,7 +1,7 @@
 ---
 title: "Always That Chimeric Skyline"
 date: 2024-05-29
-tags: [poetry]
+tags: poetry
 permalink:
 ---
 
