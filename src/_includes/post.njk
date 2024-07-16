@@ -7,11 +7,10 @@ layout: "base.njk"
     {% for tag in tags %}
        <a href="/posts/tag/{{ tag | slugify }}">#{{ tag }}</a>
     {% endfor %}
-	<br>
+</br>
 {{ content | safe }}
-<br>
-<hr>
-
+</br>
+<hr></hr>
 
 	{% if prevPost.url %}
 		<p>

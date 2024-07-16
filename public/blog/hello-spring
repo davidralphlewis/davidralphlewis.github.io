@@ -22,13 +22,13 @@
     <article>
     
 <h1> Hello Spring </h1>
-<p><i>Published on: <time datetime="2024-07-16T10:34:16.544Z">July 16, 2024</time></i></p>
+<p><i>Published on: <time datetime="2024-07-16T10:41:58.520Z">July 16, 2024</time></i></p>
     
        <a href="/posts/tag/posts">#posts</a>
     
        <a href="/posts/tag/photos">#photos</a>
     
-	<br>
+</br>
 <p><img src="/assets/images/articles/seedlings.jpg" class="responsive"><br></p>
 <blockquote>
 <p>spring is like a perhaps<br>
@@ -46,9 +46,8 @@ without breaking anything.</p>
 <li><a href="https://poets.org/poem/spring-perhaps-hand">E.E. Cummings</a>&gt;</li>
 </ul>
 
-<br>
-<hr>
-
+</br>
+<hr></hr>
 
 	
 		<p>
