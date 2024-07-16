@@ -3,7 +3,7 @@ title: "2019: books of the year"
 date: 2020-01-08
 comments: true  
 tags: [year in review]  
----  
+---
 
 In 2019, I read 66 books, but a lot were poetry chapbooks or graphic novels. You can see most of the list on my <a rel="noopener noreferrer" href="http://www.goodreads.com/user_challenges/14946242">GoodReads</a> page if you want.  
 

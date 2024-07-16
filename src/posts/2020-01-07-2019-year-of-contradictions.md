@@ -3,13 +3,11 @@ title: "2019: year of contradictions"
 date: 2020-01-07
 comments: true  
 tags: [year in review]  
----  
+---
 
 I'm late to the party with my year wrap up. It's already the roaring twenties. [^1] But I still think it is worth looking at where we have been so we can look to the future.  
 
 In many ways, the last year of the decade was a contradictory one. There seemed to be such hope in the air with the protests against injsutice and climate emergencies, yet people routinely voted for selfish, narrowminded parties. Brexit seemed a hopeless prospect and yet people were determined to push it through. There was so much joy and within the same moments, so much panic and sadness.  
-
-<!--more-->  
 
 These are all problems that have been building over the last years. It seems fitting that as the last year of the decade, 2019 was the most whiplash inducing one yet. Sunshine! War! Hope! Crushing despair! All within the next five minutes.  
 
