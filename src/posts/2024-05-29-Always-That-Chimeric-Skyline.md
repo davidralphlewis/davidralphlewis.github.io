@@ -2,7 +2,7 @@
 title: "Always That Chimeric Skyline"
 date: 2024-05-29
 tags: poetry
-permalink:
+
 ---
 
 Streets now sliced streaks of   
