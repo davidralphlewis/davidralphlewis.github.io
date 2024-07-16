@@ -1,5 +1,4 @@
 ---
-
 title:  Slowing Down
 date:   2022-11-24
 tags: [creativity]

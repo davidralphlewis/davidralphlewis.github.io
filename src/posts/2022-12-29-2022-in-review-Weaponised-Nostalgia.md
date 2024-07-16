@@ -1,5 +1,4 @@
 ---
-
 title:  "2022 in Review: Weaponised Nostalgia"
 date:   2022-12-29
 tags: [year in review]

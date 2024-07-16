@@ -1,6 +1,5 @@
 ---
 title: Pressure Drop
-
 date: 2024-04-01
 tags:
   - erasure poetry
