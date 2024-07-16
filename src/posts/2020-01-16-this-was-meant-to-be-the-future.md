@@ -1,5 +1,4 @@
 ---  
-  
 title: New serial book announcement- This Was Meant to be the Future  
 date: 2020-01-16
 comments: true  

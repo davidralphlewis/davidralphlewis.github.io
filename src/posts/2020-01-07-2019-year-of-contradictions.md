@@ -1,4 +1,4 @@
----  
+---
 title: "2019: year of contradictions"  
 date: 2020-01-07
 comments: true  
