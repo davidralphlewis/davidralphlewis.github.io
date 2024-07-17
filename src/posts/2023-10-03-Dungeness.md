@@ -3,7 +3,7 @@ title: Dungeness
 
 date: 2023-10-03
 tags: [poetry]
-permalink:
+
 ---
 
 Nothing grows here but sea kale   

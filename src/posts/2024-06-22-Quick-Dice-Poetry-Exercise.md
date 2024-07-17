@@ -3,7 +3,7 @@ title: Quick Dice Poetry Exercise
 date: 2024-06-22
 tags:
   - creativity
-permalink:
+
 ---
 
 When I wrote about [creativity and *Dungeons and Dragons*](/creativity-lessons-from-dnd/), I mentioned I had adapted roll tables to create a random poetry prompt. I thought I'd write up the process in case it's useful for anyone else.

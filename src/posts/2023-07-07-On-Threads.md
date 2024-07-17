@@ -3,7 +3,7 @@ title: "On Threads"
 
 date: 2023-07-07
 tags: [internet]
-permalink:
+
 ---
 
 By now you would have seen there's a new social network in town. Threads is a Twitter alternative made by Meta[^1] and closely linked with Instagram. I signed up out of curiosity and almost immediately regretted it. 

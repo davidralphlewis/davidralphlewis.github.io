@@ -3,7 +3,7 @@ title: "How long until your inlet valve chokes up"
 date: 2024-04-19
 tags:
   - poetry
-permalink:
+
 ---
 
 with lint and grime? Oil seeps into every    

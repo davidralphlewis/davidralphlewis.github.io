@@ -3,7 +3,7 @@ title: Gathering
 
 date: 2024-02-27
 tags: "[poetry]"
-permalink:
+
 ---
 
 We are racing against the dying of the day    

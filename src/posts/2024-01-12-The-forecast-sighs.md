@@ -2,7 +2,7 @@
 title: "The forecast sighs"
 date: 2024-01-12
 tags: [poetry]
-permalink:
+
 ---
 
 Amber and scarlet triangles describe   

@@ -2,6 +2,356 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     
         <url>
+            <loc>/posts/2019-01-06-resolutions/</loc>
+            <lastmod>2019-01-06T00:00:00.000Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/posts/2019-01-15-annihilation/</loc>
+            <lastmod>2019-01-15T00:00:00.000Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/posts/2019-01-27-starting-again/</loc>
+            <lastmod>2019-01-27T00:00:00.000Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/posts/2019-02-08-sharp-objects-and-genre-blindspots/</loc>
+            <lastmod>2019-02-08T00:00:00.000Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/posts/2019-03-04-making-the-familiar-strange/</loc>
+            <lastmod>2019-03-04T00:00:00.000Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/posts/2019-03-11-hunted/</loc>
+            <lastmod>2019-03-11T00:00:00.000Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/posts/2019-03-22-matter/</loc>
+            <lastmod>2019-03-22T00:00:00.000Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/posts/2019-04-01-napowrimo-2019-day-1/</loc>
+            <lastmod>2019-04-01T00:00:00.000Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/posts/2019-04-02-napowrimo-2019-day-2/</loc>
+            <lastmod>2019-04-02T00:00:00.000Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/posts/2019-04-03-napowrimo-2019-day-3/</loc>
+            <lastmod>2019-04-03T00:00:00.000Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/posts/2019-04-04-napowrimo-2019-day-4/</loc>
+            <lastmod>2019-04-04T00:00:00.000Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/posts/2019-04-05-napowrimo-day-5-2/</loc>
+            <lastmod>2019-04-05T00:00:00.000Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/posts/2019-04-06-napowrimo-2019-day-6/</loc>
+            <lastmod>2019-04-06T00:00:00.000Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/posts/2019-04-07-napowrimo-2019-day-7/</loc>
+            <lastmod>2019-04-07T00:00:00.000Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/posts/2019-04-08-napowrimo-2019-day-8/</loc>
+            <lastmod>2019-04-08T00:00:00.000Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/posts/2019-04-09-napowrimo-2019-day-9/</loc>
+            <lastmod>2019-04-09T00:00:00.000Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/posts/2019-04-10-napowrimo-2019-day-10/</loc>
+            <lastmod>2019-04-10T00:00:00.000Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/posts/2019-04-11-napowrimo-2019-day-11/</loc>
+            <lastmod>2019-04-11T00:00:00.000Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/posts/2019-04-12-napowrimo-2019-day-12/</loc>
+            <lastmod>2019-04-12T00:00:00.000Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/posts/2019-04-13-napowrimo-2019-day-13/</loc>
+            <lastmod>2019-04-13T00:00:00.000Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/posts/2019-04-14-napowrimo-2019-day-14/</loc>
+            <lastmod>2019-04-14T00:00:00.000Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/posts/2019-04-15-napowrimo-2019-day-15/</loc>
+            <lastmod>2019-04-15T00:00:00.000Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/posts/2019-04-16-napowrimo-2019-day-16/</loc>
+            <lastmod>2019-04-16T00:00:00.000Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/posts/2019-04-17-napowrimo-2019-day-17/</loc>
+            <lastmod>2019-04-17T00:00:00.000Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/posts/2019-04-18-napowrimo-2019-day-18/</loc>
+            <lastmod>2019-04-18T00:00:00.000Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/posts/2019-04-19-napowrimo-2019-day-19/</loc>
+            <lastmod>2019-04-19T00:00:00.000Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/posts/2019-04-20-napowrimo-2019-day-20/</loc>
+            <lastmod>2019-04-20T00:00:00.000Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/posts/2019-04-21-napowrimo-2019-day-21/</loc>
+            <lastmod>2019-04-21T00:00:00.000Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/posts/2019-04-22-napowrimo-2019-day-22/</loc>
+            <lastmod>2019-04-22T00:00:00.000Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/posts/2019-04-23-napowrimo-2019-day-23/</loc>
+            <lastmod>2019-04-23T00:00:00.000Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/posts/2019-04-25-napowrimo-2019-day-25/</loc>
+            <lastmod>2019-04-25T00:00:00.000Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/posts/2019-04-26-napowrimo-2019-day-26/</loc>
+            <lastmod>2019-04-26T00:00:00.000Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/posts/2019-04-27-napowrimo-2019-day-27/</loc>
+            <lastmod>2019-04-27T00:00:00.000Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/posts/2019-04-28-napowrimo-2019-day-28/</loc>
+            <lastmod>2019-04-28T00:00:00.000Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/posts/2019-04-29-napowrimo-2019-day-29/</loc>
+            <lastmod>2019-04-29T00:00:00.000Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/posts/2019-04-30-napowrimo-2019-day-30/</loc>
+            <lastmod>2019-04-30T00:00:00.000Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/posts/2019-05-18-napowrimo-lessons/</loc>
+            <lastmod>2019-05-18T00:00:00.000Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/posts/2019-06-15-be-quiet-and-listen/</loc>
+            <lastmod>2019-06-15T00:00:00.000Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/posts/2019-06-25-subject-my-demise/</loc>
+            <lastmod>2019-06-25T00:00:00.000Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/posts/2019-08-16-how-to-be-free/</loc>
+            <lastmod>2019-08-16T00:00:00.000Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/posts/2019-08-22-brand-ambassador/</loc>
+            <lastmod>2019-08-22T00:00:00.000Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/posts/2019-09-10-escape-into-another-world/</loc>
+            <lastmod>2019-09-10T00:00:00.000Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/posts/2019-09-15-illusion/</loc>
+            <lastmod>2019-09-15T00:00:00.000Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/posts/2019-09-21-despite-it-all/</loc>
+            <lastmod>2019-09-21T00:00:00.000Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/posts/2019-09-24-new-book-announcement-our-voices-in-the-chaos/</loc>
+            <lastmod>2019-09-24T00:00:00.000Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/posts/2019-09-27-obscured/</loc>
+            <lastmod>2019-09-27T00:00:00.000Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/posts/2019-10-02-railway-lines/</loc>
+            <lastmod>2019-10-02T00:00:00.000Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/posts/2019-10-21-posters/</loc>
+            <lastmod>2019-10-21T00:00:00.000Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/posts/2019-10-24-winter-fog/</loc>
+            <lastmod>2019-10-24T00:00:00.000Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/posts/2019-10-25-rise/</loc>
+            <lastmod>2019-10-25T00:00:00.000Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/posts/2019-10-31-art-vs-reality/</loc>
+            <lastmod>2019-10-31T00:00:00.000Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/posts/2019-11-04-6-ways-to-promote-your-book/</loc>
+            <lastmod>2019-11-04T00:00:00.000Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/posts/2019-11-05-new-poem-at-highland-park-poetry/</loc>
+            <lastmod>2019-11-05T00:00:00.000Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/posts/2019-11-07-november/</loc>
+            <lastmod>2019-11-07T00:00:00.000Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/posts/2019-11-12-songs-for-november/</loc>
+            <lastmod>2019-11-12T00:00:00.000Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/posts/2019-11-13-reflections/</loc>
+            <lastmod>2019-11-13T00:00:00.000Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/posts/2019-11-16-accidental-plagarism/</loc>
+            <lastmod>2019-11-16T00:00:00.000Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/posts/2019-11-17-unreal-sunrise/</loc>
+            <lastmod>2019-11-17T00:00:00.000Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/posts/2019-11-21-the-crowd/</loc>
+            <lastmod>2019-11-21T00:00:00.000Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/posts/2019-11-23-dive/</loc>
+            <lastmod>2019-11-23T00:00:00.000Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/posts/2019-11-25-move-fast-and-break-things/</loc>
+            <lastmod>2019-11-25T00:00:00.000Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/posts/2019-11-28-this-election/</loc>
+            <lastmod>2019-11-28T00:00:00.000Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/posts/2019-12-01-christmas-in-bemmie/</loc>
+            <lastmod>2019-12-01T00:00:00.000Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/posts/2019-12-10-inside-my-commonplace-book/</loc>
+            <lastmod>2019-12-10T00:00:00.000Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/posts/2019-12-13-brace-brace-brace/</loc>
+            <lastmod>2019-12-13T00:00:00.000Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/posts/2019-12-14-two-poems-of-hope/</loc>
+            <lastmod>2019-12-14T00:00:00.000Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/posts/2019-12-20-tis-the-season/</loc>
+            <lastmod>2019-12-20T00:00:00.000Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/posts/2019-12-21-a-walk-in-the-woods/</loc>
+            <lastmod>2019-12-21T00:00:00.000Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/posts/2019-12-25-merry-christmas-everyone/</loc>
+            <lastmod>2019-12-25T00:00:00.000Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/posts/2019-12-31-were-here/</loc>
+            <lastmod>2019-12-31T00:00:00.000Z</lastmod>
+        </url>
+    
+        <url>
             <loc>/posts/2020-01-07-2019-year-of-contradictions/</loc>
             <lastmod>2020-01-07T00:00:00.000Z</lastmod>
         </url>
@@ -742,7 +1092,7 @@
         </url>
     
         <url>
-            <loc>/2023-in-review</loc>
+            <loc>/posts/2023-12-31-2023-in-review/</loc>
             <lastmod>2023-12-31T00:00:00.000Z</lastmod>
         </url>
     

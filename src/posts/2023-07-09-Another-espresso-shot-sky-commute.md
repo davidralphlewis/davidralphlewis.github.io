@@ -3,7 +3,7 @@ title: "Another espresso shot sky commute"
 
 date: 2023-07-09
 tags: [poetry]
-permalink:
+
 ---
 
 I define myself by edges--my skin,   

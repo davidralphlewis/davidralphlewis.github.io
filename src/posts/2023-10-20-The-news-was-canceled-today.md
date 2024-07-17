@@ -3,7 +3,7 @@ title: "The news was cancelled today"
 
 date: 2023-10-20
 tags: [poetry]
-permalink:
+
 ---
 because there was no danger or threat,  
 no unwanted developments. There were no murders  

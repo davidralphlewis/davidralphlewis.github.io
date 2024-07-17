@@ -1,6 +1,6 @@
 ---
 title: "End of the Road"
-date: 2020-06-29 12:00
+date: 2020-06-29
 comments: true
 tags: [erasure poetry]
 ---

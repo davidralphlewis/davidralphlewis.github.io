@@ -2,7 +2,7 @@
 title: "Personal Thoughts on Submissions"
 date: 2023-06-22
 tags: [writing]
-permalink:
+
 ---
 
 I've spent a lot of this year purposely retreating from my typical ways of writing, to try and reinvent my practise. As such I made a conscious decision not to submit to literary journals or competitions this year. While previously I have had some moderate success, I found I was basing too much of my perception of my writing on how it was received. 

@@ -3,7 +3,7 @@ title: "Creativity lessons from Dungeons and Dragons"
 date: 2024-05-24
 tags:
   - creativity
-permalink:
+
 ---
 
 For the last few years, I've been playing *Dungeons and Dragons* as a Dungeon Master. This is the person who creates the world and encounters for the players to explore. Every session is fun and I enjoy inventing increasingly strange situations for the party to react to. 

@@ -2,7 +2,7 @@
 title: "November 2022 Input"
 date: 2022-12-08
 tags: [input]
-permalink:
+
 ---
 
 November rattled by. I thought I was going to read more due to the dark days and frost but actually I went to a lot of gigs and generally enjoyed myself. And here in Bristol, the frost only started in December. Here's what I did read and consume. 

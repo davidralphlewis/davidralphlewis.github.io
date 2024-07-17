@@ -2,7 +2,7 @@
 title: The First Day of Mourning
 date: 2024-07-11
 tags: poetry
-permalink:
+
 ---
 Soon, they joined together in hordes  
 of increasing size, shudders running over  

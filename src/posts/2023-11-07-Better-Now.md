@@ -3,7 +3,7 @@ title: Better Now
 
 date: 2023-11-07
 tags: [poetry] 
-permalink:
+
 ---
 A flutter of flame consumed leaves  
 falls onto my crown, drifting embers.  

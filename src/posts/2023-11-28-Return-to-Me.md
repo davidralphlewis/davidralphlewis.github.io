@@ -2,7 +2,7 @@
 title: Return to Me
 date: 2023-11-28
 tags: [poetry]
-permalink:
+
 ---
 
 Once again, you find yourself barefoot,   

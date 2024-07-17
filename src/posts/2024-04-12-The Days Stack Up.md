@@ -2,7 +2,7 @@
 title: "The Days Stack Up"
 date: 2024-04-12
 tags: journaling
-permalink:
+
 ---
 
 Recently, I was speaking to someone about journaling, and I casually mentioned I'd kept a diary consistently for over ten years. As I said it, it seemed wrong, so I checked the next day. Yup. Over ten years. 

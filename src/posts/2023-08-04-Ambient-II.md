@@ -3,7 +3,7 @@ title: "Ambient II"
 
 date: 2023-08-04
 tags: [poetry]
-permalink:
+
 ---
 
 *After Aphex Twin*

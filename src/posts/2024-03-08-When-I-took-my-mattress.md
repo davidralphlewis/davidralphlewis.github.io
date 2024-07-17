@@ -3,7 +3,7 @@ title: When I took my mattress my duvet and their dreams
 
 date: 2024-03-08
 tags: "[poetry]"
-permalink:
+
 ---
 
 I said I was keeping them for safety and I almost believed it. I laid down in the middle of the nearest woodland and named it Mine. I rigged canvas between two branches but the wind whistled through my bone marrow. Waking in the night, I started a fire, using their dreams as kindling. I had plenty to spare. Still I did not sleep soundly, So I felled the ancient oaks and built a bed frame from the trunks, raising myself above the cold ground. When this failed, I chopped down every tree I could see, whittled and planed the wood to planks, transformed the land to make myself a shelter, created walls around my bed to define outside. 

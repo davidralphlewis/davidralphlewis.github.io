@@ -3,7 +3,7 @@ title: "In these days of sushi terrorism"
 
 date: 2023-05-05
 tags: [poetry]
-permalink:
+
 ---
 
 second hand bright ghosts collide,  

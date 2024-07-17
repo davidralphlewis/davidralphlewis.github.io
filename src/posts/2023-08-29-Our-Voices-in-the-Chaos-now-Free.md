@@ -3,7 +3,7 @@ title: "Our Voices in the Chaos- now Free"
 
 date: 2023-08-29
 tags: [publications]
-permalink:
+
 ---
 
 In 2018 I was writing poems and putting erasure poems onto Instagram (much the same as today.) A small press called *Selcouth Station* approached me and asked if I wanted to make a pamphlet around those erasure poems.  After a lot of work, the result was a hybrid pamphlet called *Our Voices in the Chaos*. 

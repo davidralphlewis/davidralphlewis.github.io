@@ -2,7 +2,7 @@
 title: "May and June 2023 Input"
 date: 2023-07-17
 tags: [input]
-permalink:
+
 ---
 
 This is slightly late as I've thrown myself back into the world after a halting start to the year. I joined a gym, started going to more things and exploring the new area we live in. I also went to Birmingham and other places around the country a bit more. 

@@ -3,7 +3,7 @@ title: "A Manifesto for Art as Self Care"
 
 date: 2024-01-25
 tags: [creativity] 
-permalink:
+
 ---
 
 I've been thinking a lot about creative 'rules' and how arbituary they are. As it's the new year, I've been wondering where I want to take my poetry and my creativity and have decided I want to do it for its own sake. I want to focus more on the wellbeing aspects of writing and making things rather than the end result.

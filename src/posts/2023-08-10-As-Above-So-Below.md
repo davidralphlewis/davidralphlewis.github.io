@@ -3,7 +3,7 @@ title: "As Above So Below"
 
 date: 2023-08-10
 tags: [poetry]
-permalink:
+
 ---
 
 ## 0.2

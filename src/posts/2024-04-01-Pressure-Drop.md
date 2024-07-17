@@ -3,7 +3,7 @@ title: Pressure Drop
 date: 2024-04-01
 tags:
   - erasure poetry
-permalink:
+
 ---
 <img src="/assets/images/articles/2024/pressure.jpeg" alt="erasure poem: That lonely sky has dimmed./ That bitter cold wind is in us" title="shiver of not quite summer rattles through me, storm approaching." class="responsive">
 

@@ -3,7 +3,7 @@ title: "2023 in Review: Personal reflections"
 
 date: 2024-01-06
 tags: 
-permalink:
+
 ---
 
 Once again I closed off last year and started the new one by filling out a [year compass](https://yearcompass.com/) booklet. Although the years are arbitrary, I find this time to reflect and reset immensely valuable. 

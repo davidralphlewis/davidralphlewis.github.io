@@ -3,7 +3,7 @@ title: "A Reminder to Myself"
 
 date: 2023-08-18
 tags: [poetry]
-permalink:
+
 ---
 
 If you are reading this on a screen   

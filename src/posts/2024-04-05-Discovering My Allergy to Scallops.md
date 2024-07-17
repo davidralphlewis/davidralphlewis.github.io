@@ -3,7 +3,7 @@ title: "Discovering My Allergy to Scallops"
 date: 2024-04-04
 tags:
   - poetry
-permalink:
+
 ---
 
 'You don't want to end up like me,'   

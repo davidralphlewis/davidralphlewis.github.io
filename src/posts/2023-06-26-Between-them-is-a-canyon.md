@@ -3,7 +3,7 @@ title: "Between them is a canyon"
 
 date: 2023-06-23
 tags: [poetry]
-permalink:
+
 ---
 
 They sometimes shine torches over the strata  
