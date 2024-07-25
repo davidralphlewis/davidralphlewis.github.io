@@ -23,7 +23,7 @@ watches the outline of waves, or imagined
 waves, breathes lingering deep without realising.  
 She hums half-remembered pop songs to herself  
 as wooden planks heave and slue below.  
-Occasionally, when the wind is wordless calm
-and she is thinking about piled dishes in the sink,
+Occasionally, when the wind is wordless calm   
+and she is thinking about piled dishes in the sink,  
 
 there is a reply.
