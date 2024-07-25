@@ -10,7 +10,7 @@ Her eyes have depths she did not realise.
 No sound but the slap, clap   
 of the metal hull bracing, leaping.
 
-With a chewed biro she writes messages
+With a chewed biro she writes messages  
 onto index cards, words scratched slight,  
 folds in half, then again, presses the crease  
 and *ooop*- drops the paper over the side,  
@@ -22,7 +22,7 @@ She waits for eddies to swirl reform,
 watches the outline of waves, or imagined  
 waves, breathes lingering deep without realising.  
 She hums half-remembered pop songs to herself  
-as wooden planks heave and slue below.
+as wooden planks heave and slue below.  
 Occasionally, when the wind is wordless calm
 and she is thinking about piled dishes in the sink,
 
