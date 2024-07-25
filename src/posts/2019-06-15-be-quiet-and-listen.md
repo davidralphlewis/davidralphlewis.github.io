@@ -3,7 +3,7 @@
 title: Be quiet and listen  
 date: 2019-06-15
 comments: true  
-categories: [poetry]  
+tags: [poetry]  
 ---  
 
 Open mic nights are wonderful spaces. They are brilliant places to try new work in front of audiences and get instant feedback. But more than that, they are places where you can listen to the voices of others and learn from them. It's essential in these times to be in the same space as others and listen to their words.  

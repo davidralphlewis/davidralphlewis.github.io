@@ -2,7 +2,7 @@
 title: Unreal sunrise  
 date: 2019-11-17
 comments: true  
-categories: [photos]  
+tags: [photos]  
 ---  
 
 <img src="/assets/images/articles/abstractsun.jpg" class="responsive"><br>

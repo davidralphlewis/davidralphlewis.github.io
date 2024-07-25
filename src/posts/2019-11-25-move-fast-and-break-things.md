@@ -2,7 +2,7 @@
 title: Move fast and break things  
 date: 2019-11-25
 comments: true  
-categories: [poetry]  
+tags: [poetry]  
 ---  
 
 We've found a way to monetize breath.<br />It's simply a game changer. Can you feel<br />the paradigms shifting under your feet?<br />We are shaking up the world like a snowglobe<br />and breaking traditions. Each inhale a cent,<br />each exhale is free. Thats it! Simple!  

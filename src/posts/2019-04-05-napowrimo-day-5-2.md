@@ -2,7 +2,7 @@
 title: NaPoWriMo 2019 Day 5  
 date: 2019-04-05
 comments: true  
-categories: [poetry] 
+tags: [poetry] 
 ---  
   
 <h2>Dissonance</h2>  

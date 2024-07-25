@@ -2,7 +2,7 @@
 title: "New Book Announcement- Our Voices In The Chaos"
 date: 2019-09-24 
 comments: true  
-categories: [publications]
+tags: [publications]
 masthead_style: banner
 featured_image: /assets/images/site/ourvoicescrop.jpg  
 ---  

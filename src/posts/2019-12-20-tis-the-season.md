@@ -2,7 +2,7 @@
 title: Tis the Season  
 date: 2019-12-20
 comments: true  
-categories: [poetry]  
+tags: [poetry]  
 ---  
 
 Come sip the festive juice.  

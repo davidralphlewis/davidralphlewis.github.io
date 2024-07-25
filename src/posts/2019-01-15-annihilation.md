@@ -2,7 +2,7 @@
 title: Thoughts on 'Annihilation'  
 date: 2019-01-15
 comments: true  
-categories: [book review]  
+tags: [book review]  
 ---  
 
 For my first book of the year, I sped through Jeff Vandermeer's *Annihilation*, the first in the Southern Reach Trilogy. It is classified as science fiction, but in this case it seems to be a catch-all category of "I dunno. Seems weird." Science fiction isn't really a good classification for this odd novel. From the very first moments, it is clear that this strange little book is delving deep into horror.  

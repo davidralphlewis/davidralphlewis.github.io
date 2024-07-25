@@ -3,7 +3,7 @@
 title: Escape into Another World  
 date: 2019-09-10  
 comments: true  
-categories: [books]  
+tags: [books]  
 ---  
 
 There is a persistent view that refuses to be shaken that science fiction and fantasy are pure escapism. Usually, this view is from people with limited experience of the genre. People like Ian McEwan, who when promoting his last book was sniffy about the escapist aspects of science fiction:  

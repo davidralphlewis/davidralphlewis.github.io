@@ -2,7 +2,7 @@
 title: Making the familiar strange  
 date: 2019-03-04
 comments: true  
-categories: [creativity]  
+tags: [creativity]  
 ---  
 I though I was a good typist. I've written on computers all my life. I type fast. But the truth is half my time is spent correcting errors. I write fast but sloppy. So I started to learn to touch type.   
 

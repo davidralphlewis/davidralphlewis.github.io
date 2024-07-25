@@ -2,7 +2,7 @@
 title: 6 Ways to Promote Your Book  
 date: 2019-11-04
 comments: true  
-categories: [stories]  
+tags: [stories]  
 ---   
 * Be active on social media.  Don’t just endlessly spam your book, engage with different conversations. Make book marketing personal!
 * Get a professional to design your cover. If the book is a romance novel, make sure they include archaic runes, a dragon, headshots of the cast of *Saved by the Bell: The New Class* and kittens. If it’s a fantasy novel, add two dragons.

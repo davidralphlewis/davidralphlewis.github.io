@@ -2,7 +2,7 @@
 title: Winter Fog  
 date: 2019-10-24  
 comments: true  
-categories: [photos]  
+tags: [photos]  
 ---  
 
 <img src="/assets/images/articles/fog1.jpg" class="responsive"><br>

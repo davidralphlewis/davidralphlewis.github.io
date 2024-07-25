@@ -2,7 +2,7 @@
 title: Sharp Objects and genre blindspots  
 date: 2019-02-08 
 comments: true  
-categories: [book review]  
+tags: [book review]  
 ---  
 Genre fiction is often used to describe science fiction and fantasy, but everything fits into a genre. People tend to dismiss sci-fi as not belonging to the real world and following set formulas. I admit to similar prejudices with crime novels, particularly those with detectives or journalists trying to solve a murder. There are some twists and red herrings, the protagonist gets personally involved due to their issues but by the end of the story it is all neatly resolved and the murderer is revealed. This is the narrow-minded view I have of the crime genre.  
 

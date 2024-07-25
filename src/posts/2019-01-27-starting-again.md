@@ -2,7 +2,7 @@
 title: Starting again  
 date: 2019-01-27 
 comments: true  
-categories: [writing]  
+tags: [writing]  
 ---  
 Towards the end of last year, I finished two major projects I had been working on for ages, a short story collection and a poetry collection. I finished them to a stage where only minor changes were needed.[^1] These sprawling ideas I had been carrying around in my head, my notebook and several disparate files suddenly existed as completed manuscripts.   
 <!--more-->  

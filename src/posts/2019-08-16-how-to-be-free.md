@@ -3,7 +3,7 @@
 title: How to Be Free  
 date: 2019-08-16
 comments: true  
-categories: [poetry]  
+tags: [poetry]  
 ---  
 Draw a line before your flat door.  
 Put up a sign saying Do Not Cross.  

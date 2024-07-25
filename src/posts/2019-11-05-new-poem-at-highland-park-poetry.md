@@ -2,7 +2,7 @@
 title: New poem at Highland Park Poetry  
 date: 2019-11-05 
 comments: true  
-categories: [publications]  
+tags: [publications]  
 ---  
 
 Hello, I'm really pleased to have a new poem at Highland Park Poetry called *Fluvial Dreams.* All the poems are water themed. Check it out <a href="http://highlandparkpoetry.org/themusesgallery.html">here</a>.   

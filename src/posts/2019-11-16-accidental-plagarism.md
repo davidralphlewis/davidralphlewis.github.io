@@ -2,7 +2,7 @@
 title: Accidental plagarism  
 date: 2019-11-16
 comments: true  
-categories: [creativity]  
+tags: [creativity]  
 ---  
 
 I read a poem at an open mic a couple of months back. I was quite pleased with it. Only recently did I realise the central image was almost the same as another poet's work who I had seen a couple of months before. Without realising it, I had completely ripped them off.  

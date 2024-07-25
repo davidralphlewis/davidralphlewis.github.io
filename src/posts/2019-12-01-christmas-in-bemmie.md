@@ -2,7 +2,7 @@
 title: Christmas in Bemmie  
 date: 2019-12-01 
 comments: true  
-categories: [photos]  
+tags: [photos]  
 ---  
 
 <img src="/assets/images/articles/bemmie1.jpg" class="responsive"><br>

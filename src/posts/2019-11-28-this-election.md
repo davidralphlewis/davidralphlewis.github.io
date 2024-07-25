@@ -2,7 +2,7 @@
 title: This election  
 date: 2019-11-28 
 comments: true  
-categories: [politics]  
+tags: [politics]  
 ---  
 
 I've been avoiding the election cycle because its just so depressing. Lies after misinformation after racist dogwhistles after lies. It's disheartening to see people support the Tories, who have messed everything up over the last ten years. At this point it feels more like Stockholm syndrome.  

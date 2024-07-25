@@ -3,7 +3,7 @@
 title: "Subject: My Demise"  
 date: 2019-06-25
 comments: true  
-categories: [stories]  
+tags: [stories]  
 ---  
 to: Computersciences@bru.ac.uk  
 

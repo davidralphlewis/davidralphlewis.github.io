@@ -2,7 +2,7 @@
 title: A walk in the woods  
 date: 2019-12-21 
 comments: true  
-categories: [photos]  
+tags: [photos]  
 ---  
 
 <img src="/assets/images/articles/westonbirt1.jpg" class="responsive"><br>

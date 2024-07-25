@@ -2,7 +2,7 @@
 title: Reflections  
 date: 2019-11-13 
 comments: true  
-categories: [photos]  
+tags: [photos]  
 ---  
 
 <img src="/assets/images/articles/harbourmirror.jpg" class="responsive"><br>

@@ -2,7 +2,7 @@
 title: Resolutions  
 date: 2019-01-06 
 comments: true  
-categories: [stories]  
+tags: [stories]  
 ---  
 
 I'll finally tidy up this place and keep it neat. It's too dark! Too many cobwebs and not enough flaming torches. I'll stop leaving tomes half opened on the lectern. Need to keep my ingredients in order. I can never find salamander's tails when I need them. Similarly, I will stop leaving half-finished potions around the place. The number of times I've been interrupted then come back to find the laboratory filled with a putrid purple smoke, I tell you... It's not good. I'm four hundred and seventy-two, I need to start clearing up after myself.  

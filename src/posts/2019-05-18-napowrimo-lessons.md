@@ -3,7 +3,7 @@
 title: NaPoWriMo Lessons  
 date: 2019-05-18  
 comments: true  
-categories: [poetry]  
+tags: [poetry]  
 ---  
 
 I've done NaPoWriMo for the last three years. I've found it hugely useful to create new poetry and improve my craft. The process of writing thirty poems in thirty days is not a great achievement, but it is a useful one. It highlighted a couple of things to me:  

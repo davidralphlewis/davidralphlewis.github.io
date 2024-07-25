@@ -1,0 +1,39 @@
+---  
+title: Whiplash and the Dangerous Myth of the Suffering Artist  
+date: 2018-05-23
+comments: true  
+tags: [films]  
+---  
+
+*Spoilers lie ahead.*  
+
+I finally got round to watching *Whiplash*. It's a great film about a drummer, Andrew in a prestigious school who wants to be the best jazz drummer that ever existed. He's shooting for genius, nothing less. He manages to draw the attention of the best music teacher in the school, Fletcher. Only problem is, Fletcher is a bully and his methods are abusive and dangerous.<!--more-->  
+
+By the end of the film, Fletcher is justified. He publicly embarrasses Andrew, and Andrew responds by producing an incredible drum solo. Andrew has achieved what he wanted.  Happy ending, smiles all round.  
+
+If you haven't seen it, I highly recommend it. There are some amazing performances, especially from J.K. Simmons[^1] and Miles Teller. It's sharply edited and incredibly tense throughout. I found myself screaming at the screen more than once, in a good way. Basically, I really enjoyed it. But I had big issues with the messages the film portrays.  
+
+Essentially, the film's argues the only path to genius is emotional and physical abuse. Fletcher is near sociopathic in his teaching methods. He emotionally abuses his students and throws cymbals at them. He forces Andrew to play for hours until he hits the right tempo. At the risk of sounding obvious, this is not healthy. This is not a way to become a genius, this is a way to burnout. Andrew becomes disconnected from the world, single-minded in his focus. At one point, he even gets into a car crash and tries to carry on with a recital, blood streaming from an open wound on his head. The film is less a portrayal of the jazz world and more an examination of what happens when a manipulative man takes advantage of his position of power to bully, cajole and gaslight his students.  
+
+There's a persistent myth in our culture that in order to be a great artist you need to sacrifice everything. That all art is built out of suffering. I think that's bullshit. Art is made from quiet moments, from constant practice, from focus and discipline. The myth of the suffering artist isn't helpful in the slightest, because it forces people to make bad decisions.  
+
+Your art is not more important than you. Look after yourself, first and foremost.  
+
+Which brings us back to *Whiplash*. Even though I enjoyed it, I still think it is dangerous because it adds to this myth that needs to be forgotten. Fletcher mostly gets away with his sociopathic behaviour because no one challenges him on his behaviour. He's widely regarded as a great jazz musician, so all of the students put up with the abuse. He also has a self-mythologising story about Charlie Parker that seemingly justifies his methods  
+
+The problem is, that show-stopping ending justifies him completely. He was right to continue hounding Andrew and his other students because Andrew produces a work of genius, a drum solo that lasts fifteen minutes and is incredible. Fletcher's tactics have been terrible but by Jove, they've got results. He was right. Never mind all the suffering he has inflicted, he has produced an artist of rare talent.  
+
+I worry this film is giving an example that you have to reject everything else in your life to create art. It tells people don't worry about all the abuse you're enduring, it has a greater purpose. It tells people you need to be practising every minute of every day or you won't be good enough.  
+
+The fact that Andrew is able to produce an incredible solo at the end of the film is not due to Fletcher's tactics. It is despite them. It is down to Andrew's practice, not to any verbal thrashings he receives. You could argue Fletcher's insults push Andrew further, but it's not worth the mental strain on others. It's clear Fletcher sees the other students that he doesn't deem to be geniuses as disposable.  
+
+The problem is, Andrew and Fletcher see art as a competition. A race to be the very best. In these terms, it's worth enduring suffering to get the very best art. But this is nonsense. Art is not a race against anyone. You will never get a medal saying yes, congratulations you are the best at arting. It is not something to be won. It's a deeply personal examination of the self. You shouldn't strive to be the best in the world, you should strive to be the best you can be. Even if you think you're the best, it's all subjective. Andrew falls victim to this delusion as well, thinking that his life is going to be so much better than his families. He believes he can be the best, which means everyone else has to, by definition, be lesser than him.  
+
+Yes, practice hard at your chosen art form. Try to be the best you can be. But it's OK to have breaks.[^2] It's alright to let life happen. It's even alright, whisper it, to be happy. You can still make good art whilst looking after yourself. You can even make great art. Being an artist should not require burning everything else on the bonfire of your obsession. If your art is causing you to have problems with your mental health, by all means, give it up for a bit. It is not more important than you.  
+
+Here's when I make my best stuff: When I'm happy. When I have the time. When I'm in a routine of practice.  chip away at things slowly, improving time after time until I get something I'm happy with. Then I start again, hopefully having learnt something. You may thrive under extreme pressure. But have balance. Make sure it does not consume you because that is just not healthy.  
+
+For all it's great moments and subtle examinations of character, *Whiplash* still perpetuates dangerous myths about art that harm more than they heal. That's why it should be viewed with a certain degree of suspicion. Every time Fletcher says "Not my tempo,", remember, this isn't healthy.  
+
+[^1]: His Oscar is well deserved.
+[^2]: Breaks actually help refocus you and make it easier to learn.

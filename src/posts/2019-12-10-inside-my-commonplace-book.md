@@ -2,7 +2,7 @@
 title: Inside my commonplace book  
 date: 2019-12-10 
 comments: true  
-categories: [creativity]  
+tags: [creativity]  
 ---  
 
 Recently on Twitter, I replied to [this](https://twitter.com/JohnMcCullough_/status/1202520178417946625) tweet about keeping a private anthology.

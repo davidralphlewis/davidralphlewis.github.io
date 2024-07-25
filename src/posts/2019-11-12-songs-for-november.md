@@ -2,7 +2,7 @@
 title: Songs for November  
 date: 2019-11-12
 comments: true  
-categories: [music]  
+tags: [music]  
 ---  
 
 Pauline Seawards shared this and I just had to share it as well.

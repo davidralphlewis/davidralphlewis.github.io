@@ -2,7 +2,7 @@
 title: Two poems of hope  
 date: 2019-12-14 
 comments: true  
-categories: [publications]  
+tags: [publications]  
 ---  
 
 <img src="/assets/images/articles/chaoshope1.jpg" class="responsive"><br>
