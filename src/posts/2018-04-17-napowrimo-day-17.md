@@ -1,9 +1,10 @@
 ---   
 title: NaPoWriMo 2018 Day 17  
-date: 2018-04-17 15:37  
+date: 2018-04-17 
 comments: true  
 tags: [poetry]
 ---  
+
 ## Escape  
 
 In the dissonant hours, when clouds  
