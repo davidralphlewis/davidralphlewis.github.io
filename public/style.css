@@ -41,7 +41,8 @@ body {
 }
 
 main {
-  max-width: 42em;
+  max-width: 45em;
+  width: 100%;
   margin: auto;
 }
 
@@ -63,6 +64,7 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
   font-size: 2.35em;
+  flex-grow: 1;
 }
 
 h2 {
