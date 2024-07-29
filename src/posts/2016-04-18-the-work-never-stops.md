@@ -1,0 +1,26 @@
+--- 
+title: The Work Never Stops  
+date: 2016-04-18
+comments: true  
+tags:  [creativity] 
+---  
+After I published my first book of short stories, <em><a href="/amberstars/">Amber Stars</a></em>, I took a week off writing. I enjoyed the achievement of actually finishing a project and publishing a book. So I kicked back, read some books, browsed the web a lot and created absolutely nothing.  
+
+Then after a week of slacking off, I started waking up at six again. I deleted unnecessary apps, stopped wasting time on websites and got back to work. I started writing again. Austin Kleon's <a href="http://austinkleon.com/show-your-work/">Share Your Work!</a> helped me refocus on what I want to do. It gave me a kick up the arse to start writing again, and to share my process some more.  
+<!--more-->  
+
+I resurrected a few long forgotten projects from my <a href="https://medium.com/the-writers-room/the-spark-file-8d6e7df7ae58#.ozmz1lw4u">spark file</a>, started hammering away at them and also started a couple of new ones. Each time I start a new piece of work, I feel like I have forgotten everything I knew previously. Sure, the ability to write is not lost but each new project has a different style, different rules. There are new characters to talk to as well as new situations and plots to discover.  
+
+There's so much to learn. I'm currently reading <a href="http://www.amazon.co.uk/Wonderbook-Illustrated-Creating-Imaginative-Fiction/dp/1419704427">Wonderbook</a> which makes me realise the world of fiction is a deep ocean. I'm just splashing around in the shallows. I constantly feel like I'm relearning the craft, but I also feel the craft and the work are endless.  
+
+There's a whole lifetime of art and fiction to discover and make. The creation of one book has only made me want to write another five. Ideas breed more ideas.  
+
+So the work never ends. It's like working out, where getting fitter is a continual process. There's never a definitive end point where you can say 'Yes, I have conquered fitness.' As you work out more and more, the reason to keep going becomes you enjoying the exercise itself. It's the same with writing, where the work itself becomes it's own reward. Eric Kim puts it well in an article about photography:  
+
+>   
+  Anyways, the rewards of the work that I do is never as satisfying as the work itself. When I finish writing a new ebook, while I do appreciate others giving me thanks, I’m always happiest when I’m actually in the process of writing, rather than looking at the final result.  
+</blockquote>  
+
+Eric Kim on <a href="http://petapixel.com/2016/04/12/photography-photographys-sake/">Petapixel</a>  
+
+By throwing myself back into the writing, the fears can be lessened and I can look forward to the next project. The enjoyment comes from imagining new stories and writing new projects.  

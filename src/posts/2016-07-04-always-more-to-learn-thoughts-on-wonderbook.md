@@ -1,0 +1,22 @@
+---  
+title: "Always more to learn: Thoughts on 'Wonderbook'"  
+date: 2016-07-04
+comments: true  
+tags:  [book review]  
+---  
+
+I've finished reading <em>Wonderbook: The Illustrated Guide to Creating Imaginative Fiction</em> by Jeff Vandermeer. It's a great read, full of useful information and exercises. Mostly, it is a nuts and bolts guide to stories and their various elements, characters, plotting, but the way it presented and the advice it gives about the imagination make it truly unique.  
+<!--more-->   
+There's a whole industry of books that tell you how to write. This one isn't aimed at the absolute beginner, but at those who are already writing fiction. The best advice for a beginner is to write often and write lots, whereas this focuses more on the structure and building blocks of stories. Generally, I find this construction work to be more useful in the second or third draft, when you are polishing the writing. The book is filled with extensive ideas help optimise drafts, from varying character's perspectives to the role of settings. These are really useful as references when you need to change a story that isn't working. Although you can read the book straight through, I found these lists to be more useful as guides to refer to later. The wealth of resources in this guide is staggering. In addition, there are pieces from well established fantasy writers throughout that offer different perspectives, as well as a whole host of online articles.  
+
+Apart from handy checklists, the main point of the book is an emphasis on the imagination and how it informs any creative endeavour. Anything can spark the imagination, the writer just needs to be open to it:  
+
+<blockquote>   
+  Bears should just be bears. Iguanas should be real. An iguana is not a plot outline. Except, it is the beginning of a plot outline, because the creative process can begin anywhere and look like anything.  
+</blockquote>  
+
+Imagination is often overlooked in these sorts of books in favour of craft. <em>Wonderbook</em> flips this idea on its head by showing it to be the most important aspect. By emphasising the initial sparks that start a story, it shows fiction is alive to any possibilities. Whole new worlds can be created from tiny details. A story can go in many unimaginable directions, all surprising and new. It's not just fantastical and sci fi fiction that feed on the power of the imagination. Every book is a whole new world that doesn't exist, that the author creates and fleshes out. As well as being inspiring, the presentation of the book works to spark the imagination, as it is filled to the brim with beautiful illustrations. Some are visual representations of ideas presented within the book, whereas others are lavishly detailed pieces inspired by other works of fiction. They work as a counterpoint to the book, helping you to understand the ideas presented in a different way, whilst simultaneously inspiring the imagination.  
+
+But why bother going back to the basics of storytelling if you have already written something? Well, I think it is important to continually remind yourself of the fact you know nothing. That's why these sorts of books are useful for writers at all levels, no matter how many books you have published. Take it back to the fundamentals each time to remind yourself that yes, you may have written a masterpiece, but this next story or book will be different. As I continue to write stories, I realise more and more that each story has it's own rules, characters and consequences to be discovered. There's always more to be learned about the craft of writing. <em>Wonderbook</em> made me realise that the ocean of fiction is vast and I am just paddling on the seashore. There's so much to explore and so much to create.  
+
+The book has inspired me to mess around a bit more with my stories and break out from realistic, literary fiction. However, whatever you write, in whatever genre, the book is an incredibly valuable resource.  
