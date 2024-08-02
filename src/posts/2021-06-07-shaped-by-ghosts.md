@@ -1,7 +1,6 @@
 ---
 title: "Shaped by Ghosts"
 date: 2021-06-07
-
 tags: [erasure poetry]
 comments: true
 ---

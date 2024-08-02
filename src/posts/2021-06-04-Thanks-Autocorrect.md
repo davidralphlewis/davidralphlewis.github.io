@@ -1,5 +1,4 @@
 ---
-
 title: "Thanks, Autocorrect"
 date: 2021-06-04
 comments: true

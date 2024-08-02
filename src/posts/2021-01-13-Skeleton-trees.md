@@ -1,7 +1,6 @@
 ---
 title: "Skeleton Trees"
 date: 2021-01-13
-
 tags: [photos]
 comments: true
 ---

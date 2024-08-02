@@ -1,5 +1,4 @@
 ---
-
 title: Towards the Light
 date: 2021-08-18
 comments: true

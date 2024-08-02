@@ -1,5 +1,4 @@
 ---
-
 title:  Lost to Fog
 date:   2021-12-08 
 tags: [erasure poetry]

@@ -1,5 +1,4 @@
 ---
-
 title: Existential Horror Disco
 date: 2021-10-20
 comments: true
