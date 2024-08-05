@@ -1,0 +1,11 @@
+---
+layout: "base.njk"
+---
+
+<h1> {{ title }} </h1>
+
+    {% for tag in tags %}
+       <a href="/posts/tag/{{ tag | slugify }}">#{{ tag }}</a>
+    {% endfor %}
+</br>
+{{ content | safe }}
