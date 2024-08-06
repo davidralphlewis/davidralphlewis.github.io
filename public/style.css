@@ -31,6 +31,8 @@ body {
   body {
     font-size: 1.35rem;
   }
+  nav li{
+    display: inline;}
 }
 main {
   max-width: 60em;
@@ -52,6 +54,11 @@ main {
     }
   }
 }
+
+nav li{
+  list-style-type: none;
+}
+
 
 article {
   display: grid;
