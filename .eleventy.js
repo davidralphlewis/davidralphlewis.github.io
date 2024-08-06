@@ -46,7 +46,6 @@ module.exports = function (eleventyConfig) {
         linkify: true
     };
 
-
     return {
 dir: {
     input: "src",

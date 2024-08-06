@@ -162,6 +162,13 @@ img, video {
   margin-bottom: 2.5rem;
 }
 
+.book {
+  height: auto;
+  max-width: 50%;
+  margin: auto;
+  margin-bottom: 2.5rem;
+}
+
 /* Pre and Code */
 pre {
   background-color: #f1f1f1;

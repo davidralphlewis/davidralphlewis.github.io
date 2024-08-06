@@ -2027,6 +2027,11 @@
         </url>
     
         <url>
+            <loc>/reality-adjustments/</loc>
+            <lastmod>2022-03-18T00:00:00.000Z</lastmod>
+        </url>
+    
+        <url>
             <loc>/posts/2022-03-31-fragmented/</loc>
             <lastmod>2022-03-31T00:00:00.000Z</lastmod>
         </url>
@@ -2487,13 +2492,18 @@
         </url>
     
         <url>
-            <loc>/posts/tag/projects/</loc>
+            <loc>/posts/tag/all/</loc>
             <lastmod>2024-08-04T18:41:13.497Z</lastmod>
         </url>
     
         <url>
             <loc>/refractionpamphlet/</loc>
             <lastmod>2024-08-05T18:38:18.037Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/projects/</loc>
+            <lastmod>2024-08-05T19:06:24.187Z</lastmod>
         </url>
     
 </urlset>

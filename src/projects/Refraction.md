@@ -4,7 +4,10 @@ comments: false
 permalink: /refractionpamphlet/
 ---
 
-I've made this book free, see download links below.
+*I've made this book free, see download links below.*
+
+<img src="/assets/images/site/refractioncover.jpg" class= "book" alt="Refraction cover">
+
 
 <p> A small micropamphlet of poetry  made during lockdown, when I was missing the sea. I self-published it in a limited physical run in October 2020.</p>
 

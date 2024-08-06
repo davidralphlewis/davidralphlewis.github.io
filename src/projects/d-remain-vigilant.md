@@ -8,8 +8,8 @@ author: false
 ---
 
 I've made this book free, see download links below.
-{: .notice--primary}
-<img src="/assets/images/site/remain.jpg"  class="img-fluid" alt="Remain Vigilant cover">
+
+<img src="/assets/images/site/remain.jpg" class="book" alt="Remain Vigilant cover">
 
 <blockquote> The system is set up to catch criminals, not to make them.</blockquote>
 
