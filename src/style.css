@@ -18,59 +18,82 @@ body {
   background-color: var(--bg-color);
   padding: 13px;
   min-height: 100vh;
+  margin: 0;
   display: flex;
   flex-direction: column;
 }
 
-@media (max-width: 684px) {
-  body {
-    font-size: 1.53rem;
-  }
-}
-@media (max-width: 382px) {
-  body {
-    font-size: 1.35rem;
-  }
-  nav li{
-    display: inline;}
-}
 main {
-  max-width: 60em;
+  max-width: 50em;
   margin: auto;
   width: 100%;
+  flex: 1;
 }
 
-.with-side-nav {
-  @media screen and (min-width: 980px) {
-    display: grid;
-    grid-template-columns: 20vw auto;
+ /* The side navigation menu */
+ .sidebar {
+  margin: 0;
+  padding: 0;
+  width: 200px;
+  background-color: var(--bg-color);
+  position: fixed;
+  height: 100%;
+  overflow: auto;
+}
 
-    nav {
-      @media screen and (min-height: 560px) {
-        position: sticky;
-        top: 50px;
-        height: 100vh;
-      }
-    }
+/* Sidebar links */
+.sidebar a {
+  display: block;
+  color: black;
+  padding: 8px;
+  text-decoration: none;
+}
+
+.sidebar p {
+  font-weight: 600;
+  font-size: large;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+/* Links on mouse-over */
+.sidebar a:hover:not(.active) {
+  background-color: var(--highlight-color);
+  color: var(--bg-color);
+}
+
+/* Page content. The value of the margin-left property should match the value of the sidebar's width property */
+div.content {
+  margin-left: 200px;
+  padding: 1px 16px;
+  height: 100%;
+}
+
+/* On screens that are less than 700px wide, make the sidebar into a topbar */
+@media screen and (max-width: 700px) {
+  .sidebar {
+    width: 100%;
+    height: auto;
+    position: relative;
+    border-bottom-color: var(--highlight-color);
+    border-bottom-width: 2px;
+  }
+  .sidebar a {float: left;}
+  div.content {margin-left: 0;}
+  .sidebar p{
+    text-align: center;
   }
 }
 
-nav li{
-  list-style-type: none;
-}
 
+.footer {
+   position: relative;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    border-top: #B50000 1px;
+    text-align: center;
+  }
 
-article {
-  display: grid;
-  grid-template-columns: 80vx auto;
-}
-
-footer {
-display: flex;
-align-items: center;
-border-top: 2px var(--highlight-color);
-margin-top: auto;
-}
 
 h1, h2, h3, h4, h5, h6 {
   line-height: 1.1;
@@ -280,4 +303,27 @@ label, legend, fieldset {
   display: block;
   margin-bottom: 0.5rem;
   font-weight: 600;
+}
+
+
+@media (max-width: 684px) {
+  body {
+    font-size: 1.53rem;
+  }
+}
+@media (max-width: 382px) {
+  body {
+    font-size: 1.35rem;
+  }
+  nav {
+    position: sticky;
+    top: 50px;
+    height: 100vh;
+    display: flex;
+    grid-template-columns: none;
+  }
+  nav ul,
+  nav li{
+    display: inline;
+    padding-right: 10px;}
 }

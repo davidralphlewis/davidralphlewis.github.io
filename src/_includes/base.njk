@@ -3,16 +3,20 @@
 {% include "head.njk" %}
 <body>
     <header>
-            </header>
+            </header>         
 <main>
     {% include "nav.njk" %}
     <article>
+        <div class="content">
     {{ content | safe }}
+</div>
 </article>
 </main>
 </body>
 <hr></hr>
 <footer>
+    <div class="footer">
     <p>Released by David Ralph Lewis under a Creative Commons Attribution-NonCommercial 4.0 International Licence </p>
+</div>
 </footer>
 </html>
