@@ -1,8 +1,8 @@
 
 :root {
-  --bg-color: #e6e4e4;
-  --link-color: #cf000f;
-  --highlight-color: #8B0000;
+  --bg-color: #f7e6ad;
+  --link-color: #ed4b32;
+  --highlight-color: #d20606;
   --button-color:#B50000 ;
 }
 
@@ -14,7 +14,7 @@ html {
 body {
   font-size: 1.8rem;
   line-height: 1.618;
-  color: #4a4a4a;
+  color: #0e0e0e;
   background-color: var(--bg-color);
   padding: 13px;
   min-height: 100vh;
@@ -24,7 +24,7 @@ body {
 }
 
 main {
-  max-width: 50em;
+  max-width: 60em;
   margin: auto;
   width: 100%;
   flex: 1;
@@ -136,6 +136,7 @@ h6 {
 p {
   margin-top: 0px;
   margin-bottom: 2.5rem;
+  line-height: 1.5;
 }
 
 small, sub, sup {
@@ -149,6 +150,7 @@ hr {
 a {
   text-decoration: underline dotted;
   color: var(--link-color);
+  font-weight: 600;
 }
 a:visited {
   color: var(--highlight-color);
