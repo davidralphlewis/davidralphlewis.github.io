@@ -1,6 +1,6 @@
 
 :root {
-  --bg-color: #f7e6ad;
+  --bg-color: #f9eecb ;
   --link-color: #ed4b32;
   --highlight-color: #d20606;
   --button-color:#B50000 ;
@@ -150,7 +150,7 @@ hr {
 a {
   text-decoration: underline dotted;
   color: var(--link-color);
-  font-weight: 600;
+  font-weight: 500;
 }
 a:visited {
   color: var(--highlight-color);
