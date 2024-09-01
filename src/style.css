@@ -57,8 +57,9 @@ main {
 
 /* Links on mouse-over */
 .sidebar a:hover:not(.active) {
-  background-color: var(--highlight-color);
-  color: var(--bg-color);
+  background: rgb(249,238,203);
+  background: linear-gradient(270deg, rgba(249,238,203,1) 0%, rgba(249,238,203,1) 3%, rgba(246,157,6,1) 100%); 
+  color: var(--button-color);
 }
 
 /* Page content. The value of the margin-left property should match the value of the sidebar's width property */
