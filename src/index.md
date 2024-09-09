@@ -9,26 +9,22 @@ I'm a poet and short story writer based in the south west of the UK, who writes 
 
 My writing has appeared in <em>Neon Magazine</em>, <em>Nine Muses Poetry</em> and <em>Marble Poetry</em>.
 
-This website has all my writings and my books. It's a little broken at the moment as I change from Jekyll to Eleventy. Haven't got pictures working for example. Oh well, we will get there
+This website has all my writings and my books. It's a work in progress as I switch from Jekyll to Eleventy, but we are mostly there.
 
- It has a blog I've been maintaining for 8 years. Subjects include art, politics, poems and anything else I fancy.
+It has a blog I've been maintaining for 8 years. Subjects include art, politics, poems and anything else I fancy.
 
 [Here](https://notes.davidralphlewis.co.uk/now) is what I'm up to now.
 
 
 ## Recent Posts
 
+<ul>
 {% assign top_posts = collections.posts | reverse %}
 {% for post in top_posts limit:5 | reverse %}
-### <a href="{{post.url}}">{{ post.data.title }}</a>
-<i><time datetime="{{ post.date | dateIso }}">{{ post.date | dateReadable }}</time><br/></i>
-{% excerpt post %}
 
-<a href="{{post.url}}">Read More </a>
-
-</br>
+<li><a href="{{post.url}}">{{ post.data.title }}</a> - <i><time datetime="{{ post.date | dateIso }}">{{ post.date | dateReadable }}</time><br/></i></li>
 {% endfor %}
-
+</ul>
 
 [All Posts](/blog)
 
