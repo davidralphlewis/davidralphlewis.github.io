@@ -8,7 +8,7 @@ permalink:
 those placeholders for unspoken  
 sorrow, please send instead  
 the first sunny morning in spring  
-when mist evoprates like breath  
+when mist evaporates like breath  
 as buildings and smiles are preserved   
 in amber. Send vivid, realistic dreams  
 where you reunite with long dead  
