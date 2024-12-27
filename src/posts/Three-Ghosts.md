@@ -33,7 +33,7 @@ Pan to a faded photograph
 half buried under rubble   
 that shows
 
-your living room. There you are. 
-Sat watching the Christmas film.
-There is the back of your head. 
-You turn to face the camera - 
+your living room. There you are.   
+Sat watching the Christmas film.  
+There is the back of your head.   
+You turn to face the camera -   
