@@ -2,6 +2,7 @@ const pluginRss = require("@11ty/eleventy-plugin-rss");
 const moment = require('moment');
 const markdownIt = require('markdown-it');
 
+
 moment.locale('en');
 module.exports = function (eleventyConfig) {
     eleventyConfig.addPassthroughCopy("./src/style.css");
@@ -40,12 +41,19 @@ module.exports = function (eleventyConfig) {
 		}
 		return post.templateContent;
 	}
-
+	let markdownIt = require("markdown-it");
+	let markdownItFootnote = require("markdown-it-footnote");
+	
 	const markdownItOptions = {
         html: true,
+		breaks: true, 
         linkify: true
     };
-
+ // configure the library with options
+ let markdownLib =  markdownIt(options).use(markdownItFootnote);
+ // set the library to process markdown files
+ config.setLibrary("md", markdownLib);
+ 
     return {
 dir: {
     input: "src",
