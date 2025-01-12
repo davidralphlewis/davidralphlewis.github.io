@@ -38,4 +38,4 @@ Some of the best moments in my game have when my players did something completel
 
 ## Above all, Have fun
 
-I wrote before about how we need [more play in our artistic practise](https://www.davidralphlewis.co.uk/art-is-play/) . Dungeons and Dragons is not a novel, or a film, it is a game. And games are fun. Ultimately, it helps to not take myself too seriously and to hold my ideas lightly. It's something I want to take forward more in my other creative work, to have fun with the work and be silly. 
+I wrote before about how we need [more play in our artistic practise](https://davidralphlewis.co.uk/posts/art-is-play/) . Dungeons and Dragons is not a novel, or a film, it is a game. And games are fun. Ultimately, it helps to not take myself too seriously and to hold my ideas lightly. It's something I want to take forward more in my other creative work, to have fun with the work and be silly. 

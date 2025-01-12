@@ -23,8 +23,8 @@ This is all to say everyone in the UK, not just the USA, should be very concerne
 
 ---
 
-Previous Years in Review: [2016](https://www.davidralphlewis.co.uk/posts/2016-the-year-the-internet-took-over/), [2017](https://www.davidralphlewis.co.uk/posts/2017-review-laughing-naked-emperor/), [2018](https://www.davidralphlewis.co.uk/posts/2018-in-review-a-poem/), [2019](https://www.davidralphlewis.co.uk/posts/2019-year-of-contradictions/). [2020](https://www.davidralphlewis.co.uk/posts/so-long-2020/), [2021](https://www.davidralphlewis.co.uk/posts/2021-in-review/), [2022](https://www.davidralphlewis.co.uk/posts/2022-in-review-weaponised-nostalgia/),
-[2023](https://www.davidralphlewis.co.uk/posts/2023-12-31-2023-in-review/)
+Previous Years in Review: [2016](https://davidralphlewis.co.uk/posts/posts/2016-the-year-the-internet-took-over/), [2017](https://davidralphlewis.co.uk/posts/posts/2017-review-laughing-naked-emperor/), [2018](https://davidralphlewis.co.uk/posts/posts/2018-in-review-a-poem/), [2019](https://davidralphlewis.co.uk/posts/posts/2019-year-of-contradictions/). [2020](https://davidralphlewis.co.uk/posts/posts/so-long-2020/), [2021](https://davidralphlewis.co.uk/posts/posts/2021-in-review/), [2022](https://davidralphlewis.co.uk/posts/posts/2022-in-review-weaponised-nostalgia/),
+[2023](https://davidralphlewis.co.uk/posts/posts/2023-12-31-2023-in-review/)
 
 
 

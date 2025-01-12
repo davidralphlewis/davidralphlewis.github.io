@@ -18,7 +18,7 @@ We have had callous and cruel sociopaths in power for too long, people who treat
 
 This is the problem with using nostalgia as a weapon- it is only of limited use. Politicians pushing the narrative that everything was better in the past are ignorant to the world as it is. The pre-pandemic world has gone and now we need to deal with the new world, with all it's new challenges and contradictions. Instead of attempting to go back to another time, we need to face the world we are in with clear eyes and deal with the situation as it is. 
 
-It's clear to me that our current leaders are no longer useful for the world we find ourselves in. We need new solutions. We need new systems. I hope in Britain and across the world we are on the brink of real, systemic change. Last year, in [my year in review post](https://www.davidralphlewis.co.uk/2021-in-review/), I concluded with: 
+It's clear to me that our current leaders are no longer useful for the world we find ourselves in. We need new solutions. We need new systems. I hope in Britain and across the world we are on the brink of real, systemic change. Last year, in [my year in review post](https://davidralphlewis.co.uk/posts/2021-in-review/), I concluded with: 
 
 > I just hope we can keep the momentum going and demand a better and fairer world, one not ruled by the greedy, the rich and the self-interested but one that works for the most amount of people. 
 
@@ -29,5 +29,5 @@ Or alternatively:
 https://youtu.be/1_q_Iip8bRY
 
 ---
-Previous Years in Review: [2016](https://www.davidralphlewis.co.uk/2016-the-year-the-internet-took-over/), [2017](https://www.davidralphlewis.co.uk/2017-review-laughing-naked-emperor/), [2018](https://www.davidralphlewis.co.uk/2018-in-review-a-poem/), [2019](https://www.davidralphlewis.co.uk/2018-in-review-a-poem/). [2020](https://www.davidralphlewis.co.uk/so-long-2020/), [2021](https://www.davidralphlewis.co.uk/2021-in-review/)
+Previous Years in Review: [2016](https://davidralphlewis.co.uk/posts/2016-the-year-the-internet-took-over/), [2017](https://davidralphlewis.co.uk/posts/2017-review-laughing-naked-emperor/), [2018](https://davidralphlewis.co.uk/posts/2018-in-review-a-poem/), [2019](https://davidralphlewis.co.uk/posts/2018-in-review-a-poem/). [2020](https://davidralphlewis.co.uk/posts/so-long-2020/), [2021](https://davidralphlewis.co.uk/posts/2021-in-review/)
  

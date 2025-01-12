@@ -7,7 +7,7 @@ permalink:
 ---
 
 I hadn't been to a poetry event in a little while, so when I saw [Milk Poetry](https://m.facebook.com/MilkPoetry/) were doing a special horror themed slam I signed up immediately. My work has often traded in the bizarre and surreal, mixing elements of horror in with poetry so it seemed a good fit.
-I performed [G-Man](https://www.davidralphlewis.co.uk/posts/2024-05-03-g%20man/)  which has become a favourite of mine. I didn't win, but that's not really the point of slams for me. It was exciting to see so many horror poets perform. 
+I performed [G-Man](https://davidralphlewis.co.uk/posts/posts/2024-05-03-g%20man/)  which has become a favourite of mine. I didn't win, but that's not really the point of slams for me. It was exciting to see so many horror poets perform. 
 
 What was great about the night is that it explored poetry outside of the typical spoken word realm. The prevailing genre for performance poetry is lyrical, personal experience turned into verse. I love this type of poetry and it is necessary and important to have spaces for these poems, especially those of marginalised voices or experiences outside the mainstream. But often it is seen as the only genre of poetry that can or should be performed by casual audiences, and I don't think that is necessarily the case.
 

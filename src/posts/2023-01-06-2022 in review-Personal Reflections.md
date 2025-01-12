@@ -4,7 +4,7 @@ date: 2023-01-03
 tags: [year in review]
 ---
 
-Following on from last week's [year in review post](https://www.davidralphlewis.co.uk/2022-in-review-weaponised-nostalgia/), which was more political in nature, I thought I would take some time to reflect on last year from a personal perspective. Each year I go through the [Year Compass](https://yearcompass.com/) as a ritual to close down the last year and set goals for the next, so this post is informed by that. 
+Following on from last week's [year in review post](https://davidralphlewis.co.uk/posts/2022-in-review-weaponised-nostalgia/), which was more political in nature, I thought I would take some time to reflect on last year from a personal perspective. Each year I go through the [Year Compass](https://yearcompass.com/) as a ritual to close down the last year and set goals for the next, so this post is informed by that. 
 
 It's also long and quite self indulgent so strap in.
 
@@ -18,7 +18,7 @@ We also travelled to Porto earlier in the year. After the two years of the pande
 
 In my day job, I was also lucky to get a promotion this year, which was very welcome. I feel like I'm finally making strides in my career and feel more confident with it.  
 
-I didn't write or submit a lot. A lot of my creative output in 2022 was typing up old poems or finishing off old projects, like [the game](https://www.davidralphlewis.co.uk/reality-adjustments/) I put out earlier this year. I didn't do much generation of new material, which is what I would like to get back to this year. But where I think I became much more confident is in performance. I was lucky enough to be asked to perform at a number of nights, including Fen Speak, Open Collab and Barry Hollow's book launch. I feel comfortable performing my nonsense on a stage to a bemused crowd.
+I didn't write or submit a lot. A lot of my creative output in 2022 was typing up old poems or finishing off old projects, like [the game](https://davidralphlewis.co.uk/posts/reality-adjustments/) I put out earlier this year. I didn't do much generation of new material, which is what I would like to get back to this year. But where I think I became much more confident is in performance. I was lucky enough to be asked to perform at a number of nights, including Fen Speak, Open Collab and Barry Hollow's book launch. I feel comfortable performing my nonsense on a stage to a bemused crowd.
 
 It's hard to sum up all the changes in a year. It seems like too long but also not long enough. But all told it was pretty good, where the world opened up more and possibilities showed themselves to me. 
 
@@ -87,4 +87,4 @@ Ps Kick the Tories out please and thank you.
 [^2]: I don't know if not being around people during the pandemic has wiped out my immune system, but I feel much more susceptible. 
 [^3]: I will write up December 2022 shortly.
 [^4]: Martha and Fortitude Valley share a couple of members but I think they are distinct enough to count separately.
-[^5]: I wrote about this a bit [here.](https://www.davidralphlewis.co.uk/slowing-down/)
+[^5]: I wrote about this a bit [here.](https://davidralphlewis.co.uk/posts/slowing-down/)
