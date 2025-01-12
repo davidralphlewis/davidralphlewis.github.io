@@ -1,6 +1,6 @@
 ---
 title: "2025: Year of enough"
-date: 2024-12-29
+date: 2025-01-12
 tags: [life]
 permalink:
 ---
