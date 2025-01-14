@@ -1,6 +1,6 @@
 ---
 title: Forwards
-date: 2025-01-06
+date: 2025-01-14
 tags: [poetry]
 permalink:
 ---
