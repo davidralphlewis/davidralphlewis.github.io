@@ -17,6 +17,7 @@ Larger things I have out in the world. Most of the books are available for free 
 - [Spare Parts](/spareparts/) was a collaboration with M. Amelia Eilki. She wrote flash fiction and I created blackout poetry from it.
 - [Refraction](/refractionpamphlet/) is a micro pamphlet about swimming. Free download.
 - [Reality Adjustments](/reality-adjustments/) A small interactive poetry pamphlet written in TWINE, about a city that is always changing. Free to play[here.](https://davidralphlewis.itch.io/reality-adjustments)
+- [Emergence](https://davidralphlewis.bigcartel.com/product/emergence)- A poetry pamphlet based around the idea of panpsychicism, or consciousness as an emergent property of the universe. An excuse to mess around with form. Still got a few left, link takes you to the shop.
 
 ## Plays
 
