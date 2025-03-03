@@ -41,22 +41,6 @@ module.exports = function (eleventyConfig) {
 		}
 		return post.templateContent;
 	}
-	import { eleventyImageTransformPlugin } from '@11ty/eleventy-img';
-
-	eleventyConfig.addPlugin(eleventyImageTransformPlugin, {
-		// which file extensions to process
-		extensions: 'html',
-		// optional, output image formats
-		formats: ['webp'],
-		// optional, output image widths
-		widths: ['auto', 400, 800],
-		// optional, attributes assigned on <img> override these values.
-		defaultAttributes: {
-			loading: 'lazy',
-			sizes: '100vw',
-			decoding: 'async',
-		},
-	});
 	
 	const markdownItOptions = {
         html: true,
