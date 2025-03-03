@@ -1,6 +1,5 @@
 ---
 title: drill baby drill
-layout: note
 date: 2025-02-11
 permalink: 
 tags:
