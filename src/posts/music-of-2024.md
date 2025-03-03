@@ -1,6 +1,5 @@
 ---
 title: Best Music of 2024
-layout: note
 date: 2024-12-31
 permalink: 
 tags: [year-in-review]
