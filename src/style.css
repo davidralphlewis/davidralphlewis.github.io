@@ -24,7 +24,7 @@ body {
 }
 
 main {
-  max-width: 60em;
+  max-width: 65em;
   margin: auto;
   width: 100%;
   flex: 1;
