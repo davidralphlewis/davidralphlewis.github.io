@@ -66,6 +66,12 @@ div.content {
   }
 }
 
+.avatar {
+  vertical-align: middle;
+  width: 75px;
+  height: 75px;
+  border-radius: 50%;
+}
 
 .footer {
    position: relative;
@@ -74,6 +80,7 @@ div.content {
     width: 100%;
     border-top: #B50000 1px;
     text-align: center;
+    font-size: small;
   }
 
 
