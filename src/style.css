@@ -73,8 +73,8 @@ div.content {
   border-radius: 50%;
 }
 
-.footer {
-   position: relative;
+{
+ position: relative;
     left: 0;
     bottom: 0;
     width: 100%;
@@ -190,7 +190,8 @@ blockquote {
   padding-right: 0.8em;
   border-left: 5px solid var(--highlight-color);
   margin-bottom: 2.5rem;
-  background-color: #8f8f8f;
+  background-color: var(--highlight-color);
+  color: #f1f1f1;
 }
 
 blockquote p {
