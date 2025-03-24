@@ -1,7 +1,7 @@
 ---
 title: "Gathering"
 date: 2021-06-23
-tags: [erasure poetry]
+tags: [erasure-poetry]
 comments: true
 ---
 

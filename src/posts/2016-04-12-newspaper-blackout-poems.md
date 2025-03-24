@@ -2,7 +2,7 @@
 title: Newspaper Blackout Poems  
 date: 2016-04-12 
 comments: true  
-tags:  [erasure poetry]  
+tags:  [erasure-poetry]  
 ---  
 In the past month, I've been messing around with a strange form of 'writing' called blackout poems. I was inspired by <a href="http://austinkleon.com/newspaperblackout/">Austin Kleon</a>, who helped popularise the form. Since then, hundreds of people have ran with it, creating new and different poetry using existing texts.  
 

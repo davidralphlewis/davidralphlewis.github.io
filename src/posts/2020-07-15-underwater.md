@@ -4,7 +4,7 @@ title: "Underwater"
 date: 2020-07-15
 
 comments: true
-tags: [erasure poetry]
+tags: [erasure-poetry]
 ---
 
 <img src="/assets/images/articles/underwater.jpeg" class="responsive"><br>

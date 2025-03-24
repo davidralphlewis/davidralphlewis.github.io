@@ -1,7 +1,7 @@
 ---
 title:  Communion
 date:   2021-11-15
-tags: [erasure poetry]
+tags: [erasure-poetry]
 ---
 
 <img src="/assets/images/articles/2021/communion.jpeg" alt="erasure poem: In liminal spaces/ I speak to the unimaginable./ Words falter,/ I return to silence" title="I love articles printed on black backgrounds" class="responsive"><br>

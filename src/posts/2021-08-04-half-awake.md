@@ -2,7 +2,7 @@
 title: Half Awake
 date: 2021-08-04
 comments: true
-tags: [erasure poetry]
+tags: [erasure-poetry]
 ---
 <img src="/assets/images/articles/2021/halfawake.jpeg" alt="erasure poem: after a sleepless night/the hidden structures are unforgiving/ yet something comfortable remains" title="The magazine fought me on their choice of background" class="responsive"><br>
 

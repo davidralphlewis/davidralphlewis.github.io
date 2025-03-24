@@ -2,7 +2,7 @@
 title: "Free From Distortion"
 date: 2021-03-11
 
-tags: [erasure poetry]
+tags: [erasure-poetry]
 comments: true
 ---
 

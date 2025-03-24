@@ -2,7 +2,7 @@
 title: "Revelations"
 date: 2020-06-22
 comments: true
-tags: [erasure poetry]
+tags: [erasure-poetry]
 ---
 
 <img src="/assets/images/articles/revelations.jpeg" class="responsive"><br>

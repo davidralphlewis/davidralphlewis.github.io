@@ -3,7 +3,7 @@
 title: "Supernova"
 date: 2020-10-06
 comments: true
-tags: [erasure poetry]
+tags: [erasure-poetry]
 ---
 <img src="/assets/images/articles/supernova.jpeg" class="responsive"><br>
 

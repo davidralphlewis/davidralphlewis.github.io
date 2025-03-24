@@ -3,7 +3,7 @@
 title: Dark matter    
 date: 2020-04-10   
 comments: true    
-tags: [erasure poetry]    
+tags: [erasure-poetry]    
 ---  
 
 <img src="/assets/images/articles/darkmatter.jpeg" class="responsive"><br>     

@@ -3,7 +3,7 @@
 title: "Corruption"
 date: 2020-12-17
 comments: true
-tags: [erasure poetry]
+tags: [erasure-poetry]
 ---
 <img src="/assets/images/articles/Corruption.jpeg" class="responsive"><br>
 
