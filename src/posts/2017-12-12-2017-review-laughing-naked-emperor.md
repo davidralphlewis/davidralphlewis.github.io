@@ -2,7 +2,7 @@
 title: "2017 in Review: Laughing at the Naked Emperor"  
 date: 2017-12-12
 comments: true  
-tags: [year in review]  
+tags: year-in-review  
 ---  
 So the year isn't technically over yet. There's still a good couple of weeks for things to go completely south. I'm travelling first thing next year so I thought I'd get my year in review in early.  
 

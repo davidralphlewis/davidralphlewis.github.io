@@ -3,7 +3,7 @@
 title: "Welcome to C-Mart"
 date: 2020-10-21
 comments: true
-tags: [this was meant to be the future]
+tags: [this-was-meant-to-be-the-future
 header:
   image: /assets/images/site/twmtbtf-banner.jpeg 
 series: "this was meant to be the future"

@@ -2,7 +2,7 @@
 title: "2018 in Review: A Poem"
 date: 2018-12-15
 comments: true  
-tags: [year in review]  
+tags: year-in-review  
 ---  
 
 In previous years I've written <a href="/2016-the-year-the-internet-took-over/">rambly</a>, <a href="/2017-review-laughing-naked-emperor/">angry</a> blog posts that tried to make sense of the world around me and mostly failed. This year I've given up trying to understand the world and instead have written a poem to sum up the year:<br />  

@@ -2,7 +2,7 @@
 title: "2016: The Year the Internet took over"  
 date: 2016-12-21 
 comments: true  
-tags:  [year in review]  
+tags:  year-in-review  
 ---  
 What a year. It started with David Bowie dying and somehow went downhill from there. <a href="/brexit-and-the-story-we-have-been-told/">A rabid </a>media stirring up <a href="/with-us-or-against-us-brexit-and-the-daily-mail/">hate</a> forced the British people to shoot themselves in the foot, whilst in the USA hate and intolerance won the day- if not the popular vote.  
 
