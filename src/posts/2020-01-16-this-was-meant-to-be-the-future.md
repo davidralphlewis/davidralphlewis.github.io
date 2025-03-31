@@ -2,7 +2,7 @@
 title: New serial book announcement- This Was Meant to be the Future  
 date: 2020-01-16
 comments: true  
-tags: [this-was-meant-to-be-the-future
+tags: [this-was-meant-to-be-the-future]
 header:
   image: /assets/images/site/twmtbtf-banner.jpeg  
 series: "this was meant to be the future"
