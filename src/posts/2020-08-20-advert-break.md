@@ -1,14 +1,10 @@
 ---
-
 title: "Advert Break"
 date: 2020-08-20
-
 comments: true
 tags: [this-was-meant-to-be-the-future]
-header:
-  image: /assets/images/site/twmtbtf-banner.jpeg 
-series: "this was meant to be the future"
 ---
+
 The opening shot is a still lake, first thing in the morning. The sun has just started to beam down on the water. It is a mirror, reflecting the perfect blue sky. There’s no clouds. Not here. The lake is surrounded by pine trees, all pristine as if they have been copy and pasted. There’s a pier that juts out from the bottom of the frame into the lake, with a small row boat tied to it. The boat has a cloth tarpaulin over it and oars sticking out.  A couple of boards are missing on the pier. Paint on the boat is peeling off. It only adds to the charm of the place. This is a place you feel calm and happy in. A place you’ve had recurring dreams about.
 
  A thin layer of mist hangs on top of the water, remnants of the morning, soon to be burnt off by the hot sun. The water shines golden, reflecting the rising sun.

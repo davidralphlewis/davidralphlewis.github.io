@@ -1,12 +1,8 @@
 ---  
-  
 title: Truth Bombs  
 date: 2020-03-20
 comments: true  
 tags: [this-was-meant-to-be-the-future]
-header:
-  image: /assets/images/site/twmtbtf-banner.jpeg 
-series: "this was meant to be the future"
 ---  
 
 <em>This is the third story in a series I’m publishing monthly throughout 2020. <a href="/new-serial-book-announcement-this-was-meant-to-be-the-future/">More details here.</a></em>  

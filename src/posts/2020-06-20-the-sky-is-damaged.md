@@ -3,9 +3,6 @@ title: "The Sky is Damaged"
 date: 2020-06-20
 comments: true
 tags: [this-was-meant-to-be-the-future]
-header:
-  image: /assets/images/site/twmtbtf-banner.jpeg 
-series: "this was meant to be the future"
 ---
 
 From her vantage point of the second highest branch, Cassie saw it first, growing over the horizon like a bruise. She often spent afternoons by herself in the garden, away from the noise of the house- The music pounding from her brother Jamie’s closed door, Sampson barking at nothing, the rumbling of the ancient boiler. Her parents constantly screaming at each other. Or worse, being polite through gritted teeth. Cassie preferred the relative silence of the garden. Birds might chirrup at each other, but it never sounded angry. For most of the Easter holidays, she had got into the habit of marching out in the morning, her current book under her arm, with cheese and tomato sandwiches and lemonade in her backpack, plus another book just in case the first ran out. Suggestions of family days out and trips to places had been stubbornly resisted. She didn’t want to hang around her loser family at all, even if it meant going to a cool castle.

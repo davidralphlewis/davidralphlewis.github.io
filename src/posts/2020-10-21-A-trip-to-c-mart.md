@@ -1,13 +1,10 @@
 ---
-
 title: "Welcome to C-Mart"
 date: 2020-10-21
 comments: true
-tags: [this-was-meant-to-be-the-future
-header:
-  image: /assets/images/site/twmtbtf-banner.jpeg 
-series: "this was meant to be the future"
+tags: [this-was-meant-to-be-the-future]
 ---
+
 ‘Welcome to C-Mart. I hope you have a wonderful visit. My name is Cindy. If you need any assistance, you can just call my name and I will do my best to help out.’
 
 Her voice was sing-song and floaty. She sounded genuinely pleased to serve your every whim. Cindy's voice always made Matt's heart feel dense, like a black hole. He avoided her semi-transparent eyes and stared resolutely at the floor. To acknowledge her was to submit to an endless barrage of adverts.

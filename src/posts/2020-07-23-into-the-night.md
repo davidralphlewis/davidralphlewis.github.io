@@ -1,13 +1,8 @@
 ---
-
 title: "Into the Night"
 date: 2020-07-23
-
 comments: true
 tags: [this-was-meant-to-be-the-future]
-header:
-  image: /assets/images/site/twmtbtf-banner.jpeg 
-series: "this was meant to be the future"
 ---
 
 There was no sun. The news was full of theories about what had happened but there were no facts, just wild speculation. The government told people not to panic but most of the cabinet had gone missing, so that didn’t help. All we were left with was the thick, dark void that hung above our heads, offering more questions than answers.

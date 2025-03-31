@@ -1,13 +1,8 @@
 ---
-
 title: "The Garden"
 date: 2020-09-21
-
 comments: true
 tags: [this-was-meant-to-be-the-future]
-header:
-  image: /assets/images/site/twmtbtf-banner.jpeg 
-series: "this was meant to be the future"
 ---
 
 Surrounded by the long grass swaying in the breeze, the office seemed forever away. Helen could hear the gentle babbling of a stream somewhere nearby. Far up in the sky, a bird of prey hovered, looking for dinner. She felt the warmth of the golden sun on her face. She needed this.

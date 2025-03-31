@@ -1,12 +1,8 @@
----  
-  
+---   
 title: Squeamish  
 date: 2020-02-20
 comments: true  
 tags: [this-was-meant-to-be-the-future]
-header:
-  image: /assets/images/site/twmtbtf-banner.jpeg 
-series: "this was meant to be the future"
 ---  
 
 <em>This is the second story in a series I'm publishing monthly throughout 2020. <a href="/new-serial-book-announcement-this-was-meant-to-be-the-future/">More details here.</a></em>  

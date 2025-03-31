@@ -1,12 +1,8 @@
 ---
-
 title: "Auld Lang Syne"
 date: 2020-12-31
 comments: true
-tags: [this-was-meant-to-be-the-future
-header:
-  image: /assets/images/site/twmtbtf-banner.jpeg 
-series: "this was meant to be the future"
+tags: [this-was-meant-to-be-the-future]
 ---
 
 We were meant to be children of the stars now, Richard thought to himself as he buttoned up his coat. Humans were meant to have escaped this lonely planet and headed out into the void. We were meant to be interplanetary trans dimensional demi-gods by now. Or so the stories and films promised us. Instead, we are all trapped on this dark planet, watching the chaos get worse. Every day, another headline about a corrupt politician or science gone wrong or children roaming the streets causing violence and destruction. It was getting worse by the day.
