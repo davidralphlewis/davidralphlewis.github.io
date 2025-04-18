@@ -48,6 +48,8 @@ module.exports = function (eleventyConfig) {
         linkify: true
     };
 
+	var md = require('markdown-it')()
+            .use(require('markdown-it-footnote'));
 
     return {
 dir: {
