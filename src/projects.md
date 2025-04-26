@@ -19,6 +19,12 @@ Larger things I have out in the world. Most of the books are available for free 
 - [Reality Adjustments](/reality-adjustments/) A small interactive poetry pamphlet written in TWINE, about a city that is always changing. Free to play [here.](https://davidralphlewis.itch.io/reality-adjustments)
 - [Emergence](https://davidralphlewis.bigcartel.com/product/emergence)- A poetry pamphlet based around the idea of panpsychicism, or consciousness as an emergent property of the universe. An excuse to mess around with form. Still got a few left, link takes you to the shop.
 
+## Mini Zines 
+
+I've made a few little zines as a way of making something from poems.
+
+- [Poetry Dice Zine](/assets/books/Poetry-Dice-Zine.pdf) (Direct pdf download) - Zine about making poems from dice rolls as a quick warm up exercise. Post is [here](/posts/2024-06-22-quick-dice-poetry-exercise/)
+
 ## Plays
 
 - [Remain Vigilant](/remainvigilant/) In another life, I did a playwriting course. This was the only thing I am still proud of in that time. Free download.
