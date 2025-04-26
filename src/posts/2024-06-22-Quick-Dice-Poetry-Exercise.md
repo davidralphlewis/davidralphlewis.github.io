@@ -3,8 +3,9 @@ title: Quick Dice Poetry Exercise
 date: 2024-06-22
 tags:
   - creativity
-
 ---
+
+*Update 26/04/2025 - I've made this into a mini zine! Download [here](/assets/books/Poetry-Dice-Zine.pdf)*
 
 When I wrote about [creativity and *Dungeons and Dragons*](/creativity-lessons-from-dnd/), I mentioned I had adapted roll tables to create a random poetry prompt. I thought I'd write up the process in case it's useful for anyone else.
 
