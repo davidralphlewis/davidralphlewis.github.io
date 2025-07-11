@@ -22,7 +22,7 @@ My work has been published in many different magazines including *Neon Magazine*
 
 I've got two poetry pamphlets out, as well as other books. My first poetry pamphlet, <em><a href="/ourvoicesinthechaos/">Our Voices in the Chaos</a></em>, was published by Selcouth Station in October 2019. I self published a second tiny pamphlet in October 2020 called <em><a href="/refractionpamphlet/">Refraction.</a></em>
 
-I have a number of other books available, including three that are free to download. [Go here](/books/) to browse and download.
+I have a number of other books available, including three that are free to download. [Go here](/projects/) to browse and download.
 
 ## Stage
 
@@ -30,6 +30,6 @@ I love performing my work, bringing a different element to the poetry. I've had 
 
 ## Contact 
 
-You can follow me on [Twitter](https://www.twitter.com/davidralphlewis), [Instagram](https://www.Instagram.com/davidralphlewis) and [Facebook](https://www.facebook.com/davidralphlewis).
+You can follow me on [Instagram](https://www.Instagram.com/davidralphlewis) and [Facebook](https://www.facebook.com/davidralphlewis).
 
 Or you can [contact me here.](mailto:contact@davidralphlewis.co.uk) I'm available for readings, commissions or anything else.
