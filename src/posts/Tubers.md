@@ -12,10 +12,10 @@ churning under the surface
 while dreaming deep in fever  
 of the power to divide  
 endlessly, divide endlessly  
-while never blinking
+while never blinking  
+
 <pre>
-       
-						while above in the world of the living
+						            while above in the world of the living
                         doing what is necessary and expected, 
                         opening green arms, small violet flowers, 
                         drinking down our star in great gulps
