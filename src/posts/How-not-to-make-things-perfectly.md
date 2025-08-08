@@ -1,5 +1,5 @@
 ---
-title: "\"'How not to make things perfectly' zine\""
+title: How not to make things perfectly zine
 date: 2025-08-08
 tags:
   - zines
