@@ -23,8 +23,9 @@ Larger things I have out in the world. Most of the books are available for free 
 
 I've made a few little zines as a way of making something from poems.
 
-- [Poetry Dice Zine](/assets/books/Poetry-Dice-Zine.pdf) (Direct pdf download) - Zine about making poems from dice rolls as a quick warm up exercise. Post is [here](/posts/2024-06-22-quick-dice-poetry-exercise/)
+- [How not to make things perfectly](/assets/books/imperfect-zine.pdf) - (Direct pdf download) - A very quick zine about making things quickly. More details and the text of the zine [here.](/posts/how-not-to-make-things-perfectly/)
 - [G Man](/assets/books/g-man-zine.pdf) (Direct pdf download) - Weird poem about an ancient pagan deity being tortured by a shadowy government agency. I like performing this one.
+- [Poetry Dice Zine](/assets/books/Poetry-Dice-Zine.pdf) (Direct pdf download) - Zine about making poems from dice rolls as a quick warm up exercise. Post is [here](/posts/2024-06-22-quick-dice-poetry-exercise/)
 - [Quota](/assets/books/quota-zine.pdf) (Direct pdf download) - Another weird poem, this time about climate change. Made with rubber stamps and red ink.
 - [Serenity Study](/assets/books/serenity-study-zine.pdf)- Old zine I made during the pandemic. About things that bring me peace.
 
