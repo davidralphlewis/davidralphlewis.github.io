@@ -26,7 +26,7 @@ body {
 }
 
 main {
-  max-width: 50em;
+  max-width: 65em;
   margin: auto;
   width: 100%;
   flex: 1;
@@ -44,8 +44,11 @@ main {
 }
 
 
+
 /* Page content. The value of the margin-left property should match the value of the sidebar's width property */
-div.content { 
+div.content {
+  margin: auto;
+  width:60%;
   margin-left: 200px;
   padding: 50px 16px;
   height: 100%;
