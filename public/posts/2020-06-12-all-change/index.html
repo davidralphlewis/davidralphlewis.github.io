@@ -10,48 +10,38 @@
     <title> David Ralph Lewis - All change</title>
 </head>
 <body>
-    <header>
-            <div class="topnav">
-  <input type="checkbox" id="check">
-        <label for="check" class="checkbtn">
-            <i class="fa fa-bars"></i>
-            </label>
-  <label class="logo"><a href="/">David Ralph Lewis</a></label>
-  <ul>
-  <li><a href="/about">About Me</a></li>
-  <li><a href="/projects">Projects</a></li>
-  <li><a href="/blog">Blog</a></li>
-  <li><a href="https://notes.davidralphlewis.co.uk">Notes</a></li>
+               <header class="header">
+        <!-- Logo -->
+        <a href="/" class="logo">David Ralph Lewis</a>
+        <!-- Hamburger icon -->
+        <input class="side-menu" type="checkbox" id="side-menu"/>
+        <label class="hamb" for="side-menu"><span class="hamb-line"></span></label>
+        <!-- Menu -->
+        <nav class="nav">
+            <ul class="menu">
+                <li><a href="/about">About Me</a></li>
+                <li><a href="/projects">Projects</a></li>
+                <li><a href="/blog">Blog</a></li>
+                  <li><a href="https://notes.davidralphlewis.co.uk">Notes</a></li>
   <li><a href="https://davidralphlewis.bigcartel.com/">Shop</a></li>
   <li><a href="https://mailchi.mp/5643ab85b338/dispatches-from-david-ralph-lewis">Mailing List</a></li>
   <li><a href="https://ko-fi.com/davidralphlewis">Tip Jar</a></li>
-  </ul>
-</div>
- 
-<script>
-/* Toggle between adding and removing the "responsive" class to topnav when the user clicks on the icon */
-function myFunction() {
-  var x = document.getElementById("myTopnav");
-  if (x.className === "topnav") {
-    x.className += " responsive";
-  } else {
-    x.className = "topnav";
-  }
-} 
-</script>
-            </header>         
+            </ul>
+        </nav>
+    </header>      
 <main>
     <article>
         <div class="content">
     
 <h1> All change </h1>
-<p style="text-align: center;"><i>Published on: <time datetime="2020-06-12T00:00:00.000Z">June 12, 2020</time></i></p>
-   <p style="text-align: center;"> 
+<div class="postmeta"></div><p><i>Published on: <time datetime="2020-06-12T00:00:00.000Z">June 12, 2020</time></i></p>
+   <p> 
        <a href="/posts/tag/posts">#posts</a>
     
        <a href="/posts/tag/plague-notes">#plague notes</a>
     
 	</p>
+</div>
 </br>
 </br>
 <p>You may notice my website looks a little different. I have moved it from Wordpress to Jekyll, teaching myself rudimentary HTML and CSS in the process. I changed a template by <a href="https://github.com/dpstrange/jekyll-bootstrap">DpStrange</a>, modifying it to fit my needs. I also transferred all 278 (!) blog posts over. I honestly hadn't realised I'd done so many, but then I've been working at this blogging game for the last four years. I'm pleased with the results, but it you see a problem or coding issue please let me know.</p>
@@ -88,11 +78,11 @@ function myFunction() {
 </main>
 </body>
 <hr></hr>
-<footer
+<footer>
     <div class="footer">
     <p>Released by David Ralph Lewis under a Creative Commons Attribution-NonCommercial 4.0 International Licence <br>
     Handmade without AI.<br>
-    <a href="https://davidralphlewis.itch.io/">itch.io</a> <a href="https://www.instagram.com/davidralphlewis">Instagram</a> <a href="https://www.facebook.com/davidralphlewis">Facebook</a> <a href=""http://www.davidralphlewis.co.uk/feed.xml/">RSS</a></p>
+    <a href"https://davidralphlewis.itch.io/">itch.io</a> <a href="https://www.instagram.com/davidralphlewis">Instagram</a> <a href="https://www.facebook.com/davidralphlewis">Facebook</a></p>
 </div>
 </footer>
 </html>
