@@ -375,13 +375,13 @@ label, legend, fieldset {
 @media (max-width: 684px) {
   body {
     font-size: 1.53rem;
-    width: auto;
+    width: 600px;
   }
 }
 @media (max-width: 382px) {
   body {
     font-size: 1.35rem;
-    width: auto;
+    width: 300px;
   }
   nav {
     position: sticky;
