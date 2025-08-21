@@ -31,41 +31,101 @@ main {
   width: 100%;
   flex: 1;
 }
-
- /* The side navigation menu */
- .sidebar {
-  margin: 0;
-  padding: 0;
-  width: 200px;
+.topnav {
   background-color: var(--bg-color);
-  position: fixed;
-  height: 100%;
-  overflow: auto;
+  overflow: hidden;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px;
+
 }
 
+.logo {
+    font-size: 2.5rem;
+  }
+  
+.logo a:hover {
+  background-color: var(--button-color);  
+  color: var(--bg-color);
+  text-decoration: none;
+}
+.topnav  ul {
+    display: flex;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+.topnav li {
+    margin-right: 20px;
+  }
+  
+.topnav  ul li a {
+    color: var(--button-color);
+    text-decoration: none;
+    font-size: 2rem;
+    transition: color 0.3s;
+  }
+  
+.topnav  ul li a:hover {
+  background-color: var(--button-color);  
+  color: var(--bg-color);
+  text-decoration: none;
+  }
+  
+  .checkbtn {
+    font-size: 30px;
+    color: var(--button-color);
+    cursor: pointer;
+    display: none;
+  }
+  
+  #check {
+    display: none;
+  }
+  
+  @media (max-width: 768px) {
+    .checkbtn {
+      display: block;
+      order: 1;
+      margin-right: 20px;
+    }
+  
+  .topnav  ul {
+      position: fixed;
+      top: 80px;
+      right: -100%;
+      background-color: var(--highlight-color);
+      width: 100%;
+      height: 100vh;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      transition: all 0.3s;
+    }
+  
+   .topnav ul li {
+      margin: 20px 0;
+    }
+  
+  .topnav  ul li a {
+      font-size: 20px;
+      color: var(--bg-color);
+    }
+  
+    #check:checked ~ ul {
+      right: 0;
+    }
+  }
 
 
-/* Page content. The value of the margin-left property should match the value of the sidebar's width property */
 div.content {
-  margin-left: 200px;
-  padding: 50px 16px;
+  margin: auto;
+  width: 45em; 
+  padding: 5px;                    
   height: 100%;
-}
-
-/* On screens that are less than 700px wide, make the sidebar into a topbar */
-@media screen and (max-width: 700px) {
-  .sidebar {
-    width: 100%;
-    height: auto;
-    position: relative;
-    border-bottom-color: var(--highlight-color);
-    border-bottom-width: 2px;
-  }
-  .sidebar a {float: left;}
-  div.content {margin-left: 0;}
-  .sidebar p{
-    text-align: center;
-  }
 }
 
 .avatar {
@@ -90,7 +150,7 @@ footer {
   }
 
 h1, h2, h3, h4, h5, h6 {
-  line-height: 1.1;
+  line-height: 2.5;
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   font-weight: 700;
   margin-top: 3rem;
@@ -105,10 +165,12 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
   font-size: 2.35em;
   flex-grow: 1;
+  text-align:center;
 }
 
 h2 {
   font-size: 2em;
+  text-align: center;
 }
 
 h3 {
@@ -155,29 +217,7 @@ a:hover {
   background-color: var(--link-color);
 color: white;
 }
-/* Sidebar links */
-.sidebar a {
-  display: block;
-  color: var(--link-color);
-  padding: 8px;
-  font-weight: 800px;
-  border-bottom: none !important;
-  text-decoration: none !important; 
-}
 
-.sidebar p {
-  font-weight: 400;
-  font-size: large;
-  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-  color: var(--highlight-color);
-}
-
-/* Links on mouse-over */
-.sidebar a:hover:not(.active) {
-  background: rgb(249,238,203);
-  background: linear-gradient(270deg, rgba(249,238,203,1) 0%, rgba(249,238,203,1) 3%, rgba(246,157,6,1) 100%); 
-  color: var(--visited-link-color);
-}
 ul {
   padding-left: 1.4em;
   margin-top: 0px;
@@ -272,8 +312,10 @@ textarea {
 }
 
 .button, button, input[type=submit], input[type=reset], input[type=button], input[type=file]::file-selector-button {
+  width: auto;
+  margin: auto;
   display: inline-block;
-  padding: 10px 20px;
+  padding: 10px 40px;
   text-align: center;
   text-decoration: none;
   white-space: nowrap;
@@ -333,11 +375,13 @@ label, legend, fieldset {
 @media (max-width: 684px) {
   body {
     font-size: 1.53rem;
+    width: auto;
   }
 }
 @media (max-width: 382px) {
   body {
     font-size: 1.35rem;
+    width: auto;
   }
   nav {
     position: sticky;
@@ -351,3 +395,26 @@ label, legend, fieldset {
     display: inline;
     padding-right: 10px;}
 }
+ /* When the screen is less than 600 pixels wide, hide all links, except for the first one ("Home"). Show the link that contains should open and close the topnav (.icon) */
+@media screen and (max-width: 600px) {
+  .topnav a:not(:first-child) {display: none;}
+  .topnav a.icon {
+    float: right;
+    display: block;
+  }
+}
+
+/* The "responsive" class is added to the topnav with JavaScript when the user clicks on the icon. This class makes the topnav look good on small screens (display the links vertically instead of horizontally) */
+@media screen and (max-width: 600px) {
+  .topnav.responsive {position: relative;}
+  .topnav.responsive a.icon {
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
+  .topnav.responsive a {
+    float: none;
+    display: block;
+    text-align: left;
+  }
+} 

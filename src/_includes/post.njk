@@ -3,10 +3,11 @@ layout: "base.njk"
 ---
 
 <h1> {{ title }} </h1>
-<p><i>Published on: <time datetime="{{ page.date | dateIso }}">{{ page.date | dateReadable }}</time></i></p>
-    {% for tag in tags %}
+<p style="text-align: center;"><i>Published on: <time datetime="{{ page.date | dateIso }}">{{ page.date | dateReadable }}</time></i></p>
+   <p style="text-align: center;"> {% for tag in tags %}
        <a href="/posts/tag/{{ tag | slugify }}">#{{ tag }}</a>
     {% endfor %}
+	</p>
 </br>
 </br>
 {{ content | safe }}

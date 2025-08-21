@@ -3,9 +3,9 @@
 {% include "head.njk" %}
 <body>
     <header>
+            {% include "nav.njk" %}
             </header>         
 <main>
-    {% include "nav.njk" %}
     <article>
         <div class="content">
     {{ content | safe }}
@@ -14,11 +14,11 @@
 </main>
 </body>
 <hr></hr>
-<footer>
+<footer
     <div class="footer">
     <p>Released by David Ralph Lewis under a Creative Commons Attribution-NonCommercial 4.0 International Licence <br>
     Handmade without AI.<br>
-    <a href"https://davidralphlewis.itch.io/">itch.io</a> <a href="https://www.instagram.com/davidralphlewis">Instagram</a> <a href="https://www.facebook.com/davidralphlewis">Facebook</a></p>
+    <a href="https://davidralphlewis.itch.io/">itch.io</a> <a href="https://www.instagram.com/davidralphlewis">Instagram</a> <a href="https://www.facebook.com/davidralphlewis">Facebook</a> <a href=""http://www.davidralphlewis.co.uk/feed.xml/">RSS</a></p>
 </div>
 </footer>
 </html>

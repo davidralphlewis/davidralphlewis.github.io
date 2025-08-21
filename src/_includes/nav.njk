@@ -1,13 +1,28 @@
-<div class="sidebar">
-  <img src="/assets/images/site/headshotsmall.jpg" alt="Avatar" class="avatar" title="This is what I look like, mostly"></img> 
-  <p style="font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; font-size: 4rem; font-weight: 600;">David Ralph Lewis</p>
-  <a href="/"><button>Home</button></a>
-  <a href="/about"><button>About Me</button></a>
-  <a href="/projects"><button>Projects</button></a>
-  <a href="/blog"><button>Blog</button></a>
-  <a href="https://notes.davidralphlewis.co.uk"><button>Notes</button></a>
-  <a href="https://davidralphlewis.bigcartel.com/"><button>Shop</button></a>
-  <a href="https://mailchi.mp/5643ab85b338/dispatches-from-david-ralph-lewis"><button>Mailing List</button></a>
-  <a href="https://ko-fi.com/davidralphlewis"><button>Tip Jar</button></a>
+<div class="topnav">
+  <input type="checkbox" id="check">
+        <label for="check" class="checkbtn">
+            <i class="fa fa-bars"></i>
+            </label>
+  <label class="logo"><a href="/">David Ralph Lewis</a></label>
+  <ul>
+  <li><a href="/about">About Me</a></li>
+  <li><a href="/projects">Projects</a></li>
+  <li><a href="/blog">Blog</a></li>
+  <li><a href="https://notes.davidralphlewis.co.uk">Notes</a></li>
+  <li><a href="https://davidralphlewis.bigcartel.com/">Shop</a></li>
+  <li><a href="https://mailchi.mp/5643ab85b338/dispatches-from-david-ralph-lewis">Mailing List</a></li>
+  <li><a href="https://ko-fi.com/davidralphlewis">Tip Jar</a></li>
+  </ul>
 </div>
-  
+ 
+<script>
+/* Toggle between adding and removing the "responsive" class to topnav when the user clicks on the icon */
+function myFunction() {
+  var x = document.getElementById("myTopnav");
+  if (x.className === "topnav") {
+    x.className += " responsive";
+  } else {
+    x.className = "topnav";
+  }
+} 
+</script>
