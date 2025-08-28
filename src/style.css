@@ -173,7 +173,7 @@ body:has(.side-menu:checked) {
 
 /* Page content. The value of the margin-left property should match the value of the sidebar's width property */
 div.content {
-  padding: 50px 16px;
+  padding: 10px 10px;
   height: 100%;
 }
 

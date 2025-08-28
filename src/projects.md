@@ -28,6 +28,7 @@ I've made a few little zines as a way of making something from poems.
 - [Poetry Dice Zine](/assets/books/Poetry-Dice-Zine.pdf) (Direct pdf download) - Zine about making poems from dice rolls as a quick warm up exercise. Post is [here](/posts/2024-06-22-quick-dice-poetry-exercise/)
 - [Quota](/assets/books/quota-zine.pdf) (Direct pdf download) - Another weird poem, this time about climate change. Made with rubber stamps and red ink.
 - [Serenity Study](/assets/books/serenity-study-zine.pdf)- Old zine I made during the pandemic. About things that bring me peace.
+- [Tubers](/assets/books/tubers-zine.pdf) Weird potato poem on a5. This prints two zines on a4 double sided, with printing on the short edge. 
 
 ## Plays
 
