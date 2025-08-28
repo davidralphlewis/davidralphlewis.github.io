@@ -271,6 +271,7 @@ small, sub, sup {
 
 hr {
   border-color: var(--highlight-color);
+  padding: 1em 10px;
 }
 
 ul {
