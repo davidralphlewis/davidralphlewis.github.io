@@ -34,3 +34,7 @@ weaving light into legion into fever delusions
 of soil, never blinking, crawling by division  
 over decades, churning and rolling bodies  
 and bodies and tubers and bodies and bodies  
+
+***
+
+28/08/2025 - Made this one into a mini zine, download [here](/assets/books/tubers-zine.pdf) 
