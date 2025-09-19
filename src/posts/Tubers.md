@@ -1,8 +1,7 @@
 ---
 title: Tubers
 date: 2025-07-29
-tags:
-  - poetry
+tags: [poetry]
 permalink:
 ---
 becoming more than simple root by  

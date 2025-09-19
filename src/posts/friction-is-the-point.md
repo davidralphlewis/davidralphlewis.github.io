@@ -1,7 +1,9 @@
 ---
 title: "Friction is the point"
 date: 2025-09-19
-Tags: [creativity, AI]
+tags: 
+  - creativity
+  - AI
 permalink:
 ---
 
