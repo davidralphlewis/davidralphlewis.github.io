@@ -1,6 +1,7 @@
 const pluginRss = require("@11ty/eleventy-plugin-rss");
 const moment = require('moment');
 const markdownIt = require('markdown-it');
+const markdown-it-footnote =require('markdown-it-footnote';)
 
 
 moment.locale('en');
@@ -39,7 +40,7 @@ module.exports = function (eleventyConfig) {
 			let end = post.templateContent.indexOf('</p>');
 			return post.templateContent.substr(0, end+4);
 		}
-		return post.templateContent;
+		return \post.templateContent;
 	}
 	
 	const markdownItOptions = {
@@ -50,6 +51,9 @@ module.exports = function (eleventyConfig) {
 
 	var md = require('markdown-it')()
             .use(require('markdown-it-footnote'));
+
+	md.renderer.rules.footnote_block_open = () => (
+	'<h2>Footnotes</h2>\n')
 
     return {
 dir: {
