@@ -2,7 +2,7 @@ const pluginRss = require("@11ty/eleventy-plugin-rss");
 const moment = require('moment');
 const markdownIt = require('markdown-it');
 const footnote_plugin = require("markdown-it-footnote");
-const markdown-it-footnote =require('markdown-it-footnote';)
+const markdown-it-footnote = require('markdown-it-footnote');
 
 import footnote_plugin from "markdown-it-footnote";
 
