@@ -2472,41 +2472,6 @@
         </url>
     
         <url>
-            <loc>/404.html</loc>
-            <lastmod>2024-08-04T18:41:13.407Z</lastmod>
-        </url>
-    
-        <url>
-            <loc>/about/</loc>
-            <lastmod>2024-08-04T18:41:13.423Z</lastmod>
-        </url>
-    
-        <url>
-            <loc>/blog/</loc>
-            <lastmod>2024-08-04T18:41:13.432Z</lastmod>
-        </url>
-    
-        <url>
-            <loc>/</loc>
-            <lastmod>2024-08-04T18:41:13.465Z</lastmod>
-        </url>
-    
-        <url>
-            <loc>/posts/tag/all/</loc>
-            <lastmod>2024-08-04T18:41:13.497Z</lastmod>
-        </url>
-    
-        <url>
-            <loc>/refractionpamphlet/</loc>
-            <lastmod>2024-08-05T18:38:18.037Z</lastmod>
-        </url>
-    
-        <url>
-            <loc>/projects/</loc>
-            <lastmod>2024-08-05T19:06:24.187Z</lastmod>
-        </url>
-    
-        <url>
             <loc>/posts/between-skyscraper-atolls/</loc>
             <lastmod>2024-08-23T00:00:00.000Z</lastmod>
         </url>
@@ -2602,11 +2567,6 @@
         </url>
     
         <url>
-            <loc>/links/</loc>
-            <lastmod>2025-03-03T19:12:16.846Z</lastmod>
-        </url>
-    
-        <url>
             <loc>/posts/Quota/</loc>
             <lastmod>2025-03-14T00:00:00.000Z</lastmod>
         </url>
@@ -2624,11 +2584,6 @@
         <url>
             <loc>/posts/Shudder/</loc>
             <lastmod>2025-04-21T00:00:00.000Z</lastmod>
-        </url>
-    
-        <url>
-            <loc>/projects/mini-zines/</loc>
-            <lastmod>2025-04-26T11:22:04.600Z</lastmod>
         </url>
     
         <url>
@@ -2659,6 +2614,76 @@
         <url>
             <loc>/posts/The-People-Disagree/</loc>
             <lastmod>2025-08-20T00:00:00.000Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/posts/Clearings/</loc>
+            <lastmod>2025-09-03T00:00:00.000Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/posts/friction-is-the-point/</loc>
+            <lastmod>2025-09-19T00:00:00.000Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/posts/Tempestuous/</loc>
+            <lastmod>2025-10-02T00:00:00.000Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/posts/finding-some-intentionality-amidst-the-scroll/</loc>
+            <lastmod>2025-12-05T00:00:00.000Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/404.html</loc>
+            <lastmod>2025-12-05T08:12:18.000Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/about/</loc>
+            <lastmod>2025-12-05T08:12:18.000Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/blog/</loc>
+            <lastmod>2025-12-05T08:12:18.000Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/</loc>
+            <lastmod>2025-12-05T08:12:18.000Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/links/</loc>
+            <lastmod>2025-12-05T08:12:18.000Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/projects/</loc>
+            <lastmod>2025-12-05T08:12:18.000Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/refractionpamphlet/</loc>
+            <lastmod>2025-12-05T08:12:18.000Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/projects/mini-zines/</loc>
+            <lastmod>2025-12-05T08:12:18.000Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/posts/tag/all/</loc>
+            <lastmod>2025-12-05T08:12:18.000Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/posts/Signal-Not-Found/</loc>
+            <lastmod>2025-12-12T00:00:00.000Z</lastmod>
         </url>
     
 </urlset>

@@ -1,7 +1,7 @@
 const pluginRss = require("@11ty/eleventy-plugin-rss");
 const moment = require('moment');
 const markdownIt = require('markdown-it');
-
+const footnote_plugin= require ('markdown-it-footnote');
 
 moment.locale('en');
 module.exports = function (eleventyConfig) {
@@ -42,14 +42,13 @@ module.exports = function (eleventyConfig) {
 		return post.templateContent;
 	}
 	
-	const markdownItOptions = {
+	
+eleventyConfig.amendLibrary("md", (mdLib) => mdLib.use(footnote_plugin));
+const markdownItOptions = {
         html: true,
 		breaks: true, 
         linkify: true
     };
-
-	var md = require('markdown-it')()
-            .use(require('markdown-it-footnote'));
 
     return {
 dir: {
