@@ -1,7 +1,7 @@
 ---
 title: "Tempestuous"
 date: 2025-10-02
-Tags:
+tags:
   - erasure-poetry
 permalink: 
 ---

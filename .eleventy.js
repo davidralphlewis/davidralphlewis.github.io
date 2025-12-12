@@ -41,6 +41,23 @@ module.exports = function (eleventyConfig) {
 		return coll;
 	});
 
+	// Create a collection of all tags used in /blog
+  eleventyConfig.addCollection("tagList", (collection) => {
+    const tagsSet = new Set();
+    collection.getAll().forEach((item) => {
+      if (item.data.tags) {
+        // Ensure item.data.tags is an array, even if it's a single string
+        const itemTags = Array.isArray(item.data.tags)
+          ? item.data.tags
+          : [item.data.tags];
+        itemTags.forEach((tag) => tagsSet.add(tag));
+      }
+    });
+
+    // Convert Set to Array and sort alphabetically
+    return Array.from(tagsSet).sort();
+  });
+
 	  eleventyConfig.addFilter('dateReadable', date => {
 		return moment(date).utc().format('LL'); // E.g. May 31, 2019
 	  });
