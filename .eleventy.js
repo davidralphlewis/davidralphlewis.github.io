@@ -1,10 +1,7 @@
 const pluginRss = require("@11ty/eleventy-plugin-rss");
 const moment = require('moment');
 const markdownIt = require('markdown-it');
-const footnote_plugin = require("markdown-it-footnote");
-const markdown-it-footnote = require('markdown-it-footnote');
 
-import footnote_plugin from "markdown-it-footnote";
 
 moment.locale('en');
 module.exports = function (eleventyConfig) {
@@ -12,7 +9,6 @@ module.exports = function (eleventyConfig) {
 	eleventyConfig.addPassthroughCopy("./src/assets");
     eleventyConfig.addWatchTarget("./src/style.css");
 	eleventyConfig.addPlugin(pluginRss);
-	eleventyConfig.amendLibrary("md", (mdLib) => mdLib.use(footnote_plugin));
 	eleventyConfig.addLiquidFilter("dateToRfc3339", pluginRss.dateToRfc3339);
 	eleventyConfig.addLiquidFilter("dateToRfc822", pluginRss.dateToRfc822);
     eleventyConfig.addShortcode('excerpt', post => extractExcerpt(post));
@@ -43,7 +39,7 @@ module.exports = function (eleventyConfig) {
 			let end = post.templateContent.indexOf('</p>');
 			return post.templateContent.substr(0, end+4);
 		}
-		return \post.templateContent;
+		return post.templateContent;
 	}
 	
 	const markdownItOptions = {
