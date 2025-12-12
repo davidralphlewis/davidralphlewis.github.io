@@ -1,10 +1,22 @@
 const pluginRss = require("@11ty/eleventy-plugin-rss");
 const moment = require('moment');
-const markdownIt = require('markdown-it');
-
+const markdownIt =require("markdown-it");
+const markdownItFootnote = require("markdown-it-footnote");
 
 moment.locale('en');
 module.exports = function (eleventyConfig) {
+  let options = {
+    html: true, // Enable HTML tags in source
+    breaks: true,  // Convert '\n' in paragraphs into <br>
+    linkify: true // Autoconvert URL-like text to links
+  };
+  
+  // configure the library with options
+  let markdownLib =  markdownIt;
+  eleventyConfig.amendLibrary("md", mdLib => mdLib.use(markdownItFootnote));
+  // set the library to process markdown files
+  config.setLibrary("md", markdownLib);
+
     eleventyConfig.addPassthroughCopy("./src/style.css");
 	eleventyConfig.addPassthroughCopy("./src/assets");
     eleventyConfig.addWatchTarget("./src/style.css");
@@ -42,14 +54,7 @@ module.exports = function (eleventyConfig) {
 		return post.templateContent;
 	}
 	
-	const markdownItOptions = {
-        html: true,
-		breaks: true, 
-        linkify: true
-    };
-
-	var md = require('markdown-it')()
-            .use(require('markdown-it-footnote'));
+};
 
     return {
 dir: {
