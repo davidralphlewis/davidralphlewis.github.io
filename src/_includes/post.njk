@@ -3,7 +3,10 @@ layout: "base.njk"
 ---
 
 <h1> {{ title }} </h1>
-<div class="postmeta"></div><p><i>Published on: <time datetime="{{ page.date | dateIso }}">{{ page.date | dateReadable }}</time></i></p>
+<div class="postmeta">
+	<p>
+		<i>Published on: <time datetime="{{ page.date | dateIso }}">{{ page.date | dateReadable }}</time></i>
+	</p>
    <p> {% for tag in tags %}
        <a href="/posts/tag/{{ tag | slugify }}">#{{ tag }}</a>
     {% endfor %}
