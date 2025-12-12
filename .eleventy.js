@@ -78,5 +78,4 @@ dir: {
     input: "src",
     output: "public",
 },
-    };
-};
+    }
