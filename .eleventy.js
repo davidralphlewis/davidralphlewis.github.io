@@ -15,7 +15,7 @@ module.exports = function (eleventyConfig) {
   let markdownLib =  markdownIt;
   eleventyConfig.amendLibrary("md", mdLib => mdLib.use(markdownItFootnote));
   // set the library to process markdown files
-  config.setLibrary("md", markdownLib);
+  eleventyConfig.setLibrary("md", markdownLib);
 
     eleventyConfig.addPassthroughCopy("./src/style.css");
 	eleventyConfig.addPassthroughCopy("./src/assets");
