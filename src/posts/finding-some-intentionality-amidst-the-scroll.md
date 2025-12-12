@@ -1,7 +1,7 @@
 ---
 title: Finding some intentionality amidst the scroll
 date: 2025-12-05
-Tags:
+tags:
   - internet
   - intentionality
 permalink:

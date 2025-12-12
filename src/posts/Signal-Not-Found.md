@@ -1,7 +1,7 @@
 ---
 title: Signal Not Found
 date: 2025-12-12
-Tags:
+tags:
   - poetry
 permalink:
 ---
