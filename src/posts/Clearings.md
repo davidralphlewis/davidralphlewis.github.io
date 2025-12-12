@@ -1,7 +1,7 @@
 ---
 title: Clearings
 date: 2025-09-03
-tags:
+Tags:
   - poetry
 permalink:
 ---

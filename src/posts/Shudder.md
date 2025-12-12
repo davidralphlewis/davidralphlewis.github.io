@@ -1,7 +1,7 @@
 ---
 title: Shudder
 date: 2025-04-21
-tags:
+Tags:
   - erasure-poetry
 permalink: 
 created: 2025-04-21T11:01
