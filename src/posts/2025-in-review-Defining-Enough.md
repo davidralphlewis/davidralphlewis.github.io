@@ -1,7 +1,7 @@
 ---
-title: '"2025 in review: Defining Enough"'
+title: '2025 in review: Defining Enough'
 date: 2026-01-08
-Tags:
+tags:
   - year-in-review
 permalink:
 ---
