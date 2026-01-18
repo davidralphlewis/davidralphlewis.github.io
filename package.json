@@ -22,6 +22,7 @@
   },
   "dependencies": {
     "eleventy": "^1.0.7",
+    "eleventy-plugin-tag-cloud": "^0.7.0",
     "jsdom": "^24.1.1",
     "markdown-it": "^14.1.0",
     "markdown-it-attrs": "^4.1.6",
