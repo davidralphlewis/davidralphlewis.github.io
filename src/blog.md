@@ -8,7 +8,7 @@ pagination:
   reverse: true
 ---
 
-[Categories](/categories)
+[All tags](/posts/tag)
 
 # All Blog posts
 {% for post in postslist %}
