@@ -80,7 +80,7 @@ color: white;
 }
 .menu a{
     display: block;
-    padding: 30px;
+    padding: 10px;
     text-decoration: none !important;
 }
 .menu a:hover{

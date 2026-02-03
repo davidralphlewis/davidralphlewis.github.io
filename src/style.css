@@ -65,7 +65,7 @@ color: white;
 .logo{
     display: inline-block;
     color: var(--button-color);
-    font-size: 1.2em;
+    font-size: 2em;
     margin-left: 10px;
 }
 
@@ -80,7 +80,7 @@ color: white;
 }
 .menu a{
     display: block;
-    padding: 10px;
+    padding: 30px;
     text-decoration: none !important;
 }
 .menu a:hover{
@@ -94,7 +94,7 @@ color: white;
 .hamb{
     cursor: pointer;
     float: right;
-    padding: 20px 10px;
+    padding: 40px 20px;
 }/* Style label tag */
 
 .hamb-line {
