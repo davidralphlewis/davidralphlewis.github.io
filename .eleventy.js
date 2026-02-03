@@ -66,7 +66,6 @@ dir: {
 },
     };
   eleventyConfig.addFilter('tagCloudIndex', (posts = []) => {
-    if (!posts.length) throw new Error('[@tagCloudIndex]: Invalid collection passed, no items');
 
     const tagMap = new Map();
 
