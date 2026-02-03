@@ -2637,53 +2637,63 @@
         </url>
     
         <url>
+            <loc>/posts/Signal-Not-Found/</loc>
+            <lastmod>2025-12-12T00:00:00.000Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/posts/2025-in-review-Defining-Enough/</loc>
+            <lastmod>2026-01-08T00:00:00.000Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/posts/January-2026-Updates/</loc>
+            <lastmod>2026-02-03T00:00:00.000Z</lastmod>
+        </url>
+    
+        <url>
             <loc>/404.html</loc>
-            <lastmod>2025-12-05T08:12:18.000Z</lastmod>
+            <lastmod>2026-02-03T20:25:40.051Z</lastmod>
         </url>
     
         <url>
             <loc>/about/</loc>
-            <lastmod>2025-12-05T08:12:18.000Z</lastmod>
+            <lastmod>2026-02-03T20:25:40.090Z</lastmod>
         </url>
     
         <url>
             <loc>/blog/</loc>
-            <lastmod>2025-12-05T08:12:18.000Z</lastmod>
+            <lastmod>2026-02-03T20:25:40.118Z</lastmod>
         </url>
     
         <url>
             <loc>/</loc>
-            <lastmod>2025-12-05T08:12:18.000Z</lastmod>
+            <lastmod>2026-02-03T20:25:40.178Z</lastmod>
         </url>
     
         <url>
             <loc>/links/</loc>
-            <lastmod>2025-12-05T08:12:18.000Z</lastmod>
+            <lastmod>2026-02-03T20:25:40.208Z</lastmod>
         </url>
     
         <url>
             <loc>/projects/</loc>
-            <lastmod>2025-12-05T08:12:18.000Z</lastmod>
-        </url>
-    
-        <url>
-            <loc>/refractionpamphlet/</loc>
-            <lastmod>2025-12-05T08:12:18.000Z</lastmod>
-        </url>
-    
-        <url>
-            <loc>/projects/mini-zines/</loc>
-            <lastmod>2025-12-05T08:12:18.000Z</lastmod>
+            <lastmod>2026-02-03T20:25:40.235Z</lastmod>
         </url>
     
         <url>
             <loc>/posts/tag/all/</loc>
-            <lastmod>2025-12-05T08:12:18.000Z</lastmod>
+            <lastmod>2026-02-03T20:25:40.309Z</lastmod>
         </url>
     
         <url>
-            <loc>/posts/Signal-Not-Found/</loc>
-            <lastmod>2025-12-12T00:00:00.000Z</lastmod>
+            <loc>/projects/mini-zines/</loc>
+            <lastmod>2026-02-03T20:26:27.968Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/refractionpamphlet/</loc>
+            <lastmod>2026-02-03T20:26:28.048Z</lastmod>
         </url>
     
 </urlset>
