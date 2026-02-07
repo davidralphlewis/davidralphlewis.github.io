@@ -1,0 +1,12 @@
+---
+permalink: /posts/tag.html
+layout: "base.njk"
+title: "All Tags"
+---
+<h1> All Tags</h1>
+  <ul>
+  {% for tag in collections.posts | tagCloudIndex %}
+   <li><a href="/posts/tag/{{ tag.tagName | slugify }}/">
+    {{ tag.tagName }} ({{ tag.tagAmount }})</a></li>
+  {% endfor %}
+   </ul>

@@ -2,6 +2,10 @@ const pluginRss = require("@11ty/eleventy-plugin-rss");
 const moment = require('moment');
 const markdownIt = require('markdown-it');
 const footnote_plugin= require ('markdown-it-footnote');
+const EleventyPluginTagCloud = require("eleventy-plugin-tag-cloud");
+const _defaults = {
+  ignore: ['posts']
+}
 
 moment.locale('en');
 module.exports = function (eleventyConfig) {
@@ -50,10 +54,51 @@ const markdownItOptions = {
         linkify: true
     };
 
+
+	  eleventyConfig.addPlugin(EleventyPluginTagCloud, {
+    ignore: [ 'posts' ]
+  });
+
     return {
 dir: {
     input: "src",
     output: "public",
 },
     };
+  eleventyConfig.addFilter('tagCloudIndex', (posts = []) => {
+    if (!posts.length) throw new Error('[@tagCloudIndex]: Invalid collection passed, no items');
+
+    const tagMap = new Map();
+
+    for (const post of posts) {
+      const tags = post.data.tags;
+
+      tags?.forEach(tag => tagMap.set(tag, (tagMap.get(tag) || 0) + 1));
+    }
+    
+    return [...tagMap.entries()].map(([key, value]) => {
+      return {
+        tagName: key,
+        tagAmount: value
+      }
+    })
+  })
+
+  eleventyConfig.addFilter('tagCloud', (posts = []) => {
+    if (!posts.length) throw new Error('[@tagCloud]: Invalid collection passed, no items');
+
+    const tagSet = new Set();
+
+    for (const post of posts) {
+      const { tags } = post.data;
+
+      tags.forEach(tag => {
+        tagSet.add(tag);
+      });
+    }
+
+    const tags = [...tagSet];
+
+    return tags;
+  });
 };
