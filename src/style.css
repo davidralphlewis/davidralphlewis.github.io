@@ -65,7 +65,7 @@ color: white;
 .logo{
     display: inline-block;
     color: var(--button-color);
-    font-size: 2em;
+    font-size: 1.4em;
     margin-left: 10px;
 }
 
@@ -80,7 +80,7 @@ color: white;
 }
 .menu a{
     display: block;
-    padding: 30px;
+    padding: 10px;
     text-decoration: none !important;
 }
 .menu a:hover{

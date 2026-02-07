@@ -1,5 +1,5 @@
 ---
-title: January-2026-Updates
+title: January 2026 Updates
 date: 2026-02-03
 tags:
   - updates
@@ -55,8 +55,11 @@ I also read:
 
 Not to sound like all of the music press, but the Geese album from last year (*Being Killed*) is really good. Solid grooves that build around Cameron Winter's unique voice. Sometimes it feels like the songs are going to fall apart, but they are just held together by the band.
 
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DT0RBSpDiKo?si=H_TyYy4OnjQqleS2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 On the opposite end of the spectrum, Julianna Barwick and Mary Lattimore's album *Tragic Magic* is quiet and lush, with Barwick's ethereal voice interacting with Lattimore's delicate and perfect harp. It's a beautiful album.
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/v6YXLGMdGXo?si=ggPlMCLJ9OLxAPoW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
