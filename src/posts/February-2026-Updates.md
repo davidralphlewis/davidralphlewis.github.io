@@ -1,7 +1,7 @@
 ---
 title: February 2026 Updates
 date: 2026-03-06
-Tags:
+tags:
   - erasure-poetry
   - updates
 permalink:
