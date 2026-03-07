@@ -2102,7 +2102,7 @@
         </url>
     
         <url>
-            <loc>/octobers-oxidation</loc>
+            <loc>/posts/2022-10-27-Octobers-Oxidation/</loc>
             <lastmod>2022-10-27T00:00:00.000Z</lastmod>
         </url>
     
@@ -2682,7 +2682,7 @@
         </url>
     
         <url>
-            <loc>/posts/tag/all/</loc>
+            <loc>/posts/tag/project/</loc>
             <lastmod>2026-02-03T20:25:40.309Z</lastmod>
         </url>
     
@@ -2694,6 +2694,26 @@
         <url>
             <loc>/refractionpamphlet/</loc>
             <lastmod>2026-02-03T20:26:28.048Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/posts/tag.html</loc>
+            <lastmod>2026-02-07T14:45:29.551Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/posts/Rhubbarb/</loc>
+            <lastmod>2026-02-09T00:00:00.000Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/posts/sure-here-is-a-112-accurate/</loc>
+            <lastmod>2026-02-19T00:00:00.000Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/posts/February-2026-Updates/</loc>
+            <lastmod>2026-03-06T00:00:00.000Z</lastmod>
         </url>
     
 </urlset>

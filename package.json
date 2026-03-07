@@ -21,6 +21,7 @@
     "moment": "^2.30.1"
   },
   "dependencies": {
+    "@fortawesome/fontawesome-free": "^7.2.0",
     "eleventy": "^1.0.7",
     "eleventy-plugin-tag-cloud": "^0.7.0",
     "jsdom": "^24.1.1",

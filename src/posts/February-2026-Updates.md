@@ -35,13 +35,14 @@ Short novella about a man living in the woods alone, who believes himself to be 
 
 > Seizure and caesura have no common etymology, nor do seize and cease. The constellation of words I wanted to use to describe what happened were related only by sound, that ghost of one thing in another that creates meaning in poetry, but elsewhere, creates no viable connection, much less a conclusion.
 
-**[*20 Years Ago I Bought a Tank of Gas at the BP Station on Hwy 82 in Starkville, Mississippi and Decided to Draw It*](https://katebingamanburt.substack.com/p/20-years-ago-i-bought-a-tank-of-gas) - Kate Bingham-Burt
+**[*20 Years Ago I Bought a Tank of Gas at the BP Station on Hwy 82 in Starkville, Mississippi and Decided to Draw It*](https://katebingamanburt.substack.com/p/20-years-ago-i-bought-a-tank-of-gas) - Kate Bingham-Burt**
 
 > I chose drawing because it was my least favorite way to make things. It felt slow and awkward and a little exposed. But after a few months of drawing those statements, something shifted. I started to appreciate the pace of it, the quiet of being alone with the page, the repetition of lines and numbers and type that I would never actually use again. Somewhere in there, I tricked myself into actually liking to draw.
 
 **[*New Moon Letter 1*](https://johnhiggs.substack.com/p/new-moon-letter-1) - John Higgs**
 
 > Today’s counterculture, in contrast, has no interest in the online world’s controlling metrics. This comes at a cost – or at least, what appears to be a cost if you accept the mainstream worldview. It means that this counterculture is intentionally invisible to the online world. The fact that you can’t see it in your online bubble is a feature, not a bug. It takes place in the real world, with people getting together and having the sort of experiences you don’t get online. It takes place in pubs and halls and fields, and involves community and relationships. The subjective experiences at the heart of it can’t be measured. Their value is judged not by metrics, but by how they make you feel.
+
 # Music
 
 After discovering his incredible album *End of the Middle* last year, I'll follow anything Richard Dawson does. Hen Ogledd's album *Discombobulated* is a side project with other musicians, often singing in welsh and scots gaelic.. It's a varied, interesting album that ranges in style while keeping a theme of protest. 

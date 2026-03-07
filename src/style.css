@@ -1,16 +1,24 @@
-
-:root {
-  --bg-color: #f9eecb ;
+:root[color-mode="light"] {
+  --bg-color: #f4f9dd ;
   --secondary-color: #F39D7F;
-  --link-color: #1F7A8C;
+  --link-color: #4329e7;
   --highlight-color: #Ed4b32;
-  --visited-link-color: #7D1538;
-  --button-color:#B50000 ;
-  --color-nav-dark: #151515;
-  --color-nav-light: #fff;
-  --color-nav-accent: #e00;
+  --visited-link-color: #7e27a6;
+  --hover-text-color: #ffffff;
+  --button-color:#a92828;
+  --text-color: #0c0c0c;
 }
 
+:root[color-mode="dark"] {
+  --bg-color: #3d3c3c ;
+  --secondary-color: #777777;
+  --link-color: #2ff633;
+  --highlight-color: #f200bd;
+  --visited-link-color: #ff01d9;
+  --hover-text-color: #ffffff;
+  --button-color:#f800e7;
+  --text-color: #f9f9f9;
+}
 html {
   font-size: 62.5%;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif;
@@ -19,7 +27,7 @@ html {
 body {
   font-size: 1.8rem;
   line-height: 1.618;
-  color: #0e0e0e;
+  color: var(--text-color);
   background-color: var(--bg-color);
   padding: 13px;
   min-height: 100vh;
@@ -37,16 +45,27 @@ main {
 
 a {
   text-decoration: none;
-  border-bottom: 3px solid var(--highlight-color);
-  color: var(--highlight-color);
+  border-bottom: 3px solid var(--link-color);
+  color: var(--link-color);
   font-weight: 600;
 }
 a:visited {
   color: var(--visited-link-color);
 }
 a:hover {
-  background-color: var(--link-color);
-color: white;
+background-color: var(--button-color);
+color: var(--hover-text-color);
+border-bottom: none;
+}
+
+.fas {
+  color: var(--button-color);
+  font-size: 1em;
+}
+
+.fas:hover {
+  background-color: var(--button-color);
+  color: var(--bg-color);
 }
 
 /* Header */
@@ -65,10 +84,15 @@ color: white;
 .logo{
     display: inline-block;
     color: var(--button-color);
+    border-bottom: none;
     font-size: 1.4em;
     margin-left: 10px;
 }
 
+.logo a{
+  color: var(--button-color);
+  border-bottom: none;
+}
 /* Nav menu */
 .nav{
     width: 100%;
@@ -82,9 +106,12 @@ color: white;
     display: block;
     padding: 10px;
     text-decoration: none !important;
+    color: var(--button-color);
+    border-bottom: none;
 }
 .menu a:hover{
     background-color: var(--secondary-color);
+    border-bottom: none;
 }
 .nav{
     max-height: 0;
@@ -209,7 +236,7 @@ footer {
     left: 0;
     bottom: 0;
     width: 100%;
-    border-top: #B50000 1px;
+    border-top: var(--button-color) 1px;
     text-align: center;
     font-size: small;
     line-height: 1;
@@ -297,7 +324,7 @@ blockquote {
   border-left: 5px solid var(--highlight-color);
   margin-bottom: 2.5rem;
   background-color: var(--highlight-color);
-  color: #f1f1f1;
+  color: var(--hover-text-color);
 }
 
 blockquote p {
