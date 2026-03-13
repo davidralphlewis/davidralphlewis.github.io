@@ -1,4 +1,5 @@
-:root[color-mode="light"] {
+@media (prefers-color-scheme: light){
+  :root {
   --bg-color: #f6f8ee ;
   --secondary-color: #F39D7F;
   --link-color: #4329e7;
@@ -8,9 +9,11 @@
   --button-color:#a92828;
   --text-color: #0c0c0c;
 }
+}
 
-:root[color-mode="dark"] {
-  --bg-color: #3d3c3c ;
+@media (prefers-color-scheme: dark){
+  :root {
+  --bg-color: #2b2b2b ;
   --secondary-color: #777777;
   --link-color: #2ff633;
   --highlight-color: #f200bd;
@@ -19,6 +22,8 @@
   --button-color:#f800e7;
   --text-color: #f9f9f9;
 }
+}
+
 html {
   font-size: 62.5%;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif;
