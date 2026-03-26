@@ -2,7 +2,7 @@
 title: "Emerald Swell"
 date: 2021-03-17
 
-tags: [erasure poetry]
+tags: [erasure-poetry]
 comments: true
 ---
 

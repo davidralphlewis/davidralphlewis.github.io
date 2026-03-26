@@ -4,7 +4,7 @@ title: "Silicone Song"
 date: 2020-07-24
 
 comments: true
-tags: [erasure poetry]
+tags: [erasure-poetry]
 ---
 <img src="/assets/images/articles/ai.jpeg" class="responsive"><br>
 

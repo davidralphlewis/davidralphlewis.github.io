@@ -2,7 +2,7 @@
 title: "2019: year of contradictions"  
 date: 2020-01-07
 comments: true  
-tags: [year in review]  
+tags: year-in-review  
 ---
 
 I'm late to the party with my year wrap up. It's already the roaring twenties. [^1] But I still think it is worth looking at where we have been so we can look to the future.  

@@ -1,7 +1,7 @@
 ---
 title: "Fragments of Cloud Speech"
 date: 2021-06-28
-tags: [erasure poetry]
+tags: [erasure-poetry]
 comments: true
 ---
 

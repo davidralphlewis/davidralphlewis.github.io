@@ -8,11 +8,11 @@ tags:
 
 Once again I closed off last year and started the new one by filling out a [year compass](https://yearcompass.com/) booklet. Although the years are arbitrary, I find this time to reflect and reset immensely valuable. 
 
-As I did [last year](https://www.davidralphlewis.co.uk/2022-in-review-personal-reflections/), I've decided to also summarise the year in a personal way, as opposed to my [rants](https://www.davidralphlewis.co.uk//2023-in-review) about politics. It's reasonably long, so strap in.
+As I did [last year](https://davidralphlewis.co.uk/posts/2022-in-review-personal-reflections/), I've decided to also summarise the year in a personal way, as opposed to my [rants](https://davidralphlewis.co.uk/posts//2023-in-review) about politics. It's reasonably long, so strap in.
 
 ## Life
 
-I wrote late last year about my desire to [slow down](https://www.davidralphlewis.co.uk/slowing-down/) a bit, reflecting it in my review of [2022](https://www.davidralphlewis.co.uk/2022-in-review-personal-reflections/). I wanted a fallow year, to regroup and reflect more. For the first half of the year, I was reasonably successful. I had surgery to remove my gallbladder[^1] and as a result I needed to not do anything for a little bit. I was lucky to make a full recovery quickly, but the time off forced me to do less. Life moved on of course, and I ended up filling my time with more distractions. 
+I wrote late last year about my desire to [slow down](https://davidralphlewis.co.uk/posts/slowing-down/) a bit, reflecting it in my review of [2022](https://davidralphlewis.co.uk/posts/2022-in-review-personal-reflections/). I wanted a fallow year, to regroup and reflect more. For the first half of the year, I was reasonably successful. I had surgery to remove my gallbladder[^1] and as a result I needed to not do anything for a little bit. I was lucky to make a full recovery quickly, but the time off forced me to do less. Life moved on of course, and I ended up filling my time with more distractions. 
 
 I also moved to the countryside this year, which was a welcome change of pace. I'm forty five minutes outside of Bristol now, which is close enough to go into work but far enough that I feel a little removed from the city. 
 
@@ -24,7 +24,7 @@ Although some things have been a struggle, I am lucky in so many ways. I am remi
 
 ## Writing
 
-As I wrote [here](https://www.davidralphlewis.co.uk/on-submissions/), I deliberately wanted to avoid submitting to journals this year. I took the pressure off myself and instead focused on writing poems. I aimed for one a week, which I didn't always hit. But that's ok, because I think I've successfully reset my writing process, slowing down making poems and taking more time for editing. I've also found a lot more joy and fun in the process itself. I'd like to keep the attention more on the process of writing, not the end result. 
+As I wrote [here](https://davidralphlewis.co.uk/posts/on-submissions/), I deliberately wanted to avoid submitting to journals this year. I took the pressure off myself and instead focused on writing poems. I aimed for one a week, which I didn't always hit. But that's ok, because I think I've successfully reset my writing process, slowing down making poems and taking more time for editing. I've also found a lot more joy and fun in the process itself. I'd like to keep the attention more on the process of writing, not the end result. 
 
 ## Books
 

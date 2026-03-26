@@ -2,7 +2,7 @@
 title: "Journal entry"
 date: 2021-04-21
 
-tags: [erasure poetry]
+tags: [erasure-poetry]
 comments: true
 ---
 

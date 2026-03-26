@@ -2,7 +2,7 @@
 title: "Dream Days"
 date: 2021-05-12
 
-tags: [erasure poetry]
+tags: [erasure-poetry]
 comments: true
 ---
 

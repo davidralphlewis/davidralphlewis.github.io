@@ -2,7 +2,7 @@
 title: "Guide Me Home"
 date: 2021-03-19
 
-tags: [erasure poetry]
+tags: [erasure-poetry]
 comments: true
 ---
 

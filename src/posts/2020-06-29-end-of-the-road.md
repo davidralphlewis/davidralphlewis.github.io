@@ -2,7 +2,7 @@
 title: "End of the Road"
 date: 2020-06-29
 comments: true
-tags: [erasure poetry]
+tags: [erasure-poetry]
 ---
 
 <img src="/assets/images/articles/comet.jpeg" class="responsive"><br>

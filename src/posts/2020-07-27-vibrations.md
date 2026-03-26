@@ -4,7 +4,7 @@ title: "Vibrations"
 date: 2020-07-27
 
 comments: true
-tags: [erasure poetry]
+tags: [erasure-poetry]
 ---
 <img src="/assets/images/articles/vibrations.jpeg" class="responsive"><br>
 

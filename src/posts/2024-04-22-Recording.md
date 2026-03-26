@@ -2,7 +2,7 @@
 title: Recording
 date: 2024-04-22
 layout: "post.njk"
-tags: [erasure poetry]
+tags: [erasure-poetry]
 
 ---
 
