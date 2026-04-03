@@ -13,7 +13,7 @@ Spring is here, finally. It feels like an exhalation as daffodils open and bare 
 
 With spring comes new opportunities. I got a promotion at work, so have been learning to step up. Its the same team which is good because I'm familiar with it, but its been a learning curve still.
 
-We also got an allotment, so have been setting it up. The plot wasn't in too bad a state. We planned out beds and dug in peas and early potatoes. Havjng had one before when we lived in Bristol, we know what we are doing sk theres no pressure to make it perfect this first year.
+We also got an allotment, so have been setting it up. The plot wasn't in too bad a state. We planned out beds and dug in peas and early potatoes. Having had one before when we lived in Bristol, we know what we are doing so theres no pressure to make it perfect this first year.
 
 ## Site
 
