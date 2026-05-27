@@ -1,7 +1,7 @@
 ---
 tags: [poetry]
 title: "Sort Your Life Out! (7pm BBC One)"
-date: 2025/05/27
+date: 2026-05-27
 permalink:
 ---
 
