@@ -1,5 +1,5 @@
 ---
-title: june-2026-round-up
+title: June 2026 Round Up
 date: 2026-07-09
 tags:
   - round-up
