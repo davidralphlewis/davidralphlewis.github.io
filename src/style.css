@@ -371,8 +371,9 @@ pre {
 code, kbd, samp {
   font-size: 0.9em;
   padding: 0 0.5em;
-  background-color: #0e0e0e;
+  background-color: var(--bg-color);
   white-space: pre-wrap;
+  color: var(--text-color);
 }
 
 pre > code {
