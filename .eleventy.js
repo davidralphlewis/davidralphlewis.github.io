@@ -12,6 +12,7 @@ module.exports = function (eleventyConfig) {
     eleventyConfig.addPassthroughCopy("./src/style.css");
 	eleventyConfig.addPassthroughCopy("./src/assets");
     eleventyConfig.addWatchTarget("./src/style.css");
+        eleventyConfig.addPassthroughCopy("./src/style-peaceful.css");
 	eleventyConfig.addPlugin(pluginRss);
 	eleventyConfig.addLiquidFilter("dateToRfc3339", pluginRss.dateToRfc3339);
 	eleventyConfig.addLiquidFilter("dateToRfc822", pluginRss.dateToRfc822);

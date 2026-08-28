@@ -1,0 +1,34 @@
+
+html {
+  font-size: 62.5%;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif;
+}
+
+body {
+  font-size: 1.8rem;
+  line-height: 1.618;
+  background: #0011ff;
+  background: linear-gradient(180deg, rgba(0, 17, 255, 1) 0%, rgb(173, 222, 239) 86%, rgb(242, 137, 0) 100%);
+  padding: 13px;
+  min-height: 100vh;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+main {
+  max-width: 45em;
+  margin: auto;
+  width: 100%;
+  flex: 1;
+}
+
+
+h1 {
+font-size: xx-large;
+padding: 2em;
+max-width: 10em;
+margin: auto;
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+color: aliceblue;
+}
