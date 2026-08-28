@@ -2,6 +2,7 @@
 title: "You Found a Zine!"
 permalink: /you-found-a-zine/
 layout: "base.njk"
+eleventyExcludeFromCollections: true
 ---
 
 # Congratulations, you found a zine!
