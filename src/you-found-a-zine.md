@@ -4,6 +4,8 @@ permalink: /you-found-a-zine/
 layout: "base.njk"
 ---
 
+# Congratulations, you found a zine!
+
 Hello,
 
 If you're reading this, you hopefully found a zine I left lying around. I hope you liked it! 
