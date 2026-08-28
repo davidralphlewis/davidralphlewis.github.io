@@ -24,7 +24,7 @@ It's not just adverts. I have my email in my footer [^1] and tend to get a lot o
 
 > In a world of noise and uncertainty, blackout poetry does something quietly extraordinary: it finds meaning hidden within the chaos, revealing light where none seemed to exist. *Our Voices in the Chaos* does exactly that, drawing readers into the madness of the world and returning them with something they did not expect to find: hope. A perfect 5.0 rating from your earliest reader is a promising beginning. The question worth considering is how many more poetry lovers could discover this collection.
 
-On first glance, this sounds pretty good! As a pitch it's clear they have engaged with reading the book... except of course they haven't. Here's how I describe the book on [this site]((https://davidralphlewis.co.uk/ourvoicesinthechaos/):
+On first glance, this sounds pretty good! As a pitch it's clear they have engaged with reading the book... except of course they haven't. Here's how I describe the book on [this site](https://davidralphlewis.co.uk/ourvoicesinthechaos/):
 
 > In these blackout poems, you will be drawn into the maddening chaos of the world and find your own voices singing within. It deals with ghosts, anxiety and complete societal collapse, but with glimmers of hope strewn throughout like the stars in the empty night sky.
 
