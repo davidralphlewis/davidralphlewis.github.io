@@ -20,7 +20,7 @@ It has a blog I've been maintaining for 8 years. Subjects include art, politics,
 
 <ul>
 {% assign top_posts = collections.posts | reverse %}
-{% for post in top_posts limit:5 | reverse %}
+{% for post in top_posts limit:10 | reverse %}
 
 <li><a href="{{post.url}}">{{ post.data.title }}</a> - <i><time datetime="{{ post.date | dateIso }}">{{ post.date | dateReadable }}</time><br/></i></li>
 {% endfor %}
