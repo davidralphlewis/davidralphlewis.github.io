@@ -34,6 +34,10 @@ module.exports = function (eleventyConfig) {
 		return coll;
 	});
 
+  Object.keys(collections).forEach((collectionName) => {
+    eleventyConfig.addCollection(collectionName, collections[collectionName]);
+    });
+    
 	  eleventyConfig.addFilter('dateReadable', date => {
 		return moment(date).utc().format('LL'); // E.g. May 31, 2019
 	  });
