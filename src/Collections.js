@@ -4,7 +4,7 @@ const dayjs = require("dayjs");
 function getByDate(collection, dateFormat) {
   let postsByDate = {};
   // Update this to point to where you want to get your posts from:
-  let posts = collection.getFilteredByGlob(["./src/blog/**/*.md"]);
+  let posts = collection.getFilteredByGlob(["./src/posts/"]);
   posts.forEach(function (post) {
     // Get the year from the date
     let d = dayjs(post.data.date).format(dateFormat);

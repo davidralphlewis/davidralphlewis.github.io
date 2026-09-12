@@ -1,23 +1,24 @@
 ---
-layout: "base.njk"
 title: Blog
-permalink: /blog/
+layout: "base.njk"
 pagination:
-  data: collections.postsByYear
-  size: 1
-  alias: posts
+  data: collections.posts
+  size: 50
+  alias: postslist
   reverse: true
 ---
 
-[Categories](/posts/tag.html)
+[Categories](/categories)
 
+# All Blog posts
+{% for post in postslist %}
 <ul>
-  {% for post in collections.postsByYear[posts] | reverse %}
-  <li>
-    <a href="{{ post.url }}">{{ post.data.title }}</a>
-  </li>
-  {% endfor %}
+<li> <a href="{{post.url}}">{{ post.data.title }}</a> - <i><time datetime="{{ post.date | dateIso }}">{{ post.date | dateReadable }}</time><br/></i> </li>
+
 </ul>
+
+
+{% endfor %}
 
 {% if pagination.href.previous %}
 <a href="{{pagination.href.previous}}">Previous Page</a>

@@ -1,5 +1,4 @@
 const pluginRss = require("@11ty/eleventy-plugin-rss");
-const collections = require("./collections.js");
 const moment = require('moment');
 const markdownIt = require('markdown-it');
 const footnote_plugin= require ('markdown-it-footnote');
@@ -35,10 +34,6 @@ module.exports = function (eleventyConfig) {
 		return coll;
 	});
 
-  Object.keys(collections).forEach((collectionName) => {
-    eleventyConfig.addCollection(collectionName, collections[collectionName]);
-    });
-    
 	  eleventyConfig.addFilter('dateReadable', date => {
 		return moment(date).utc().format('LL'); // E.g. May 31, 2019
 	  });
