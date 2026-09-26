@@ -3,7 +3,7 @@ title: Blog
 layout: "base.njk"
 pagination:
   data: collections.posts
-  size: 50
+  size: 100
   alias: postslist
   reverse: true
 ---
