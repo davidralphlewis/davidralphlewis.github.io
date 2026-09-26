@@ -34,10 +34,6 @@ module.exports = function (eleventyConfig) {
 		return coll;
 	});
 
-  Object.keys(collections).forEach((collectionName) => {
-    eleventyConfig.addCollection(collectionName, collections[collectionName]);
-    });
-    
 	  eleventyConfig.addFilter('dateReadable', date => {
 		return moment(date).utc().format('LL'); // E.g. May 31, 2019
 	  });
@@ -106,21 +102,4 @@ dir: {
 
     return tags;
   });
-
-  eleventyConfig.addCollection("postsByYear", (collection) => {
-  const posts = collection.getFilteredByTag('posts').reverse();
-  const years = posts.map(post => post.date.getFullYear());
-  const uniqueYears = [...new Set(years)];
-
-  const postsByYear = uniqueYears.reduce((prev, year) => {
-    const filteredPosts = posts.filter(post => post.date.getFullYear() === year);
-
-    return [
-      ...prev,
-      [year, filteredPosts]
-    ]
-  }, []);
-
-  return postsByYear;
-});
 };
