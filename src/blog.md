@@ -14,11 +14,11 @@ pagination:
 {% for post in postslist %}
 <ul>
 <li> <a href="{{post.url}}">{{ post.data.title }}</a> - <i><time datetime="{{ post.date | dateIso }}">{{ post.date | dateReadable }}</time><br/></i> </li>
-
+{% endfor %}
 </ul>
 
 
-{% endfor %}
+
 
 {% if pagination.href.previous %}
 <a href="{{pagination.href.previous}}">Previous Page</a>
