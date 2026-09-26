@@ -11,8 +11,9 @@ pagination:
 [Categories](/categories)
 
 # All Blog posts
-{% for post in postslist %}
+
 <ul>
+{% for post in postslist %}
 <li> <a href="{{post.url}}">{{ post.data.title }}</a> - <i><time datetime="{{ post.date | dateIso }}">{{ post.date | dateReadable }}</time><br/></i> </li>
 {% endfor %}
 </ul>
