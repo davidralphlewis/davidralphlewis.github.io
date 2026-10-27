@@ -1,6 +1,5 @@
 ---
 title: Full Time
-layout: note
 date: 2026-10-27
 permalink:
 tags:
