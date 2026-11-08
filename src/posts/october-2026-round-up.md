@@ -1,6 +1,6 @@
 ---
 title: October 2026 Round Up
-date: 2026-09-01
+date: 2026-11-08
 tags:
   - round-up
   - erasure-poetry
