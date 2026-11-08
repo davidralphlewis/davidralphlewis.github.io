@@ -37,7 +37,7 @@ Also a collection of short stories, but that's about the only link, ***Exhalatio
 
 Back to the creepy, ***The Loney*** by Andrew Michael Hurley is his debut and still packs a punch. A church group goes on a trip to the country where they aren't wanted and some bad stuff ensues. Nominally folk horror, the terror also comes from the characters, from zealotry and a refusal to see the world as it is. One of his best. 
 
-Similarly, ***Fever Dream*** by Samantha Schweblin (translated by Megan McDowell) got completely under my skin. A short novella narrated by a woman in a hospital bed, it feels like a dream you can't wake up from, a nightmare that never ends. Very different to Shirley Jackson or Andrew Michael Jackson, the horror here comes from the slow realisation of what is happening.
+Similarly, ***Fever Dream*** by Samantha Schweblin (translated by Megan McDowell) got completely under my skin. A short novella narrated by a woman in a hospital bed, it feels like a dream you can't wake up from, a nightmare that never ends. Very different to Shirley Jackson or Andrew Michael Hurley, the horror here comes from the slow realisation of what is happening.
 
 ## Films
 
