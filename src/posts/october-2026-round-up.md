@@ -61,6 +61,6 @@ Avalanches are back with *No Bad Memories*. I loved *We Will Always Love You* an
 ## Final Thoughts
 
 
-<img src="/assets/images/articles/2016/stop.webp " alt="erasure poem: Fallen rosehips, fading light / I'm hunkering down / pausing" title="in other words, decorative gourd season." class="responsive"><br>
+<img src="/assets/images/articles/2026/stop.webp " alt="erasure poem: Fallen rosehips, fading light / I'm hunkering down / pausing" title="in other words, decorative gourd season." class="responsive"><br>
 
 Erasure poem taken from *The Local Answer*, a free junk mail magazine.
