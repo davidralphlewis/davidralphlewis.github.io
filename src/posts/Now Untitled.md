@@ -5,7 +5,7 @@ tags:
   - poetry
 permalink:
 ---
-While you are sleeping, A shudder   
+While you are sleeping, a shudder   
 barely felt, deep inside the fault line,  
 an unheard bass rumble of construction  
 forgotten by morning. Before anyone notices,  
